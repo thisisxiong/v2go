@@ -1,8 +1,8 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/barry-far/V2ray-Configs.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![Update Configs](https://github.com/barry-far/V2ray-Configs/actions/workflows/update-configs.yml/badge.svg)](https://github.com/barry-far/V2ray-Configs/actions/workflows/update-configs.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/barry-far/V2ray-Configs) ![Go Version](https://img.shields.io/badge/Go-1.21+-blue.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/Danialsamadi/v2go.svg) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) [![Update Configs](https://github.com/Danialsamadi/v2go/actions/workflows/update-configs.yml/badge.svg)](https://github.com/Danialsamadi/v2go/actions/workflows/update-configs.yml) ![GitHub repo size](https://img.shields.io/github/repo-size/Danialsamadi/v2go) ![Go Version](https://img.shields.io/badge/Go-1.21+-blue.svg)
 
 # High-Performance V2Ray Config Aggregator (Go Edition) 🚀
 
-💻 A blazingly fast Go-based V2Ray configuration aggregator that collects, processes, and organizes thousands of V2Ray configs with **dramatic performance improvements** over traditional Python implementations.
+💻 A blazingly fast Go rewrite of [Epodonios/v2ray-configs](https://github.com/Epodonios/v2ray-configs) with **dramatic performance improvements** and enhanced features. This Go-based V2Ray configuration aggregator collects, processes, and organizes thousands of V2Ray configs with 99.7% better performance than the original Python implementation.
 
 ## 🔥 Performance Highlights
 
@@ -73,39 +73,39 @@ v2go/
 
 **Main subscription (recommended):**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/All_Configs_Sub.txt
 ```
 
 **Base64 encoded (if main link fails):**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/All_Configs_base64_Sub.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/All_Configs_base64_Sub.txt
 ```
 
 ### Protocol-Specific Subscriptions
 
 **VLESS:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Splitted-By-Protocol/vless.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vless.txt
 ```
 
 **VMess:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Splitted-By-Protocol/vmess.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vmess.txt
 ```
 
 **Shadowsocks:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Splitted-By-Protocol/ss.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/ss.txt
 ```
 
 **ShadowsocksR:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Splitted-By-Protocol/ssr.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/ssr.txt
 ```
 
 **Trojan:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Splitted-By-Protocol/trojan.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/trojan.txt
 ```
 
 ### Split Subscriptions (500 configs each)
@@ -115,72 +115,72 @@ https://raw.githubusercontent.com/your-username/v2go/main/Splitted-By-Protocol/t
 
 **Config List 1:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub1.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub1.txt
 ```
 
 **Config List 2:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub2.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub2.txt
 ```
 
 **Config List 3:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub3.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub3.txt
 ```
 
 **Config List 4:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub4.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub4.txt
 ```
 
 **Config List 5:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub5.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub5.txt
 ```
 
 **Config List 6:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub6.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub6.txt
 ```
 
 **Config List 7:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub7.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub7.txt
 ```
 
 **Config List 8:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub8.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub8.txt
 ```
 
 **Config List 9:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub9.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub9.txt
 ```
 
 **Config List 10:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub10.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub10.txt
 ```
 
 **Config List 11:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub11.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub11.txt
 ```
 
 **Config List 12:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub12.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub12.txt
 ```
 
 **Config List 13:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub13.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub13.txt
 ```
 
 **Config List 14:**
 ```
-https://raw.githubusercontent.com/your-username/v2go/main/Sub14.txt
+https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub14.txt
 ```
 
 </details>
@@ -283,12 +283,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ⭐ Acknowledgments
 
-- Original Python implementation inspiration
-- V2Ray community for protocol specifications
-- Contributors and testers
+- **Original Repository**: This project is a Go rewrite of [Epodonios/v2ray-configs](https://github.com/Epodonios/v2ray-configs) - all credit for the original concept and Python implementation goes to the original authors
+- **V2Ray Community**: For protocol specifications and documentation
+- **Go Community**: For the excellent performance and concurrency features that made this optimization possible
+- **Contributors and Testers**: For feedback and improvements
 
 ---
 
-**Made with ❤️ and Go's blazing performance**
+**Made with ❤️ by Dani Samadi**
 
 *If you find this project useful, please consider giving it a ⭐ star!*
