@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViOSDwn5Sl
 #profile-update-interval: 1
-#support-url: 
-#profile-web-page-url: 
+#support-url: https://github.com/Danialsamadi/v2go
+#profile-web-page-url: https://github.com/Danialsamadi/v2go
 vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=0f917152a871e9c0#Telegram:@config_proxy 🔥
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.203:8880?path=Telegram@ShadowProxy66/?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#ae_proxy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.57:8880?path=/Channel id: @ShadowProxy66?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#ae_proxy

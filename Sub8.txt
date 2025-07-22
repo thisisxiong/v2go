@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViOCDwn5Sl
 #profile-update-interval: 1
-#support-url: 
-#profile-web-page-url: 
+#support-url: https://github.com/Danialsamadi/v2go
+#profile-web-page-url: https://github.com/Danialsamadi/v2go
 vless://8d65d671-e313-44ad-88b2-0a17f648fa51@104.16.3.35:443?security=tls&sni=webp.yandeximage.ru&type=xhttp&host=webp.yandeximage.ru&path=/@ConnectStixUrewsdlfB24AHj6tm1rE&fp=chrome&alpn=h3#t.me/entryNET/config=1837936571448957
 vless://8d65d671-e313-44ad-88b2-0a17f648fa51@104.16.3.35:443?security=tls&sni=webp.yandeximage.ru&type=xhttp&host=webp.yandeximage.ru&path=/@ConnectStixUrewsdlfB24AHj6tm1rE&fp=chrome&alpn=h3#Telegram:@config_proxy 🔥
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@104.26.13.101:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir&path=/dhcfh/?ed=2560#t.me/entryNET/config=1837937206571574

@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMyDwn5Sl
 #profile-update-interval: 1
-#support-url: 
-#profile-web-page-url: 
+#support-url: https://github.com/Danialsamadi/v2go
+#profile-web-page-url: https://github.com/Danialsamadi/v2go
 ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80?security=&type=ws&path=/olem/ws?ed=2560&host=foffmelo.com&encryption=none#Telegram:@config_proxy 🔥
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.59:80?path=/&security=none&encryption=none&host=ipsycho.suex12.ir&type=ws#Telegram:@config_proxy 🔥
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@18.170.59.120:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#Telegram:@config_proxy 🔥

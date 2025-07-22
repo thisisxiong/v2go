@@ -1,7 +1,7 @@
 #profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMTMg8J+UpQ==
 #profile-update-interval: 1
-#support-url: 
-#profile-web-page-url: 
+#support-url: https://github.com/Danialsamadi/v2go
+#profile-web-page-url: https://github.com/Danialsamadi/v2go
 vless://37cfad98-4fe5-4292-8cc8-b936ee740ac7@104.16.1.106:2082/?path=/?ed=2052&security=none&encryption=none&host=mrdnzdtnbkwbdfsqoncu.yaSharTeam.com.&type=ws#Telegram:@config_proxy 🔥
 vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Telegram+@vmessorg
 vless://36a9fad9-3b94-4cf1-856d-81b484d91cc5@151.101.64.155:80?sni=6.fidsxss11x.ir&type=ws&host=6.fidsxss11x.ir&allowInsecure=0#Telegram:@config_proxy 🔥
