@@ -103,8 +103,8 @@ func main() {
 	// Clean existing files
 	cleanExistingFiles(base64Folder)
 
-	// Write main config file (in parent/root directory)
-	mainOutputFile := filepath.Join("..", "All_Configs_Sub.txt")
+	// Write main config file (in current directory)
+	mainOutputFile := "All_Configs_Sub.txt"
 	err = writeMainConfigFile(mainOutputFile, filteredConfigs)
 	if err != nil {
 		fmt.Printf("Error writing main config file: %v\n", err)
@@ -126,8 +126,8 @@ func main() {
 }
 
 func ensureDirectoriesExist() (string, error) {
-	// Create Base64 directory in root
-	base64Folder := filepath.Join("..", "Base64")
+	// Create Base64 directory in current directory
+	base64Folder := "Base64"
 	if err := os.MkdirAll(base64Folder, 0755); err != nil {
 		return "", err
 	}
@@ -352,8 +352,8 @@ func splitIntoFiles(base64Folder string, configs []string) error {
 			end = len(reversedConfigs)
 		}
 
-		// Write regular file (in parent/root directory)
-		filename := filepath.Join("..", fmt.Sprintf("Sub%d.txt", i+1))
+		// Write regular file (in current directory)
+		filename := fmt.Sprintf("Sub%d.txt", i+1)
 		if err := writeSubFile(filename, customFixedText, reversedConfigs[start:end]); err != nil {
 			return err
 		}

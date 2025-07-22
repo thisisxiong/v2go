@@ -15,8 +15,8 @@ import (
 func sortConfigs() {
 	fmt.Println("Starting protocol-based config sorting...")
 	
-	// Setup paths for new directory structure in root
-	protocolDir := filepath.Join("..", "Splitted-By-Protocol")
+	// Setup paths for new directory structure in current directory
+	protocolDir := "Splitted-By-Protocol"
 	
 	// Create directory if it doesn't exist
 	if err := os.MkdirAll(protocolDir, 0755); err != nil {
