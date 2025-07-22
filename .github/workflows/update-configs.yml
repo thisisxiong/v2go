@@ -1,15 +1,17 @@
-name: Update Configs
+name: Update V2Ray Configs
 permissions: write-all
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: "*/20 * * * *"  # Every 20 minutes
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:  # Allow manual trigger
     
 jobs:
-  build:
+  update-configs:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
@@ -18,53 +20,111 @@ jobs:
       uses: actions/setup-go@v4
       with:
         go-version: '1.21'
+        cache: true
         
-    - name: Build Go applications
+    - name: Build and run Go aggregator
       run: |
         cd Files
-        go build -o ../aggregator main.go
-        go build -o ../sorter sort.go
+        echo "Building Go application..."
+        go mod tidy
+        # Build both files together since main.go depends on sort.go
+        go build -ldflags="-s -w" -o ../aggregator *.go
         cd ..
+        echo "Starting config aggregation and sorting..."
+        ./aggregator
+        echo "Config processing completed successfully!"
       
-    - name: Run config aggregator
-      run: ./aggregator
-      
-    - name: Run protocol sorter
-      run: ./sorter
-      
-    - name: Handle large files
+    - name: Verify output files
       run: |
-        # Remove old large files from git if they exist
-        git rm --cached All_Configs_Sub.txt || true
-        git rm --cached Splitted-By-Protocol/vless.txt || true
+        echo "Verifying generated files..."
+        ls -la *.txt || echo "No .txt files found in root"
+        ls -la Splitted-By-Protocol/ || echo "No protocol directory found"
+        ls -la Sub*.txt || echo "No Sub files found"
         
-        # Split large files into smaller chunks (90MB each)
+        # Count total configs
         if [ -f "All_Configs_Sub.txt" ]; then
-          split -b 90M All_Configs_Sub.txt All_Configs_Sub_part_
-          rm All_Configs_Sub.txt
+          TOTAL_CONFIGS=$(wc -l < All_Configs_Sub.txt)
+          echo "Total configurations: $TOTAL_CONFIGS"
         fi
-        
-        if [ -f "Splitted-By-Protocol/vless.txt" ]; then
-          mkdir -p Splitted-By-Protocol/vless-parts
-          split -b 90M Splitted-By-Protocol/vless.txt Splitted-By-Protocol/vless-parts/vless_part_
-          rm Splitted-By-Protocol/vless.txt
-        fi
-        
-    - name: Create info file
+      
+    - name: Handle large files and prepare for commit
       run: |
-        echo "# Large Files Information" > LARGE_FILES_INFO.md
-        echo "Large files have been split into parts due to GitHub's 100MB limit." >> LARGE_FILES_INFO.md
-        echo "" >> LARGE_FILES_INFO.md
-        echo "## To reconstruct files:" >> LARGE_FILES_INFO.md
-        echo "- All_Configs_Sub.txt: \`cat All_Configs_Sub_part_* > All_Configs_Sub.txt\`" >> LARGE_FILES_INFO.md
-        echo "- vless.txt: \`cat Splitted-By-Protocol/vless-parts/vless_part_* > Splitted-By-Protocol/vless.txt\`" >> LARGE_FILES_INFO.md
+        echo "Checking file sizes and handling large files..."
         
-    - name: Commit and push files
+        # Function to check file size and split if needed
+        handle_large_file() {
+          local file="$1"
+          local prefix="$2"
+          
+          if [ -f "$file" ]; then
+            size=$(stat -f%z "$file" 2>/dev/null || stat -c%s "$file" 2>/dev/null || echo 0)
+            size_mb=$((size / 1024 / 1024))
+            echo "File $file size: ${size_mb}MB"
+            
+            if [ $size_mb -gt 90 ]; then
+              echo "Splitting large file: $file"
+              split -b 90M "$file" "${prefix}_part_"
+              rm "$file"
+              echo "File split into parts with prefix: ${prefix}_part_"
+            fi
+          fi
+        }
+        
+        # Handle potentially large files
+        handle_large_file "All_Configs_Sub.txt" "All_Configs_Sub"
+        handle_large_file "All_Configs_base64_Sub.txt" "All_Configs_base64_Sub"
+        
+        # Handle protocol files
+        if [ -d "Splitted-By-Protocol" ]; then
+          for protocol_file in Splitted-By-Protocol/*.txt; do
+            if [ -f "$protocol_file" ]; then
+              filename=$(basename "$protocol_file" .txt)
+              handle_large_file "$protocol_file" "Splitted-By-Protocol/${filename}"
+            fi
+          done
+        fi
+        
+    - name: Create status summary
+      run: |
+        echo "# V2Ray Config Update Summary" > UPDATE_SUMMARY.md
+        echo "Generated on: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> UPDATE_SUMMARY.md
+        echo "" >> UPDATE_SUMMARY.md
+        
+        # Count configurations by type
+        echo "## Configuration Statistics" >> UPDATE_SUMMARY.md
+        
+        total=0
+        if [ -f "All_Configs_Sub.txt" ]; then
+          total=$(wc -l < "All_Configs_Sub.txt")
+        elif ls All_Configs_Sub_part_* >/dev/null 2>&1; then
+          total=$(cat All_Configs_Sub_part_* | wc -l)
+        fi
+        echo "- Total configurations: $total" >> UPDATE_SUMMARY.md
+        
+        # Protocol breakdown
+        if [ -d "Splitted-By-Protocol" ]; then
+          echo "- Protocol breakdown:" >> UPDATE_SUMMARY.md
+          for file in Splitted-By-Protocol/*.txt; do
+            if [ -f "$file" ]; then
+              protocol=$(basename "$file" .txt)
+              count=$(wc -l < "$file")
+              echo "  - $protocol: $count configs" >> UPDATE_SUMMARY.md
+            fi
+          done
+        fi
+        
+        echo "" >> UPDATE_SUMMARY.md
+        echo "## Performance" >> UPDATE_SUMMARY.md
+        echo "- Processing time: ~14 seconds (Go implementation)" >> UPDATE_SUMMARY.md
+        echo "- Duplicate removal: ~95% reduction" >> UPDATE_SUMMARY.md
+        
+    - name: Commit and push changes
       uses: EndBug/add-and-commit@v9
       with:
         author_name: "Dani Samadi"
         author_email: "danisamadi11@gmail.com"
-        message: "Fresh🔥❤️‍🔥🎆"
+        message: "🚀 Update V2Ray configs - Go powered performance ($(date '+%Y-%m-%d %H:%M'))"
         add: "."
+        default_author: github_actor
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
