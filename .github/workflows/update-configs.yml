@@ -1,0 +1,70 @@
+name: Update Configs
+permissions: write-all
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "*/20 * * * *"  # Every 20 minutes
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Go
+      uses: actions/setup-go@v4
+      with:
+        go-version: '1.21'
+        
+    - name: Build Go applications
+      run: |
+        cd Files
+        go build -o ../aggregator main.go
+        go build -o ../sorter sort.go
+        cd ..
+      
+    - name: Run config aggregator
+      run: ./aggregator
+      
+    - name: Run protocol sorter
+      run: ./sorter
+      
+    - name: Handle large files
+      run: |
+        # Remove old large files from git if they exist
+        git rm --cached All_Configs_Sub.txt || true
+        git rm --cached Splitted-By-Protocol/vless.txt || true
+        
+        # Split large files into smaller chunks (90MB each)
+        if [ -f "All_Configs_Sub.txt" ]; then
+          split -b 90M All_Configs_Sub.txt All_Configs_Sub_part_
+          rm All_Configs_Sub.txt
+        fi
+        
+        if [ -f "Splitted-By-Protocol/vless.txt" ]; then
+          mkdir -p Splitted-By-Protocol/vless-parts
+          split -b 90M Splitted-By-Protocol/vless.txt Splitted-By-Protocol/vless-parts/vless_part_
+          rm Splitted-By-Protocol/vless.txt
+        fi
+        
+    - name: Create info file
+      run: |
+        echo "# Large Files Information" > LARGE_FILES_INFO.md
+        echo "Large files have been split into parts due to GitHub's 100MB limit." >> LARGE_FILES_INFO.md
+        echo "" >> LARGE_FILES_INFO.md
+        echo "## To reconstruct files:" >> LARGE_FILES_INFO.md
+        echo "- All_Configs_Sub.txt: \`cat All_Configs_Sub_part_* > All_Configs_Sub.txt\`" >> LARGE_FILES_INFO.md
+        echo "- vless.txt: \`cat Splitted-By-Protocol/vless-parts/vless_part_* > Splitted-By-Protocol/vless.txt\`" >> LARGE_FILES_INFO.md
+        
+    - name: Commit and push files
+      uses: EndBug/add-and-commit@v9
+      with:
+        author_name: "Dani Samadi"
+        author_email: "danisamadi11@gmail.com"
+        message: "Fresh🔥❤️‍🔥🎆"
+        add: "."
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
