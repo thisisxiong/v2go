@@ -22,8 +22,8 @@ const (
 
 var fixedText = `#profile-title: base64:8J+GkyBHaXRodWIgfCBEYW5pYWwgU2FtYWRpIPCfkI0=
 #profile-update-interval: 1
-#support-url: 
-#profile-web-page-url: 
+#support-url: https://github.com/Danialsamadi/v2go
+#profile-web-page-url: https://github.com/Danialsamadi/v2go
 `
 
 var protocols = []string{"vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"}
@@ -341,8 +341,8 @@ func splitIntoFiles(base64Folder string, configs []string) error {
 		encodedTitle := base64.StdEncoding.EncodeToString([]byte(profileTitle))
 		customFixedText := fmt.Sprintf(`#profile-title: base64:%s
 #profile-update-interval: 1
-#support-url: 
-#profile-web-page-url: 
+#support-url: https://github.com/Danialsamadi/v2go
+#profile-web-page-url: https://github.com/Danialsamadi/v2go
 `, encodedTitle)
 
 		// Calculate slice bounds (using reversed configs)

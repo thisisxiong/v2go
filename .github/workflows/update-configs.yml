@@ -145,9 +145,9 @@ jobs:
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v9
       with:
-        author_name: "Dani Samadi"
-        author_email: "danisamadi11@gmail.com"
-        message: "🚀 Update V2Ray configs - Go powered performance ($(date '+%Y-%m-%d %H:%M'))"
+        author_name: "GitHub Actions"
+        author_email: "github-actions[bot]@users.noreply.github.com"
+        message: "🚀 Fresh Update"
         add: "."
         default_author: github_actor
       env:
