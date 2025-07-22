@@ -37,14 +37,38 @@ jobs:
     - name: Verify output files
       run: |
         echo "Verifying generated files..."
-        ls -la *.txt || echo "No .txt files found in root"
-        ls -la Splitted-By-Protocol/ || echo "No protocol directory found"
-        ls -la Sub*.txt || echo "No Sub files found"
+        echo "Files in root directory:"
+        ls -la *.txt 2>/dev/null || echo "No .txt files found in root"
         
-        # Count total configs
+        echo "\nProtocol directory contents:"
+        ls -la Splitted-By-Protocol/ 2>/dev/null || echo "No protocol directory found"
+        
+        echo "\nSub files:"
+        ls -la Sub*.txt 2>/dev/null || echo "No Sub files found"
+        
+        echo "\nBase64 directory:"
+        ls -la Base64/ 2>/dev/null || echo "No Base64 directory found"
+        
+        # Count total configs and show file sizes
         if [ -f "All_Configs_Sub.txt" ]; then
           TOTAL_CONFIGS=$(wc -l < All_Configs_Sub.txt)
-          echo "Total configurations: $TOTAL_CONFIGS"
+          FILE_SIZE=$(du -h All_Configs_Sub.txt | cut -f1)
+          echo "\nMain config file: $TOTAL_CONFIGS configurations ($FILE_SIZE)"
+        else
+          echo "\nMain config file not found - checking if it was split..."
+        fi
+        
+        # Check protocol files
+        if [ -d "Splitted-By-Protocol" ]; then
+          echo "\nProtocol file statistics:"
+          for file in Splitted-By-Protocol/*.txt; do
+            if [ -f "$file" ]; then
+              count=$(wc -l < "$file")
+              size=$(du -h "$file" | cut -f1)
+              basename=$(basename "$file")
+              echo "  $basename: $count configs ($size)"
+            fi
+          done
         fi
       
     - name: Handle large files and prepare for commit
