@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#%3E%3E%40v2ray1_ng%3A%3AUS
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=VpNwS2iJkA.vPbEtHoRvP002.iNfO&type=ws&sni=VpNwS2iJkA.vPbEtHoRvP002.iNfO#%3E%3E%40v2ray1_ng%3A%3ANL
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AUS
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#%3E%3E%40v2ray1_ng%3A%3AGB
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#%3E%3E%40v2ray_configs_pool%3A%3AUS
 vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080?path=%2Fkhkdjhsd%3Fed%3D2048&security=none&encryption=none&host=in2772.novintecc.ORG.&type=httpupgrade#%3E%3E%40ShadowsocksM%3A%3ANL
@@ -499,6 +502,3 @@ vmess://eyJhZGQiOiIxMDQuMjEuMC4xMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vmess://eyJhZGQiOiIxMDQuMjEuMC4wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhc2tzLXJlZmVycy16c2hvcHMtam91cm5hbGlzdHMudHJ5Y2xvdWRmbGFyZS5jb20iLCJpZCI6IjljMjhlNDg0LTU1ZWQtNDc1Ni1hNmRjLTY0YTllYzcxNDFkYSIsIm5ldCI6IndzIiwicGF0aCI6Ii85YzI4ZTQ4NC01NWVkLTQ3NTYtYTZkYy02NGE5ZWM3MTQxZGEtdm0/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiLwn4ep8J+HqkBzcGVjeHRlY2g1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjMzMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjMyMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjMxMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjMwMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjM4MDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
