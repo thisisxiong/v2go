@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/F9Ngmzj1IMbW2Cyc/MTguMTgzLjE1OC4yMTE&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SiMOwEBsItESPEedTeSt.iR#Channel id: @ShadowProxy66 🇨🇦
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/DyCbnyZlHofZ87LF/MTguMTcwLjc3LjE0OA&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=siMowebsITESPeEdTEst.iR#@Merlin_ViP 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/DNosqlK7BxEXdZOf/OTQuMTc3LjguMTA&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SIMowEBsitespeedTEst.ir#Channel id: @ShadowProxy66 🇨🇦
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/8DBpLq5GSEtdR3Da/MTM1LjE4MS4xNjguMzA&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SimOwEBSitEsPEEDtEst.ir#@Merlin_ViP 🇫🇮
@@ -501,4 +502,3 @@ vless://16e97003-110a-423b-fe25-0dc26485939e@157.180.39.43:8880?mode=gun&securit
 vless://16c851d3-49e8-4524-8ef5-50b8115c74c4@Www.speedtest.net:2095?type=httpupgrade&host=Fi1.vipmehspd.ir.&path=/@FREE_VPN02@FREE_VPN02@FREE_VPN02&security=none#Telegram:@FREE_VPN02
 vless://169c5a68-9d6a-4129-b4f4-5a0089397ab0@www.parsvds.ir:8080?security=none&encryption=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080#Awlix_ir
 vless://163dcbe2-1b39-4bbf-8c3e-9c54c29af199@91.99.186.13:8080?path=none&encryption=none&host=fast.com&type=ws#ae_proxy
-vless://161bdc78-3d90-43d8-915e-2dfb708959b0@d53daf37ff1146a6.speedtest.net:80?security=none&type=ws&headerType=&path=/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN?ed=1024&host=v2netiran.life.#🆔@V2NET_IRAN
