@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.210:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#@warp_city
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.209:443?type=tcp&security=tls&fp=chrome&sni=147135004002.sec20org.com#@configMs
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#@V2ray1_Ng
 vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp#@V2rayNG3
@@ -502,3 +501,4 @@ vless://47ff8594-87eb-492c-bc5f-b116a33065da@91.99.112.78:443?security=reality&e
 vless://47e97e42-b6a2-43cf-f59b-319fecd0e9a4@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-3i7d83ydv
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@206.189.211.169:59483?mode=gun&security=none&encryption=none&type=grpc&serviceName=#TM-@AZARBAYJAB1
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@128.140.124.194:59483?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#کانال+ما+در+تلگرام+@Asak_Vpn+💛
+vless://47d25560-5b74-41e1-b059-4ead2680e7de@172.66.40.99:80?path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=ws#Telegram:@config_proxy 🔥

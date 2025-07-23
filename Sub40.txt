@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?allowInsecure=0#45%20%7C%20%202.5MB%2Fs%7C46%25%7COpenai%7CGem...
 vmess://eyJ2IjoiMiIsInBzIjoiMSB8ICAxLjBNQi9zfDAlfE5ldGZsaXh8RGlzbi4uLiIsImFkZCI6IjE4My4yMzYuNTEuMzgiLCJwb3J0IjoiNDkyOTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@156.146.40.194:989#3-SK%20%7C%20%205.0MB%2Fs%7C0%25%7CYoutube%7COp...
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiJhYXp4c2RFLjAwMzMzMDMzMy5YWXoiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjEwYjFlMzcxLWQ3MzQtNDMwNi1iNjdmLTBmYzFmOTVjMjQ4NSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvU1hqcThZbG5HTkJsYm5Fc00iLCJob3N0IjoiYWF6eHNkRS4wMDMzMzAzMzMuWFl6IiwidGxzIjoidGxzIn0=
@@ -501,4 +502,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#Hiva
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=%2F34COh9NCiin5SJMk%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#%D8%B1%D8%A8%D8%A7%D8%AA%20%D9%85%D8%A7%20%3Av2rayfree_proxybot%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%B3%D8%B1%20%D8%A8%D8%B2%D9%86%DB%8C%D8%AF%F0%9F%9A%80`
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?encryption=none&security=none&type=grpc#%40mobilesignal%20USA%F0%9F%87%BA%F0%9F%87%B84
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?security=tls&sni=pqh23v5.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%A9%F0%9F%87%AADE%20%7C%20@v2ray_configs_pools`
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?encryption=none&security=none&type=grpc#%40mobilesignal%F0%9F%87%AB%F0%9F%87%B7

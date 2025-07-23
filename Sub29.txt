@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#Channel : @Alfa_v2ray_ng 🏴🏳
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@vmesskhodam
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@v2rayng_fars 🚀 Telegram
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@Alfa_v2ray_ng 🚀 Telegram
@@ -502,3 +501,4 @@ vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram@aza
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=chrome&type=ws&sni=varzesh3.varzesh.dpdns.org#@G0Dv2ray
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=chrome&type=ws&sni=varzesh3.varzesh.dpdns.org#@CaV2ray ⚡️
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram:@V2RAYNG_1378/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=chrome&type=ws&sni=varzesh3.varzesh.dpdns.org#@V2RAYNG_1378
+vless://68abe093-fc17-4060-b6c5-a19cbe4ae7ba@199.232.118.199:80?encryption=none&security=none&type=xhttp&host=downloadly.ir&path=/Telegram@vpnjey&mode=auto#Telegram @vpnjey  🇩🇪🇩🇪
