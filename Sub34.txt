@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/n2BmD2cn9olsoIWQ/MTkzLjIzOS4xNjAuMjU&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SiMowEBSITEsPeeDtESt.IR#@Viturey 🔒
 vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/cOUHCUXw8CTSmRzr/MzQuMTc1LjIwMi4xOTU&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SImoWeBsiTesPEEdTeSt.iR#Channel id: @ShadowProxy66 🇨🇦
 vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/cOUHCUXw8CTSmRzr/MzQuMTc1LjIwMi4xOTU&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SImoWeBsiTesPEEdTeSt.iR#@ShadowProxy66 🇨🇦
 vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=/aom9TKCuG9Ci6Xf1/MTg1LjE4OC4xNDcuNzk=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SIMowebSITespeedTESt.ir#@HiByeVPNN
@@ -501,4 +502,3 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=none&encr
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@warp_city
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2RAYNG_1378
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Selinc
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
