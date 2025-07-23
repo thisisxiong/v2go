@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=&encryption=none&host=my.ski1plag.ir&type=ws#@Filter_breaker-IR
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/download&security=none&encryption=none&host=my.ski1plag.ir&type=ws#Telegram : @EXPRESSVPN_420
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/download&security=none&encryption=none&host=my.ski1plag.ir&type=ws#@ATOVPN | نت ملی
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@V2ray1_Ng
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@G0Dv2ray ALL
@@ -500,5 +502,3 @@ vless://69136cc7-d70e-4357-8230-ec82bec92c19@csgo.com:2095?security=none&type=ws
 vless://69136cc7-d70e-4357-8230-ec82bec92c19@cdns.doon.eu.org:2095?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国09 付费推荐：https://dafei.de
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?type=ws&path=/containers/de&security=tls&sni=ah15.ai351.com&allowInsecure=true#Config🇫🇮@Do_itforyou
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=/containers/de&security=tls&encryption=none&host=ah15.ai351.com&type=ws&sni=ah15.ai351.com#@warp_city
-vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?path=/containers/de&security=tls&encryption=none&host=ah15.ai351.com&type=ws&sni=ah15.ai351.com#@azadiiivpn🎀
-vless://68d90a8a-89e3-44df-a41f-b71b15cf4f28@146.103.99.75:443?security=reality&encryption=none&pbk=O9DMPpwicRcMofaplcvpQStNRogPS_HJY0s5_4EaKQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nu.nl#@

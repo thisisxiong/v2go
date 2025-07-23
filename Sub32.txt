@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://49054f4c-b321-4201-b7ed-ecbaf1c9164c@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&security=&encryption=none&host=zedmodeon237.global.ssl.fastly.net&type=xhttp#🇩🇪 Telegram @SRCVPN
+vless://49054f4c-b321-4201-b7ed-ecbaf1c9164c@140.248.125.10:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&security=none&encryption=none&host=zedmodeon237.global.ssl.fastly.net&type=xhttp#🇩🇪 Telegram @SRCVPN
 vless://48f477f3-906a-4bb6-be96-8201d8a62a6d@104.21.36.57:443?path=/wsv/48f477f3-906a-4bb6-be96-8201d8a62a6d&security=tls&encryption=none&host=banana.fullmargintraders.com&fp=chrome&type=ws&sni=banana.fullmargintraders.com#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://48f1468a-c962-4afd-965d-59a259b0e7f5@104.24.196.20:2086?type=httpupgrade&path=@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=wwW.speedtesT.net.eLectrolUxxv.ir.&security=none#🇩🇪XPNTEAM   [CONFIGFREE]-wdzjh7kdz
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@172.64.35.227:443?security=tls&sni=ngx.ambercc.filegear-sg.me&type=ws&host=ngx.ambercc.filegear-sg.me&path=/?ed=2560&alpn=http/1.1#@HiByeVPNN
@@ -500,5 +502,3 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?host=zula.ir&type
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir/?JOKERRVPNBIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ⁸🇩🇪➣@V2rayNGcloud
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir/?JOKERRVPNBIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ⁸🇩🇪➣@CUSTOMVPNSERVER
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#📦@FreakConfig
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#✅@FreakConfig

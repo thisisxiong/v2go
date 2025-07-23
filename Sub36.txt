@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2ray_confing33
+vless://01763caa-bd69-47f8-89c4-031b2f0bd8ff@91.107.180.100:443?type=grpc&mode=gun&serviceName=@SobyV2ray&security=reality&fp=chrome&sni=zula.ir&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&sid=f3&spx=/#Channel : @CaptalVpn🏴‍☠️
 vless://01763caa-bd69-47f8-89c4-031b2f0bd8ff@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#@v2rayng_fars 🚀 Telegram
 vless://01763caa-bd69-47f8-89c4-031b2f0bd8ff@91.107.180.100:443?mode=gun&security=reality&encryption=none&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=/&type=grpc&serviceName=@SobyV2ray&sni=zula.ir&sid=f3#Channel@vmessorg
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.53.189.251:8880?path=/Telegram @WangCai2 /?ed=2560&security=&encryption=none&host=cf.d3z.net&type=ws#Telegram:@config_proxy 🔥
@@ -500,5 +502,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#@azadiiivpn²🎀
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#@V2ray_confing33
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#@HiByeVPNN🌀
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#@CaV2ray ⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080?type=tcp&headerType=none#Config🇳🇱@Do_itforyou
