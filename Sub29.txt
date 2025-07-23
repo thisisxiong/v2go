@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:80?path=/download&security=&encryption=none&host=my.ski1plag.ir&type=ws#@bored_vpn
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?type=ws&host=my.ski1plag.ir&path=/download#✈️ @unlimiteddev-2
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?security=tls&sni=statue.lnmarketplace.net&alpn=h2&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue/?@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🔥@AblNet7 🇮🇷 نت ملی 🔥
@@ -501,4 +502,3 @@ vless://68d01bee-b7c8-4bb3-98b5-5be6500b349d@172.66.47.61:8880?path=/telegram-CO
 vless://68d01bee-b7c8-4bb3-98b5-5be6500b349d@172.66.47.61:8880?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=&encryption=none&host=ok-by.motorphrotan.ir.&type=httpupgrade#@vipV2rayNGnp
 vless://68d01bee-b7c8-4bb3-98b5-5be6500b349d@172.66.40.99:8880?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=ok-by.motorphrotan.ir.&type=httpupgrade#🛡️ @FreakConfig
 vless://68d01bee-b7c8-4bb3-98b5-5be6500b349d@172.66.40.99:8880?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=ok-by.motorphrotan.ir.&type=httpupgrade#آلمان 🇩🇪 @V2xay
-vless://68d01bee-b7c8-4bb3-98b5-5be6500b349d@172.66.40.99:8880?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=ok-by.motorphrotan.ir.&type=httpupgrade#@V2RAYROZ

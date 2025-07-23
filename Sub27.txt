@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://Parsashonam-285@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@v2rayNGcloud🇩🇪
 vless://Parsashonam-285@185.146.173.39:8880?security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🟢 @server_free2 🟢
 vless://Parsashonam-285@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🛡️ @FreakConfig
 vless://Parsashonam-285@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#آلمان 🇩🇪 @V2xay
@@ -501,4 +502,3 @@ vless://8e5604cd-0fa9-40c3-9bcd-70f96ce2c323@food.france-learns.ir:80?path=/down
 vless://8e4d0dba-884f-4bbd-9f1d-ea5ec78efe7d@bam.erfann.shop:15807?security=none&encryption=none&host=ua.yektanet.com&headerType=http&type=tcp#🍉 @FreakConfig
 vless://8e4d0dba-884f-4bbd-9f1d-ea5ec78efe7d@bam.erfann.shop:15807?security=none&encryption=none&host=ua.yektanet.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://8e4d0dba-884f-4bbd-9f1d-ea5ec78efe7d@bam.erfann.shop:15807?security=none&encryption=none&host=ua.yektanet.com&headerType=http&type=tcp#@Selinc
-vless://8e4cc007-f3fb-4804-8c98-774ac4397a9a@151.101.130.219:80?security=none&type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS1-IP.nEt&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=2480#t.me/entryNET/config=1838043213016138
