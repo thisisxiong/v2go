@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+hy2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇯🇵日本东京
 hy2://b57bbf70-8958-4ae5-b6fd-bcf39b81900c@ovo.5188666.xyz:63518/?insecure=1#🇭🇰香港
 hy2://a914681a-8dda-4c98-8468-c313f5539b14@sg3.eyucdn.xyz:2056/?insecure=1&sni=sg3.eyucdn.xyz#新加坡
 hy2://Wo9rLCYw6gzcfTgIu11mhBVciVs@47.74.34.102:29282/?insecure=1#🇭🇰香港
@@ -19,7 +20,6 @@ hy2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp1.eyucdn.xyz:2056/?insecure=1&sni=z
 hy2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy2.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.tesla.cn#🇭🇰香港
 hy2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy17.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.apple.com.cn#🇯🇵日本
 hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.121.211:30300/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66 🇨🇦
-vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgInYiOiAiMiIsICJwcyI6ICJcdTUzMTdcdTdmOGVcdTU3MzBcdTUzM2EgdjJyYXlmcmVlLmV1Lm9yZyIsICJwb3J0IjogNDQzLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlubmEuY2ZkIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAidGxzIjogInRscyJ9
 vless://5c2ac2e3-388b-4e37-8ce4-1730c4cabb27@ipc.alirezaoshjelalbcsom.ir:2086?encryption=none&security=none&type=httpupgrade&host=swww.speedtest.net.%E7%9C%9F%E7%9A%84www.digikala.com.%E6%88%91%E7%9C%9F.%E7%9A%84%E7%9C%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E7%88%B1%E7%9A%84%E5%BE%88%E7%88%B1%E5%BE%88join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullservera.gozaroshloreshin.irdsda.gozaroshloreshin.ir.&path=%2Fwww.adsl.tci.ir%3Fed%3D1024#@meli_proxyy
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-ygDWmYQSlm.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507121073737-ygDWmYQSlm.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian

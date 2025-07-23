@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?host=zula.ir&type=tcp&security=none&headerType=http&encryption=none#id-@vmesskhodam
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir/?JOKERRVPNBIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ⁸🇩🇪➣@V2rayNGcloud
@@ -501,4 +502,3 @@ vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/KFh3HO7
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/KFh3HO76VUQPJDgM/OC4yMjAuMTM0LjEzNg&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simoWEbsiTESPEedTEST.ir#Channel id: @ShadowProxy66 🇨🇦
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/ImnZuDCV3mYi6m6f/NS4xMC4yMTUuMjY&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simOWeBSitESPeEdtesT.Ir#Channel id: @ShadowProxy66 🇨🇦
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/ImnZuDCV3mYi6m6f/NS4xMC4yMTUuMjY&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simOWeBSitESPeEdtesT.Ir#@Merlin_ViP 🇦🇲
-vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/FY78Jwbpng8dLmb2/dHVyay5yYWRpY2FsaXphdGlvbi5pcg&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=siMOweBSITESPeEdTest.IR#Channel id: @ShadowProxy66 🇨🇦
