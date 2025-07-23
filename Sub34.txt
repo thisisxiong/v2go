@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@172.67.136.91:443?path=/eqjMU4jditZU4l8h/MjE3LjE5NS4yMDAuMTM4?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=sImoWEBSIteSPEEDteSt.Ir#Channel id: @ShadowProxy66 🇨🇦
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=/OvFDUa0OIcxzDtAe/MjEzLjE0OC4xMC4xNzc&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simOwebsiTeSPeedTEsT.IR#Channel id: @ShadowProxy66 🇨🇦
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=/1u40Y2pvl82tR3i8/MTk0LjM4LjIwLjc4?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SimoWeBsITesPEEDTEst.ir#Telegram : @Alfa_v2ray_ng 🔥
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=/1u40Y2pvl82tR3i8/MTk0LjM4LjIwLjc4?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SimoWeBsITesPEEDTEst.ir#Channel id: @ShadowProxy66 🇨🇦
@@ -501,4 +502,3 @@ vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@5.75.198.47:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&sid=974a74bf#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://15810c75-03d1-47ec-b403-211741773b59@cellone.learn-new.ir:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=khanacademy.org&pbk=ikTKkSZZZ18NraMIwbLCP8ln6NmsD77VTSKWTESIOAk&sid=6acf3ba5790e4324#[🇩🇪]ae_proxy
 vless://1574e278-682c-41b2-aa64-11812856c65d@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
-vless://155f7480-b3d0-4c91-9243-a2c4ce0d9b17@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷3 tunnel: @EVAY_VPN 🚀

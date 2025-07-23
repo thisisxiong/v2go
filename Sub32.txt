@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://486857ea-817a-ed57-4df5-76ab488039d0@shop.fox-11-fox.com:2052?security=none&encryption=none&headerType=none&type=tcp#@EmpireVpn7🇩🇪
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#💯T.me/Asak_Vpn💯
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#@warp_city
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#@V2ray1_Ng
@@ -501,4 +502,3 @@ vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=&encrypti
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir/?JOKERRVPNBIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ⁷🇩🇪➣@V2rayNGcloud
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir/?JOKERRVPNBIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ⁷🇩🇪➣@CUSTOMVPNSERVER
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷@EXPRESSVPN_420
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#فیلتر شکن رایگان | @XpnTeam
