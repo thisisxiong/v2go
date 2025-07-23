@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e186d093-41a8-44cf-8314-4add7089cd4e@v2test.bing-net.com:9820?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@Alfa_v2ray_ng کانالمون 😂
-vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=/&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#@V2ray1_Ng
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=/&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#@CaV2ray ⚡️
 vless://e144cde9-60aa-4e4c-bde9-29f9869b6187@193.176.179.213:1616?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=dCGmYTxcSEJCQvlF_n6JlgX6S-3ZL5WvM0nsxKmesiM&sid=036c3c9fb2579611&type=tcp&headerType=none#https://t.me/confing_chanel
 vless://e12c6b99-f242-4c43-8411-edb7b333c79a@5.75.205.247:28495?type=tcp&security=reality&fp=chrome&sni=www.fra-shop.ir&pbk=wIoY1J6RAbUkFMLu9mENmgOSerWCd7oucJ-_kfCfbHw&sid=4365d0c5ae1b&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@EVAY_VPN🇩🇪
@@ -502,3 +500,5 @@ vless://d3a7cdfd-2fa4-4b92-a51a-34035c131164@www.speedtest.net:8443?security=tls
 vless://d3a7cdfd-2fa4-4b92-a51a-34035c131164@www.speedtest.net:8443?security=tls&encryption=none&host=fn2vipys.sevenploos.com&fp=chrome&type=ws&sni=fn2vipys.sevenploos.com#28/6
 vless://d3a7cdfd-2fa4-4b92-a51a-34035c131164@speedtest.net:80?mode=auto&path=/GoodLuck?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-reza.global.ssl.fastly.net.&type=xhttp#28/7
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@visa.com:443?security=tls&encryption=none&type=ws&host=Hagh.PaGes.DEv&path=/PathTELEGRAM-MARAMBASHI-MARAMBASHI/?ed=2048&sni=Hagh.PaGes.DEv&fp=chrome&alpn=h2,http/1.1#Awlix_ir
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🌟Telegram:@Asak_Vpn
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
