@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir# vipV2rayNGnp
+vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir# https://t.me/ConfigX2ray
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/bDUGlAj9BFG7zebG?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir# @confing_chanel
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#@v2rayng_fars 🚀 Telegram
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=2.lINK-KoN.IR&fp=chrome&type=ws&sni=2.link-kon.ir#🇺🇸 | @External_Net
@@ -500,5 +502,3 @@ vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@892389823.webnama.com.tr:1517?secur
 vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@78234873823.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#🇺🇸 USA
 vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@3900230223.torob.com.tr:3799?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇵🇱 Poland
 vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@300232332.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇩🇪 Germany 1
-vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@2393123233.torob.com.tr:1429?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
-vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@233923233.webnama.com.tr:4928?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇳🇱 Netherland
