@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://af08d604-2304-4a72-a238-ffea92d91122@46.8.228.232:8443?security=reality&encryption=none&pbk=_pBy09yxTWte1tPTCvVC9lTs2ZjD8oMqQOtT5nQdV34&headerType=none&fp=chrome&spx=/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&type=tcp&sni=yahoo.com&sid=f32408cf447d#@Capoit
+vless://af00dfbf-5d98-4cd8-80a7-df2b296c5ccf@tci.shadow-net.ir:1370?security=tls&encryption=none&headerType=none&type=tcp#کانال تلگرام v2raybluecrystal@
+vless://aee7f4dd-1505-4efe-a081-199a3d9b7b97@www.speedtest.net:80?path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed=2560&host=pamchall.com.&type=ws#⚡🇫🇮mosiv2
 vless://ae9e7dbb-607c-40f1-b84e-479b8658fb92@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷@Evay_Vpn  توی ۱۰ دیقه تموم میشه احتمالا😂 🛍برای کانفیگ های بیشتر جوین بشید :  @Evay_vpn | @Evay_vpn @Evay_vpn | @Evay_vpn
 vless://ae9e7dbb-607c-40f1-b84e-479b8658fb92@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷@Evay_Vpn
 vless://ae96b87b-bc2c-4133-90a3-1366b1c57d2e@5.223.41.62:48851?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#✨AMIIN@ATOVPN
@@ -499,6 +502,3 @@ vless://SVNTEAM3@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNT
 vless://SVNTEAM1@SvnFree.GiSvn.ir:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#🇩🇪TCP-51
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-43
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-41
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-39
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-37
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-35
