@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@300232332.webnama.com.tr:1517?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇩🇪 Germany 1
 vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@2393123233.torob.com.tr:1429?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@233923233.webnama.com.tr:4928?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇳🇱 Netherland
 vless://d5b266bc-0db2-4c9b-8c3e-ead91698db99@230920393.f-sub.com:3799?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#🇫🇷 France
@@ -502,3 +501,4 @@ vless://c599cae9-f5e8-46ca-8fa2-194b774f5a3b@Net.1lagvpn13.cfd:2087?mode=gun&sec
 vless://c599cae9-f5e8-46ca-8fa2-194b774f5a3b@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#rfeaeguj
 vless://c55ef976-d9f5-41d9-8bfb-c57853a66327@www.speedtest.net:443?path=/qp8ihoxMLXPfQWaw?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=skynet.zistarvinbiotech.ir&fp=chrome&type=ws&sni=skYNet.ZIStArviNBiOtEch.Ir#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://c55ef976-d9f5-41d9-8bfb-c57853a66327@www.speedtest.net:443?path=/qp8ihoxMLXPfQWaw?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=skynet.zistarvinbiotech.ir&fp=chrome&type=ws&sni=skYNet.ZIStArviNBiOtEch.Ir#@Selinc
+vless://c55ef976-d9f5-41d9-8bfb-c57853a66327@www.speedtest.net:443?path=/qp8ihoxMLXPfQWaw?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=skynet.zistarvinbiotech.ir&fp=chrome&type=ws&sni=skYNet.ZIStArviNBiOtEch.Ir#@G0Dv2ray

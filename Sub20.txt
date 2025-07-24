@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vmess://eyJhZGQiOiIxNzIuNjcuMTc1LjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoib2JkaWkuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNzIuNjcuMTY0LjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDYuODkwNjAwMDQueHl6IiwiaWQiOiIzNTJmMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTUiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2ICIsInNjeSI6ImF1dG8iLCJzbmkiOiJyYWsyZDYuODkwNjAwMDQueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#@Filter_breaker | United States
 vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDUuODkwNjAwMDQueHl6IiwiaWQiOiIzNTFlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTQiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2ICIsInNjeSI6ImF1dG8iLCJzbmkiOiJyYWsyZDUuODkwNjAwMDQueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#@Filter_breaker | United States
@@ -502,3 +501,4 @@ vless://fcadea1e-147b-480b-bc72-4fd883dd1e35@Www.speedtest.net:2095?path=/@Canfi
 vless://fc9a44d9-d786-47c6-9127-258d5ee18f4e@android.pakasak.com:2025?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Alfa_v2ray_ng
 vless://fc7ed3a4-da90-475f-a751-769eca257af7@172.67.215.65:2053?path=/wsfarancemat&security=tls&alpn=http/1.1&encryption=none&host=fa2.alighan.ir&fp=chrome&type=ws&sni=fa1.alighan.ir#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@EXPRESSVPN_420
 vless://fc7ed3a4-da90-475f-a751-769eca257af7@172.67.215.65:2053?path=/wsfarancemat&security=tls&alpn=http/1.1&encryption=none&host=fa2.alighan.ir&fp=chrome&type=ws&sni=fa1.alighan.ir#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
+vless://fc7d5074-cf6d-42bc-9cf4-a76811aca6c0@95.38.135.155:8443?security=tls&sni=proxys46.elcom.sbs&type=ws&path=/&allowInsecure=1#Telegram:@config_proxy 🔥
