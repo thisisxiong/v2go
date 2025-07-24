@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://69136cc7-d70e-4357-8230-ec82bec92c19@ssrsub.cloudflare.182682.xyz:2095?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国08 付费推荐：https://dafei.de
 vless://69136cc7-d70e-4357-8230-ec82bec92c19@csgo.com:2095?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国07 付费推荐：https://dafei.de
 vless://69136cc7-d70e-4357-8230-ec82bec92c19@cdns.doon.eu.org:2095?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国09 付费推荐：https://dafei.de
 vless://68fd2dc5-b1fc-49b0-8ff6-d070133ee270@104.16.53.11:2053?type=ws&path=/containers/de&security=tls&sni=ah15.ai351.com&allowInsecure=true#Config🇫🇮@Do_itforyou
@@ -502,3 +501,4 @@ vless://54c6740f-76f0-4152-a06c-71fb77a7ae2c@45.79.9.27:443?security=none&encryp
 vless://54c6740f-76f0-4152-a06c-71fb77a7ae2c@45.79.9.27:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Merlin_ViP L183
 vless://54b4c039-7be6-448f-b704-820251b079db@pouriacheat.fergalvpnmod.com:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&type=grpc&serviceName=Telegram : @PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#آلمان 🇩🇪 @V2xay
 vless://54b4c039-7be6-448f-b704-820251b079db@pouriacheat.fergalvpnmod.com:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=/&type=grpc&serviceName=Telegram : @PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#Telegram : @PouRia_Cheat
+vless://54b4c039-7be6-448f-b704-820251b079db@pouriacheat.fergalvpnmod.com:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=/&type=grpc&serviceName=Telegram : @PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#DE🇩🇪 - Fast - @IM_SOON
