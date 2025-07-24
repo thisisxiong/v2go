@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://8eed4872-08de-4415-b998-a4848f590045@194.87.77.130:8989?security=reality&encryption=none&pbk=V0eyNDwiopokBD6C40KddpyLSzm_4CSxQb7dsbL_HU0&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@V2ray_confing33
+vless://8edef8ae-dd42-4aca-affc-faa834870bc2@49.13.154.240:3035?security=reality&encryption=none&pbk=JI4hH2EzyJIxyDnfc_TgJyxWws3-l8Bh7ZdDp3iyYEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sni.axe.ir&sid=bbe53393d02629b8#HIGH-SPEED-AXE
 vless://8ed068e8-8a58-4083-aa87-b199e3ccabcc@1.ggrizzzlyshop.xyz:2202?encryption=none&security=none&type=tcp&headerType=none&host=bmw.com#@Grizzlyvpn
 vless://8e75bda1-bd74-4a43-8468-18a3d3dcffa9@83.217.9.233:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=19aa22f681923dc8#Telegram 🆔Alfa_v2ray_ng 😎
 vless://8e68e16a-096e-4485-9efb-21cb2989c296@185.207.198.254:443?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=tls&encryption=none&host=Kk40.motorphrotan.ir&fp=chrome&type=ws&sni=Kk40.motorphrotan.ir#🇩🇪 @SRCVPN - MCI
@@ -500,5 +502,3 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&sec
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#@V2ray_Ng ALL NET
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#@V2ray1_Ng
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#@V2RAYNG_1378
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#@CaV2ray ⚡️
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws#@XpnTeam
