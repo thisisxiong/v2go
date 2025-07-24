@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vmess://eyJhZGQiOiIxNTEuMTAxLjIuMTY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhbWQuYWwiLCJpZCI6ImJlYjdkMDk4LTQ4YmEtNGJlOC1hNDdhLTc1OGJmM2M0NzBiOCIsIm5ldCI6IndzIiwicGF0aCI6Ii8/ZWRcdTAwM2QyMDQ4IiwicG9ydCI6IjgwIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNS4yMDQuNjcuNTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InVzNGUtMjAyNDAxMTEudjJmcmVldnBuLmNvbSIsImlkIjoiMmE4YTEwZmItOWNhMy0zNjdlLWEyMzQtY2YwOWY4NDFiZTRmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3YxNDktZHNrZHM2NSIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiLwn5uh77iPIEBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiLwn5KO2qnYp9mG2YHbjNqvINmH2KfbjCDYqNuM2LTYqtixINiv2LEg2obZhtmEINiq2YTar9ix2KfZhfCfko4gQENvbmZpZ19SYXllZ2FuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNS4yMDQuMjM0LjIwMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2YxNjlhMy0yZTlhLTQ4OTQtYmE1My03YjJmYTZmZDA4YjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQxMTAwIiwicHMiOiLwn5+iIEBzZXJ2ZXJfZnJlZTIg8J+foiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -500,5 +502,3 @@ vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&en
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#Channel : @CaptalVpn 🏴🏳
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#@alfa_v2ray_ng کانالمون 🫆
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN❤️‍🔥

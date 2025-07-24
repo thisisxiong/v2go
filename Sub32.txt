@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://4988687e-df1b-45e6-8f7e-fde45b270d76@n4.asmdns.net:44185?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@v2ray1_ng
+vless://4988687e-df1b-45e6-8f7e-fde45b270d76@n4.asmdns.net:44185?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@V2RAYROZ
 vless://4988687e-df1b-45e6-8f7e-fde45b270d76@n4.asmdns.net:44185?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Alfa_v2ray_ng
 vless://4988687e-df1b-45e6-8f7e-fde45b270d76@n4.asmdns.net:44185?security=&encryption=none&host=fast.com&headerType=http&type=tcp#@V2ray_confing33
 vless://4988687e-df1b-45e6-8f7e-fde45b270d76@n4.asmdns.net:44185?security=&encryption=none&host=fast.com&headerType=http&type=tcp#@HiByeVPNN
@@ -500,5 +502,3 @@ vless://375deee9-50a5-4e9b-be57-fa12908d5497@165.232.82.89:8990?type=tcp&securit
 vless://375deee9-50a5-4e9b-be57-fa12908d5497@165.232.82.89:8990?sni=refersion.com&sid=9912311de4630f2d&security=reality&encryption=none&headerType=none&fp=chrome&type=tcp&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA#Telegram:@config_proxy 🔥
 vless://375deee9-50a5-4e9b-be57-fa12908d5497@165.232.82.89:8990?sni=refersion.com&sid=9912311de4630f2d&security=reality&encryption=none&headerType=none&fp=chrome&type=tcp&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA#Telegram:@config_proxy 💦
 vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#🍉 @FreakConfig
-vless://375805ec-e355-4e09-afe1-6dbc4da21f2e@91.99.166.88:8443?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#Telegram+@vmesskhodam
-vless://36f540c5-0e77-4801-8633-de11645737e4@185.204.169.242:80?path=/@custom_config&security=none&encryption=none&host=/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&type=ws#@v2rayng_fars 🚀 Telegram
