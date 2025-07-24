@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?mode=auto&security=none&encryption=none&host=joinshhproxybede.com&type=xhttp#☁️ @server_free2 ☁️
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=joinshhproxybede.com&type=xhttp#All¹ @ghalagyann 🇮🇹
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=joinshhproxybede.com&type=xhttp#All² @ghalagyann 🇮🇹
 vless://28ee9a-a7e2-4b3b-ac93-5052dd7b53ac@91.107.180.100:45489?type=tcp&path=/&host=speedtest.net&headerType=http&security=none#SOB!X SHOP 🚀-@SobyV2ray
@@ -502,3 +501,4 @@ vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?encryption=none
 vless://17602cf7-97d5-4881-8e4f-2fdaa9f49d3f@23.90.188.66:41959?security=reality&encryption=none&pbk=xIndzDWBc0JR0MiuEQp-3Hxl6y3d7vEy4HCjnRcXIFc&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=canva.com&sid=a932#🇪🇸 | @External_Net
 vless://1759f2bb-ab83-450b-a89b-4b24c0eea75b@198.23.206.26:59814?security=reality&encryption=none&pbk=aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=a0209e22#🇺🇸 | @External_Net
 vless://17319ae5-2ad4-441d-888a-e6de1d3f7542@all3.blackkwolff.com:9435?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-supra.parisa.dpdns.org&type=ws&sni=rayan-supra.parisa.dpdns.org#@warp_city

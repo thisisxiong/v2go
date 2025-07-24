@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&type=tcp&headerType=none#King_v2raay
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#🟢 @server_free2 🟢
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#فنلاند 🇫🇮 @V2xay
@@ -502,3 +501,4 @@ vless://ea0fdf53-a676-4149-ec11-b727e921fb13@bmi.raheaiande.ir:1001?type=tcp&pat
 vless://eAA14Oaf-47Da-4201-A1E2-004833106835@www.speedtest.net:443/?type=ws&host=r2.saman.dpdns.org&path=/?ed=2540&security=tls&fp=chrome&sni=r2.saman.dpdns.org&alpn=h3,h2,http/1.1#@Filter_breaker | Netherlands
 vless://e9f1a3c5-8f9a-1b2c-3d4e-6f5a7b8c9d0e@91.107.238.107:443?security=tls&sni=v2ray-config.sohala.uk&type=ws&host=v2ray-config.sohala.uk&path=/ws#@Filter_breaker | Netherlands
 vless://e9f0g1h2-9012-3abc-4def-567890abcdef@45.76.123.380:8443?security=tls&type=ws&path=/vless#@Filter_breaker | Singapore
+vless://e9f0a1b2-c3d4-9012-5678-89abcdef0123@104.19.45.192:443?type=ws&encryption=none&host=aslivpn.pages.dev&path=/VLESS@PlanAsli&security=tls&sni=aslivpn.pages.dev&fp=chrome#@CaV2ray ⚡️

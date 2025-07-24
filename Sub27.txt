@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-33
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-31
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-29
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-27
@@ -502,3 +501,4 @@ vless://8fe30358-c761-4520-8c2f-167c83fbcde2@tr.g2games.ir:443?mode=auto&path=/a
 vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@51.75.169.41:2053?mode=gun&security=reality&encryption=none&authority=&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&fp=chrome&type=grpc&serviceName=2053vless&sni=sourceforge.net&sid=5640288dca4f8519#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
 vless://8f887aef-b1b0-47dc-9fe9-53f61d21efad@185.146.173.18:443?path=/?ed=2048&security=tls&encryption=none&host=telewebion.dns-shop.ir&type=ws#@Alfred_Config
 vless://8f887aef-b1b0-47dc-9fe9-53f61d21efad@185.146.173.18:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=telewebion.dns-shop.ir&fp=chrome&type=ws&sni=telewebion.dns-shop.ir#@Alfred_Config
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?type=tcp&headerType=none&security=tls&fp=chrome&sni=dedic.app-browser.org&allowInsecure=true#Config🇫🇮@Do_itforyou

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?type=tcp&headerType=none&security=tls&fp=chrome&sni=dedic.app-browser.org&allowInsecure=true#Config🇫🇮@Do_itforyou
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&encryption=none&type=tcp&path=telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&sni=dedic.app-browser.org&fp=chrome&headerType=none#Config🇫🇮@Do_itforyou
 vless://8f6f8193-0f0b-5933-9346-718542befff9@151.101.2.219:80?type=ws&host=ELiV2--ELENA.COM#Telegram:@config_proxy 🔥
 vless://8f6e5041-f6de-44ea-a601-a025b7c1ee94@199.232.110.60:80?security=none&type=ws&host=speed.82727speedtest.ssyt553.in&path=ws/?ed=2048#Telegram:@config_proxy 🔥
@@ -502,3 +501,4 @@ vless://7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8@speedtest.net:80?type=xhttp&path=/@
 vless://7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8@ip2.yw5jk.org:80?type=xhttp&path=/@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF?ed=2048&host=lool-fool.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram: @IP_CF
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#@warp_city
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@85.133.194.83:3333?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?type=tcp&headerType=http&host=bmw.com&path=/#Config🇩🇪@Do_itforyou
