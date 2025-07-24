@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-44
 vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-42
 vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-40
 vless://SVNTEAM1@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-38
@@ -501,4 +502,3 @@ vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&encr
 vless://8f6f8193-0f0b-5933-9346-718542befff9@151.101.2.219:80?type=ws&host=ELiV2--ELENA.COM#Telegram:@config_proxy 🔥
 vless://8f6e5041-f6de-44ea-a601-a025b7c1ee94@199.232.110.60:80?security=none&type=ws&host=speed.82727speedtest.ssyt553.in&path=ws/?ed=2048#Telegram:@config_proxy 🔥
 vless://8f6e5041-f6de-44ea-a601-a025b7c1ee94@199.232.10.165:80?security=none&type=ws&host=speed.82727speedtest.ssyt553.in&path=ws/?ed=2048#Telegram:@config_proxy 🔥
-vless://8f6e5041-f6de-44ea-a601-a025b7c1ee94@199.232.0.11:80?security=none&type=ws&host=speed.82727speedtest.ssyt553.in&path=ws/?ed=2048#Telegram:@config_proxy 🔥
