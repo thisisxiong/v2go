@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://cc81c35e-48af-40bf-8b78-d72a04d3a682@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A100+GB
 vless://c9e2b304-ed2b-5d09-8a4e-70b9b246b6c7@kr-2-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=kr-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20KR%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://c820360e-7a8c-44cc-87cc-19229165a61d@fi-1-cbt.medicaldream.ir:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20FI%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 vless://ba8a679a-e76c-42eb-b22c-1650c9723f8d@nl-2-rvp.medicaldream.ir:443?security=tls&sni=nl-2-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=nl-2-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20NL%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -71,6 +72,7 @@ trojan://telegram-id-directvpn@63.180.0.166:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@18.192.190.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%3E%3E%40DirectVPN%3A%3ADE
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#%3E%3E%40Outline_Vpn%3A%3AUS
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@141.193.213.21:80?path=%2F&security=none&encryption=none&host=19.sahanwickramasinghe.shop&type=ws#%3E%3E%40ultrasurf_12%3A%3ASG
+vmess://eyJhZGQiOiI0Ny4xMDQuMTg2LjEzMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjUwMDAyIiwicHMiOiI+PkBPdXRsaW5lX1Zwbjo6Q04iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=%2FTel-%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#%3E%3E%40shadowproxy66%3A%3AUS
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#%3E%3E%40shadowproxy66%3A%3AUS
 vless://a879196c-d849-4416-9b87-464733270cc5@194.182.79.117:35307?security=reality&sni=sourceforge.net&fp=chrome&pbk=q9S56XnvF1SLqCwmld0MJ4TnpAu4PI2GKcl71fK4kAA&sid=df322bfe&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3ACZ
@@ -500,5 +502,3 @@ trojan://telegram-id-directvpn@3.78.4.19:22223?security=tls&alpn=http/1.1&header
 trojan://telegram-id-directvpn@3.78.31.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.76.156.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.74.220.92:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@3.74.102.227:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
-trojan://telegram-id-directvpn@3.74.100.225:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
