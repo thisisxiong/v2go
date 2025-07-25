@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://c60c5106-08b1-4fe7-eff9-d665d62f3030@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=nmcior945cnfastmciedjed834.global.ssl.fastly.net&type=xhttp#@Selinc
 vless://c5ffc0ce-a882-48dd-bebc-c09e0783a293@172.67.21.239:2052?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://c5ef1e11-689c-406f-abe7-47e315ea2c70@d7.vixsm.ir:4811?security=none&encryption=none&headerType=none&type=tcp#🌟Telegram:@Asak_Vpn
 vless://c5e011a7-6de9-4eec-96bc-e38d424785ba@api2.gamingserverstream.ir:8443?security=reality&encryption=none&pbk=0cq2Hb48xoxO-DvY40HycXGqZd3XmB90_g1pSShCpjs&headerType=none&fp=chrome&spx=/iXKaMIrwpAuFlnD&type=tcp&flow=xtls-rprx-vision&sni=api.gamingserverstream.ir&sid=711bc39b#@warp_city 649
@@ -502,3 +501,4 @@ vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@188.121.104.160:443?path=@bypass_fi
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@feArLESS-cHANge.oNEEat.CO:80?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@feArLESS-cHANge.oNEEat.CO:80?path=/&security=&encryption=none&type=ws#Channel id: @ShadowProxy66 🇺🇸
 vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@wWw.SpeedTest.Net:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#SvnTeam-WIFI-irancell
+vless://b0265ca8-98dd-46b2-adec-4705b5e7eb48@102.177.189.28:80/?type=ws&path=/@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot@SvnProBot?ed=2048&host=psi.misvn.ir&security=none#SvnTeam-WIFI-irancell
