@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDUuODkwNjAwMDQueHl6IiwiaWQiOiIzNTFlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTQiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2ICIsInNjeSI6ImF1dG8iLCJzbmkiOiJyYWsyZDUuODkwNjAwMDQueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#@Filter_breaker | United States
-vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwiaWQiOiIzNTBlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6IvCflJcgVGVsZWdyYW0gOiBAVml0dXJleSDwn5SSIiwic2N5IjoiYXV0byIsInNuaSI6InJhazJkNC44OTA2MDAwNC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwiaWQiOiIzNTBlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6IkB3YXJwX2NpdHkiLCJzY3kiOiJhdXRvIiwic25pIjoicmFrMmQ0Ljg5MDYwMDA0Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNzIuNjQuMTM0LjE4MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2MjQ5MjI0Ny0xYTk4LTQzMjQtYjE5Mi0yYjU1YzFjNjQwNzYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJWUjExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9 @Filter_breaker 🇺🇸
 vmess://eyJhZGQiOiIxNjkuMTUwLjIwOC44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJARzBEdjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -502,3 +500,5 @@ vless://fc7ed3a4-da90-475f-a751-769eca257af7@172.67.215.65:2053?path=/wsfarancem
 vless://fc7d5074-cf6d-42bc-9cf4-a76811aca6c0@95.38.135.155:8443?security=tls&sni=proxys46.elcom.sbs&type=ws&path=/&allowInsecure=1#Telegram:@config_proxy 🔥
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?path=WEDBAZ?ed=2048&security=none&encryption=none&host=Germany.ss.ss&type=ws#💎Telegram: @v2rayngsupbot
 vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?path=WEDBAZ?ed=2048&security=none&encryption=none&host=Germany.ss.ss&type=ws#tel: @bad_raqs وصل شدی جوین بده
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?path=WEDBAZ?ed=2048&security=none&encryption=none&host=Germandiginoe.com&type=ws#@v2rayngsupbot / @ai_duet👁️
+vless://fc64f952-bec8-4bed-b112-64303030f97f@j3s1i.proxyfire.xyz:8000?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay

@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=69#@CaV2ray ⚡️
-vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇮🇹@Shh_Proxy | All¹
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇩🇪 Telegram @SRCVPN
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?mode=auto&security=none&encryption=none&host=joinshhproxybede.com&type=xhttp#☁️ @server_free2 ☁️
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=joinshhproxybede.com&type=xhttp#All¹ @ghalagyann 🇮🇹
@@ -502,3 +500,5 @@ vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=none&e
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=&encryption=none&headerType=none&type=tcp#@varn_Net
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?encryption=none&security=none&type=tcp&headerType=none#@HiByeVPNN
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
+vless://17602cf7-97d5-4881-8e4f-2fdaa9f49d3f@23.90.188.66:41959?security=reality&encryption=none&pbk=xIndzDWBc0JR0MiuEQp-3Hxl6y3d7vEy4HCjnRcXIFc&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=canva.com&sid=a932#🇪🇸 | @External_Net
+vless://1759f2bb-ab83-450b-a89b-4b24c0eea75b@198.23.206.26:59814?security=reality&encryption=none&pbk=aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=a0209e22#🇺🇸 | @External_Net
