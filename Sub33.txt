@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://37c38568-d2fb-46f4-a107-ca15890f5cdf@em-3.webnama.com.tr:1429?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://37c1a338-2378-4757-899e-2f89b3892939@mizausa.mitsonic.com:2083?path=/?ed=2048&security=tls&encryption=none&type=ws&sni=91ca3d82e15c53.mitsonic.com#@V2rayNG3
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=/?BIA_CHANEL@JOKERRVPN&headerType=none&fp=chrome&spx=/JOKERRVPNBIA_CHANEL@JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#@CaV2ray ⚡️
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cbfe#@CaV2ray ⚡️
@@ -501,4 +502,3 @@ vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@188.166.194.27:7594?type=grpc&mode=
 vless://2a219df1-a04b-4424-bfd2-cb37aeb10b2c@178.62.232.236:7594?type=grpc&mode=gun&serviceName=7594vless&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=dash.cloudflare.com&pbk=AZSptdvlWvvmKWEDTY56UsIcnTP8nGCafvPEQOozrxw&sid=765e8e700426816c#🇳🇱@EVAY_VPN
 vless://2a11c595-935d-4e1b-81d4-ab8dd1e10bff@104.17.147.22:80?path=/?ed=2048&security=none&encryption=none&host=DECENt-ReFerEnCE.ZUlAir.oRG.&type=ws#WiFi-@SRCVPN-10
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@tr01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#@AblNet7 | 🇹🇷 Turkey
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#@AblNet7 | 🇷🇺 Russia
