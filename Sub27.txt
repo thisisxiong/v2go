@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-39
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-37
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-35
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-33
@@ -502,3 +501,4 @@ vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@www.speedtest.net:2052?path=/&secur
 vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@WWW.SPEEDTEST.NET:2052?path=/&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#🩵Telegram:@Asak_Vpn
 vless://8ff133e8-0020-4187-aecf-ca54bb58114d@pishgam.sdcards.ir:8080?type=ws&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir?ed=2087&host=amiri2.server-dev2.ir&security=none#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
 vless://8fe30358-c761-4520-8c2f-167c83fbcde2@tr.g2games.ir:443?mode=auto&path=/api/v3/&security=reality&encryption=none&extra={ "xPaddingBytes": "100-1000" }&pbk=DKQyh2lWWoRu_LqqthobUZwJtYn1ch-49zOFpKHKryM&host=www.microsoft.com&fp=chrome&spx=/&type=xhttp&sni=www.microsoft.com&sid=0ea91a0e#ترکیه 🇹🇷 @𝗩𝟮𝘅𝗮𝘆
+vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@51.75.169.41:2053?mode=gun&security=reality&encryption=none&authority=&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&fp=chrome&type=grpc&serviceName=2053vless&sni=sourceforge.net&sid=5640288dca4f8519#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
