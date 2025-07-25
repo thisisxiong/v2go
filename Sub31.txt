@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.80.111.165:2053?path=/Telegram@Selinc/?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=chrome&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@Selinc
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=/yzejftqqvmhtztle?ed=2560&security=tls&sni=019309B7.XyZ0.PaGeS.dEV#Channel : @CaptalVpn🏴‍☠️
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=chrome&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#☁️ @server_free2 ☁️
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=/yzejftqqvmhtztle?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=/yzejftqqvmhtztle?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#☁️ @server_free2 ☁️
@@ -502,3 +500,5 @@ vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.170:443?security=tls&sni
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@193.123.176.254:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@144.24.161.156:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@144.21.36.108:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
+vless://4a1abb8d-812e-41d8-b398-4cba9933805d@143.47.237.138:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
+vless://4a1abb8d-812e-41d8-b398-4cba9933805d@141.148.244.119:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
