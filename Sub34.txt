@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://29579eb2-cc20-4fd1-bd9c-80b6a4d6f1a6@62.60.158.83:26664?security=reality&sni=www.latimes.com&fp=chrome&pbk=swAA7H_TNvCw9davDq_8yae8ttSs06cyxLFOb7hNi1o&sid=f842990894c78f95&spx=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&type=tcp&encryption=none#aniu4beu
-vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=69#@CaV2ray ⚡️
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇮🇹@Shh_Proxy | All¹
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇩🇪 Telegram @SRCVPN
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?mode=auto&security=none&encryption=none&host=joinshhproxybede.com&type=xhttp#☁️ @server_free2 ☁️
@@ -502,3 +500,5 @@ vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=none&e
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=none&encryption=none&headerType=none&type=tcp#@CanfigVip+🍕
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?security=&encryption=none&headerType=none&type=tcp#@varn_Net
 vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?encryption=none&security=none&type=tcp&headerType=none#@HiByeVPNN
+vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
+vless://17602cf7-97d5-4881-8e4f-2fdaa9f49d3f@23.90.188.66:41959?security=reality&encryption=none&pbk=xIndzDWBc0JR0MiuEQp-3Hxl6y3d7vEy4HCjnRcXIFc&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=canva.com&sid=a932#🇪🇸 | @External_Net

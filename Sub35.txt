@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://178c0a5b-193a-48f8-bf71-f713a3830a3e@142.132.227.65:8080?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
-vless://17602cf7-97d5-4881-8e4f-2fdaa9f49d3f@23.90.188.66:41959?security=reality&encryption=none&pbk=xIndzDWBc0JR0MiuEQp-3Hxl6y3d7vEy4HCjnRcXIFc&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=canva.com&sid=a932#🇪🇸 | @External_Net
 vless://1759f2bb-ab83-450b-a89b-4b24c0eea75b@198.23.206.26:59814?security=reality&encryption=none&pbk=aWooxptTQgQjHO1JDxB8axAo8jzLWJdOSE6322B7wWY&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=a0209e22#🇺🇸 | @External_Net
 vless://17319ae5-2ad4-441d-888a-e6de1d3f7542@all3.blackkwolff.com:9435?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-supra.parisa.dpdns.org&type=ws&sni=rayan-supra.parisa.dpdns.org#@warp_city
@@ -502,3 +500,5 @@ vless://03631162-452d-4c21-b0cc-fa652b0895a4@151.101.0.155:80?mode=auto&path=ZED
 vless://03363eef-b981-464f-dec0-8efd39ec7c82@128.140.36.164:443?mode=gun&security=reality&encryption=none&pbk=YJ3tlixp_GFIlmvuMSVQOCi3BAKKixdJthWMzSSBlXw&fp=chrome&spx=/&type=grpc&serviceName=telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ,telegram-SpringHQ&sni=mega.io#آلمان 🇩🇪 @V2xay
 vless://0334916a-95e8-4a91-995b-e60c26c9dfe3@www.speedtest.net:8443?security=tls&encryption=none&host=de4vipys.sevenploos.com&fp=chrome&type=ws&sni=de4vipys.sevenploos.com#28/11
 vless://03156d6a-fb9f-4ed9-a607-a80ce869fec0@151.101.3.9:80?type=xhttp&path=/Telegram@viturey?ed=2048&host=bpi5.global.ssl.fastly.net&mode=auto&security=none#Telegram@viturey 🇸🇪🇸🇪
+vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?security=reality&encryption=none&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2404#آمریکا 🇺🇸 @V2xay
+vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?security=reality&encryption=none&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2404#@CaV2ray ⚡️
