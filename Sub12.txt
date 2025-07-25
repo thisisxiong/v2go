@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-0242
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc=@93.152.207.167:443#%F0%9F%87%AB%F0%9F%87%AEFI-93.152.207.167-0262
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-194.87.31.68-0237
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0243
@@ -502,3 +501,4 @@ vless://34661549-d217-4afb-b511-c6c34655d983@213.142.133.165:11228?security=real
 vless://34661549-d217-4afb-b511-c6c34655d983@213.142.133.165:11228?security=reality&encryption=none&pbk=ZH8w5JZXcWHBRI7F5r2k6CHSVXSROX_zjziDSx2YjmE&headerType=none=ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----@ghalagyann----&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cdn77.com&sid=4df4b2b9b547fbf7#Telegram:@config_proxy 🔥
 vless://34661549-d217-4afb-b511-c6c34655d983@213.142.133.165:11228?security=reality&encryption=none&pbk=ZH8w5JZXcWHBRI7F5r2k6CHSVXSROX_zjziDSx2YjmE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cdn77.com&sid=4df4b2b9b547fbf7#t.me/entryNET/config=1837991369778490
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&encryption=none&host=Kz3V0zHz0P.dAsTaTsArD.oRg&fp=chrome&type=ws&sni=Kz3V0zHz0P.dAsTaTsArD.oRg#t.me/entryNET/config=1837983757609062
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&encryption=none&host=Kz3V0zHz0P.dAsTaTsArD.oRg&fp=chrome&type=ws&sni=Kz3V0zHz0P.dAsTaTsArD.oRg#Telegram:@config_proxy 🔥

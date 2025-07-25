@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://b5cac98c-7f46-5385-9371-5a83492168de@us-1-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20US%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://b403fc80-0a34-5433-8264-7e0b98e669b8@sg-2-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=sg-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20SG%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://aaaa8f7a-4b22-5f01-9b91-95f368ef38c7@uk-2-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20UK%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://a35d4915-6c32-4950-a968-fb8f86b00dbc@de-2-rvp.medicaldream.ir:443?security=tls&sni=de-2-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=de-2-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -502,3 +501,4 @@ trojan://telegram-id-directvpn@3.74.102.227:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@3.74.100.225:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.73.54.252:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.70.31.29:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@3.70.103.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
