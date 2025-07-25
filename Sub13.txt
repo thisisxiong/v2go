@@ -2,15 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&encryption=none&host=Kz3V0zHz0P.dAsTaTsArD.oRg&fp=chrome&type=ws&sni=Kz3V0zHz0P.dAsTaTsArD.oRg#Telegram:@config_proxy 🔥
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=/&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/proxyip=zani.yaemiko.ggff.net&security=tls&encryption=none&alpn=http/1.1&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram+:+@V2rayEnglish
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.159.125:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@bored_vpn
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@bored_vpn
-vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@est01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#t.me/entryNET/config=1837984574904535
-vless://28ec01eb-1683-4e4e-a766-4d6123350942@www.speedtest.net:80?type=ws&security=none&path=/ali&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.#Telegram:@config_proxy 🔥
-vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/KFh3HO76VUQPJDgM/OC4yMjAuMTM0LjEzNg&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simoWEbsiTESPEedTEST.ir#t.me/entryNET/config=1837987344716020
-vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/KFh3HO76VUQPJDgM/OC4yMjAuMTM0LjEzNg&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simoWEbsiTESPEedTEST.ir#Telegram:@config_proxy 🔥
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=/ImnZuDCV3mYi6m6f/NS4xMC4yMTUuMjY&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=simOWeBSitESPeEdtesT.Ir#Telegram:@config_proxy 🔥
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=/1u40Y2pvl82tR3i8/MTk0LjM4LjIwLjc4?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SimoWeBsITesPEEDTEst.ir#Telegram:@config_proxy 🔥
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang/Tel-@azadiiivpn/?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#Telegram:@config_proxy 🔥
@@ -502,3 +493,12 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.66.210:22222?security=tls&sni=t
 vless://007d3ef7-b3cb-4681-917e-c5edeebdbb6c@94.183.158.12:8083?type=ws&path=/&security=none#t.me/entryNET/config=1837994831657671
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=0&sni=torjan.xn--xhq44j.eu.org&ws=1&wspath=/#t.me/entryNET/config=1838002763725269
 trojan://telegram-id-privatevpns@18.197.77.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838000177611612
+trojan://telegram-id-directvpn@63.176.8.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1838003197441479
+trojan://telegram-id-directvpn@18.199.233.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@18.197.77.20:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1837999422910030
+trojan://f2004126-5865-4980-b6dd-2211dbaadf10@iplocation.net:443?path=/?ed=2560&security=tls&encryption=none&host=rayan.sahel.us.kg&type=ws&sni=rayan.sahel.us.kg#t.me/entryNET/config=1837993137678069
+trojan://FuUaWS3YWG@38.175.201.156:2053?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&sni=Crunch.floorshoping22.com#t.me/entryNET/config=1837995586471207
+trojan://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@bz02.ssr.ee:443?allowInsecure=0&sni=bz02.ssr.ee#t.me/entryNET/config=1837992753897247
+trojan://99ece951-d623-4fcd-adac-021b97d0f887@hajlab.ucdavis.edu:443?security=tls&encryption=none&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.bEsTdRlImIt.NeT&fp=chrome&type=ws&sni=hajlab.ucdavis.edu#t.me/entryNET/config=1837993699030781
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VGpKWlRVdEJXa1pETWs4eU9VcEhVQQ@156.231.104.12:18002#t.me/entryNET/config=1837999491749670
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.134.94.168:3389#t.me/entryNET/config=1837991811612455
