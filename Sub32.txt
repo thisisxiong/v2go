@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://4a1abb8d-812e-41d8-b398-4cba9933805d@132.226.211.80:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@104.26.9.207:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@104.21.89.247:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@104.18.14.133:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
@@ -501,4 +502,3 @@ vless://38046915-6d82-4d86-8510-b5bcc569d0ea@104.17.148.22:443?path=/@Prime_Vers
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@104.17.148.22:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#@HiByeVPNN
 vless://37f1363a-e041-8ccd-d27f-e542a4a2def5@mehamboz.darkping.net:48740?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=stackoverflow.com&fp=chrome&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&sid=d6d54c08fbbf895f#🚀 hazaratx
 vless://37ce86f5-df0c-0384-a4b2-8cedd9a1aedc@mehamboz.darkping.net:31548?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#🚀 hazarat
-vless://37ce86f5-df0c-0384-a4b2-8cedd9a1aedc@mehamboz.darkping.net:31548?security=reality&encryption=none&pbk=KmXtdOimd1xGGg7V2rvo74_HxMd6_bzFyosF6Z5c22A&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=d6d54c08fbbf895f#
