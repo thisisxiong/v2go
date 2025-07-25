@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://8fba1e9e-9d0b-480f-9d41-b796647eacef@51.75.169.41:2053?mode=gun&security=reality&encryption=none&authority=&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&fp=chrome&type=grpc&serviceName=2053vless&sni=sourceforge.net&sid=5640288dca4f8519#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
 vless://8f887aef-b1b0-47dc-9fe9-53f61d21efad@185.146.173.18:443?path=/?ed=2048&security=tls&encryption=none&host=telewebion.dns-shop.ir&type=ws#@Alfred_Config
 vless://8f887aef-b1b0-47dc-9fe9-53f61d21efad@185.146.173.18:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=telewebion.dns-shop.ir&fp=chrome&type=ws&sni=telewebion.dns-shop.ir#@Alfred_Config
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?type=tcp&headerType=none&security=tls&fp=chrome&sni=dedic.app-browser.org&allowInsecure=true#Config🇫🇮@Do_itforyou
@@ -501,4 +502,3 @@ vless://7d6b41f1-c1c7-4853-a4f8-708f362d72e8@65.109.186.15:53773?security=none&e
 vless://7d4e9491-4eb4-42da-926c-2c7c201e99e2@UK.IPCLOUD.SHOP:443?path=/net?ed=2048&security=tls&encryption=none&host=uk-cdn.pop-up-pool.xyz&type=ws&sni=uk-cdn.pop-up-pool.xyz#FreeForAll
 vless://7d378f7c-ccb7-4b17-a0ac-f070f3b62d75@Www.speedtest.net:2086?type=httpupgrade&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=wwW.speedtesT.net.eLectrolUxxv.ir.&security=none#🇩🇪XPNTEAM   [CONFIGFREE]-qy1las5uy
 vless://7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8@speedtest.net:80?type=xhttp&path=/@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF?ed=2048&host=lool-fool.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram: @IP_CF
-vless://7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8@ip2.yw5jk.org:80?type=xhttp&path=/@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF?ed=2048&host=lool-fool.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram: @IP_CF
