@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-43
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-41
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-39
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-37
@@ -502,3 +501,4 @@ vless://901f06a3-ac81-4ff4-bf7c-2b79bc0a244b@104.18.26.90:2082?type=ws&path=/tel
 vless://901f06a3-ac81-4ff4-bf7c-2b79bc0a244b@104.16.1.106:2082?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=2052&host=kK78.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq123925678.academiGroup.IR&security=none#🇩🇪  @EXPRESSVPN_420
 vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@www.speedtest.net:2052?path=/&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
 vless://900466aa-aa08-49ed-bf40-d740e5c7d5e7@WWW.SPEEDTEST.NET:2052?path=/&security=none&encryption=none&host=FN.CafeBazarZzZ.IP-DDNS.COM&type=httpupgrade#🩵Telegram:@Asak_Vpn
+vless://8ff133e8-0020-4187-aecf-ca54bb58114d@pishgam.sdcards.ir:8080?type=ws&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir?ed=2087&host=amiri2.server-dev2.ir&security=none#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir

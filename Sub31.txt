@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=/yzejftqqvmhtztle?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@Academi_vpn5
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=chrome&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@V2ray1_Ng
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=chrome&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@V2RAYROZ
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=/Telegram@V2rayN5/?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=chrome&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@V2rayN5  4
@@ -502,3 +501,4 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@V2RAYNG_1378
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@CanfigVip+🍕
 vless://49eb1e7a-2b76-4915-ba85-977c0e0d2ab8@194.135.46.24:443?security=none&encryption=none&headerType=none&type=tcp#Telegram.@vmessorg
+vless://49aacdab-c9b9-4031-8e64-514e9cd72089@104.18.22.19:443?security=tls&encryption=none&type=ws&host=shAHaNShahi.pagES.deV&path=/Telegram@V2ray_Alpha/?ed=2048&sni=ShahANsHahi.paGEs.Dev&fp=chrome&alpn=h2,http/1.1#Awlix_ir

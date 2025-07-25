@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vmess://eyJhZGQiOiIxNzIuNjcuMTY0LjE2NCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkIiwiaWQiOiJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFYycmF5TkczIiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDYuODkwNjAwMDQueHl6IiwiaWQiOiIzNTJmMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTUiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2ICIsInNjeSI6ImF1dG8iLCJzbmkiOiJyYWsyZDYuODkwNjAwMDQueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#@Filter_breaker | United States
 vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDUuODkwNjAwMDQueHl6IiwiaWQiOiIzNTFlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTQiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2ICIsInNjeSI6ImF1dG8iLCJzbmkiOiJyYWsyZDUuODkwNjAwMDQueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#@Filter_breaker | United States
 vmess://eyJhZGQiOiIxNzIuNjcuMTMxLjI3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyYWsyZDQuODkwNjAwMDQueHl6IiwiaWQiOiIzNTBlMmIwMS1kNDEwLTQ0YTYtOTBiYS02NDgzZjEwNjI5NzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIwNTMiLCJwcyI6IvCflJcgVGVsZWdyYW0gOiBAVml0dXJleSDwn5SSIiwic2N5IjoiYXV0byIsInNuaSI6InJhazJkNC44OTA2MDAwNC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
@@ -502,3 +501,4 @@ vless://fc9a44d9-d786-47c6-9127-258d5ee18f4e@android.pakasak.com:2025?security=n
 vless://fc7ed3a4-da90-475f-a751-769eca257af7@172.67.215.65:2053?path=/wsfarancemat&security=tls&alpn=http/1.1&encryption=none&host=fa2.alighan.ir&fp=chrome&type=ws&sni=fa1.alighan.ir#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@EXPRESSVPN_420
 vless://fc7ed3a4-da90-475f-a751-769eca257af7@172.67.215.65:2053?path=/wsfarancemat&security=tls&alpn=http/1.1&encryption=none&host=fa2.alighan.ir&fp=chrome&type=ws&sni=fa1.alighan.ir#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://fc7d5074-cf6d-42bc-9cf4-a76811aca6c0@95.38.135.155:8443?security=tls&sni=proxys46.elcom.sbs&type=ws&path=/&allowInsecure=1#Telegram:@config_proxy 🔥
+vless://fc7a34b8-7f83-475f-bca4-7a8f5dc861fb@151.101.242.172:80?path=WEDBAZ?ed=2048&security=none&encryption=none&host=Germany.ss.ss&type=ws#💎Telegram: @v2rayngsupbot
