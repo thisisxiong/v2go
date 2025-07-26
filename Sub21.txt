@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=/lw&security=tls&encryption=none&host=de.foxinonet.ir&fp=chrome&type=ws&sni=de.foxinonet.ir#🇩🇪+DE-NB-FoxinoNet-v+|+@vpnserverrr
 vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=/lw&security=tls&encryption=none&host=de.foxinonet.ir&fp=chrome&type=ws&sni=de.foxinonet.ir#hamrah(@vmesskhodam)
 vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=/lw&security=tls&encryption=none&host=de.foxinonet.ir&fp=chrome&type=ws&sni=de.foxinonet.ir#DaltOn
 vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=/lw&security=tls&encryption=none&host=de.foxinonet.ir&fp=chrome&type=ws&sni=de.foxinonet.ir#All🇩🇪@Rk_VPS
@@ -501,4 +502,3 @@ vless://eb6eaa3a-acec-466a-83b6-2579c9dfcd53@join-dailyconfigs.resurrection-time
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@proNG1 🇩🇪 DE
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#Telegram:@alfa_v2ray_ng 🔥
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@V2ray_confing33
-vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@Selinc

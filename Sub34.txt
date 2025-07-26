@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link25.liangxin1.xyz:34578/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&fp=chrome&security=reality&pbk=PSn2s5TN4e7n0LkzPunu2IA1hSmOoPYFu3d_psl2Nmc&sid=e534c8be#🇰🇷韩国
 vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=sDG-KQk1BF7V83-xnmrWDouXxpPd_ZSxKcHrJJzbols&sid=32a3650d#🇯🇵日本
 vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link1.liangxin1.xyz:35248/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.hk&fp=chrome&security=reality&pbk=IGsSxC0wgn7wLy0NM0QN_yOREDKT_814Y_3_rbgDoTc&sid=c8c0f951#🇭🇰香港
 vless://2a943112-138b-432d-a3a5-277ea2fd8a2e@www.zula.ir:443?mode=gun&security=tls&encryption=none&authority=&fp=chrome&type=grpc&serviceName=&sni=Tp773WeWsV.aLtAbAnIc.Ir#🩵Telegram:@Asak_Vpn
@@ -501,4 +502,3 @@ vless://19015e0f-a4c2-4af3-bfa5-773fb99b95bf@91.99.95.198:443?security=&encrypti
 vless://18f59918-6f50-4e80-81f2-ba0ed6ed3a47@151.101.64.155:80?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=KEISJWJ.COM&security=none#🇩🇪XPNTEAM   [CONFIGFREE]-52orlo4ew
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?type=tcp&headerType=http&host=testspeed-foreign.tci.ir#@configMs
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
-vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net
