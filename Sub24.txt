@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://d741cd4e-f631-4569-9a92-455901a4e34a@142.93.231.14:38116?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/#@EVAY_VPN🇳🇱
 vless://d709ab3c-0346-4059-aaff-fcf76567ee93@h1d3.hamrahconf.ir:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#@ai_duet / @v2rayngsupbot
 vless://d70422cc-4f4a-4caa-b060-87fc836ee877@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=asjdfbnsjkbfskjdfb.com&type=xhttp#Telegram : Prime_Verse
 vless://d6f4dbe6-3f05-47f5-aa17-4400fd611318@193.24.208.146:13683?security=reality&encryption=none&pbk=v5Nvx93Oe6L16tm7W1cJZC696VcywoIuhMBNa1CYHh8&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=server-11769.prod.hosts.ooklaserver.net&sid=982264#@UCIRANIR
@@ -502,3 +501,4 @@ vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@45.82.251.20:1001?type=tcp&security
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&host=/Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN---Telegram---MTMVPN&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#@AZARBAYJAB1
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&encryption=none&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&headerType=none&fp=chrome&type=tcp&sni=telewebion.com&sid=5fab0deb#داخل ربات و کانال عضو شوید👇
 vless://c7a76973-cfcc-42ae-848b-5b48d202f2af@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
+vless://c78bce12-1796-466f-b8a0-800c32b06679@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷4 tunnel: @EVAY_VPN
