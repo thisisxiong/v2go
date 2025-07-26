@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=&encryption=none&host=TELEGRAM---@v2ray_configs_pools---@v2ray_configs_pools&headerType=none&type=tcp#✅@v2ray_configs_pools
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=&encryption=none&host=TELEGRAM---@v2ray_configs_pools&headerType=none&type=tcp#✅@v2ray_configs_pools
 vless://dc316ea1-2449-4217-a6fb-12db67a9177d@151.101.2.228:80?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v01.drlimit.net#Telegram:@config_proxy 🔥
 vless://dc316ea1-2449-4217-a6fb-12db67a9177d@151.101.2.228:80/?security=none&type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v06.drlimit.net#Telegram:@config_proxy 🔥
@@ -502,3 +501,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGNXVxVzBsNEVDeGY0Y0tTdHd3NkFa@185.193.49.175:8443#✅@v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#Telegram@ConfingV2RaayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1TFRVeHpJVU5TcndDWnlIelozbzV6@151.236.18.201:8443#✅@v2ray_configs_pools
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Telegram@ConfingV2RaayNG
