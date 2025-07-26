@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://91277eef-61d1-4714-a86f-e230fe3f1213@www.speedtest.net:80?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=none&encryption=none&host=www.speedtest.net.argo.netn.argonet.online.&type=httpupgrade#telegram-@ISVvpn
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.253.84:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&type=ws&sni=kawaiifreevpn.pages.dev#🏴‍☠️ | @External_Net
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#Channel id: @ShadowProxy66 🇨🇦
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev @Filter_breaker 🇺🇸
@@ -501,4 +502,3 @@ vless://7e6d3409-ea79-43d9-eaa1-e881146017de@172.167.12.228:443?security=tls&enc
 vless://7e440c43-3c26-43ce-bc1e-015fd7f833c0@172.104.159.129:666?type=tcp&security=reality&fp=chrome&sni=tgju.org&pbk=KHEVIKBdk0i5vkVQiDZ_8ZFcA9fC2g_ybzFWQ_o5ris&sid=838b7c94c1af6b&spx=/#کانفیگ های بیشتر در چنل @CONFIGT
 vless://7e313821-7d0d-442a-88e2-e6a30d89d01d@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey 🇩🇪🇩🇪
 vless://7e313821-7d0d-442a-88e2-e6a30d89d01d@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@v
-vless://7e313821-7d0d-442a-78e2-e6a30d89d01d@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey 🇩🇪🇩🇪
