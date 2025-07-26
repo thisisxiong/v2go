@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://c78bce12-1796-466f-b8a0-800c32b06679@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷4 tunnel: @EVAY_VPN
 vless://c76e6274-30a0-445c-aaef-8e41ab910fbd@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://c76e6274-30a0-445c-aaef-8e41ab910fbd@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://c6e3e92d-1dd2-48ee-b6a2-fec05c0be9d9@151.101.3.8:80?security=none&type=ws&headerType=&path=/telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee?ed=2095&host=49.org#🚀 کانال تلگرام ما : @v2safee
@@ -501,4 +502,3 @@ vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=none&en
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=&encryption=none&headerType=none&type=tcp#[🇫🇮]ae_proxy
-vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=&encryption=none&headerType=none&type=tcp#1

@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?encryption=none&security=none&type=tcp&headerType=none#HiByeVPNN
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🟢 @server_free2 🟢
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🔐 @AblNet7 🌐
@@ -501,4 +502,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸𝐣𝐨𝐢𝐍-
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@vipV2rayNGnp
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@V2ray1_Ng
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@V2RAYNG_1378
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@G0Dv2ray

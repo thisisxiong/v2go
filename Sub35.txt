@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://19015e0f-a4c2-4af3-bfa5-773fb99b95bf@91.99.95.198:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@HiByeVPNN
 vless://18f59918-6f50-4e80-81f2-ba0ed6ed3a47@151.101.64.155:80?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=KEISJWJ.COM&security=none#🇩🇪XPNTEAM   [CONFIGFREE]-52orlo4ew
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?type=tcp&headerType=http&host=testspeed-foreign.tci.ir#@configMs
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
@@ -501,4 +502,3 @@ vless://0517b463-2302-48d5-9b50-8dd2e0e1d638@46.31.79.119:80?mode=auto&path=/wel
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?security=none&encryption=none&headerType=none&type=tcp#@CanfigVip+🍕
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?security=&encryption=none&headerType=none&type=tcp#@varn_Net
-vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?encryption=none&security=none&type=tcp&headerType=none#HiByeVPNN
