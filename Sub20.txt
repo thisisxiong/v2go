@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vmess://eyJhZGQiOiIxOTQuNS4xNzguNzAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZWU3MTU2ZjUtYzU5NC00ZDdmLTllMjUtNWRlMDE0MDU5Yzg1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQyNjQiLCJwcyI6IkBhd2xpeF9pciIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxOTMuMjkuMTM5LjMwMDAiLCJwb3J0Ijo4MDgwLCJ2aWQiOiJmMTIzNDU2Ny04OTAxLTRkZjItYjEyMy00NTY3ODkwMTIzNDUiLCJzZWN1cml0eSI6ImF1dG8iLCJ0eXBlIjoid3MiLCJwYXRoIjoiL3ZtZXNzIn0=@Filter_breaker | Netherlands
 vmess://eyJhZGQiOiIxOTMuMjkuMTM5LjIzMDAiLCJwb3J0Ijo4MDgwLCJ2aWQiOiJmMTIzNDU2Ny04OTAxLTRkZjItYjEyMy00NTY3ODkwMTIzNDUiLCJzZWN1cml0eSI6ImF1dG8iLCJ0eXBlIjoid3MiLCJwYXRoIjoiL3ZtZXNzIn0=@Filter_breaker | Netherlands
 vmess://eyJhZGQiOiIxOTMuMjkuMTM5LjI3MDAiLCJwb3J0Ijo4MDgwLCJ2aWQiOiJmMTIzNDU2Ny04OTAxLTRkZjItYjEyMy00NTY3ODkwMTIzNDUiLCJzZWN1cml0eSI6ImF1dG8iLCJ0eXBlIjoid3MiLCJwYXRoIjoiL3ZtZXNzIn0=@Filter_breaker | Netherlands
 vmess://eyJhZGQiOiIxOTMuMjkuMTM5LjI1MDAiLCJwb3J0Ijo4MDgwLCJ2aWQiOiJmMTIzNDU2Ny04OTAxLTRkZjItYjEyMy00NTY3ODkwMTIzNDUiLCJzZWN1cml0eSI6ImF1dG8iLCJ0eXBlIjoid3MiLCJwYXRoIjoiL3ZtZXNzIn0=@Filter_breaker | Netherlands
@@ -500,5 +502,3 @@ vless://fdc0229d-2037-48c4-94d3-496e67cce5d8@85.234.65.120:443?security=reality&
 vless://fdc0229d-2037-48c4-94d3-496e67cce5d8@85.234.65.120:443?encryption=none&security=reality&sni=github.com&pbk=307pppp6s7XwguGbsjY3xaJPIubgj_D8zNJT5SmtsVA&sid=f90c&spx=/&type=tcp&headerType=none&host=t.me/v2Line#@Daily_Configs
 vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?security=tls&sni=de.foxinonet.ir&fp=chrome&type=ws&path=/lw&host=de.foxinonet.ir&packetEncoding=xudp&encryption=none#@V2ray_confing33
 vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=/lw&security=tls&encryption=none&host=de.foxinonet.ir&fp=chrome&type=ws&sni=de.foxinonet.ir#🇩🇪+DE-NB-FoxinoNet-v+|+@vpnserverrr
-vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=/lw&security=tls&encryption=none&host=de.foxinonet.ir&fp=chrome&type=ws&sni=de.foxinonet.ir#hamrah(@vmesskhodam)
-vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=/lw&security=tls&encryption=none&host=de.foxinonet.ir&fp=chrome&type=ws&sni=de.foxinonet.ir#DaltOn
