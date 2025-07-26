@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e36781b3-3dd9-2ba6-b912-2995b1262150@www.telewebion.com.uk.studentcp.ir:22049?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=5sAAbRXQgEeQYjH1U652zr7c6azVN3a9KVVCWrzJ7mc&sid=da1a52f306950def&type=tcp&headerType=none#@Daily_Configs
-vless://e36781b3-3dd9-2ba6-b912-2995b1262150@www.cafeariel.ir.nl.studentcp.ir:16568?security=reality&encryption=none&pbk=E8eMksW0uUXzpZxjwurDnaIW85z3wo8Hx-YANkzDKVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=aa9f45781c1d5714#@HIBYEVPNN
 vless://e36781b3-3dd9-2ba6-b912-2995b1262150@www.cafeariel.ir.nl.studentcp.ir:16568?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=E8eMksW0uUXzpZxjwurDnaIW85z3wo8Hx-YANkzDKVo&sid=aa9f45781c1d5714&type=tcp&headerType=none#@Daily_Configs
 vless://e36781b3-3dd9-2ba6-b912-2995b1262150@w.w.w.mohsen.com.tu.studentcp.ir:48615?security=reality&encryption=none&pbk=eAC0TMJFU_PNLyoF6ZTWrmI456p9uU4gLriAzzFfZ30&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=393c37936cfa3927#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://e36781b3-3dd9-2ba6-b912-2995b1262150@w.w.w.mohsen.com.tu.studentcp.ir:48615?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=eAC0TMJFU_PNLyoF6ZTWrmI456p9uU4gLriAzzFfZ30&sid=393c37936cfa3927&type=tcp&headerType=none#@Daily_Configs
@@ -502,3 +500,5 @@ vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?host=
 vless://d75648e7-ebfa-4ef0-9436-82e9d4fb0e4f@188.34.157.214:442?encryption=none&security=none&type=grpc#@awlix_ir
 vless://d741cd4e-f631-4569-9a92-455901a4e34a@142.93.231.14:38116?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/#@EVAY_VPN🇳🇱
 vless://d709ab3c-0346-4059-aaff-fcf76567ee93@h1d3.hamrahconf.ir:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#@ai_duet / @v2rayngsupbot
+vless://d70422cc-4f4a-4caa-b060-87fc836ee877@pivaz.fastly80.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=asjdfbnsjkbfskjdfb.com&type=xhttp#Telegram : Prime_Verse
+vless://d6f4dbe6-3f05-47f5-aa17-4400fd611318@193.24.208.146:13683?security=reality&encryption=none&pbk=v5Nvx93Oe6L16tm7W1cJZC696VcywoIuhMBNa1CYHh8&headerType=&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=server-11769.prod.hosts.ooklaserver.net&sid=982264#@UCIRANIR

@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://c76e6274-30a0-445c-aaef-8e41ab910fbd@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://c6e3e92d-1dd2-48ee-b6a2-fec05c0be9d9@151.101.3.8:80?security=none&type=ws&headerType=&path=/telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee,telegram-v2safee?ed=2095&host=49.org#🚀 کانال تلگرام ما : @v2safee
 vless://c6d8e0a2-7e8f-9a1b-2c3d-5e4f6a7b8c9d@45.138.160.98:443?security=tls&sni=v2ray.sohala.uk&type=ws&host=v2ray.sohala.uk&path=/ws#@Filter_breaker | Germany
 vless://c6bd1c56-bc9e-4bd7-8247-e84f0c061b9d@7we2v1o4b1.the-dark-night.top:6987?security=none&encryption=none&headerType=http&type=tcp#Telegram : Prime_Verse
 vless://c6bd1c56-bc9e-4bd7-8247-e84f0c061b9d@7we2v1o4b1.the-dark-night.top:6585?security=none&encryption=none&headerType=http&type=tcp#Telegram : Prime_Verse
@@ -502,3 +500,5 @@ vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=&encryp
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=&encryption=none&headerType=none&type=tcp#[🇫🇮]ae_proxy
 vless://b17ec18e-99af-40af-962b-0ad1b987d740@65.109.201.108:443?security=&encryption=none&headerType=none&type=tcp#1
 vless://b117797e-c090-47d9-b72c-4217f22ef956@de.foxinonet.ir:443?path=/lw&security=tls&encryption=none&host=de.foxinonet.ir&type=ws&sni=de.foxinonet.ir#@Filter_breaker | Germany
+vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?security=&encryption=none&host=q6.19kalA.co&type=ws#⚜️Telegram: @IP_CF
+vless://b106570b-6b5f-40c1-8081-03093fbe8fa5@[2a0b:4140:659a:6::6]:33000?mode=gun&security=reality&encryption=none&authority=&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&fp=chrome&type=grpc&serviceName=b&sni=www.speedtest.net&sid=be7f13dd#@V2rayNG3
