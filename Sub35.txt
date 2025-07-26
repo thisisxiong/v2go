@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://1a220aae-5a92-403f-8d7a-f85aba6f257d@well.therubix.co:80?mode=auto&path=/GoodLuck?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=bano-hosting.global.ssl.fastly.net.&type=xhttp#🇬🇧
+vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️
+vless://1a18e79a-ff9c-43b5-90e1-1c43561364f2@172.235.251.52:321/?type=tcp&encryption=none&flow=#印度尼西亚
 vless://19f01e85-d38f-4c48-961e-edff33a1b1bd@65.109.178.188:8080?security=reality&encryption=none&pbk=oBjU0gKKR_swevPnSNtabTy9wotc9XbjZQsjGpmzVhA&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=83d112fa6efe12dc#@FreeConnection_VPN  با ۵۰ هزار تومان اشتراک اختصاصی بخر راحت شو
 vless://19d597c4-b031-4d44-8a37-44fbe6620a19@d1.marzano5.one:443?type=grpc&serviceName=&authority=&security=reality&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&sni=www.speedtest.net&sid=c43431c287c0&spx=/#⚜️Telegram: @IP_CF
 vless://19d597c4-b031-4d44-8a37-44fbe6620a19@d1.marzano5.one:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#AMIN@ATOVPN
@@ -499,6 +502,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.166.9:22224?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.13.40:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#Telegram:@config_proxy 🔥
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.18.225:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#@varn_Net
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.18.225:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#@MoneySeae عضو شو
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.120.43:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk @Confing_chanel
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.161.136:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#Telegram:@config_proxy 🔥
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.231.59:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany

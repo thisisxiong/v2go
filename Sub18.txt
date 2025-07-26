@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-link26.liangxin1.xyz:36872/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&fp=chrome&security=reality&pbk=z53evg6ewSK3gb9bS4KWdgyYU74McOLiRdFqJNpubmQ&sid=ab9a0409#%F0%9F%8F%8689%40oneclickvpnkeys
 hy2://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-linkhy22.liangxin1.xyz:30000/?insecure=1&sni=www.apple.com#%F0%9F%8F%8688%40oneclickvpnkeys
 vless://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-link25.liangxin1.xyz:34578/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&fp=chrome&security=reality&pbk=PSn2s5TN4e7n0LkzPunu2IA1hSmOoPYFu3d_psl2Nmc&sid=e534c8be#%F0%9F%8F%8683%40oneclickvpnkeys
 vless://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-link29.liangxin1.xyz:23568/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.hk&fp=chrome&security=reality&pbk=EjcM-ENrpWY8iIL82qJtQrZgRs4KlVqhdisqLAXonUY&sid=55d046dc#%F0%9F%8F%8684%40oneclickvpnkeys
@@ -501,4 +502,3 @@ vless://f503c72d-485e-4091-9d0c-9ad34d61c914@freeconfig.fergalvpnmod.com:12765?p
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
 vmess://eyJhZGQiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvcnZwczIuaG9yc2VubWEubmV0IiwiaWQiOiI1N2U1OTVlNi1lZjU0LTRlMGQtYjhkZi1lOTZkYjk2MTJiOTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaG9yc2VuIiwicG9ydCI6Ijg0NDMiLCJwcyI6Ij4+QFNoYWRvd3NvY2tzTTo6VVMiLCJzY3kiOiJhdXRvIiwic25pIjoib3J2cHMyLmhvcnNlbm1hLm5ldCIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456#%3E%3E%40ShadowsocksM%3A%3ADE
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=&encryption=none&headerType=none&type=tcp#%3E%3E%40ShadowsocksM%3A%3ANL
