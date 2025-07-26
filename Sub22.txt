@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#Telegram:@alfa_v2ray_ng 🔥
+vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@V2ray_confing33
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@Selinc
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&fp=chrome&type=ws&sni=nOCTYq.pAGES.DEV#@HIBYEVPNN
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJbA7CnY7q?ed&security=tls&alpn=http/1.1&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -500,5 +502,3 @@ vless://e3b90b1d-1a59-40db-ab8f-1f1a06a32b53@46.31.76.3:80?type=xhttp&path=/pwpw
 vless://e36781b3-3dd9-2ba6-b912-2995b1262150@wwwwww.mohsen.com.it.studentcp.ir:16532?mode=auto&path=/index.html&security=reality&encryption=none&pbk=7BDmup4-19PSCfrsZQEco7md0-j-34qWEA-wmDgYuHc&fp=chrome&type=xhttp&sni=refersion.com&sid=327f5a20cef62bbb#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://e36781b3-3dd9-2ba6-b912-2995b1262150@wwwwww.mohsen.com.it.studentcp.ir:16532?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=7BDmup4-19PSCfrsZQEco7md0-j-34qWEA-wmDgYuHc&sid=327f5a20cef62bbb&type=xhttp&path=/index.html#@Daily_Configs
 vless://e36781b3-3dd9-2ba6-b912-2995b1262150@www.telewebion.com.uk.studentcp.ir:22049?security=reality&encryption=none&pbk=5sAAbRXQgEeQYjH1U652zr7c6azVN3a9KVVCWrzJ7mc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=da1a52f306950def#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://e36781b3-3dd9-2ba6-b912-2995b1262150@www.telewebion.com.uk.studentcp.ir:22049?encryption=none&flow=xtls-rprx-vision&security=reality&sni=refersion.com&fp=chrome&pbk=5sAAbRXQgEeQYjH1U652zr7c6azVN3a9KVVCWrzJ7mc&sid=da1a52f306950def&type=tcp&headerType=none#@Daily_Configs
-vless://e36781b3-3dd9-2ba6-b912-2995b1262150@www.cafeariel.ir.nl.studentcp.ir:16568?security=reality&encryption=none&pbk=E8eMksW0uUXzpZxjwurDnaIW85z3wo8Hx-YANkzDKVo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=aa9f45781c1d5714#@HIBYEVPNN
