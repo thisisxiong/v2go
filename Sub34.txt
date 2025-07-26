@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://2aa40fcd-ba16-4dfc-9401-77eedeb0674d@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=21181028b56c8702#آلمان 🇩🇪 @V2xay
 vless://2aa40fcd-ba16-4dfc-9401-77eedeb0674d@a.nl.maviks.ru:443?security=reality&encryption=none&pbk=fPSR5GZpxhOV6Rh7VzMtS4AeRN7ipyNX4waG9JzJzxQ&host=@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=21181028b56c8702#telegram 🇳🇱 @V2WRAY
 vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link9.liangxin1.xyz:23587/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&fp=chrome&security=reality&pbk=H66PLLf6HkZwHk4oFqisfTawIvw2cxkEwk8Ue8sHZgA&sid=19b580ae#🇸🇬新加坡
 vless://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-link25.liangxin1.xyz:34578/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&fp=chrome&security=reality&pbk=PSn2s5TN4e7n0LkzPunu2IA1hSmOoPYFu3d_psl2Nmc&sid=e534c8be#🇰🇷韩国
@@ -501,4 +502,3 @@ vless://196d7017-b91c-43dc-87ca-d88de911145b@a.nl.maviks.ru:443?security=reality
 vless://196954c9-8836-49a3-8f97-861d1c455afb@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-oadni6wza
 vless://19019158-bdab-407c-a002-3d7e9a032aec@151.101.2.165:80?security=none&type=ws&host=JOIN.unlimiteddev.4.4.4.4.wWw.CloudFlare.cOm.wWw.SpeedTeSt.cOm.Home.iRan.0.0.0.0.Hide.my.IP.xXx.333.22.1.CDN.Free.unlimiteddev.DDNS4-IP.nEt&fp=chrome&alpn=h3,h2,http/1.1#Telegram:@config_proxy 🔥
 vless://19015e0f-a4c2-4af3-bfa5-773fb99b95bf@91.99.95.198:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@HiByeVPNN
-vless://18f59918-6f50-4e80-81f2-ba0ed6ed3a47@151.101.64.155:80?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=KEISJWJ.COM&security=none#🇩🇪XPNTEAM   [CONFIGFREE]-52orlo4ew
