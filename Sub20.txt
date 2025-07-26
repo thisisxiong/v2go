@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vmess://eyJhZGQiOiIxODguMjEzLjY3LjIxNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiTm9uZSIsImlkIjoiMWE1ZjVjMzAtZGFmOS00NmM2LTk2ZGEtNGRlNGI0MmJlZjg1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4ODMiLCJwcyI6IkBBVE9WUE4gIPCfh7Pwn4exICQgMjUgVCBcdTAwM2QgMTBnaWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxODguMjEyLjk3LjIwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzI3MGViMS1lMThkLTQwMjAtOTQ5ZC0xN2UxODQ0NWRhYzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwMjAiLCJwcyI6IkB3YXJwX2NpdHkgNjEyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxODguMjEyLjk3LjIwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzI3MGViMS1lMThkLTQwMjAtOTQ5ZC0xN2UxODQ0NWRhYzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwMjAiLCJwcyI6IkB3YXJwX2NpdHkgNjExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxODguMjEyLjk3LjIwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzI3MGViMS1lMThkLTQwMjAtOTQ5ZC0xN2UxODQ0NWRhYzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwMjAiLCJwcyI6IkB3YXJwX2NpdHkgNjA5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -501,4 +502,3 @@ vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=/lw&securi
 vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=/lw&security=tls&encryption=none&host=de.foxinonet.ir&fp=chrome&type=ws&sni=de.foxinonet.ir @confing_chanel
 vless://fd8be803-c16f-4d8f-9dcd-cbad92be1100@js.document.lat:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-ali.global.ssl.fastly.net.&type=xhttp#@CaV2ray ⚡️
 vless://fd7ef777-55be-43fe-8462-ea0cd549be5a@104.18.26.90:2096?path=/rlogcews&security=tls&encryption=none&host=638874931195359438.kish-prx-dnraaaf.info&type=ws&sni=638874931195359438.kish-prx-dnraaaf.info#🇺🇸telegram🪢@V2WRAY
-vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🛡️ @FreakConfig

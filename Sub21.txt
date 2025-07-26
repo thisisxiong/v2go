@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🛡️ @FreakConfig
 vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#All🇩🇪@Rk_VPS
 vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@V2RAYNG_1378
@@ -501,4 +502,3 @@ vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/bPJ4mgkJb
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/Tel-@V2ray_Alpha&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#@V2ray1_Ng
 vless://eb568786-bb3f-4f02-a25c-7183e800a0ba@188.114.97.183:2053?path=/Tel-@V2RAYNG_1378&security=tls&encryption=none&host=nOCTYq.pAGES.DEV&type=ws&sni=nOCTYq.pAGES.DEV#@V2RAYNG_1378
 vless://eb37c073-3fe1-4a38-a1f4-f50a831e47e3@151.101.3.8:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2560&security=none&encryption=none&host=CONFiGLiNEEE.COM&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://eb37c073-3fe1-4a38-a1f4-f50a831e47e3@151.101.3.8:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2560&security=none&encryption=none&host=CONFiGLiNEEE.COM&type=xhttp#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
