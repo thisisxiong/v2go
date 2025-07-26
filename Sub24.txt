@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://d6bd8cba-5d1e-4e6d-8481-da353b65bf16@104.26.6.89:2052?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#@bored_vpn
-vless://d6bd8cba-5d1e-4e6d-8481-da353b65bf16@104.26.6.89:2052?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#@HIBYEVPNN
 vless://d6bd8cba-5d1e-4e6d-8481-da353b65bf16@104.18.26.90:2052?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&security=none#XpnTeam🇳🇱-s5k2515gg
 vless://d6bd8cba-5d1e-4e6d-8481-da353b65bf16@104.18.26.90:2052?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#All🇩🇪@Rk_VPS
 vless://d6bd8cba-5d1e-4e6d-8481-da353b65bf16@104.18.26.90:2052?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#@icv2ray
@@ -502,3 +500,5 @@ vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-t
 vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?security=none&encryption=none&type=ws#🌈کانال تلگرام : Viturey@
 vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?security=none&encryption=none&type=ws#آلمان 🇩🇪 @V2xay
 vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?security=none&encryption=none&type=ws#Telegram : @Confingman📌2️⃣
+vless://c6853b3f-66aa-41af-9cf4-4017ebded137@www.speedtest.net:8443?security=tls&encryption=none&host=de2vipys.sevenploos.com&fp=chrome&type=ws&sni=de2vipys.sevenploos.com#best2_1
+vless://c6853b3f-66aa-41af-9cf4-4017ebded137@end.fast.hosting-ip.com:80?mode=auto&path=/GoodLuck?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-sadeq.global.ssl.fastly.net.&type=xhttp#best2_2
