@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?type=tcp&headerType=http&host=testspeed-foreign.tci.ir#@configMs
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net
 vless://188f1242-b0c0-4992-b480-1da44dae1700@300232332.webnama.com.tr:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#🇩🇪 Germany 1
@@ -501,4 +502,3 @@ vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?security=none&
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?security=&encryption=none&headerType=none&type=tcp#@varn_Net
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?encryption=none&security=none&type=tcp&headerType=none#HiByeVPNN
 vless://0515aff1-8414-43fc-9630-58afc1d90488@142.132.227.65:33036?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🟢 @server_free2 🟢

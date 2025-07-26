@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBMQGFkbWluLmMyLndlYnJhbXouY286NDQz#%F0%9F%87%AC%F0%9F%87%A7GB-131.145.120.47-0231
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My43ODo0NDM=#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.78-0238
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My43OTo0NDM=#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.79-0225
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMjEyLjEwMi41My44MDo0NDM=#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.80-0223
@@ -502,3 +501,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880/?type=
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.131.154:8880?encryption=none&security=none&sni=vngsUPPly.IP-DDnS.CoM&alpn=http%2F1.1&fp=randomized&type=ws&host=vngsupply.ip-ddns.com&path=%2FC5itOz6YmbLanD7F%3Fed%3D2560#%40Daily_Configs
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443/?type=tcp&encryption=none&flow=&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&security=reality&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=974a74bf#%F0%9F%9A%9819%40oneclickvpnkeys
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880/?type=grpc&encryption=none&flow=#%F0%9F%9A%9831%40oneclickvpnkeys
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v4.waipdirect.shop:8880/?type=grpc&encryption=none&flow=#%F0%9F%9A%9832%40oneclickvpnkeys
