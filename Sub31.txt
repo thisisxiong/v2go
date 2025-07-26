@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://550b91ff-2327-4378-a6f2-843bd208df60@151.101.3.8:80?mode=auto&path=/SvnProBot?ed=8443/?TELEGRAM----@RK_VPS----@RK_VPS----@RK_VPS----@RK_VPS----@RK_VPS----@JOKERRVPN----@JOKERRVPN----@RK_VPS----@RK_VPS----@RK_VPS----@RK_VPS&security=none&encryption=none&extra={"scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=globally-renewing-iguana.global.ssl.fastly.net&type=xhttp#ᴬᴸᴸ²🇩🇪𝐣𝐨𝐢𝐍-@RK_VPS
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.80.111.165:2053?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=chrome&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@45.80.111.165:2053?path=/Telegram@Selinc/?ed=2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=chrome&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@Selinc
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=/yzejftqqvmhtztle?ed=2560&security=tls&sni=019309B7.XyZ0.PaGeS.dEV#Channel : @CaptalVpn🏴‍☠️
@@ -501,4 +502,3 @@ vless://4a1abb8d-812e-41d8-b398-4cba9933805d@45.194.53.81:443?security=tls&sni=s
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.173:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.170:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@193.123.176.254:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
-vless://4a1abb8d-812e-41d8-b398-4cba9933805d@144.24.161.156:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥

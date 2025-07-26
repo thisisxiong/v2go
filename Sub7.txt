@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vmess://eyJhZGQiOiI0NS44NC4xOTYuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImVjODliZjVmLTNjMDctNGRiZS1hMzZiLWM4MDVkMTI2YTUxNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTE0NjMiLCJwcyI6IkBvbmVfc2hvcF9vZmZpY2lhbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI0NS44NC4xOTYuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijk5MWUxNjljLTI2ZTYtNGI0Ny1iYjI1LWExMjhmZDdkOTFiMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTE0NjMiLCJwcyI6IkBvbmVfc2hvcF9vZmZpY2lhbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://turboo-server@146.75.55.82:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#@HiByeVPNN
 vless://ipcloudflaretamiz@test.fast.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=ipcloudflaretamiz.io&type=xhttp#@HiByeVPNN
@@ -502,3 +501,4 @@ vless://8d65d671-e313-44ad-88b2-0a17f648fa51@104.16.3.35:443?security=tls&sni=we
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@104.26.13.101:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir&path=/dhcfh/?ed=2560#t.me/entryNET/config=1837937206571574
 vless://854f75f3-9a67-4b79-a010-b48d9230e99b@151.101.2.165:80?security=none&type=ws&host=game.baziha0098.ir#Telegram:@config_proxy 🔥
 vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1837939969354519
+vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@mOoDy-LoCk.SEotoolSfOrYOU.Co.uK:80?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Confingman🍷8️⃣
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&host=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&headerType=none&type=tcp#t.me/entryNET/config=1837878061396553
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&host=/config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free--Telegram--config-proxy-free?ed=2560&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://66fb8b78-605b-4708-8510-f1b36d1fc7e6@188.245.212.4:2083?security=reality&sni=refersion.com&type=grpc&fp=chrome&pbk=IXXrQcqXgzopBeSGpCO_u53keeKZaN1AoOzdyLA-Mzo&sid=11a4b6bca8#Telegram:@config_proxy 🔥
@@ -502,3 +501,4 @@ ss://Parsashonam-238@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&
 ss://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1837890774111632
 ss://7b63ed50-f1f8-4776-b7f2-60e73f6b66c0@164.92.243.66:443?security=reality&encryption=none&pbk=fCdQnxkoid28t27haGSLEd3rr0R3zxw57xg40wwfU0I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=venom.spritbraker.ir&sid=93f3face#Telegram:@config_proxy 🔥
 ss://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@104.17.246.136:80?security=none&type=ws&host=us1.rtacg.com&path=/#Telegram:@config_proxy 🔥
+ss://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80?security=&type=ws&path=/olem/ws?ed=2560&host=foffmelo.com&encryption=none#Telegram:@config_proxy 🔥
