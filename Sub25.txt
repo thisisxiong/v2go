@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://c7f423b7-ced8-43da-a9ae-e906cb4a222c@104.21.89.221:443?type=ws&host=kkkkkkkkkkkklo.999824.xyz&path=/wU3lZaUTRQTqot0LE&security=tls&fp=chrome&sni=KKkkKKKkkkkKLO.999824.xYz&alpn=http/1.1#@configMs
 vless://c7e4c202-cfdf-44df-85a7-a9e7b4545a74@34.247.254.247:50768?type=grpc&mode=gun&security=reality&fp=chrome&sni=jetbrains.com&pbk=7kUu70kwGDQ65WQHCBXcQ-KLQa5V8VVxX3zMML7hSlQ&sid=4e78519d&spx=/#Telegram : @Unlimiteddev
 vless://c7e4c202-cfdf-44df-85a7-a9e7b4545a74@34.247.254.247:50768?mode=gun&security=reality&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&pbk=7kUu70kwGDQ65WQHCBXcQ-KLQa5V8VVxX3zMML7hSlQ&fp=chrome&spx=/&type=grpc&sni=jetbrains.com&sid=4e78519d#@TEHRANARGO چنل تلگرام
 vless://c7e4c202-cfdf-44df-85a7-a9e7b4545a74@34.247.254.247:50768?mode=gun&security=reality&encryption=none&pbk=7kUu70kwGDQ65WQHCBXcQ-KLQa5V8VVxX3zMML7hSlQ&fp=chrome&spx=/&type=grpc&sni=jetbrains.com&sid=4e78519d#Telegram : @Mrsoulb 🏳🏴
@@ -502,3 +501,4 @@ vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=/?ed=#/Tel
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=/&security=tls&encryption=none&host=sub.divib.dynv6.net&fp=chrome&type=ws&sni=sub.divib.dynv6.net#🛡️ @FreakConfig
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=/&security=tls&encryption=none&host=sub.divib.dynv6.net&fp=chrome&type=ws&sni=sub.divib.dynv6.net#@AZARBAYJAB1
 vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?type=xhttp&path=/@custom_config&host=&mode=auto&security=reality&pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&fp=chrome&sni=yahoo.com&sid=fbe3b0&spx=/GNy4wYJIUB#@custom_config (mci)
+vless://b199c99a-2f30-4efa-b448-04ddfcc6175b@91.99.154.53:80?mode=auto&path=/@custom_config&security=reality&encryption=none&pbk=RI_YAKjmGqfPcpWBfFdybjEY9TbBhPmc8b9khTLPi1w&fp=chrome&type=xhttp&sni=yahoo.com&sid=fbe3b0#🇩🇪 | @External_Net
