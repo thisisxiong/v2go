@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://4a283770-51a9-4de6-969c-f46bde69092d@00074.mutee.com.tr:4471?security=none&encryption=none&host=Varzesh3.com&headerType=http&type=tcp#@Filter_breaker | Turkey
-vless://4a283770-51a9-4de6-969c-f46bde69092d@00074.mutee.com.tr:4471?security=&encryption=none&host=Varzesh3.com&headerType=http&type=tcp#@Filter_breaker | Turkey
-vless://4a232e0c-de47-4913-bfb7-966a56306f80@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@92.53.190.149:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@45.194.53.81:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
 vless://4a1abb8d-812e-41d8-b398-4cba9933805d@199.34.228.173:443?security=tls&sni=server17.aibox.tv&type=ws&host=server17.aibox.tv&path=/ws/#Telegram:@config_proxy 🔥
@@ -502,3 +499,6 @@ vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=256
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#@V2ray_confing33
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#@Selinc
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#@HiByeVPNN
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#@CanfigVip+🍕
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&fp=chrome&type=ws&sni=PaGes.deV#Telegram : @Merlin_ViP 741
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&fp=chrome&type=ws&sni=PaGes.deV#Telegram : @Confingman🚷3️⃣
