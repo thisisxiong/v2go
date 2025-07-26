@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+hy2://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-linkhy22.liangxin1.xyz:30000/?insecure=1&sni=www.apple.com#%F0%9F%8F%8688%40oneclickvpnkeys
+vless://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-link25.liangxin1.xyz:34578/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=download-porter.hoyoverse.com&fp=chrome&security=reality&pbk=PSn2s5TN4e7n0LkzPunu2IA1hSmOoPYFu3d_psl2Nmc&sid=e534c8be#%F0%9F%8F%8683%40oneclickvpnkeys
 vless://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-link29.liangxin1.xyz:23568/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.hk&fp=chrome&security=reality&pbk=EjcM-ENrpWY8iIL82qJtQrZgRs4KlVqhdisqLAXonUY&sid=55d046dc#%F0%9F%8F%8684%40oneclickvpnkeys
 vless://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=sDG-KQk1BF7V83-xnmrWDouXxpPd_ZSxKcHrJJzbols&sid=32a3650d#%F0%9F%8F%8687%40oneclickvpnkeys
 hy2://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-linkhy16.liangxin1.xyz:30000/?insecure=1&sni=www.teslamotors.cn#%F0%9F%8F%8685%40oneclickvpnkeys
@@ -500,5 +502,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@45.144.49.140:57456#%3E%3E%40ShadowsocksM%3A%3APL
 vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v2.hiddendom.shop#%3E%3E%40ShadowsocksM%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@62.133.63.212:57456#%3E%3E%40ShadowsocksM%3A%3ATR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%3E%3E%40ShadowsocksM%3A%3ANL
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?security=&encryption=none&type=grpc#%3E%3E%40ShadowsocksM%3A%3AFR
