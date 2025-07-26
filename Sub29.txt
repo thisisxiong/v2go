@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://7e313821-7d0d-442a-78e2-e6a30d89d01d@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey 🇩🇪🇩🇪
+vless://7e313821-7d0d-442a-78e2-e6a30d89d01d@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@vi
 vless://7e29f2e2-e0ec-47c5-94ec-38ef90f7a106@104.24.0.28:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=http/1.1&host=guq22.oxnetwORKs.LiNK&fp=chrome&type=ws&sni=guq22.oxnetwORKs.LiNK#👉🆔+@V2NET_IRAN
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?type=tcp&security=reality&fp=chrome&sni=dl.google.com&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇮🇱@EVAY_VPN
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#azadiiivpn¹¹ 🎀
@@ -500,5 +502,3 @@ vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=/-------
 vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=/--------v2rayNGcloud-----?ed=2560&security=tls&encryption=none&host=my.digikala.dynv6.net&type=ws&sni=my.digikala.dynv6.net#@v2rayNGcloud
 vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=/--------ff_kikor-----?ed=2560&security=tls&encryption=none&host=my.digikala.dynv6.net&type=ws&sni=my.digikala.dynv6.net#💯T.me/Asak_Vpn💯
 vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=/--------ff_kikor-----?ed=2560&security=tls&encryption=none&host=my.digikala.dynv6.net&type=ws&sni=my.digikala.dynv6.net#@Capoit
-vless://6bb8cb48-c5d7-4016-b671-4367a56e299a@srv5.raykaservers.com:10215?path=/&security=none&encryption=none&type=ws#@v2xay | کانال ما
-vless://6bb8cb48-c5d7-4016-b671-4367a56e299a@srv5.raykaservers.com:10215?path=/&security=&encryption=none&type=ws#@bored_vpn
