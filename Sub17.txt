@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-trojan://telegram-id-directvpn@35.156.118.90:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.78.4.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.78.31.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.76.156.12:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
@@ -502,3 +501,4 @@ vless://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-link29.liangxin1.xyz:23568/?typ
 vless://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-link13.liangxin1.xyz:36574/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=sDG-KQk1BF7V83-xnmrWDouXxpPd_ZSxKcHrJJzbols&sid=32a3650d#%F0%9F%8F%8687%40oneclickvpnkeys
 hy2://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-linkhy16.liangxin1.xyz:30000/?insecure=1&sni=www.teslamotors.cn#%F0%9F%8F%8685%40oneclickvpnkeys
 hy2://1aee4293-4d70-49b3-8524-839ce85db0ab@aws-linkhy10.liangxin1.xyz:30000/?insecure=1&sni=www.teslaautomation.de#%F0%9F%8F%8680%40oneclickvpnkeys
+vmess://eyJhZGQiOiIxOC4xODAuMTI4LjEwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5YzlmZWQwNC05OWQxLTQxZjEtODJiMC0yMTMxOTVjYmRjNWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ2MDgwIiwicHMiOiLwn4+GNzVAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9

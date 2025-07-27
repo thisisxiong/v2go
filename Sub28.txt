@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.241.234:80?path=/?ed=2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#🔥T.me/Asak_Vpn🔥
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.241.233:80/?path=/?ed=2590&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#@Filter_breaker | United States
 vless://92f481b6-ad92-43e4-a683-2bb0aeaa9846@104.16.180.35:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=dw.alibichareh.dpdns.org&type=ws#[🇨🇦]t.me/Asak_Vpn
 vless://92d5130c-d4a6-43ac-866d-36819d797944@viop.fast.hosting-ip.com:80?mode=auto&path=/ahmadytfastly?ed=2560&security=none&encryption=none&host=mostafafastlyytyour-name.global.ssl.fastly.net&type=xhttp#Aminiyt @asrnovin_ir
@@ -502,3 +501,4 @@ vless://7fbf5b8-1a92-4fef-804a-a88069244000@91.107.180.100:443?type=grpc&service
 vless://7fb1a822-bd72-4a27-b987-89a4dd398142@188.245.167.113:465?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://7fa08b3d-86d8-4b14-92b3-4c56a83f027d@viop.fast.hosting-ip.com:80?mode=auto&path=/Amirrezagol?ed=2560&security=none&encryption=none&host=amirrezagol.global.ssl.fastly.net&type=xhttp#@Filter_breaker-US
 vless://7f9f019f-0471-4f8f-bffb-13bb7dfce2c3@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
+vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=86#🇫🇮 | @External_Net

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.157.66.125:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.134.195.204:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#t.me/entryNET/config=1838039315780837
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.121.218:22224?path=/telegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#فرانسه 🇫🇷 @V2xay
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.123.101:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#Telegram:@config_proxy 🔥
@@ -502,3 +501,4 @@ ss://YWVzLTEyOC1nY206cng4OGJCMHd4dUEwMlNhaGdDYlNCS0JaaG1LVzBua1drUGFXYzZsVlI1VT0
 ss://YWVzLTEyOC1nY206cng4OGJCMHd4dUEwMlNhaGdDYlNCS0JaaG1LVzBua1drUGFXYzZsVlI1VT0=@91.99.237.255:80#آلمان 🇩🇪 @V2xay
 ss://YWVzLTEyOC1nY206cng4OGJCMHd4dUEwMlNhaGdDYlNCS0JaaG1LVzBua1drUGFXYzZsVlI1VT0=@91.99.237.255:80#@varn_Net
 ss://YWVzLTEyOC1nY206ckk5aXhxbVpISEc0UEJ2VUFOWUFHdw==@37.202.231.23:444#@warp_city 602
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMTQ5LjIyLjg3LjIwNDo0NDM=#Telegram:@config_proxy 💦
