@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://fee90487-c949-456c-bd6f-71e5abd54a5c@45.252.182.107:8443?mode=multi&security=none&encryption=none&type=grpc#@Alfa_v2ray_ng چنل تلگرام جوین شید
 vless://fee90487-c949-456c-bd6f-71e5abd54a5c@45.252.182.107:8443?mode=multi&security=&encryption=none&type=grpc#@varn_Net
 vless://fec21ae5-9217-49cc-98b9-af5482656e54@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
 vless://febf7810-0d6d-4f39-878c-8a2da6fdbcde@157.173.127.240:443?security=reality&encryption=none&pbk=7PPRFCOZ9VVO3Df5-Q6P9WwvjQa13AbSlpaJQUTHPhI&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=522d25#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -502,3 +501,4 @@ vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.21.79.134:8443?path=/Telegram@V
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.21.79.134:8443?path=/Telegram:@Selinc=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=freedom.panotosu.store&fp=chrome&type=ws&sni=freEDom.paNoToSU.STORE#@Selinc
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.21.79.134:8443?path=/T8fVuPhDQWrbtRol/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=freedom.panotosu.store&fp=chrome&type=ws&sni=freEDom.paNoToSU.STORE#@V2RAYNG_1378
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@104.17.147.22:2087?path=/Erkw2ygbmWGKKrhw/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=&security=tls&encryption=none&host=FReedOm.paNotosU.StORe&fp=chrome&type=ws&sni=FReedOm.paNotosU.StORe#@V2ray1_Ng
+vless://ec46cba7-458c-81b1-ade9-5471757087d1@cdn3.myandroidplus2.ir:2894?path=/&security=none&encryption=none&host=bama.ir&type=ws#وصل شید و بروزرسانی اشتراک کنید

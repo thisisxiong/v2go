@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-5.webnama.com.tr:4928?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🇳🇱
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-4.webnama.com.tr:3789?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🇺🇸
 vless://d83ff70d-8b78-4b47-9f49-d0e968c502db@em-3.webnama.com.tr:1429?security=none&type=tcp&headerType=http&path=/&host=varzesh3.com#@Filter_breaker_🏴
@@ -502,3 +501,4 @@ vless://c8951426-a5a8-5fcb-884f-0a253f771dfd@172.67.171.39:80?path=/vless&securi
 vless://c86ef6ff-c1f9-434e-b98a-124c0f385ae2@hi.ircloudmarket.com:6008?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#@bluVPNir🇩🇪¹
 vless://c86ef6ff-c1f9-434e-b98a-124c0f385ae2@de4.ircloudmarket.com:2008?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net#@bluVPNir🇩🇪²
 vless://c861ee6e-6755-4483-a82f-592abb5cd327@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
+vless://c85a75ad-a478-4fd2-86eb-efcfc3157088@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs

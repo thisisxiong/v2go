@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://ec46cba7-458c-81b1-ade9-5471757087d1@cdn3.myandroidplus2.ir:2894?path=/&security=none&encryption=none&host=bama.ir&type=ws#وصل شید و بروزرسانی اشتراک کنید
 vless://ec46cba7-458c-81b1-ade9-5471757087d1@cdn3.myandroidplus2.ir:2894?path=/&security=&encryption=none&host=bama.ir&type=ws#وصل شید و بروزرسانی اشتراک کنید
 vless://ec184209-a546-4375-b77d-c6a567485d0b@s4.sariii.site:10242?security=none&encryption=none&host=nature.com&headerType=http&type=tcp#🇷🇺Russia-@Filter_breaker
 vless://ec0b89da-5898-46d5-804e-eb4836a2e6c6@joje.hamyarkettab.ir:47548?path=/Ospskxjdjwkksskkkqksjsjjs?ed=2048&security=tls&alpn=h3,h2&encryption=none&host=TgJu.Org.&fp=chrome&type=ws&sni=JoJe.HaMyArKeTtAb.Ir.#آلمان 🇩🇪 @V2xay
@@ -502,3 +501,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.150:8880?security=&encryp
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc#VIP 343 🇺🇸 @EXPRESSVPN_420
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc#@confing_chanel
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc#@MoneySeae
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?type=grpc&mode=gun#@configMs

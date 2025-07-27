@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#@Selinc
 vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&encryption=none&host=speedtest.net/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=http&type=tcp#telegram 🇩🇪 @V2WRAY
 vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#ae_proxy
 vless://9359969a-f79b-47fd-9d79-c7397d10af3d@213.176.121.239:57257?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#@Daily_Configs
@@ -502,3 +501,4 @@ vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#@V2ray1_Ng
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#@V2RAYROZ
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#(@vmesskhodam)چنلمون
+vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#DALTON👀

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#DALTON👀
 vless://8058f619-5305-4c4c-b764-509685f68c91@prod2-hge-cloud01-hybrid-t01.cyberscaler.com:18616?type=tcp&path=/&host=www.speedtest.net&headerType=http&security=none#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://8058f619-5305-4c4c-b764-509685f68c91@prod2-hge-cloud01-hybrid-t01.cyberscaler.com:18616?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🔥 @ramshoop🇩🇪🇺🇸
 vless://8039a8e7-9460-4ba8-9532-1f1946fcf169@meIli.heartina.ir:1002?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
@@ -502,3 +501,4 @@ vless://6eed5782-5cb6-4230-e278-40eaf4cae055@99.199.73.53:6464?security=none&enc
 vless://6ec46182-5075-4633-a692-3debfe10de0f@amdiww.fastly80.hosting-ip.com:80?path=/&security=&encryption=none&host=speedtest.net.pl&type=ws#🇩🇪 HELP [ 2 ]
 vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?path=/aucvumws&security=tls&encryption=none&host=638874929583333723.zagreb-prx-dnraaad.info&type=ws&sni=638874929583333723.zagreb-prx-dnraaad.info#🔗 Telegram : @Viturey 🔐
 vless://6ebc2581-bccf-4cac-a0e1-aebd7ded874c@104.18.26.90:2096?path=/aucvumws&security=tls&encryption=none&host=638874929583333723.zagreb-prx-dnraaad.info&type=ws&sni=638874929583333723.zagreb-prx-dnraaad.info#Channel : @Mrsoulb 🏴🏳
+vless://6ea5f5b1-3d50-4c8c-b2a0-9db51f4c6c7f@103.184.45.41:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=michi&sni=fawpvpcyp.wwtraveler.com#@V2rayNG3

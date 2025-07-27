@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?type=grpc&mode=gun#@configMs
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 @AZARBAYJAB1☆USA
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.147:8880?mode=gun&security=none&encryption=none&type=grpc#☁️ @server_free2 ☁️
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?type=grpc&mode=gun&serviceName=&authority=#Config🇺🇸@Do_itforyou
@@ -502,3 +501,4 @@ vless://d85346a9-ba7b-5c83-8c84-c3d54e42e9d1@151.101.129.6:80?security=none&type
 vless://d85090ca-3504-4a1e-8bb1-0c2ed3fc74b0@p1.3dfigures.ir:80?type=xhttp&path=/v2raybluecrystal&host=pouria.global.ssl.fastly.net&mode=auto&security=reality&pbk=c3skAokcLEgTyB4A2qEidFSBNvvlJB6AUSH1RAvUc2s&fp=chrome&sni=journalofbigdata.springeropen.com&sid=9fd097cb4d&spx=/#@v2raybluecrystal نت ملی 🇺🇸برای اتصال دائمی جوین شو
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@www.speedtest.net:2087?type=httpupgrade&path=/@saeedtelcom?ed=2048&host=unitedkingdom.iranfastspeed.net&security=tls&fp=chrome&alpn=h2,http/1.1&sni=unitedkingdom.iranfastspeed.net#@CaV2ray ⚡️
 vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2054?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@warp_city
+vless://d843b700-0e0d-5ad9-72d9-46ced5785cd1@212.33.201.187:2051?security=none&encryption=none&host=snapp.taxi&headerType=http&type=tcp#@CaV2ray ⚡️
