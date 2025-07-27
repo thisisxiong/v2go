@@ -109,7 +109,6 @@ trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?#%E6%9C%AA%E7%9F
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAiLCJhZGQiOiJwcmltZXIuaWJpbGliaS5saSIsInBvcnQiOiI0NDMiLCJpZCI6ImU1ODUyMzkzLWNhNTItNGM5MC1hMjM3LWQ2M2NiYmI1N2YyMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJsb2tpLm9yYWNsZSIsInBhdGgiOiIvZmFyY3J5P2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIxMCJ9
 trojan://cdec9d57-661d-456a-bbf2-b4c38e9c6711@104.21.30.37:443?sni=DDdcVfbGHy7.444682.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:13855?sni=www.baidu.com#%E6%9C%AA%E7%9F%A59
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?#%E6%9C%AA%E7%9F%A58
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:16158?sni=www.baidu.com#%E6%9C%AA%E7%9F%A57
 trojan://tg-fq521free@45.67.215.95:443?type=ws&sni=torjan.xn--xhq44j.eu.org&path=/&host=torjan.xn--xhq44j.eu.org#%E6%9C%AA%E7%9F%A55
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.13:1122?sni=www.baidu.com#%E6%9C%AA%E7%9F%A54
@@ -502,3 +501,4 @@ vless://5c9fa74d-c08b-43f6-b1da-f21a6cd287f4@104.17.148.22:80?type=ws&security=n
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#t.me/entryNET/config=1837950412908063
 vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&security=tls&encryption=none&host=tbs-80p.pages.dev&type=ws&sni=pages.dev#🇧🇪@SimChin_iR جوین شید
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?path=/&security=&encryption=none&type=ws#t.me/entryNET/config=1837951420583846
+vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=0f917152a871e9c0#Telegram:@config_proxy 🔥
