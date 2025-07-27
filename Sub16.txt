@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://d69e889e-e685-4cd7-b348-5b3b1f9282a2@uk-1-rvp.medicaldream.ir:443?security=tls&sni=uk-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=uk-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20UK%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://d1304c11-d54d-4544-9e5d-da19d7d11b3f@de-1-rvp.medicaldream.ir:443?security=tls&sni=de-1-rvp.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=de-1-rvp.medicaldream.ir&encryption=none#Rayan%20-%20RVP%20-%20DE%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 vless://cc81c35e-48af-40bf-8b78-d72a04d3a682@1750158741.tencentapp.cn:443?mode=multi&security=tls&encryption=none&type=ws&sni=us1.loopycloudcfjiasucdn.pp.ua&path=%2F&host=us1.loopycloudcfjiasucdn.pp.ua#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A100+GB
 vless://c9e2b304-ed2b-5d09-8a4e-70b9b246b6c7@kr-2-ssm.medicaldream.ir:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=kr-2-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20KR%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://c820360e-7a8c-44cc-87cc-19229165a61d@fi-1-cbt.medicaldream.ir:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-1-cbt.medicaldream.ir&encryption=none#Rayan%20-%20CBT%20-%20FI%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
@@ -502,3 +500,5 @@ trojan://telegram-id-directvpn@35.181.156.239:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@35.181.120.43:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@35.180.106.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@35.156.118.90:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@3.78.4.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
+trojan://telegram-id-directvpn@3.78.31.242:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN

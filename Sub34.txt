@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://2e2c7764-8f74-c142-b63b-8c0b93154d0d@Dc1.zeroboostspeed.org:1231?security=&encryption=none&host=Fast.com&headerType=http&type=tcp#⚜️Telegram: @IP_CF
-vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=/Zjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#@Filter_breaker-US
 vless://2ddbf9ee-6c29-468b-f108-b7f2057797a8@37.156.47.23:30583?security=&type=ws&path=/&encryption=none#@awlix_ir
 vless://2dc62e43-90f5-4d72-815b-c64b40d19088@194.182.79.72:32826?mode=gun&security=reality&encryption=none=/@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray&pbk=viVxJfUpCBYia6ZwmuHkuS19C1ARC3OCaaRG9VvOIhg&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON&sni=sourceforge.net&sid=e8f24f79#@icv2ray
 vless://2dc62e43-90f5-4d72-815b-c64b40d19088@194.182.79.72:32826?mode=gun&security=reality&encryption=none=#@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&pbk=viVxJfUpCBYia6ZwmuHkuS19C1ARC3OCaaRG9VvOIhg&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON&sni=sourceforge.net&sid=e8f24f79#@bored_vpn
@@ -502,3 +500,5 @@ vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@Zula.ir:8443?mode=auto&path=/ed?/oo
 vless://1bb67568-99ca-42cb-a196-c87bf76948a8@104.18.26.90:2096?path=/dbjfngws&security=tls&encryption=none&host=638874929556912040.abadan-prx-dnraaad.info&fp=chrome&type=ws&sni=638874929556912040.abadan-prx-dnraaad.info#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://1ba939cd-b055-43bb-a35d-e011cb7c3ac8@185.146.173.146:80?path=/Join--HAJIMAMADVPN?ed&security=none&encryption=none&host=HaJiMaMaDVpN.GoLdEn-PiNg.Ir.&type=ws#@V2rayNG3
 vless://1b96e86b-11fa-4709-836d-816f7b7eaf82@91.107.146.109:39953?type=grpc&mode=gun&serviceName=@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02&security=reality&fp=chrome&sni=refersion.com&pbk=8ueBwb-uwLy208rRiXgXxublRQ3344Bi4PnhPAySiUQ&sid=a3&spx=/#Telegram:@FREE_VPN02
+vless://1b8dd35a-6213-4a33-84e9-ce662ad6e280@78.140.246.39:8443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#v2rayNGcloud🇰🇿
+vless://1b4ef214-4fd0-41c1-8694-c0f92b803652@62.60.192.166:2001?security=none&encryption=none&headerType=none&type=tcp#@GrizzlyVPN

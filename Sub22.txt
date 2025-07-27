@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.145.189:8443?path=/tN1iypITq3yd9aCI/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=freedom.panotosu.store&fp=chrome&type=ws&sni=frEeDOM.PANOtoSu.sToRe#@warp_city
-vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.145.189:2083?type=ws&host=freedom.panotosu.store&path=/6fqYRq6DD1shcFIO/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560&security=tls&fp=chrome&sni=FrEEdoM.pAnOtOSU.sTORe&alpn=http/1.1#@configMs
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.145.189:2083?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=freedom.panotosu.store&fp=chrome&type=ws&sni=FrEEdoM.pAnOtOSU.sTORe#@V2ray1_Ng
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.145.189:2083?path=/Telegram@V2RAYNG_1378/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=freedom.panotosu.store&fp=chrome&type=ws&sni=FrEEdoM.pAnOtOSU.sTORe#@V2RAYNG_1378
 vless://ec7a6b6d-94b6-45df-9d62-491f53a508be@172.67.145.189:2083?path=/6fqYRq6DD1shcFIO/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=freedom.panotosu.store&fp=chrome&type=ws&sni=FrEEdoM.pAnOtOSU.sTORe#Telegram : @Confingman🏴‍☠️6️⃣
@@ -502,3 +500,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.183:8880?mode=gun&securit
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.181:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@EVAY_VPN🇩🇪
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇺🇲TM-@AZARBAYJAB1(GPRS)
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@EVAY_VPN🇺🇸
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?security=&sni=pqh32v6.film32western.shop&type=grpc&encryption=none#@awlix_ir
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.167:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@EVAY_VPN🇳🇱
