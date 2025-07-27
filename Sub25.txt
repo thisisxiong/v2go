@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://c85a75ad-a478-4fd2-86eb-efcfc3157088@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://c8593b7b-f3b6-4cfb-b87c-8278fd9b5f89@food3.hamrahconfig.com:80?path=/download&security=none&encryption=none&host=okhaji.com&type=ws#@freevpnn11_4
 vless://c84ddb7c-7703-42a3-a22a-3ff9e5513f9a@195.58.58.88:32391?path=/&security=&encryption=none&host=45f4d22d.Mareza.pages.dev&type=ws#@V2ray_confing33
 vless://c83a4cdf-d744-43c4-866a-f85957050391@safar64.ucpubg.org:8080?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
@@ -501,4 +502,3 @@ vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=/Telegram@
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=/Join---hibyevpn---Join---hibyevpn---Join---hibyevpn?ed=2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#🛡️ @FreakConfig
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=/Join---FarshidHUB---Join---FarshidHUB---Join---FarshidHUB?ed=2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#HiByeVPNN
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=/?ed=2560/?Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps----@Rk_Vps&security=tls&encryption=none&host=sub.divib.dynv6.net&fp=chrome&type=ws&sni=sub.divib.dynv6.net#ᴬᴸᴸ⁷🇩🇪➣@Rk_Vps
-vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=/?ed=2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#🍉 @FreakConfig

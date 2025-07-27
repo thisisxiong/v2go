@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://059504a3-4dcd-472c-8c3c-4dff91f9163a@fi.ircloudmarket.com:4400?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#@bluVPNir🇫🇮
 vless://0592915a-65da-4cd5-9960-cb9329a3c8a1@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://058ee2d7-e79e-4acc-9996-d62cd275d7b7@freeconfig.fergalvpnmod.com:48388?security=reality&encryption=none&authority=@FergalVpnMod&pbk=YcokCTOrwj0MFEvKZVRZl25esRSF4Rjeq_A5qmboQRE&fp=chrome&spx=/&type=grpc&serviceName=@FergalVpnMod&sni=sony.com&sid=0c63f4c7ea#FREE CONFIG  1👉 @FergalVpnMod-1
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?security=tls&sni=trojan.burgerip.co.uk&type=ws&path=/telegram-channel-vlessconfig&packetEncoding=xudp&encryption=none#@NetAccount
@@ -501,4 +502,3 @@ ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.22:38388#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388#@awlix_ir
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@80.92.204.106:9025#@awlix_ir
