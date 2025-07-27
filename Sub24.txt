@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6
 vless://d7e9f1a3-1b2c-3d4e-5f6a-8b9c0d1e2f3a@149.102.130.107:8443?security=tls&type=ws&host=v2ray-config.sohala.uk&path=/ws#@Filter_breaker | Netherlands
 vless://d7db3e29-c388-4312-91f1-0da96d624e5b@p2.3dfigures.ir:80?type=xhttp&path=/v2raybluecrystal&host=rema.global.ssl.fastly.net&mode=auto&security=reality&pbk=V0yu6BQhNI5cO2600tllGbF2D5AJcT7o6Xq7AiBKxBE&fp=chrome&sni=journalofbigdata.springeropen.com&sid=4d&spx=/#@v2raybluecrystal نت ملی 🇬🇧برای اتصال دائمی جوین شو
@@ -501,4 +502,3 @@ vless://c7e4c202-cfdf-44df-85a7-a9e7b4545a74@34.247.254.247:50768?type=grpc&mode
 vless://c7e4c202-cfdf-44df-85a7-a9e7b4545a74@34.247.254.247:50768?mode=gun&security=reality&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&pbk=7kUu70kwGDQ65WQHCBXcQ-KLQa5V8VVxX3zMML7hSlQ&fp=chrome&spx=/&type=grpc&sni=jetbrains.com&sid=4e78519d#@TEHRANARGO چنل تلگرام
 vless://c7e4c202-cfdf-44df-85a7-a9e7b4545a74@34.247.254.247:50768?mode=gun&security=reality&encryption=none&pbk=7kUu70kwGDQ65WQHCBXcQ-KLQa5V8VVxX3zMML7hSlQ&fp=chrome&spx=/&type=grpc&sni=jetbrains.com&sid=4e78519d#Telegram : @Mrsoulb 🏳🏴
 vless://c7d8e9f0-a1b2-7890-3456-6789abcdef01@104.188.82.79:443?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=ABC1234567890abcdef1234567890abcdef#@CaV2ray ⚡️
-vless://c7d8e9f0-7890-1abc-2def-34567890abcd@203.23.128.400:443?security=tls&type=ws&path=/vless#@Filter_breaker | Hong Kong
