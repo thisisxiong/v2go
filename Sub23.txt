@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.121:8880?mode=gun&security=none&encryption=none&type=grpc#@config_v2ray_vpn👈سرورهای‌ بیشتر
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#کانال+ما+در+تلگرام+@Asak_Vpn+🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.247:8880?encryption=none&security=none&type=grpc#@awlix_ir
 vless://e46b4d13-0d4e-4965-d7f6-aec6869c945c@5.160.197.120:13048?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
@@ -501,4 +502,3 @@ vless://d80b9af5-5351-4d37-8ba5-c9a7fca650f6@45.38.42.220:2085?security=none&enc
 vless://d7fe8020-c70e-5c5c-9869-e591b36ab7eb@138.124.15.83:443?path=/vless&security=tls&encryption=none&host=138.124.15.83&fp=chrome&type=ws&sni=138.124.15.83#@warp_city
 vless://d7f927c1-c100-4da7-ba48-f41652bc99be@[2a01:4f8:1c1b:e235::1]:58404?type=ws&path=/&host=&security=none#ipv6--MCI-IRANCELL
 vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-vless://d7ea444a-2c80-4019-8795-5235b076596e@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#2nchsww6
