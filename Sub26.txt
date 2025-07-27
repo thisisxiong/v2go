@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://be91a34d-6faf-43b6-a70b-14e12e5cf973@209.38.243.0:2025?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=hQhLQS4IVfzjFrTD5unsIJJDfEcJrXQgDezwjMxL8x0&fp=chrome&type=grpc&sni=journalofbigdata.springeropen.com&sid=a0d3059a#🇩🇪 | @External_Net
 vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&security=none&encryption=none&host=ping.amirhossein.info&fp=chrome&type=ws#@XpnTeam 🇮🇷
 vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&security=none&encryption=none&host=ping.amirhossein.info&fp=chrome&type=ws#@V2ray1_Ng
 vless://be88b352-bc2e-45bf-abeb-cc117cf6f884@172.67.189.227:443?security=tls&sni=cdn.packageclub.net&fp=chrome&type=ws&path=/ws-connect/download/update/check/version/2.1.9/patch/force&host=cdn.packageclub.net&encryption=none#@awlix_ir
@@ -502,3 +501,4 @@ vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?p
 vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?path=/netherlands&security=none&encryption=none&type=ws#@CaV2ray ⚡️
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.67.145.177:2096?path=/proxyip=navia.shorekeeper.ir&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#@warp_city
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=/Tel-@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#@varn_Net
+vless://a7316bc8-4169-4547-bf1b-8b5a5bfcd59a@142.132.227.65:14832?security=none&encryption=none&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay

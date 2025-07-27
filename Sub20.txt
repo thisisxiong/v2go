@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://6dbbbdfa-7368-4124-a224-f32f40fe9f89@www.speedtest.net:443?type=ws&path=%2F&host=vip.hackers855.sbs&security=tls&fp=chrome&alpn=&sni=vip.hackers855.sbs#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40iranproxypro%20%7C%206
 vless://2df97e78-5a88-4186-bac6-9685b781becf@45.77.62.215:2052?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40iranmedicalvpn%20%7C%200
 vless://9b558594-52f0-4d84-8db2-963b5387ecf0@lllliraniv2rayllll.norooz.online:443?path=%2F%40iraniV2ray&security=tls&encryption=none&fp=firefox&type=ws&sni=lllliraniv2rayllll.norooz.online#%E2%9D%94%20XX%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40iraniv2ray%20%7C%206
 vless://2d29bc24-aaf2-4e48-b0c1-ec6d625f8271@benefits.by:80?type=httpupgrade&path=%2Fdabadoo&host=dadashi.ir&security=none#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40iranbfilter%20%7C%206
@@ -502,3 +501,4 @@ vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9MDPku5jotLnmjqjojZDvvJpodHRwczovL2RhZmVpLmRl
 vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9MDPku5jotLnmjqjojZDvvJpodHRwczovL2RhZmVpLmRlIiwiYWRkIjoiY2Rucy5kb29uLmV1Lm9yZyIsInBvcnQiOjg4ODAsImlkIjoiNjkxMzZjYzctZDcwZS00MzU3LTgyMzAtZWM4MmJlYzkyYzE5IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiIiLCJwYXRoIjoiL3Byb2ZpbGUvdGVsZWdyYW1Ac3Nyc3ViIiwiaG9zdCI6ImNkbi1ub2RlLW9zcy05OS5wYW9mdS5kZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9MDPku5jotLnmjqjojZDvvJpodHRwczovL2RhZmVpLmRlIiwiYWRkIjoiY2Rucy5kb29uLmV1Lm9yZyIsInBvcnQiOjg4ODAsImlkIjoiNjc4MjhhNmUtMDE0NC00ZTU3LTgxNjktMjQ0N2EzZGQyZTYxIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiIiLCJwYXRoIjoiL3Byb2ZpbGUvdGVsZWdyYW1Ac3Nyc3ViIiwiaG9zdCI6ImNkbi1ub2RlLW9zcy05OS5wYW9mdS5kZSJ9
 vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9MDPku5jotLnmjqjojZDvvJpodHRwczovL2RhZmVpLmRlIiwiYWRkIjoiY2Rucy5kb29uLmV1Lm9yZyIsInBvcnQiOjg4ODAsImlkIjoiMjdlNDczZjgtZDYxMC00YjA0LWJkZjctZDBjMzliNDdjODk3IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiIiLCJwYXRoIjoiL3Byb2ZpbGUvdGVsZWdyYW1Ac3Nyc3ViIiwiaG9zdCI6ImNkbi1ub2RlLW9zcy05OS5wYW9mdS5kZSJ9
+vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9MDPku5jotLnmjqjojZDvvJpodHRwczovL2RhZmVpLmRlIiwiYWRkIjoiNjkuODQuMTgyLjE4IiwicG9ydCI6ODg4MCwiaWQiOiI5MjJiNDVjOC0xZWM4LTRhNjUtOWIzMi0xMzc3MTZhMGU1NWYiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6IiIsInBhdGgiOiIvcHJvZmlsZS90ZWxlZ3JhbUBzc3JzdWIiLCJob3N0IjoiY2RuLW5vZGUtb3NzLTk5LnBhb2Z1LmRlIn0=
