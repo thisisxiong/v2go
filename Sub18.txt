@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=%2F1u40Y2pvl82tR3i8%2FMTk0LjM4LjIwLjc4%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=SimoWeBsITesPEEDTEst.ir#Telegram+%3A+%40V2rayEnglish`
 vless://Telegram--SRCVPN--@91.99.229.234:2090?type=grpc&mode=gun&authority=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=reality&fp=chrome&sni=journalofbigdata.springeropen.com&pbk=wK_5qjYXyOhnpU4S8DpZSqRpq5U4IpdNWYrHxCL2m2M&sid=77c5aa0a2b&spx=/#%F0%9F%87%A9%F0%9F%87%AATelegram@HajmVPN`
 vless://Telegram--SRCVPN--@91.99.229.234:2080?type=grpc&mode=gun&authority=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=reality&fp=chrome&sni=journalofbigdata.springeropen.com&pbk=wK_5qjYXyOhnpU4S8DpZSqRpq5U4IpdNWYrHxCL2m2M&sid=77c5aa0a2b&spx=/#%F0%9F%87%A9%F0%9F%87%AATelegram@HajmVPN`**
 vless://870f64dc-d0f1-4ba3-bc5c-4555d27fa679@91.107.187.11:443?mode=gun&security=reality&encryption=none&pbk=63YcUAY9wBGjt2GoMqVSokC9PY-EQpVMUL9n33QfQ1s&fp=chrome&spx=%2F&type=grpc&sni=yahoo.com&sid=cb13067d95929851#✅@v2ray_configs_pools
@@ -502,3 +501,4 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowUnNyY0ZKMXZPc1dFcWczUDU1aHZhYWNLZnVTaFQwY2MxaDB0OEFEME5BOHUxdVI=@92.38.171.215:31348#%3E%3E%40ShadowsocksM%3A%3AES
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880/?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#%3E%3E%40ShadowsocksM%3A%3AUS
 vless://cbfbc5e3-4b53-4854-931e-c9ac61719636@104.24.0.137:8080/?path=%2Fkhkdjhsd%3Fed%3D2048&security=none&encryption=none&host=in2772.novintecc.ORG.&type=httpupgrade#%3E%3E%40ShadowsocksM%3A%3ANL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#%3E%3E%40ShadowsocksM%3A%3ANL
