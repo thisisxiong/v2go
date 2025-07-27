@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#🏴‍☠️ | @External_Net
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#فرانسه 🇫🇷 @V2xay
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=/57ba2ab1&security=tls&alpn=h2&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#@XpnTeam 🇺🇸
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443/?path=/57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#ae_proxy
@@ -502,3 +501,4 @@ vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@13.229.153.101:443?encryption=none&
 vless://4c107845-21a5-44dd-9e82-794c36724b2b@151.101.3.8:80?mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=2560&security=none&encryption=none&host=JoinMdVpnSec.com&type=xhttp#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://4c107845-21a5-44dd-9e82-794c36724b2b@151.101.3.8:80?mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=2560&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=JoinMdVpnSec.com&type=xhttp#All² @ghalagyann 🇲🇫
 vless://4c107845-21a5-44dd-9e82-794c36724b2b@151.101.3.8:80?mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec?ed=2560&security=&encryption=none&host=JoinMdVpnSec.com&type=xhttp#MdVpnSec
+vless://4c0fe119-90a3-4c1c-a218-5d2085e238c7@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs

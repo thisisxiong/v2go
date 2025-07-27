@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=/Telegram@V2RAYNG_1378/?ed=2560&security=tls&encryption=none&host=GgGgr.PaGES.dEV&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#@V2RAYNG_1378
 vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=/Telegram@ShadowProxy66/?ed=2560&security=tls&encryption=none&host=GgGgr.PaGES.dEV&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#🔗 Telegram : @Viturey 🔐
 vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=/Telegram@ShadowProxy66/?ed=2560&security=tls&encryption=none&host=GgGgr.PaGES.dEV&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#Channel id: @ShadowProxy66 🇨🇦
 vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=/Telegram@ShadowProxy66/?ed=2560&security=tls&encryption=none&host=GgGgr.PaGES.dEV&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#Channel : @Mrsoulb 🏴🏳
@@ -502,3 +501,4 @@ vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.16.53.11:443?path=/Telegram-XV2
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.16.53.11:443?path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&security=tls&encryption=none=&host=tfs733.pages.dev&type=ws&sni=pages.dev#@bored_vpn
 vless://80bd9b9a-dee1-488c-bbd4-a717fcae1e85@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-enin3zh2u
 vless://80a8dd9e-9e71-407e-9f31-1f488cea081f@94.183.158.13:8083?path=/&security=none&encryption=none&type=ws#🌟 @AblNet7 🌊💥
+vless://80a8dd9e-9e71-407e-9f31-1f488cea081f@94.183.158.13:8083?path=/&security=none&encryption=none&type=ws#@config_v2ray_vpn👈سرورهای‌ بیشتر

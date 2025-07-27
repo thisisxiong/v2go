@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://4c0fe119-90a3-4c1c-a218-5d2085e238c7@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://4bf96dd2-f451-4938-8fa4-1a2251290920@45.77.1.106:443?mode=stream-one&path=/7uj65&security=none&encryption=none&type=xhttp#@Merlin_ViP 417
 vless://4bc71dd9-05fa-4254-a3a6-d5e392dfdae4@uk.liteingshop.com:2053?security=none&type=tcp&headerType=&path=&host= @Confing_chanel
 vless://4bc71dd9-05fa-4254-a3a6-d5e392dfdae4@tun.liteingshop.com:6538?security=none&type=ws&headerType=&path=&host= @Confing_chanel
@@ -502,3 +501,4 @@ vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#عبور نت 🌐 | کانفیگ بیشتر: @Oboornet 🚀
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Telegram:@alfa_v2ray_ng 🔥
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Telegram:@ 🔥
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/@Prime_Verse?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Telegram : @Alfa_v2ray_ng 🔥
