@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.104:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#GB_speednode_0055
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.13:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#GB_speednode_0054
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.25.25.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#GB_speednode_0053
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.2:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/#GB_speednode_0052
@@ -502,3 +501,4 @@ vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&encryption=none&type=grpc#✅@v2ray_configs_pools
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@172.67.141.140:8880?path=%2FQaaLdIiGgWNoIxOF%3Fed%3D2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Telegram+%3A+%40V2rayEnglish`
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#✅@v2ray_configs_pools
+vless://b20c84f3-988c-489d-a93f-a42c26aa0c59@165.232.83.84:1500?security=reality&encryption=none&pbk=r7NlMeNf86iG8M1DF9WnU53xVx35pg1rRhLiEeW-618&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=springer-professional.com&sid=a93110#Telegram+%3A+%40V2rayEnglish`
