@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://60d955c2-c8b5-492c-a457-af3ffe2ca6a2@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#🛡️ @FreakConfig
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#@V2ray1_Ng
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@micro.slumbo.com:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#@Daily_Configs
@@ -502,3 +501,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.27:80?path=/Telegram: @v
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.76:80?path=Telegram:@azadiiivpn/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#azadiiivpn⁴ 🎀
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.145:8880?path=Telegram@azadiìivpn/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Azadiiivpn 🎀 ¹
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.145:8880?path=Telegram@azadiìivpn/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Azadiiivpn
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@23.134.82.1:80?path=/Telegram@azadiìivpn/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#azadiiivpn¹⁷ 🎀
