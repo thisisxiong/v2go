@@ -154,6 +154,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:44
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-131.145.119.207-0236
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.226-0211
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.196-0203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.58-0303
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#%F0%9F%87%AC%F0%9F%87%A7GB-131.145.37.239-0222
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.185.174-0177
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.169.198:989#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.169.198-0189
@@ -501,4 +502,3 @@ vless://87ced8c4-b4d4-4c7b-ba67-11b78833a1b6@172.66.44.68:443?path=/telegram-@EX
 vless://8160a5b8-74e3-5eff-a8a0-ecd4f72e81fe@151.101.130.228:443?security=tls&sni=coffeegenome.ucdavis.edu&type=ws&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.eng2.moiasl.ir&fp=chrome&alpn=h2,http/1.1#Telegram:@config_proxy 🔥
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#🌀Telegram= @server01012 🌀
 vless://7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8@104.21.36.57:443?path=/wsv/7f1c42b8-069d-4fbe-8cdc-0fc1a131c8a8&security=tls&encryption=none&host=avtice.fullmargintraders.com&fp=chrome&type=ws&sni=avtice.fullmargintraders.com#🌀Telegram= @server01012 🌀
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?flow=&path=/&type=ws#Telegram:@config_proxy 🔥
