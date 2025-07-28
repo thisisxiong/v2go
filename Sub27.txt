@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?path=/netherlands&security=none&encryption=none&type=ws#@V2xay VIP ALL🇳🇱
-vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?path=/netherlands&security=none&encryption=none&type=ws#@CaV2ray ⚡️
-vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.67.145.177:2096?path=/proxyip=navia.shorekeeper.ir&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#@warp_city
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=/Tel-@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#@varn_Net
 vless://a7316bc8-4169-4547-bf1b-8b5a5bfcd59a@142.132.227.65:14832?security=none&encryption=none&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
 vless://a717ca22-b2fb-469d-8102-6da0f035706c@91.107.146.109:39953?type=grpc&mode=gun&serviceName=@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02&security=reality&fp=chrome&sni=refersion.com&pbk=8ueBwb-uwLy208rRiXgXxublRQ3344Bi4PnhPAySiUQ&sid=a3&spx=/#Telegram:@FREE_VPN02
@@ -502,3 +499,6 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.38.176:443?path=/?ed=2560&se
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#⚡@Viturey
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?encryption=none&security=tls&sni=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&host=kawaiifreevpn-7ds.pages.dev&path=/?ed=2560#موقت
 vless://9dceeb88-6443-48cb-9f08-11190171e026@well.therubix.co:80?mode=auto&path=/GoodLuck?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-ali.global.ssl.fastly.net.&type=xhttp#👉@ai_duet 🛒@v2rayngsupbot
+vless://9dceeb88-6443-48cb-9f08-11190171e026@well.therubix.co:80?mode=auto&path=/GoodLuck?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=bano-hosting.global.ssl.fastly.net.&type=xhttp#👉@ai_duet 🛒@v2rayngsupbot
+vless://9db844bd-2c67-43bf-9381-553dffb259fd@62.60.220.115:80?mode=auto&path=/&security=none&encryption=none&host=62.60.220.115&type=xhttp#آلمان 🇩🇪 @V2xay
+vless://9db844bd-2c67-43bf-9381-553dffb259fd@62.60.220.115:80?mode=auto&path=/&security=none&encryption=none&host=62.60.220.115&type=xhttp#@CaV2ray ⚡️
