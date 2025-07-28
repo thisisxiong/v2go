@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.241:8880?allowInsecure=0&sni=kjgx.laoyoutiao.link&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2#GB_speednode_0060
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.166:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/#GB_speednode_0059
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.215:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#GB_speednode_0058
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.225:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#GB_speednode_0057
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.113:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#GB_speednode_0056
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.104:8880?allowInsecure=0&sni=us.laoyoutiao.link&type=ws&host=us.laoyoutiao.link&path=/#GB_speednode_0055
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.13:8880?allowInsecure=0&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#GB_speednode_0054
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.25.25.29:8880?allowInsecure=0&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#GB_speednode_0053
@@ -502,3 +497,8 @@ vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@gleeful-error.seotoolsforyou.co.uk:
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880/?type=ws&encryption=none&flow=&host=VngSuPpLY.IP-DdnS.com&path=%2F34COh9NCiin5SJMk%3Fed%3D2560#%F0%9F%8D%AC48%40oneclickvpnkeys
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@147.185.161.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%F0%9F%8D%AC45%40oneclickvpnkeys
 vless://d4363b0e-8672-43c6-af2a-30824d60e435@91.107.155.155:443/?type=grpc&encryption=none&flow=&serviceName=%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray%40Silver_v2ray#%F0%9F%8D%AC8%40oneclickvpnkeys
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
+vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?type=ws&path=/?@v2ray_configs_pools----@v2ray_configs_pools----@v2ray_configs_pools&security=none#✅@v2ray_configs_pools
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&encryption=none&type=grpc#✅@v2ray_configs_pools
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@172.67.141.140:8880?path=%2FQaaLdIiGgWNoIxOF%3Fed%3D2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Telegram+%3A+%40V2rayEnglish`
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#✅@v2ray_configs_pools
