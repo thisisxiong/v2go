@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://d14d29dd-826f-4c0d-ad22-5091360f4861@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
 vless://d140e9c8-14a1-4299-868d-d17b06d27f1c@www.speedtest.net:443?security=tls&alpn=h2,http/1.1&encryption=none&host=bike-skilled-you-cooperative.trycloudflare.com.&fp=chrome&type=ws&sni=bike-skilled-you-cooperative.trycloudflare.com.#@GrizzlyVPN کانال ما
 vless://d140e9c8-14a1-4299-868d-d17b06d27f1c@mp9.ir:443?encryption=none&security=tls&sni=bike-skilled-you-cooperative.trycloudflare.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=ws&host=bike-skilled-you-cooperative.trycloudflare.com#@GrizzlyVPN کانال ما
 vless://d140e9c8-14a1-4299-868d-d17b06d27f1c@mp9.ir:443?encryption=none&security=tls&sni=bike-skilled-you-cooperative.trycloudflare.com&alpn=h2,http/1.1&fp=chrome&allowInsecure=1&type=ws&host=bike-skilled-you-cooperative.trycloudflare.com#@GrizzlyVP
@@ -501,4 +502,3 @@ vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?encrypti
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#🇮🇷 | @External_Net
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#@ai_duet | @v2rayngsupbot
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.222.158:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#🇮🇷 | @External_Net
-vless://be91a34d-6faf-43b6-a70b-14e12e5cf973@209.38.243.0:2025?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=hQhLQS4IVfzjFrTD5unsIJJDfEcJrXQgDezwjMxL8x0&fp=chrome&type=grpc&sni=journalofbigdata.springeropen.com&sid=a0d3059a#🇩🇪 | @External_Net
