@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#🇮🇷 | @External_Net
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#@ai_duet | @v2rayngsupbot
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.222.158:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#🇮🇷 | @External_Net
 vless://be91a34d-6faf-43b6-a70b-14e12e5cf973@209.38.243.0:2025?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=hQhLQS4IVfzjFrTD5unsIJJDfEcJrXQgDezwjMxL8x0&fp=chrome&type=grpc&sni=journalofbigdata.springeropen.com&sid=a0d3059a#🇩🇪 | @External_Net
@@ -502,3 +501,4 @@ vless://a7a60671-ab3f-4293-81d8-0f1d563b56eb@Www.speedtest.net:2095?type=httpupg
 vless://a764c6fd-956c-4477-9d85-a41b16953e5b@104.18.26.90:80?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=kK78.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq123925678.academiGroup.IR&security=none#🇩🇪  @EXPRESSVPN_420-ws2
 vless://a764c6fd-956c-4477-9d85-a41b16953e5b@104.16.1.106:80?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=kK78.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq123925678.academiGroup.IR&security=none#🇩🇪  @EXPRESSVPN_420-ws1
 vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?path=/netherlands&security=none&encryption=none&type=ws#@V2xay VIP ALL🇳🇱
+vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?path=/netherlands&security=none&encryption=none&type=ws#@CaV2ray ⚡️
