@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.145:8880?path=Telegram@azadiìivpn/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#Azadiiivpn
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@23.134.82.1:80?path=/Telegram@azadiìivpn/?ed=2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#azadiiivpn¹⁷ 🎀
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.36.55.123:80?security=&type=ws&path=/&host=reedfree8mahsang2.redorg.ir&encryption=none#ae_proxy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.36.55.123:80?path=/&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#☁️ @server_free2 ☁️
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.36.55.123:80?path=/&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@V2RAYNG_1378
@@ -500,5 +502,3 @@ vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?path=/iTCBmrOFrKpd
 vless://42795c1c-acab-46f5-8c10-a86de801411b@104.18.26.90:443?encryption=none&security=tls&sni=s3.mAIN-2.WorKeRs.Dev&fp=chrome&type=ws&host=s3.main-2.workers.dev&path=/iTCBmrOFrKpdwUWZ?ed#@CaV2ray ⚡️
 vless://42795c1c-acab-46f5-8c10-a86de801411b@104.17.147.22:443?path=/Telegram@V2ray_Alpha/?ed&security=tls&alpn=http/1.1&encryption=none&host=s3.main-2.workers.dev&fp=chrome&type=ws&sni=s3.mAIN-2.WorKeRs.Dev#@CaV2ray ⚡️
 vless://423cf0ab-6beb-4b3c-9aab-1644cec421de@dd6.asalemaraghe.ir:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=dd6.asalemaraghe.ir&fp=chrome&type=ws&sni=dd6.asalemaraghe.ir#@V2rayNG3
-vless://42389e23-5f27-49cb-b0c9-eb336e7b129c@91.107.152.246:8443?security=none&encryption=none&headerType=none&type=tcp#T.me/Asak_Vpn
-vless://420f44ae-ff46-47c3-ba43-36c9c61812ef@dd11.asalemaraghe.ir:443?path=/&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=dd11.asalemaraghe.ir&fp=chrome&type=ws&sni=dd11.asalemaraghe.ir#🌟Telegram:@Asak_Vpn
