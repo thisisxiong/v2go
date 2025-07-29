@@ -87,6 +87,7 @@ trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?allowInsecure
 trojan://da631e61-bead-4c9c-8bd7-7bea82f736ae@js-12f83a8c.kaiqsz.com:12221?allowInsecure=0&sni=nkrpjj.cn#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?sni=rc8.freeguard.org#US3%2090.3KB%2Fs
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNiIsImFkZCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BTElJTEFQUk8vdjJyYXlORy1Db25maWciLCJwb3J0IjoiNDMzIiwiaWQiOiJGcmVlIiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjYifQ==
+trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%E6%9C%AA%E7%9F%A55
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.13:1122?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
 trojan://xxoo@us.blazeppn.info:443?sni=us.blazeppn.info#US2%2037.4KB%2Fs
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF4
@@ -94,7 +95,6 @@ trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?sni=rc6.freegua
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?type=ws&sni=vle.amclubdns.dpdns.org&path=/?ed=2560&PROT_TYPE=trojan&host=vle.amclubdns.dpdns.org#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF2
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:16158?sni=www.baidu.com#%F0%9F%87%B0%F0%9F%87%B7KR%E9%9F%A9%E5%9B%BD
 trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%E6%9C%AA%E7%9F%A53
-trojan://60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d@391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net:15229?#%E6%9C%AA%E7%9F%A52
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.48:41225?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC3
 trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.192.13:9141?sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 trojan://74260628090146500@stirring-parakeet.shiner427.skin:443?#%E6%9C%AA%E7%9F%A5%2080.0KB%2Fs
