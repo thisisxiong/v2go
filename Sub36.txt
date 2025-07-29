@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://12d2ea1a-758c-cf10-8897-a30c6e06f0c9@151.101.3.8:80?mode=auto&path=/?ed=2048&security=none&encryption=none&host=vmeesssrtrtreqda.com&type=xhttp#آلمان 🇩🇪 @V2xay
 vless://12ceade9-20f7-415c-9765-7b44ec39e7bc@85.133.201.22:2053?path=/qlJPWkdG5duY1xMy4RvQjdFiL&security=tls&alpn=http/1.1&encryption=none&host=ldpnuurz3.imamhassan.info&fp=chrome&type=ws&sni=ldpnuurz3.imamhassan.info#🔒 @Bluev2rayng 🇮🇷 IR
 vless://12abfe74-adff-433c-b352-6250c76bed38@www.speedtest.net:8880?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=arm1.dollardoon.com&type=httpupgrade#@v2rayfast_7❤️‍🔥
 vless://127afb57-1197-4e9f-995e-ea78deddc226@n2vpn-helper.projectis.ir:2083?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#@n2vpn+-+کانفیگ+های+اختصاصی
@@ -502,3 +501,4 @@ trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&secur
 trojan://da128246-33b0-4c88-a44e-d91e9e0a1e05@172.67.208.155:443?path=/UmUQq8h08wB9JsgTazwz9&security=tls&alpn=http/1.1&host=sssdddffgbnhju.2030.pp.ua&fp=chrome&type=ws&sni=SsSDdDffGBNhJu.2030.Pp.Ua#@warp_city
 trojan://d8e9f0g1-1234-5bcd-6abc-7890abcdef56@104.21.25.390:443?type=ws&host=trojan.workers.dev&path=/trojan#@Filter_breaker | United States
 trojan://bpb-trojan@www.vpslook.com:443?path=/tr?ed=2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=chrome&type=ws&sni=bpb-hd.aaronchin.xyz#@V2rayNG3
+trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
