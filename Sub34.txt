@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://331de0c9-ed97-4a92-9a60-7c22b98531e9@62.60.192.166:2001?encryption=none&security=none&type=tcp&headerType=none&host=speedtest,net#@GrizzlyVPN
-vless://3315df08-e2a4-4dbd-eccc-fa0cbacf40a9@xpo.xpnvip.ir:443?type=tcp&security=reality&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8&fp=chrome&sni=www.latimes.com&sid=&spx=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048#Free | @XpnTeam 🇹🇷-r1zl1tmcc
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@V2rayNG3
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2086?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@V2rayNG3
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2052?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@V2rayNG3
@@ -502,3 +500,5 @@ vless://25eb0cf9-b6bc-475b-bda5-b76ac9b766f6@5.255.120.217:80?type=xhttp&path=/p
 vless://25eb0cf9-b6bc-475b-bda5-b76ac9b766f6@5.255.120.217:80?mode=auto&path=/pwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#هلند 🇳🇱 @V2xay
 vless://25dc828d-acbb-45ff-95aa-e1ac9f543cd6@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#1593jhvl  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹  Gr
 vless://25dc828d-acbb-45ff-95aa-e1ac9f543cd6@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#1593jhvl
+vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=/stream/#Telegram@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=magdl.ir&fp=chrome&type=ws&sni=anchor.fm#@V2rayNG3
+vless://259923b6-756d-4b33-9ea9-73e55378018a@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇮🇹@Shh_Proxy | All¹

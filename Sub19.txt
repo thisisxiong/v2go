@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-15.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#%3E%3E%40DailyV2RY%3A%3AUS
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v3.waipdirect.shop:8880?encryption=none&security=none&sni=pqh29v3.waipdirect.shop&alpn=&type=grpc&host=pqh29v3.waipdirect.shop#%3E%3E%40DailyV2RY%3A%3AUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg==@uk.opensocks.site:1443#%3E%3E%40ShadowsocksM%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVFEwWg==@83.147.18.163:8388#%3E%3E%40ShadowsocksM%3A%3AGB
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#%3E%3E%40ShadowsocksM%3A%3AFR
@@ -502,3 +500,5 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.27.196.92:443?path=%2F%3Fed%3D2
 vmess://eyJhZGQiOiIxNDQuMTI2LjIyNC4yMDYiLCJhaWQiOiIwIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjVmNDVlOGQ2LTYyYTktNDQxZC04OWJjLWZjNWVlYWYzZTU2YiIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInBvcnQiOiI5MDIwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJwcyI6Ilx1ZDgzY1x1ZGRlY1x1ZDgzY1x1ZGRlNyBHQiB8IFx1ZDgzZFx1ZGQzNCB8IHZtZXNzIHwgQGtob25lcHJveHkgfCAxNCJ9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsOFdxZ2duRExxMTlWdWhiazkxeENR@62.210.88.22:443#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%9F%A2%20%7C%20ss%20%7C%20%40key_outline%20%7C%2019
 vless://201c05a2-f76b-4088-bb1d-e4c8ee8909dd@germansana.kesslershop.ir:8997?type=tcp&security=reality&pbk=UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8&fp=firefox&sni=refersion.com&sid=f23d09&spx=%2FKesslerVPN&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40kesslervpn%20%7C%202
+vless://3225893e-09d0-4822-a19a-04fb39066d22@103.71.23.210:443?security=reality&encryption=none&pbk=Lb1Gi0VcVuytLf_gb846u7iKkHVywpG8IC9wdZslwUA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=102707ab31571a93#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40kanfig_majani%20%7C%2016
+vless://c34a9f73-3c11-4614-90ff-196add3fa4aa@157.230.28.73:23353?type=tcp&security=reality&pbk=OItbKB3XzCXKysSNBIUZ7fDAfASACK_ucLrU6NAAFAU&fp=firefox&sni=%2A.sourceforge.net&sid=a98a22e2&spx=%2F#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%9F%A2%20%7C%20vless%20%7C%20%40jokerv2ray%20%7C%2016

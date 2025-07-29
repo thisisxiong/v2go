@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://d15a8968-954d-4315-9ea2-b8147908e688@51.77.40.81:18764?type=tcp&host=telewebion.com&headerType=http#Telegram:@config_proxy 🔥
-vless://d14d29dd-826f-4c0d-ad22-5091360f486c@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
 vless://d14d29dd-826f-4c0d-ad22-5091360f486c@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
 vless://d14d29dd-826f-4c0d-ad22-5091360f486b@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
 vless://d14d29dd-826f-4c0d-ad22-5091360f486b@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
@@ -502,3 +500,5 @@ vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@mtn.zoverv.com:443?security=tls&typ
 vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@mtn.zoverv.com:443?security=tls&type=ws&headerType=&path=/hajmi?ed=2560&host=nb-en.parsdl.xyz&sni=parsdl.xyz&fp=chrome&alpn=http/1.1&fragment=1-10,0-1,tlshello&allowInsecure=1#Config7
 vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&path=/admin?ed=2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram: @IP_CF
 vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&path=/admin?ed=2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#New+Config
+vless://bf162217-cf4a-47c5-ad9f-11d51e96dbd0@iza4.lalash.ir:80?mode=auto&path=/&security=none&encryption=none&host=reza-aliyari72.global.ssl.fastly.net&type=xhttp#irancell7292
+vless://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?security=reality&encryption=none&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=aba7bc9a#🇩🇪 | @External_Net

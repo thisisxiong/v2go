@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=/@V2WRAY--@V2WRAY--@V2WRAY--@V2WRAY--@V2WRAY--@V2WRAY--@V2WRAY--@V2WRAY--@V2WRAY--@V2WRAY?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@V2ray_confing33
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=/6TvG8D6HimXKgdp2?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🟢 @server_free2 🟢
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=/6TvG8D6HimXKgdp2?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🔥@AblNet7 🇮🇷 نت ملی 🔥
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=/6TvG8D6HimXKgdp2?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=/6TvG8D6HimXKgdp2?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🌈انواع کانفیگ های رایگان در تلگرام : Viturey@
@@ -502,3 +500,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#Telegram : @Mrsoulb 🏳🏴
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#@varn_Net
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#@EmpireVpn7🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=&encryption=none&type=grpc#@varn_Net
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?encryption=none&security=none&type=grpc#@Daily_Configs

@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=&encryption=none&type=grpc#@varn_Net
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&mode=gun&serviceName=&authority=#Config🇫🇷@Do_itforyou
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&mode=gun&serviceName=&authority=#Config%F0%9F%87%AB%F0%9F%87%B7@Do_itforyou
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?type=grpc&mode=gun&serviceName=&authority=#Config%25F0%259F%2587%25AB%25F0%259F%2587%25B7@Do_itforyou
@@ -502,3 +500,5 @@ vless://d1a98cea-5826-4001-92a6-d2667aaf8b2f@germany.fast.hosting-ip.com:80?secu
 vless://d174050d-d8ed-4278-b2b7-35cc962dadc0@themob.amirtoqi.ir:11460?type=tcp&security=none#@V2ray_confing33
 vless://d174050d-d8ed-4278-b2b7-35cc962dadc0@themob.amirtoqi.ir:11460?security=none&encryption=none&headerType=none&type=tcp#آلمان 🇩🇪 @V2xay
 vless://d16407ba-e859-4a02-a15b-fa88b791ebae@193.5.44.197:2070?security=&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng سرورای بیشتر با سرعت خوب داخل چنل
+vless://d15a8968-954d-4315-9ea2-b8147908e688@51.77.40.81:18764?type=tcp&host=telewebion.com&headerType=http#Telegram:@config_proxy 🔥
+vless://d14d29dd-826f-4c0d-ad22-5091360f486c@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn

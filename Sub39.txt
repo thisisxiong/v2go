@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5clp0VUVsR2hMOHhmZWFOMGhJSXpR@193.228.139.250:1080#Telegram+:+@Mrsoulb+🏳🏴
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5clp0VUVsR2hMOHhmZWFOMGhJSXpR@193.228.139.250:1080#(@vmesskhodam)چنلمون
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5ZjRoSzRoRmpuYXM0allNaWMxcXpZ@213.111.131.70:8443#Power🔥@antimeli-AllNet-🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UFdwMlMwMDJ0WjZuelRXNW5TVjBp@93.180.133.206:8443#Power🔥@antimeli-AllNet-🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#⚜️Telegram: @IP_CF
@@ -502,3 +500,5 @@ vless://70c2e363-a934-4ea5-9e29-7cadd817194c@125.134.160.98:50000?allowInsecure=
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@103.116.7.3:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/TelegramU0001F1E8U0001F1F3#JP_speednode_0073
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.92.9.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#JP_speednode_0072
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@62.72.166.3:8880?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/TelegramU0001F1E8U0001F1F3#JO_speednode_0071
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@62.72.166.3:8880?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/Telegram🇨🇳#JO_speednode_0070
+vless://4918f06b-b872-452e-8a0f-42ee51a2008c@dl.2056.shield-web.ir:2056?allowInsecure=0&sni=skype.com#IR_speednode_0068
