@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#Telegram+@vmessorg
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@G0Dv2ray
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram:@Selinc/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@Selinc
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@V2ray1_Ng
@@ -502,3 +501,4 @@ vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#@azadiiivpn 🎀
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#@V2ray_confing33
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN
+vless://77eb0a34-e172-48fa-8093-6c488664da44@94.182.83.109:8085?security=&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥

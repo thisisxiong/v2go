@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://255928a1-5b47-4e6d-b364-3c138dc9fffa@142.132.227.65:31151?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://255928a1-5b47-4e6d-b364-3c138dc9fffa@142.132.227.65:31151?security=&encryption=none&headerType=none&type=tcp#@varn_Net
 vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948?type=tcp&headerType=http&host=divarcdn.com#@EVAY_VPN🇳🇱
 vless://25585ad5-242d-4b58-ad50-2492ee122ab6@partner.zoom.us:80?path=/&security=none&encryption=none&host=19.sahanwickramasinghe.shop&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
@@ -502,3 +501,4 @@ vless://13e26f64-2e0c-4461-92cd-d83294cc18f0@104.21.94.69:443?type=ws&host=ddddv
 vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#ترکیه 🇹🇷 @V2xay
 vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@srv7.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#All @FergalVpnMod
 vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@0ost.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#All @FergalVpnMod
+vless://13753795-cc6b-4110-83c9-5d11f5918508@85.198.9.139:8008?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#All🇩🇪@Rk_VPS

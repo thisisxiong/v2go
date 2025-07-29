@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://a7a60671-ab3f-4293-81d8-0f1d563b56eb@Www.speedtest.net:2095?type=httpupgrade&host=Fi1.vipmehspd.ir.&path=/@FREE_VPN02@FREE_VPN02@FREE_VPN02&security=none#Telegram:@FREE_VPN02
 vless://a764c6fd-956c-4477-9d85-a41b16953e5b@104.18.26.90:80?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=kK78.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq123925678.academiGroup.IR&security=none#🇩🇪  @EXPRESSVPN_420-ws2
 vless://a764c6fd-956c-4477-9d85-a41b16953e5b@104.16.1.106:80?type=ws&path=/telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420,telegram-EXPRESSVPN_420?ed=80&host=kK78.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq123925678.academiGroup.IR&security=none#🇩🇪  @EXPRESSVPN_420-ws1
 vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?path=/netherlands&security=none&encryption=none&type=ws#@V2xay VIP ALL🇳🇱
@@ -502,3 +501,4 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?path=/&security=t
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?path=/&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@V2RAYNG_1378
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?path=/&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@Selinc
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.38.176:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#⚡@Viturey
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#⚡@Viturey

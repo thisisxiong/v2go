@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&spx=/&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#@Selinc
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&spx=/&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#@Filter_breaker | Unknown
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&spx=/&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#@CaV2ray ⚡️
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?encryption=none&security=reality&sni=dash.cloudflare.com&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685&spx=/&type=tcp&headerType=none#@CaV2ray ⚡️
@@ -502,3 +501,4 @@ vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.90.54.161:443?security=reality&e
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@35.90.54.161:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=store.steampowered.com&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&type=tcp&headerType=none#@Daily_Configs
 vless://a7c9e1f3-7b8c-9d0e-1f2a-3b4c5d6e7f8a@185.199.229.121:443?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Filter_breaker | Germany
 vless://a7c9c017-db10-4d15-b01b-0634db498b57@104.21.76.21:443?path=/xZjr7v1DqrYyamxeTh7sLJtI1&security=tls&encryption=none&host=xcvbnnmklo.00890604.xyz&type=ws&sni=xCVbNNMklo.00890604.xyZ#@warp_city
+vless://a7a60671-ab3f-4293-81d8-0f1d563b56eb@Www.speedtest.net:2095?type=httpupgrade&host=Fi1.vipmehspd.ir.&path=/@FREE_VPN02@FREE_VPN02@FREE_VPN02&security=none#Telegram:@FREE_VPN02

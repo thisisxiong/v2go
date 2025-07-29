@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-trojan://telegram-id-directvpn@35.181.120.43:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@35.180.106.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@35.156.118.90:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
 trojan://telegram-id-directvpn@3.78.4.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN
@@ -502,3 +501,4 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.245.68:443?security=tls&sni=pq
 vless://59daa2be-20cf-4f61-b409-27050bcc3bbb@91.107.180.100:443?mode=gun&security=reality&encryption=none&authority=&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&fp=chrome&spx=%2F&type=grpc&serviceName=%40SobyV2ray&sni=zula.ir&sid=f3#Telegram+%3A+%40V2rayEnglish`
 vless://375deee9-50a5-4e9b-be57-fa12908d5497@amrika1.kesslershop.ir:8990?security=reality&encryption=none&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=9912311de4630f2d#%F0%9F%87%BA%F0%9F%87%B8%20COOK_VPN%201```
 vless://375deee9-50a5-4e9b-be57-fa12908d5497@node.kesslershop.ir:8990?security=reality&encryption=none&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=9912311de4630f2d#%F0%9F%87%A8%F0%9F%87%A6%20COOK_VPN```
+vless://375deee9-50a5-4e9b-be57-fa12908d5497@nod6.kesslershop.ir:8990?security=reality&encryption=none&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&headerType=none&fp=firefox&type=tcp&sni=refersion.com&sid=9912311de4630f2d#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20%40COOK_VPN```
