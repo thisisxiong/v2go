@@ -2,21 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://a1fd898b-326a-49eb-b28a-60a600736a98@parsdata.france-learns.ir:42545?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#@ATOVPN
-vless://a1f9998f-e611-4cd6-81d9-7dc10ef619a8@www.speedtest.net:80?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=www.sPeedtest.net.ElectrOluxxv.iR.&security=none#🇩🇪 | XpnTeam-vc2efz427
-vless://a1f9998f-e611-4cd6-81d9-7dc10ef619a8@www.speedtest.net:80?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=www.sPeedtest.net.ElectrOluxxv.iR.&type=httpupgrade#@bored_vpn
-vless://a1c4b6e2-9d4f-4e6b-8c7a-5d8e9f0a1b2c@149.102.130.106:8443?security=tls&type=ws&host=v2ray-config.sohala.uk&path=/ws#@Filter_breaker | Netherlands
-vless://a1b2c3d4-e5f6-1234-7890-abcdef012345@104.20.158.25:2053?type=ws&encryption=none&host=proxy.aslivpn.ir&path=/Telegram@Hiddify&security=tls&sni=proxy.aslivpn.ir&fp=chrome#@CaV2ray ⚡️
-vless://a1b2c3d4-5e6f-4a7b-8c9d-0e1f2a3b4c5d@104.21.69.42:443/?type=ws&encryption=none&flow=&host=example.com&path=/test&security=tls&sni=example.com#@Filter_breaker | United States
-vless://a1a168b4-8405-4e98-93f8-7d00de708f0f@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn  ➖➖➖➖➖➖➖➖ ⭐ | @ZedBaz_vpn
-vless://a1a168b4-8405-4e98-93f8-7d00de708f0f@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn
-vless://a1a168b4-8405-4e98-93f8-7d00de708f0f@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@VPN
-vless://a15e34b6-461d-4c57-97b1-041c93a92acb@panel-germany-9.vpnbankpro.site:1009?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://a15e34b6-461d-4c57-97b1-041c93a92acb@panel-germany-9.vpnbankpro.site:1009?security=&encryption=none&host=fast.com&headerType=http&type=tcp#@Alfa_v2ray_ng سرورای بیشتر با سرعت خوب داخل چنل
-vless://a149af65-8679-4572-a1d1-2d7af3fa7c3f@91.107.167.104:55713?type=tcp#@configMs
-vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@en2.fastplus.shop:39984?path=/&security=none&encryption=none&type=ws#@CaV2ray ⚡️
-vless://a0e8f5ff-602a-4fbf-83da-f50d538c21fc@185.155.72.152:39984?path=/&security=none&encryption=none&type=ws#@CaV2ray ⚡️
-vless://a0e0fc1f-e056-4ca0-b0fe-3af4fecd70e1@45.55.212.210:443?security=reality&encryption=none&pbk=vi3w2Fhxm959AJySnMWGZwFLnppnLbAoFEZ9seJ8Ph8&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=036c2e0826c4#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
 vless://a0db1c74-7a03-4bad-9b4b-ced8d1d22315@85.9.100.153:8080?security=&encryption=none&host=www.sayad.top&headerType=http&type=tcp#⚜️Telegram: @IP_CF
 vless://a0cebe05-630d-4249-ae4c-78bb4f843198@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
 vless://a0a3e34d-87e4-4ff3-b04a-875c85325d62@uk.panelmarzban.com:3033?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=chrome&type=tcp&sni=refersion.com#Telegram+@vmesskhodam
@@ -502,3 +487,18 @@ vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#All🇩🇪@Rk_VPS
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@vmesskhodam
+vless://96479a22-9333-4b03-9912-4dd26acef75e@188.114.97.1:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@bored_vpn
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?type=ws&host=nextfilmtomovies.site&path=/9EkfcCDedhvB19xj?ed=2560&security=tls&fp=chrome&sni=NExtfilmtOmovies.sitE&alpn=http/1.1#Telegram : @unlimiteddev ✅
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?type=ws&host=nextfilmtomovies.site&path=/9EkfcCDedhvB19xj?ed=2560&security=tls&fp=chrome&sni=NExtfilmtOmovies.sitE&alpn=http/1.1#Telegram : @Unlimiteddev
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=@proNG1?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@proNG1
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/proNG1?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#@proNG1/parham929292
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#👉@ai_duet 🛒@v2rayngsupbot
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#🇨🇦𝚃𝚎𝚕: @𝙵𝚁𝙴𝙴𝚅𝟸𝚁𝙽𝙶
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#✅@v2rayngsupbot
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Telegram@vmessorg
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Telegram : @Mrsoulb 🏳🏴
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Telegram : @CaptalVpn
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#HiByeVPNN
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Channel@vmessorg
+vless://96479a22-9333-4b03-9912-4dd26acef75e@104.22.24.195:443?path=/9EkfcCDedhvB19xj?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nextfilmtomovies.site&fp=chrome&type=ws&sni=NExtfilmtOmovies.sitE#Channel : @Mrsoulb 🏴🏳
