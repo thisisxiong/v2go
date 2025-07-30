@@ -94,6 +94,7 @@ trojan://fa050497-fc2a-45ee-89c0-96670c4ecb65@172.67.145.200:443?sni=Rrr4.890600
 trojan://cf8c791e-9d0b-4e90-aaf6-41ac62468416@172.67.135.37:443?sni=EeEeeD.459.pp.uA#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
 trojan://5e2f888c-68ef-11ef-96ca-f23c9164ca5d@13c2c931-swin40-swy6li-tni2.cu.plebai.net:15229?sni=13c2c931-swin40-swy6li-tni2.cu.plebai.net#%E6%9C%AA%E7%9F%A516
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#%E6%9C%AA%E7%9F%A515
+trojan://def14a51-e0d9-11ec-8429-f23c91cfbbc9@4560c642-swin40-tjuq6l-wf62.cu.plebai.net:15229?sni=4560c642-swin40-tjuq6l-wf62.cu.plebai.net#%E6%9C%AA%E7%9F%A514
 trojan://357b1bba-6400-4944-baff-1b933311ff28@104.21.88.226:443?sni=XxxxxXXXXXXxXf.wwW890604.Dpdns.orG#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 trojan://0cc6b4268dea0ba8@118.163.200.42:443?sni=TG.WangCai2#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD4
 trojan://0cc6b4268dea0ba8@118.163.200.38:443?sni=TG.WangCai2#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
@@ -501,4 +502,3 @@ vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?path=/Telegram-XV2
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?path=/&security=&encryption=none&type=ws#t.me/entryNET/config=1837951420583846
 vless://56054323-c2ec-48f1-85e8-d80c5f378611@a.ru.maviks.ru:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=0f917152a871e9c0#Telegram:@config_proxy 🔥
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.203:8880?path=Telegram@ShadowProxy66/?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#ae_proxy
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.57:8880?path=/Channel id: @ShadowProxy66?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#ae_proxy
