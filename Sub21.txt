@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vmess://eyJ2IjoiMiIsInBzIjoi5aWX6aSQ5Yiw5pyf77yaMjAzNS0xMS0xMSIsImFkZCI6ImNzZ28uY29tIiwicG9ydCI6ODg4MCwiaWQiOiIyN2U0NzNmOC1kNjEwLTRiMDQtYmRmNy1kMGMzOWI0N2M4OTciLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6IiIsInBhdGgiOiIvcHJvZmlsZS90ZWxlZ3JhbUBzc3JzdWIiLCJob3N0IjoiY2RuLW5vZGUtb3NzLTk5LnBhb2Z1LmRlIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi5aWX6aSQ5Yiw5pyf77yaMjAzNS0xMS0xMSIsImFkZCI6ImNzZ28uY29tIiwicG9ydCI6ODg4MCwiaWQiOiI5MjJiNDVjOC0xZWM4LTRhNjUtOWIzMi0xMzc3MTZhMGU1NWYiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6IiIsInBhdGgiOiIvcHJvZmlsZS90ZWxlZ3JhbUBzc3JzdWIiLCJob3N0IjoiY2RuLW5vZGUtb3NzLTk5LnBhb2Z1LmRlIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi5aWX6aSQ5Yiw5pyf77yaMjAzNS0xMS0xMSIsImFkZCI6ImNzZ28uY29tIiwicG9ydCI6ODg4MCwiaWQiOiI2NzgyOGE2ZS0wMTQ0LTRlNTctODE2OS0yNDQ3YTNkZDJlNjEiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6IiIsInBhdGgiOiIvcHJvZmlsZS90ZWxlZ3JhbUBzc3JzdWIiLCJob3N0IjoiY2RuLW5vZGUtb3NzLTk5LnBhb2Z1LmRlIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi5Ymp5L2Z5rWB6YeP77yaMTk3NzUuNDggR0IiLCJhZGQiOiJjc2dvLmNvbSIsInBvcnQiOjg4ODAsImlkIjoiNjc4MjhhNmUtMDE0NC00ZTU3LTgxNjktMjQ0N2EzZGQyZTYxIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiIiLCJwYXRoIjoiL3Byb2ZpbGUvdGVsZWdyYW1Ac3Nyc3ViIiwiaG9zdCI6ImNkbi1ub2RlLW9zcy05OS5wYW9mdS5kZSJ9
@@ -502,3 +501,4 @@ vless://f67049c6-edbe-41bd-b50c-49800223d971@185.211.101.15:80?type=xhttp&path=/
 vless://f633fabf-ee7e-4562-a2c2-459848818b29@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=Namaid4.global.ssl.fastly.net&path=/V3xhttp?ed=2048&mode=auto&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}#@CaV2ray ⚡️
 vless://f606713e-8725-417e-b055-0abd1d6608ae@185.143.234.120:443?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=arv46.digitalmanage.top&fp=chrome&type=ws&sni=arv46.digitalmanage.top#⚜️Telegram: @IP_CF
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@meli1.dashvili.ir:80?path=/&security=&encryption=none&type=ws#@varn_Net
+vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=ws#آلمان 🇩🇪 @V2xay

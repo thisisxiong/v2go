@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@V2rayNG3
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2086?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@V2rayNG3
 vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2052?path=/?ed=2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@V2rayNG3
 vless://32f9754e-b916-4d0b-b402-13dcff55bd36@path.mashti.my:7893?security=reality&encryption=none&pbk=4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🇹🇷 TR - @do_itforyou
@@ -502,3 +501,4 @@ vless://25dc828d-acbb-45ff-95aa-e1ac9f543cd6@Net.1lagvpn13.cfd:2087?mode=gun&sec
 vless://25dc828d-acbb-45ff-95aa-e1ac9f543cd6@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#1593jhvl
 vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=/stream/#Telegram@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=magdl.ir&fp=chrome&type=ws&sni=anchor.fm#@V2rayNG3
 vless://259923b6-756d-4b33-9ea9-73e55378018a@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none#🇮🇹@Shh_Proxy | All¹
+vless://259923b6-756d-4b33-9ea9-73e55378018a@151.101.3.8:80?mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=joinshhproxybede.com&type=xhttp#All¹ @ghalagyann 🇮🇹
