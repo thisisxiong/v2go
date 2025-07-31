@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=@Confingman@Confingman@Confingman&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Confingman🍕
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=@Confingman @Confingman&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Confingman2️⃣🇺🇸
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=@Confingman @Confingman @Confingman @Confingman @Confingman @Confingman&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Confingman🎭🌧
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=/V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram @v2rayng_fars
@@ -502,3 +501,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@V2ray1_Ng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYNG_1378
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc

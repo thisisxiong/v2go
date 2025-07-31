@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#Academi_vpn¹
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@Viturey 🔒
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@V2RAYROZ
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@HiByeVPNN
@@ -502,3 +501,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@v2ngfast-468.pages.dev:443?path=/Ju
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-49u.pages.dev:2087?path=/vl0rioUFQ6HK2PN5?ed=2560&security=tls&encryption=none&host=joiNv2NgFAsT-49u.PageS.dev&type=ws&sni=joInV2ngfAsT-49U.PageS.dev#@config_v2ray_vpn👈سرورهای‌+بیشتر
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:8443?path=/mzIuX2SHNQsfSMPK?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOinmAHdiserver-340.PAgeS.DEv&fp=chrome&type=ws&sni=jOinmahdiSeRVER-340.PAGES.DEV#@config_v2ray_vpn👈سرورهای‌+بیشتر
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:2053?path=/3VmWLTBaqH67eq8s?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoinmahDisErVer-340.PaGeS.DEv&fp=chrome&type=ws&sni=JOINMahDIsERvEr-340.pageS.dev#@config_v2ray_vpn👈سرورهای‌+بیشتر
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.80.111.55:80?path=Telegram:@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🇩🇪TM-@AZARBAYJAB1

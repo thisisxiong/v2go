@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1DQSIsImFkZCI6IjcyLjEwLjE2MC45MCIsInBvcnQiOiIxOTEwMSIsImlkIjoiODI0NjY3MTUtNmE1OC00MDQ2LWEzNjMtYTBkMThlNWIyYWI0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiZmFsc2UiLCJza2lwLWNlcnQtdmVyaWZ5IjoiZmFsc2UifQ==#@Filter_breaker | Canada
 vmess://eyJ2IjoiMiIsInBzIjoiVk1FU1MtVENQMSAtIEBpRnJlZVZQTkJvdCIsImFkZCI6ImNwYW5lbC5lcmFkZTMyLmlyIiwicG9ydCI6IjEwMCIsImlkIjoiMjBmNDA3NTEtMmM1NS00MzM4LWIwNGYtZjk0MDljNmRmNWMzIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJob3N0IjoidXBsb2FkYm95LmNvbSIsInBhdGgiOiIvIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiVk1FU1MtV1MxIC0gQGlGcmVlVlBOQm90IiwiYWRkIjoiY3BhbmVsLmVyYWRlMzMuaXIiLCJwb3J0IjoiMTAwIiwiaWQiOiIyMGY0MDc1MS0yYzU1LTQzMzgtYjA0Zi1mOTQwOWM2ZGY1YzMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InVwbG9hZGJveS5jb20iLCJwYXRoIjoiLyIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQHdhcnBfY2l0eSIsImFkZCI6ImFpby5kYXRhY29yZS5kcGRucy5vcmciLCJwb3J0IjoiODAiLCJpZCI6ImYyODJiODc4LTg3MTEtNDVhMS04YzY5LTU1NjQxNzIxMjNjMSIsImFpZCI6IjAiLCJzY3kiOiJ6ZXJvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJhaW8uZGF0YWNvcmUuZHBkbnMub3JnIiwicGF0aCI6Ii9haW9wcm94eWJvdC8xNDYuMTkwLjE5Mi40My04MCIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==
@@ -502,3 +501,4 @@ vless://f6e4491f-59b6-4b9a-982b-4b7e05509f96@62.212.70.94:2025?type=tcp&security
 vless://f6e16f66-0893-4d84-b5ac-781ac6f0b196@d815b7638416b6d2.speedtest.net:80?path=/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN?ed=1024&security=none&encryption=none&host=v2netiran.life&type=ws#🆔@V2NET_IRAN
 vless://f6c1b473-d0c7-4f0e-b97a-38a00cff5a9e@91.107.170.231:2053?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#Zed-mg9ex9g2
 vless://f6c1b473-d0c7-4f0e-b97a-38a00cff5a9e@91.107.170.231:2053/?type=tcp&path=/&host=bmw.com&headerType=http&security=none#Zed-mg9ex9g2
+vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?path=/&security=none&encryption=none&host=photographipictureai.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@Alfa_v2ray_ng کانالمون 👽
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#Telegram@ConfingV2RaayNG
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#Telegram : @Mrsoulb 🏳🏴
@@ -502,3 +501,4 @@ vless://d216b834-e426-4127-82d3-534393e0ef42@162.159.9.106:8880?path=/@Alfred_Co
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=/&security=none&encryption=none&type=ws#Channel : @Captalvpn 🏴🏳
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=/&security=none&encryption=none&type=ws#@NetAccount
 vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=/&security=none&encryption=none&type=ws#@Merlin_ViP L8
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=/&security=&encryption=none&type=ws#Channel id: @ShadowProxy66 🇨🇦
