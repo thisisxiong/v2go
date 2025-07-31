@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://f6e16f66-0893-4d84-b5ac-781ac6f0b196@d815b7638416b6d2.speedtest.net:80?path=/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN/@V2NET_IRAN?ed=1024&security=none&encryption=none&host=v2netiran.life&type=ws#🆔@V2NET_IRAN
-vless://f6c1b473-d0c7-4f0e-b97a-38a00cff5a9e@91.107.170.231:2053?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#Zed-mg9ex9g2
-vless://f6c1b473-d0c7-4f0e-b97a-38a00cff5a9e@91.107.170.231:2053/?type=tcp&path=/&host=bmw.com&headerType=http&security=none#Zed-mg9ex9g2
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.170.166.242:8880?path=/&security=none&encryption=none&host=photographipictureai.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@185.146.173.112:8880?path=/&security=none&encryption=none&host=photographipictureai.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://f6bd2c47-99da-4bca-bf70-7186aa9e7e06@104.21.1.12:443?path=/telegram@V2ray_Alpha/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=photographipictureai.ir&fp=chrome&type=ws&sni=pHOTOgrApHipiCTureaI.IR#@V2rayNG3
@@ -502,3 +499,6 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?host=vngsupply.ip
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?encryption=none&security=none&type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM?ed=2560#@Daily_Configs
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?encryption=none&security=none&type=ws&host=vngsupply.ip-ddns.com&path=/J5aLQOY1R9ONWYCM?ed=#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560#@Daily_Configs
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?encryption=none&security=none&type=ws&host=vngsupplY.IP-DdnS.com&path=/J5aLQOY1R9ONWYCM?ed=2#@V2ray_confing33
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?security=none&encryption=none&type=ws&host=vngsupply.ip-ddns.com&path=KING_V2RAAY_ KING_V2RAAY_ KING_V2RAAY_ KING_V2RAAY_ KING_V2RAAY_ KING_V2RAAY_?ed=2560#King_v2raay
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🟢 @server_free2 🟢
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@Merlin_ViP TTT

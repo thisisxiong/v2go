@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinv2ngfast-49u.pages.dev:2087?path=/vl0rioUFQ6HK2PN5?ed=2560&security=tls&encryption=none&host=joiNv2NgFAsT-49u.PageS.dev&type=ws&sni=joInV2ngfAsT-49U.PageS.dev#@config_v2ray_vpn👈سرورهای‌+بیشتر
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:8443?path=/mzIuX2SHNQsfSMPK?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOinmAHdiserver-340.PAgeS.DEv&fp=chrome&type=ws&sni=jOinmahdiSeRVER-340.PAGES.DEV#@config_v2ray_vpn👈سرورهای‌+بیشتر
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-340.pages.dev:2053?path=/3VmWLTBaqH67eq8s?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoinmahDisErVer-340.PaGeS.DEv&fp=chrome&type=ws&sni=JOINMahDIsERvEr-340.pageS.dev#@config_v2ray_vpn👈سرورهای‌+بیشتر
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.80.111.55:80?path=Telegram:@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🇩🇪TM-@AZARBAYJAB1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.80.111.55:80?path=Telegram:@AZARBAYJAB1/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🇩🇪TM-@AZARBAYJAB1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.8.211.239:80?path=Telegram:@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#ALL@azadiiivpn ✨️
@@ -502,3 +499,6 @@ vless://78f71e2a-f1c2-4576-bfef-f0f82ea65e4b@185.10.16.103:30618?mode=auto&path=
 vless://78e06102-e805-45c5-a3aa-e6f9b0d4f9ff@151.101.3.8:80?path=?ed=2056&security=none&encryption=none&host=taxi.com&type=ws#Telegram : Prime_Verse
 vless://78d0ab33-a8e4-435f-9b24-1850a8659ba8@103.71.22.160:42988?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#کانفینگ اختصاصی: @ATOVPN
 vless://78a668ab-17bc-4f0b-9684-4b31cf5d591d@151.101.64.155:80?path=/@aklisvpn@aklisvpn@aklisvpn@aklisvpn@aklisvpn@aklisvpn&security=&encryption=none&host=aklisvpntelegram.com&type=ws#🇩🇪•-v2raybluecrystal
+vless://786e8dbd-2563-4465-bdaa-249a6bcd9c98@Www.speedtest.net:80?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=www.speedtest.net.XpnviP.ir.&security=none#Free - @XPNTEAM 🇩🇪-3x28a79jh
+vless://78448db7-5a7b-4e5e-ab17-44eacc0ac976@pishgam.sdcards.ir:8080?type=ws&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir?ed=2087&host=amiri2.server-dev2.ir&security=none#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
+vless://7825224b-1179-4741-8164-6c46752eecdd@91.107.162.217:34515?security=&encryption=none&host=cloud.ir&headerType=http&type=tcp#@V2ray_confing33

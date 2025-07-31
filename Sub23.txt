@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?security=none&encryption=none&type=ws&host=vngsupply.ip-ddns.com&path=KING_V2RAAY_ KING_V2RAAY_ KING_V2RAAY_ KING_V2RAAY_ KING_V2RAAY_ KING_V2RAAY_?ed=2560#King_v2raay
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🟢 @server_free2 🟢
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@Merlin_ViP TTT
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=@Confingman@Confingman@Confingman&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Confingman🍕
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=@Confingman @Confingman&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Confingman2️⃣🇺🇸
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=@Confingman @Confingman @Confingman @Confingman @Confingman @Confingman&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Confingman🎭🌧
@@ -502,3 +499,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn 🎀¹⁰
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Mrsoulb 🏳🏴
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@V2ray_confing33
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@V2ray1_Ng
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYNG_1378
