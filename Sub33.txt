@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:56127/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#🇸🇬新加坡
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@agaungzhou01.bumbleshrimp.com:31800/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nvidia.com&fp=chrome&security=reality&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&sid=#🇭🇰香港
 vless://459b4a80-bd61-4ecd-a26b-e9c1809d9e45@84.32.41.200:50123?security=tls&flow=xtls-rprx-vision-udp443&sni=www.amazon.com&fp=chrome#@Filter_breaker | United Kingdom
 vless://45955903-81ee-4cd3-9c8d-5c4aba2d672c@www.speedtest.net:2052?path=/?ed=2053&security=none&encryption=none&host=mmdshop穆罕默德侯赛因.v2rayng-mmd.cfd.&type=ws#Id:%@v2net_iran
@@ -502,3 +501,4 @@ vless://34b3cbba-e6ac-495a-9481-976a0419eab9@172.67.200.215:443?path=/&security=
 vless://34a4cfb4-8b42-42ba-b087-6a338c2b3b4a@fast-01.saitsazs.ir:80?mode=auto&path=/path&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=Demon02.global.ssl.fastly.net&type=xhttp#@Anty_Vpn سرورای بیشتر
 vless://3488f5ea-47f8-4d6c-b1af-289c010c57cd@de.gy-nt.shop:443?security=reality&encryption=none&pbk=B65r_UBsBFSlwq7XbrrWI0SuCxkB8KhQEYaGrB54mTc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=miro.com#🌈انواع کانفیگ های رایگان در تلگرام : Viturey@
 vless://3488f5ea-47f8-4d6c-b1af-289c010c57cd@de.gy-nt.shop:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=miro.com&pbk=B65r_UBsBFSlwq7XbrrWI0SuCxkB8KhQEYaGrB54mTc#@FREE_VPN02–@FREE_VPN02
+vless://3488f5ea-47f8-4d6c-b1af-289c010c57cd@de.gy-nt.shop:2053?type=grpc&mode=gun&security=reality&fp=chrome&sni=refersion.com&pbk=7rwjSMdyZez6-_uv5V2GaVh10MLInFZoE-fLhkizvSw#@FREE_VPN02–@FREE_VPN02

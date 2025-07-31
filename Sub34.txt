@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://3488f5ea-47f8-4d6c-b1af-289c010c57cd@de.gy-nt.shop:2053?type=grpc&mode=gun&security=reality&fp=chrome&sni=refersion.com&pbk=7rwjSMdyZez6-_uv5V2GaVh10MLInFZoE-fLhkizvSw#@FREE_VPN02–@FREE_VPN02
 vless://3488f5ea-47f8-4d6c-b1af-289c010c57cd@de.gy-nt.shop:2053?type=grpc&mode=gun&security=reality&fp=chrome&sni=miro.com&pbk=m-OeTWNydnf4iumgassm6eE6JP1b3s7_TlkE_G-i1xI#@FREE_VPN02–@FREE_VPN02
 vless://34858db0-821f-4a01-bfc4-5533ab078590@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -502,3 +501,4 @@ vless://26f80b9a-3133-4b6f-d685-425800026430@host1.nikasons.ir:443?security=none
 vless://26d4cd7c-f8bb-4c51-a07a-e7ed2a161b7b@193.111.235.155:4912?security=none&encryption=none&headerType=http&type=tcp#@V2RAYROZ
 vless://26c4e9a3-8be1-495d-9e86-1f709113cba8@www.parsvds.com:2096?path=/2096/@V2RayyNGvpn?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=Up.GaMEMarKeT.cAM&fp=chrome&type=ws&sni=Up.GaMEMarKeT.cAM#🇨🇵@V2RayyNGvpn کانال ما در تلگرام 🇨🇵همراه‌اول-ایرانسل
 vless://26c3a817-5ebd-4906-be77-dda2ade36800@140.248.125.8:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&host=biantooZedmodeonyour-name.global.ssl.fastly.net&type=xhttp#🇩🇪Telegram @SRCVPN
+vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=/Barayeiranmahsang?ed=2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=chrome&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#ae_proxy

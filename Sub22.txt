@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.132.188.63:8880?path=/?ed=2560fp=chrome&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws#@warp_city
 vless://faaaf16e-188e-42f2-bcc1-17feadc84fad@151.236.15.72:444?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=opensuse.org&pbk=FOSoac3DIrSrCUcBtQA-BdHMxCtqe2CYCpdvGxKMiUw&sid=82b9ca5d8d39ba72&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@EVAY_VPN
 vless://faa98229-a17c-4ea6-d6b5-1b040cb9fa26@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&fp=chrome&type=tcp&sni=ea.com&sid=c7bc4d#آلمان 🇩🇪 @𝗩𝟮𝘅𝗮𝘆
 vless://faa98229-a17c-4ea6-d6b5-1b040cb9fa26@bmi.raheaiande.ir:1001?security=reality&encryption=none&pbk=wOXPafr4Gl6wXtw8c8T2juUCauBi25GVAfe4SMc4VEM&headerType=http&fp=chrome&type=tcp&sni=ea.com&sid=c7bc4d#@Capoit
@@ -502,3 +501,4 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeE
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560/proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1---proNG1&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@proNG1 🇩🇪 DE 2
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#@HiByeVPNN
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🔥@AblNet7 🇮🇷 نت ملی 🔥
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan

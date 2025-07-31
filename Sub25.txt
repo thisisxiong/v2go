@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=/?ed=2048&security=&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#Telegram:@ 🔥
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?path=/?ed=2048&security=&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#@V2ray_confing33
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080?encryption=none&security=none&type=ws&host=1750293123492.china.baidu.bilibili.china.aeko.cn&path=/#@Daily_Configs
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.243:8080/?type=ws&encryption=none&flow=&host=1750293123492.china.baidu.bilibili.china.aeko.cn#[🇬🇧]ae_proxy
@@ -502,3 +501,4 @@ vless://c19eca79-c4e2-43b3-a487-aaaf0f36a2f2@FASTSHOVPNTELEGRAM.vinamarketcenter
 vless://c190d148-6362-4d50-a2ec-2119e4c28d45@de5.ircloudmarket.com:9460?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org#@bluVPNir🇩🇪²
 vless://c190d148-6362-4d50-a2ec-2119e4c28d45@de4.ircloudmarket.com:2008?security=reality&encryption=none&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speedtest1.irancell.ir.prod.hosts.ooklaserver.net#@bluVPNir🇩🇪¹
 vless://c14b2731-7db6-49ee-9271-b1efc56c2630@146.59.15.81:443?security=reality&encryption=none&type=tcp&path=telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou+telegram-channel-@Do_itforyou&sni=dl.google.com&sid=5bb805&fp=chrome&pbk=l8HS4g_h8xPWlhQm8hmj5ohKNMrMCBcoHSNBFij79Sk&headerType=none#Config🇵🇱@Do_itforyou
+vless://c14b2731-7db6-49ee-9271-b1efc56c2630@146.59.15.81:443?security=reality&encryption=none&pbk=l8HS4g_h8xPWlhQm8hmj5ohKNMrMCBcoHSNBFij79Sk&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=5bb805#telegram🇵🇱@V2WRAY

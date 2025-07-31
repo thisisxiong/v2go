@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#📦@FreakConfig
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2RAYNG_1378
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@G0Dv2ray
@@ -502,3 +501,4 @@ vless://65f1d033-cf8f-42a8-9600-ad363c47e3ff@104.21.43.168:443?path=/?ed=2560&se
 vless://65f1d033-cf8f-42a8-9600-ad363c47e3ff@104.21.43.168:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=s1.sUbUrl.OrG&fp=chrome&type=ws&sni=s1.sUbUrl.OrG#@Selinc
 vless://65f1d033-cf8f-42a8-9600-ad363c47e3ff@104.21.43.168:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=s1.sUbUrl.OrG&fp=chrome&type=ws&sni=s1.sUbUrl.OrG#@AZARBAYJAB1
 vless://65f1d033-cf8f-42a8-9600-ad363c47e3ff@104.21.43.168:443?encryption=none&security=tls&sni=s1.sUbUrl.OrG&alpn=h2,http/1.1&fp=chrome&type=ws&host=s1.sUbUrl.OrG&path=/?ed=2560#@Daily_Configs
+vless://65f02728-83d4-4ff5-b74f-f32d8b8dfe12@biography.com:80?path=/wp-admin&security=none&encryption=none&host=www.swlamp.com&type=ws#@Mosiv2

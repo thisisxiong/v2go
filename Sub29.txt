@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://8b883c3f-61ed-4961-90f9-24f1f661b382@91.99.234.241:18730?security=reality&encryption=none&pbk=4i4VmtZlXzsNQwiGYOpxUCH7hygnGM8bVfDOeSd2G2A&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=877fa74f#tcp_@vpnserverrr
 vless://8b883c3f-61ed-4961-90f9-24f1f661b382@91.99.234.241:18730?security=reality&encryption=none&pbk=4i4VmtZlXzsNQwiGYOpxUCH7hygnGM8bVfDOeSd2G2A&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=877fa74f#tcp_@ramgamevpn
 vless://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?security=none&encryption=none&headerType=http&type=tcp#@V2ray1_Ng
 vless://8b4c316e-f05a-413e-bda5-a7383a123a77@85.133.201.45:18818?security=none&encryption=none&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -502,3 +501,4 @@ vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&enc
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#📦@FreakConfig
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁷🇩🇪➣@V2rayNGcloud
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#ᴬᴸᴸ¹⁷🇩🇪➣@CUSTOMVPNSERVER
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
