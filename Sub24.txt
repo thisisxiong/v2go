@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@V2ray1_Ng
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYNG_1378
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
@@ -501,4 +502,3 @@ vless://d216b834-e426-4127-82d3-534393e0ef42@zula.ir:8880?path=/@Alfred_Config-@
 vless://d216b834-e426-4127-82d3-534393e0ef42@www.speedtest.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=8880&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade#🇩🇪@Alfred_Config
 vless://d216b834-e426-4127-82d3-534393e0ef42@check-host.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=8880&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade#🇩🇪@Alfred_Config
 vless://d216b834-e426-4127-82d3-534393e0ef42@162.159.9.106:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=8880&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade#🇩🇪@Alfred_Config
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?path=/&security=none&encryption=none&type=ws#Channel : @Captalvpn 🏴🏳

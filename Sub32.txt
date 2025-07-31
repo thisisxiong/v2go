@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram@Selinc/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Selinc
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram:@V2RAYNG_1378/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@V2RAYNG_1378
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram:@Selinc/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Selinc
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam/@proNG1/@parham92929292/@proNG1/@parham92929292/@proNG1/@parham92929292@2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Filter_breaker | Netherlands
@@ -501,4 +502,3 @@ vless://42f36835-730c-4ecc-9daf-20121ae7ba47@167.82.1.103:80?path=/?ed=2560&secu
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
 vless://42c6ca3b-b298-47f2-958d-ad386cf8289b@217.60.38.40:47460?path=/&security=none&encryption=none&type=ws#3@ai_duet
 vless://42ab76bc-9e33-49f6-a999-d0a4398467d0@138.199.168.187:28153?type=xhttp&mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&fp=chrome&sni=zhaket.com&pbk=wIyC9CuOB33Hx1HbHnx_0JZXypmEink7icN0rWmzTlE&sid=b6f9&spx=/#MdVpnSec
-vless://42ab76bc-9e33-49f6-a999-d0a4398467d0@138.199.168.187:28153?mode=auto&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=reality&encryption=none=-@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2---@ghalagyann2&pbk=wIyC9CuOB33Hx1HbHnx_0JZXypmEink7icN0rWmzTlE&fp=chrome&spx=/&type=xhttp&sni=zhaket.com&sid=b6f9#All¹ @ghalagyann2 🇲🇫

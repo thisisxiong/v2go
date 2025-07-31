@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://261c4457-9d81-45a8-b519-b704d642d077@speedtest.net:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=iran.book.library.ir&type=xhttp#۳۰ گیگ ۹۵ تومن بخر راحت شو
 vless://261c4457-9d81-45a8-b519-b704d642d077@speedtest.net:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=iran.book.library.ir&type=xhttp#۳۰ گیگ ۹۵ تومن بخ
 vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?path=/&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#🇻🇪@AZARBAYJAB1
 vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?path=/&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#telegram 🇫🇷 @V2WRAY
@@ -501,4 +502,3 @@ vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@104.18.26.90:2096?encryption=none&s
 vless://146518a9-c8b5-43f2-a3e2-3fb3b697369a@ep1.rolexcloud.net:443?mode=auto&path=/asiatech.ir&security=reality&encryption=none&pbk=gAwjo7y5nfNWyQIKu8BZSeEHyx03bTJymjVzEFRmahk&host=ep1.rolexcloud.net&fp=chrome&spx=/&type=xhttp&sni=yahoo.com&sid=13664108#@V2RAYROZ
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Boy9ja.abdo.fr&type=ws#Telegram+@vmessorg
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Babakari.ir&type=ws#Telegram+@vmessorg
-vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=&encryption=none&host=Boy9ja.abdo.fr&type=ws#@Capoit
