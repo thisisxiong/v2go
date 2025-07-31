@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?path=/&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#🇻🇪@AZARBAYJAB1
+vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?path=/&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#telegram 🇫🇷 @V2WRAY
 vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?path=/&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#Config150G
 vless://25eb0cf9-b6bc-475b-bda5-b76ac9b766f6@5.255.120.217:80?type=xhttp&path=/pwp&host=bleep.global.ssl.fastly.net&mode=auto&security=reality&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&fp=chrome&sni=journalofbigdata.springeropen.com&sid=8c&spx=/#@v2raybluecrystal نت ملی 🇳🇱برای اتصال دائمی جوین شو
 vless://25eb0cf9-b6bc-475b-bda5-b76ac9b766f6@5.255.120.217:80?mode=auto&path=/pwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#هلند 🇳🇱 @V2xay
@@ -500,5 +502,3 @@ vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=/Pak91jq
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Babakari.ir&type=ws#Telegram+@vmessorg
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=&encryption=none&host=Boy9ja.abdo.fr&type=ws#@Capoit
 vless://1445889a-5fa6-4de3-b09a-918a37d000c1@power.teampluss.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=&encryption=none&host=Babakari.ir&type=ws#@Capoit
-vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#@XpnTeam 🇮🇷

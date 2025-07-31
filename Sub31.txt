@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://620e7ed5-111a-49fe-baec-f7938bb74ef3@ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM:80?path=/@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER-@CUSTOMVPNSERVER&security=none&encryption=none&host=V2ray.digikala.com-mykit.ir.nobitex.com.IMhyW5477e.CUSTOMVPNSERVER.OnlInEdowNloadERfile.com.&type=ws#ALL+@CUSTOMVPNSERVER
+vless://61d23b08-d1f6-4429-90cf-e9c28e74a08c@RU.LoadBalance.LAT:1320?security=none&encryption=none&host=Journalofbigdata.springeropen.com&headerType=http&type=tcp#🇷🇺 وصل شید و بروزرسانی اشتراک کنید
 vless://61d23b08-d1f6-4429-90cf-e9c28e74a08c@GR.LoadBalance.LAT:9559?security=none&encryption=none&host=Journalofbigdata.springeropen.com&headerType=http&type=tcp#🇮🇷🇩🇪 وصل شید و بروزرسانی اشتراک کنید
 vless://6199b420-6037-4513-bb15-0e625ec393c2@188.64.142.221:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#Telegram:@alfa_v2ray_ng 🔥
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
@@ -500,5 +502,3 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram🇨�
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram@V2RAYNG_1378/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@V2RAYNG_1378
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram@Selinc/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Selinc
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram:@V2RAYNG_1378/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@V2RAYNG_1378
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram:@Selinc/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Selinc
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Tam/@proNG1/@parham92929292/@proNG1/@parham92929292/@proNG1/@parham92929292@2/?ed=2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Filter_breaker | Netherlands
