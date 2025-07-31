@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://65f1d033-cf8f-42a8-9600-ad363c47e3ff@104.21.43.168:443?encryption=none&security=tls&sni=s1.sUbUrl.OrG&alpn=h2,http/1.1&fp=chrome&type=ws&host=s1.sUbUrl.OrG&path=/?ed=2560#@Daily_Configs
 vless://65f02728-83d4-4ff5-b74f-f32d8b8dfe12@biography.com:80?path=/wp-admin&security=none&encryption=none&host=www.swlamp.com&type=ws#@Mosiv2
 vless://65f02728-83d4-4ff5-b74f-f32d8b8dfe12@151.101.3.8:80?path=/wp-admin&security=none&encryption=none&host=www.swlamp.com&type=ws#@mosiv2
 vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@chat.deepseek.com:80?path=/olem/ws?ed=1024&security=&encryption=none&host=fin.channel.digicyber.click&type=ws#@varn_Net
@@ -502,3 +501,4 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrn
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/LwW5jwrnymnOdqki?ed=2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#🌟T.me/Asak_Vpn🌟
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#🇮🇷AZARBAYJAB1
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=/?ed=2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@V2RAYNG_1378

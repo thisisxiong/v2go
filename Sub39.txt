@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFSlFmRkZMMnJtMXNHMDVmUlIxN0ZN@154.205.147.68:8443#Power🔥@antimeli-AllNet-🇴🇲
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFSlFmRkZMMnJtMXNHMDVmUlIxN0ZN@154.205.147.68:8443#@v2rayNGcloud🇴🇲
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFSlFmRkZMMnJtMXNHMDVmUlIxN0ZN@154.205.147.68:8443#@CUSTOMVPNSERVER🇴🇲
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFN3JyYTdWd2xTeDg3U0xFc3FkMEd1@62.210.88.22:443#@MARAMBASHI ⭐️🎁
@@ -502,3 +501,4 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@195.13.55.186:8880?allowInsecure=0&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@160.79.105.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0141
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.181.197.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#US_speednode_0140
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@216.205.52.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0139
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@108.165.216.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0138

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.178.189:443?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.178.189:443?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://1523920e-b41f-42d9-970e-6f672b56f025@mtn.venzo.com.tr:80?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=www.spEedtest.net.jariCopEn.fuN.&security=none#🇩🇪 | BinexTify - Free-4qify62ui
@@ -502,3 +501,4 @@ trojan://tg-fq521free@216.24.57.30:443?path=/&security=tls&host=torjan.xn--xhq44
 trojan://tg-fq521free@198.62.62.67:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#🔗 Telegram : @Viturey 🔒
 trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@NetAccount
 trojan://telegram-id-privatevpns@63.178.209.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig
+trojan://telegram-id-privatevpns@63.177.166.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🛡️ @FreakConfig

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:8949?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@Alfa_v2ray_ng کانالمون 🫶🏻
 vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:7548?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#🛡️ @FreakConfig
 vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:7548?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@Alfa_v2ray_ng کانالمون 🇬🇧
 vless://9e89c39f-e835-48a6-a74b-b5e29854de98@198.62.62.4:2096?type=ws&host=638877920252254085.kish-prx-dnraaaf.info&path=/goiotyws&security=tls&sni=638877920252254085.kish-prx-dnraaaf.info&alpn=h3h2#@configMs
@@ -502,3 +501,4 @@ vless://8bca284c-d2f2-4367-999c-5f490a872c2d@37.27.15.167:2052?mode=gun&security
 vless://8ba6c101-8e27-4561-ae32-474a40139a30@91.107.180.100:443?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=eZs1Yn6wbXV2RPT47_szgepN6lNKseOb9nprDMrpNmE&sid=f3&spx=/&type=grpc&authority=&serviceName=@SobyV2ray&mode=gun#@Daily_Configs
 vless://8b9ad1d1-4156-4149-fd42-d4d86d2da569@151.101.64.155:80?type=ws&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=KEISJWJ.COM&security=none#WS - @XPNTEAM-3n94me86a
 vless://8b883c3f-61ed-4961-90f9-24f1f661b382@91.99.234.241:18730?security=reality&encryption=none&pbk=4i4VmtZlXzsNQwiGYOpxUCH7hygnGM8bVfDOeSd2G2A&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=877fa74f#چنل تلگرام Alfa_v2ray_ng@ 😈
+vless://8b883c3f-61ed-4961-90f9-24f1f661b382@91.99.234.241:18730?security=reality&encryption=none&pbk=4i4VmtZlXzsNQwiGYOpxUCH7hygnGM8bVfDOeSd2G2A&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=877fa74f#آلمان 🇩🇪 @V2xay
