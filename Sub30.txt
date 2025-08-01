@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://881bc54d-4a96-46d0-814c-c261718293f5@www.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=srv6.amazon-osishop.ir&type=httpupgrade#@CaV2ray ⚡️
 vless://881bc54d-4a96-46d0-814c-c261718293f5@0Can.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?encryption=none&security=none&type=ws&host=sPeedtest2.sbs.lu.v2vless.sitespeedtest.net&path=/vless#@awlix_ir
 vless://87e91f0c-ed9f-458c-9d82-6012b860bb90@172.104.142.244:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@AYMH19+کانال+تلگرام
@@ -502,3 +501,4 @@ vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encry
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&headerType=&type=tcp @confing_chanel
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://73b36329-f050-492c-907c-8695425d53dc@151.101.64.155:80?security=none&type=ws&headerType=&path=@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=49.org#🚀 کانال تلگرام ما: @V2Safee
+vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=pingless.com&pbk=y_kHGyJmpYqiGgeh5gTgDRda0d_l6p-_2at2HHBrWEU&sid=700c1d3ddf2f99&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪 @EVAY_VPN

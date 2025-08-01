@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.213.149.42:443?security=reality&encryption=none&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&headerType=none&fp=chrome&type=tcp&sni=wwwimages2.adobe.com&sid=6ba85179e30d4fc2#telegram🇰🇷@V2WRAY
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@8.213.149.42:443/?type=tcp&encryption=none&flow=&sni=wwwimages2.adobe.com&fp=chrome&security=reality&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=Z
 vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.238.40.144:443/?type=tcp&encryption=none&flow=&sni=cdn77.api.userway.org&fp=chrome&security=reality&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2#香港
 vless://5c087b17-c044-42c3-8ff4-615dc53feee1@marz.querenciavib.xyz:8443?security=none&encryption=none&headerType=none&type=tcp#هلند 🇳🇱 @V2xay
@@ -502,3 +501,4 @@ vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=/?JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&security=none&encryption=none&type=ws#¹𝗝𝗼𝗶𝗻➠@Alfa_v2ray_ng
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Uvay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none&encryption=none&type=ws#@icv2ray
 vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://5139af95-a453-46c6-831a-a532b6b51305@DeEp-RAdIo.SEOtOoLSForYou.CO.UK:80?path=/&security=none&encryption=none&type=ws#🇨🇵@AZARBAYJAB1
