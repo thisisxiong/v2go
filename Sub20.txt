@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?encryption=none&security=none&sni=pqh24v6.waipdirect.shop&alpn=&type=grpc&host=pqh24v6.waipdirect.shop#%3E%3E%40DailyV2RY%3A%3AUS
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=Tp34MzH9gR.vPbEtHoRvP002.iNfO&type=ws&alpn=h3h2&host=Tp34MzH9gR.vPbEtHoRvP002.iNfO&path=/#%3E%3E%40DailyV2RY%3A%3ADE
 vless://878879e6-4f80-4e85-a415-85533b536d13@v16.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%3E%3E%40DailyV2RY%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#%3E%3E%40DailyV2RY%3A%3ANL
@@ -502,3 +501,4 @@ vless://fc6395b9-8060-41b2-82f1-a55419093fe9@usa-join.outline-vpn.fun:443?mode=g
 trojan://9yu6m5okr@production.tj.ojan.workers.dev:443?path=%2F&security=tls&host=production.tj.ojan.workers.dev&type=ws&sni=production.tj.ojan.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%9F%A2%20%7C%20trojan%20%7C%20%40cryptoguardvpn%20%7C%202
 vless://d78628e8-5b51-4452-b3ce-79f3249b5755@www.speedtest.net:80?type=ws&path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&host=www.speedtest.net.1.developsp.ir.gebados.ir.&security=none#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40connectshu%20%7C%2014
 vless://43b3d811-cd66-4d0e-9011-b2eba8b26856@iran.dnshop.sbs:52423?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%E2%9D%94%20XX%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40confingv2raay%20%7C%201
+vless://d2a46b5c-8840-4589-885a-0f28036b558c@asia4.novahomedesigntips.com:48820?type=ws#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%B4%20%7C%20vless%20%7C%20%40configtrapi%20%7C%2028
