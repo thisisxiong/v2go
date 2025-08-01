@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e907cd5b-8d4e-406f-8f24-9133c23c7e4e@151.101.3.8:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2560&security=none&encryption=none&host=CONFiGLiNEEE.COM&type=xhttp#%vipV2rayNGnp 🇳🇱 xhttp2
 vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@45.77.136.208:443?security=reality&encryption=none&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com#@G0Dv2ray
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@172.66.47.130:443?path=/?ed=2048&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&fp=chrome&type=ws&sni=dc1bf227.vf-8co.pages.dev#@V2rayNG3
@@ -502,3 +501,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#MTN@azadiiivpn 🎀
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#@alfa_v2ray_ng کانالمون 😻

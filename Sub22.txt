@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server1.game&type=xhttp#@V2ray1_Ng
 vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=truboo-server.us&type=xhttp#azadiiivpn 🇺🇸
 vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=truboo-server.us&type=xhttp#ALL@azadiiivpn 🇺🇸
 vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=&encryption=none&host=truboo-server.us&type=xhttp#@varn_Net
@@ -502,3 +501,4 @@ vless://f282b878-8711-45a1-8c69-5564172123c1@aio.xtradata.dpdns.org:443?encrypti
 vless://f282b878-8711-45a1-8c69-5564172123c1@aio.nolimit.dpdns.org:443?encryption=none&type=ws&host=aio.nolimit.dpdns.org&path=/aioproxybot/146.190.192.43-80&security=tls&sni=aio.nolimit.dpdns.org#@warp_city
 vless://f282b878-8711-45a1-8c69-5564172123c1@aio.loophole.biz.id:80?encryption=none&type=ws&host=aio.loophole.biz.id&path=/aioproxybot/129.150.49.58-18650&security=none#@warp_city
 vless://f2806d75-82b6-4983-897e-29171592a589@viop.fast.hosting-ip.com:80?mode=auto&path=/abcd?ed=2048&security=&encryption=none&host=cdnfastlyyour-name.global.ssl.fastly.net&type=xhttp#@varn_Net
+vless://f27c4a6f-feb0-463b-b515-b97de9899be3@trgrns.vertalist.ir:7005?security=reality&encryption=none&pbk=BEgwKAxJOC_U3JNvu1psNSkcbSUL9p8g5nMEOtHY4Sc&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=c3537867431956f6#@V2RAYROZ

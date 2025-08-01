@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@ShadowProxy66 🇮🇷
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@HiByeVPNN
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.202:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1838042268191640
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.202:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
@@ -502,3 +501,4 @@ vless://7455e612-b2b3-4092-af2f-679e039c64d8@109.207.171.107:8443?type=tcp&heade
 vless://74276b6a-b5bb-47a1-ab5e-c67ae7866bb4@speedtest.net:80?type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=/=BeFreeWithUs?ed=2048&mode=auto&security=none#Channel:@BeFreeWithUs
 vless://74006049-5b10-4af6-b219-b9614fa79b69@151.101.3.8:80/?type=xhttp&path=/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs&host=runaak.io&mode=auto&security=none#کانال تلگرام ما | @configMs
 vless://73ef9961-ad5d-4b2f-ad84-60b965b42ac9@94.183.158.16:8083?path=/&security=none&encryption=none&type=ws#@config_v2ray_vpn👈سرورهای‌ بیشتر
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
