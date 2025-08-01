@@ -2,30 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@xhttp-gr.hardwarenew.ir:80?path=/news&security=&encryption=none&type=ws#Channel id: @ShadowProxy66 🇫🇮
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@xhttp-gr.hardwarenew.ir:8081?path=/news&security=&encryption=none&host=journalofbigdata.springeropen.com&type=xhttp#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@xhttp-gr.hardwarenew.ir:8081?path=/news&security=&encryption=none&host=journalofbigdata.springeropen.com&type=xhttp#Channel id: @ShadowProxy66 🇫🇮
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@ws.connectgamerix.ir:80?path=/news&security=&encryption=none&type=ws#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@ws.connectgamerix.ir:80?path=/news&security=&encryption=none&type=ws#Channel id: @ShadowProxy66 🇩🇪
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@37.153.171.4:443?path=/news&security=tls&encryption=none&host=cdn.hardwarenew.ir&type=ws#🇳🇱𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@37.153.171.4:443?path=/news&security=tls&encryption=none&host=cdn.hardwarenew.ir&type=ws#Channel id: @ShadowProxy66 🇳🇱
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@172.67.182.134:443?path=/news&security=tls&encryption=none&host=cdn.hardwarenew.ir&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@172.67.182.134:443?path=/news&security=tls&encryption=none&host=cdn.hardwarenew.ir&type=ws#Channel id: @ShadowProxy66 🇨🇦
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@104.21.43.168:443?path=/news&security=tls&encryption=none&host=cdn.hardwarenew.ir&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://2fda02f1-7eee-42d3-beeb-bfe5a5608fb4@104.21.43.168:443?path=/news&security=tls&encryption=none&host=cdn.hardwarenew.ir&type=ws#Channel id: @ShadowProxy66 🇨🇦
-vless://2fd823dd-767b-4245-b56e-4790ca8c1a93@172.82.67.154:11476?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yahoo.com&pbk=dHyiM189GsudgANJT4X9fxzsTnBUvoEUAjrJFnPGp2I&sid=eeb3b8&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸@EVAY_VPN
-vless://2fc23c7e-e143-49b3-87ad-5aa6a5641a48@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&security=&encryption=none&host=biantoZedmodeonyour-name.global.ssl.fastly.net&type=xhttp#🇩🇪 Telegram @SRCVPN
-vless://2fc23c7e-e143-49b3-87ad-5aa6a5641a48@140.248.125.9:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&host=biantoZedmodeonyour-name.global.ssl.fastly.net&type=xhttp#🇩🇪 Telegram @SRCVPN
-vless://2f899c15-090f-4c76-8260-62be0d02d0f5@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
-vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#کانال+ما+در+تلگرام+@Asak_Vpn+💛
-vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@hibbb.fast.hosting-ip.com:80?security=none&type=xhttp&headerType=&path=/&host=spuul.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}#https://t.me/confing_chanel
-vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@hibbb.fast.hosting-ip.com:80?security=none&type=xhttp&headerType=&path=/&host=sdkdsd2.global.ssl.fastly.net&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}# https://t.me/confing_chanel
-vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@hibbb.fast.hosting-ip.com:80?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
-vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@hibbb.fast.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=spuul.global.ssl.fastly.net&type=xhttp#لهستان 🇵🇱 @V2xay
-vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@fran.speedgloobalontop.ir:2053?security=none&type=grpc&serviceName=2053vless&packetEncoding=xudp&encryption=none#@NetAccount
-vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@fran.speedgloobalontop.ir:2053?security=none&type=grpc&headerType=&serviceName=2053vless&authority=&mode=gun# https://t.me/confing_chanel
-vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@01tu.speedgloobalontop.ir:2053?security=none&type=grpc&serviceName=2053vless&packetEncoding=xudp&encryption=none#@NetAccount
-vless://2f7308bb-45d4-43ff-98c3-5b46c55bc2f1@01tu.speedgloobalontop.ir:2053?security=none&type=grpc&headerType=&serviceName=2053vless&authority=&mode=gun#https://t.me/confing_chanel
 vless://2f6062b4-47a8-4e7e-a45f-890bd05b7964@65.109.208.147:46980?type=grpc&serviceName=/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray/@BanV2ray&authority=&security=reality&pbk=cLO22Vq2cIZoIKmLfvbNX5_PQi7G2QGY-XxzMFrGfRY&fp=chrome&sni=tgju.org&sid=6d58&spx=/#@BanV2ray🇫🇮 3
 vless://2f393071-ac9d-4510-916f-eed41b10d2b6@65.109.191.147:2083?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@v2rayngsupbot | @ai_duet
 vless://2f33cc6f-c80a-4c19-ac4f-66547bfdd33d@94.232.170.141:1501?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
@@ -502,3 +478,27 @@ vless://206e18f2-8c66-4fbc-91b4-1ef184d6f3e0@151.101.67.8:80?mode=auto&path=ZEDM
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?path=/&security=none&encryption=none&type=ws#🇫🇮@AZARBAYJAB1
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?path=/&security=none&encryption=none&type=ws#🇩🇪 Germany - @FREEV2RNG
+vless://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?path=/&security=none&encryption=none&type=ws#Telegram @v2rayng_fars
+vless://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?path=/&security=&encryption=none&type=ws#Telegram:@config_proxy 💦
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#[🇨🇦]ae_proxy
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2rayngsupbot 🔗 @ai_duet
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@HiByeVPNN
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram:@alfa_v2ray_ng 🔥
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@V2ray_confing33
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443&security=none#Channel : @CaptalVpn🏴‍☠️
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443#Telegram : @CaptalVpn🏴‍☠️
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=none&encryption=none&type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443#King_v2raay
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?security=&type=ws&path=/193.123.81.105=443&host=zoomgov.vipren.biz.id&encryption=none#ae_proxy
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/proNG1&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@proNG1/parham929292
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🟢 @server_free2 🟢
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇩🇪All³ | @HiByeVPNN
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#☁️ @server_free2 ☁️
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#هر روز کانفینگ = @MoneySeae
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#ae_proxy
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram@vpnserverrr
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram: @RAMGAMEVPN
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel : @Mrsoulb 🏴🏳
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Channel : @CaptalVpn 🏴🏳
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@vipV2rayNGnp

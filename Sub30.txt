@@ -2,30 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.202:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1838042268191640
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.202:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@varn_Net
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&type=tcp&headerType=http&host=zula.ir&packetEncoding=xudp&encryption=none#@NetAccount
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#عبور نت 🌐 | کانفیگ بیشتر: @Oboornet 🚀
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram : @Confingman🚸6️⃣
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2ray_confing33
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Merlin_ViP
-vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@HiByeVPNN
-vless://88b7cfdc-1cbb-4f0c-880d-876ace69134e@dev.loadbalance.iranstars-shop.ir:5629?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=chrome&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#آلمان 🇩🇪 @V2xay
-vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@188.114.99.115:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
-vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@188.114.98.120:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev#Telegram:@config_proxy 🔥
-vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.26.11.144:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
-vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.25.16.223:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
-vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.22.41.139:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
-vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.21.74.124:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev#Telegram:@config_proxy 🔥
-vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.21.233.134:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev#Telegram:@config_proxy 🔥
-vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.18.186.11:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev#Telegram:@config_proxy 🔥
-vless://88720204-ebad-490f-94ad-146f7cebd25b@d1.marzano5.one:35273?security=reality&encryption=none&pbk=Pbw9c39ihEuOP53vnsbivCHh6Y11TdzYrfJ9RGVix1Y&headerType=none&fp=chrome&spx=/&type=tcp&sni=zula.ir&sid=281409ed#⚜️Telegram: @IP_CF
-vless://88720204-ebad-490f-94ad-146f7cebd25b@d1.marzano5.one:35273?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=Pbw9c39ihEuOP53vnsbivCHh6Y11TdzYrfJ9RGVix1Y&sid=281409ed&spx=/&type=tcp&headerType=none#@Daily_Configs
-vless://886f39d6-ec2d-4516-be9e-926f416dbb9c@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey 🇩🇪🇩🇪
-vless://886f39d6-ec2d-4516-be9e-926f416dbb9c@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@v
-vless://884bead8-301f-4be8-a40a-1e273d2d0fe3@[0000:0000:0000:0000:0000:ffff:5b63:9012]:20600?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&sni=www.speedtest.net&sid=adf8a1f5689177a2#آلمان 🇩🇪 @V2xay
 vless://881bc54d-4a96-46d0-814c-c261718293f5@www.venzo.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=srv6.amazon-osishop.ir&type=httpupgrade#@CaV2ray ⚡️
 vless://881bc54d-4a96-46d0-814c-c261718293f5@0Can.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.:8880&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://880adfbf-6098-5ed9-8e3d-7716caf63e72@104.17.147.22:2052?encryption=none&security=none&type=ws&host=sPeedtest2.sbs.lu.v2vless.sitespeedtest.net&path=/vless#@awlix_ir
@@ -502,3 +478,27 @@ vless://74006049-5b10-4af6-b219-b9614fa79b69@151.101.3.8:80/?type=xhttp&path=/Te
 vless://73ef9961-ad5d-4b2f-ad84-60b965b42ac9@94.183.158.16:8083?path=/&security=none&encryption=none&type=ws#@config_v2ray_vpn👈سرورهای‌ بیشتر
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&type=tcp&packetEncoding=xudp&encryption=none#@NetAccount
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@Alfa_v2ray_ng کانالمون ☃️
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#🟢 @server_free2 🟢
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#⭐@Viturey⭐
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#عبور نت 🌐 | کانفیگ بیشتر: @Oboornet 🚀
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#All🇩🇪@Rk_VPS
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@vipV2rayNGnp
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@proNG1/@parham929292 دیروز یک مشکلی پیش اومد من نتونستم کانفیگ بزارم اما این بهترین کانفیگ کاناله @proNG1
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@proNG1/@parham929292
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@config_v2ray_vpn👈سرورهای‌ بیشتر
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@V2ray_confing33
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@V2ray1_Ng
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@Selinc
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN❤️‍🔥🌋
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&headerType=none&type=tcp#@varn_Net
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&headerType=none&type=tcp#@Viturey 🔒
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=&encryption=none&headerType=&type=tcp @confing_chanel
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
+vless://73b36329-f050-492c-907c-8695425d53dc@151.101.64.155:80?security=none&type=ws&headerType=&path=@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-@v2safee-?ed=2048&host=49.org#🚀 کانال تلگرام ما: @V2Safee
