@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://cd103e93-b10c-4300-da0e-22128f74ae9c@104.18.26.90:2052?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&security=none#XpnTeam🇳🇱-9ypsp6j2x
+vless://cd103e93-b10c-4300-da0e-22128f74ae9c@104.18.26.90:2052?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
+vless://cd103e93-b10c-4300-da0e-22128f74ae9c@104.18.26.90:2052?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#@icv2ray
+vless://cd103e93-b10c-4300-da0e-22128f74ae9c@104.18.26.90:2052?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#@bored_vpn
 vless://cd06bf91-0e30-42c8-b9c2-e6ce7205ea39@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#e1ugw7bb  🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹  Gr
 vless://cd06bf91-0e30-42c8-b9c2-e6ce7205ea39@Net.1lagvpn13.cfd:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#e1ugw7bb
 vless://ccff34b1-44fd-478d-bc0e-5111cb11f5be@ns1.cloudflare.com:443?path=/Telegram@V2ray_Alpha/?ed=2550&security=tls&encryption=none&host=cr7.medicaldream.ir&fp=chrome&type=ws&sni=cr7.medicaldream.ir#@V2rayNG3
@@ -498,7 +502,3 @@ vless://ba1e3141-94eb-4d5a-843d-aad8dd05f03a@108.165.216.58:443?encryption=none&
 vless://ba1e3141-94eb-4d5a-843d-aad8dd05f03a@104.254.140.45:443?encryption=none&security=tls&sni=cdn.azarandooz-content.workers.dev&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=cdn.azarandooz-content.workers.dev&path=/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot#🇷🇺@AzarAndoozVPNbot
 vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=/yayPR7DCW3dDdcCPPcNB6&security=tls&alpn=http/1.1&encryption=none&host=bluegp.nl&fp=chrome&type=ws&sni=bluegp.nl#@Capoit
 vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=/yayPR7DCW3dDdcCPPcNB6&security=tls&alpn=h2&encryption=none&host=bluegp.nl&fp=chrome&type=ws&sni=bluegp.nl#@Capoit
-vless://b9dad5ed-74da-4a43-8145-90d06df1f890@132.226.114.74:443?security=tls&sni=rix.tgzdyz2.top&type=ws&host=rix.tgzdyz2.top&path=/?ed=2560#Telegram:@config_proxy 🔥
-vless://b999801f-c751-484c-bb04-51e417e4bb7a@Host.iranservers.space:1040?type=tcp&headerType=http&host=baam.bmi.ir&path=/path&security=none#🦥 Telegram: @SaghiVpnX
-vless://b999801f-c751-484c-bb04-51e417e4bb7a@Host.iranservers.space:1030?type=tcp&headerType=http&host=baam.bmi.ir&path=/path&security=none#🦥 Telegram: @SaghiVpnX
-vless://b999801f-c751-484c-bb04-51e417e4bb7a@Host.iranservers.space:1020?type=tcp&headerType=http&host=baam.bmi.ir&path=/path&security=none#🦥 Telegram: @SaghiVpnX
