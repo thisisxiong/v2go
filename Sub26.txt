@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?encryption=none&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&sid=1f949997214a59&type=grpc&authority=&serviceName=sorkhi&mode=gun#@Daily_Configs
 vless://cd103e93-b10c-4300-da0e-22128f74ae9c@104.18.26.90:2052?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&security=none#XpnTeam🇳🇱-9ypsp6j2x
 vless://cd103e93-b10c-4300-da0e-22128f74ae9c@104.18.26.90:2052?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://cd103e93-b10c-4300-da0e-22128f74ae9c@104.18.26.90:2052?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&type=httpupgrade#@icv2ray
@@ -502,3 +501,4 @@ vless://ba46706a-9ff3-4cd6-ab89-e54f6f8ece10@2.188.227.134:2070?type=tcp&securit
 vless://ba1e3141-94eb-4d5a-843d-aad8dd05f03a@108.165.216.58:443?encryption=none&security=tls&sni=cdn.azarandooz-content.workers.dev&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=cdn.azarandooz-content.workers.dev&path=/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot#🇷🇺@AzarAndoozVPNbot
 vless://ba1e3141-94eb-4d5a-843d-aad8dd05f03a@104.254.140.45:443?encryption=none&security=tls&sni=cdn.azarandooz-content.workers.dev&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=cdn.azarandooz-content.workers.dev&path=/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot#🇷🇺@AzarAndoozVPNbot
 vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=/yayPR7DCW3dDdcCPPcNB6&security=tls&alpn=http/1.1&encryption=none&host=bluegp.nl&fp=chrome&type=ws&sni=bluegp.nl#@Capoit
+vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=/yayPR7DCW3dDdcCPPcNB6&security=tls&alpn=h2&encryption=none&host=bluegp.nl&fp=chrome&type=ws&sni=bluegp.nl#@Capoit
