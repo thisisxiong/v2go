@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&type=ws&sni=kawaiifreevpn.pages.dev#t.me/entryNET/config=1837936068924189
 vless://8d65d671-e313-44ad-88b2-0a17f648fa51@104.16.3.35:443?security=tls&sni=webp.yandeximage.ru&type=xhttp&host=webp.yandeximage.ru&path=/@ConnectStixUrewsdlfB24AHj6tm1rE&fp=chrome&alpn=h3#t.me/entryNET/config=1837936571448957
 vless://8d65d671-e313-44ad-88b2-0a17f648fa51@104.16.3.35:443?security=tls&sni=webp.yandeximage.ru&type=xhttp&host=webp.yandeximage.ru&path=/@ConnectStixUrewsdlfB24AHj6tm1rE&fp=chrome&alpn=h3#Telegram:@config_proxy 🔥
 vless://89b2d444-7f15-4881-80ed-4aa8057fb97c@104.26.13.101:8880?security=none&type=httpupgrade&host=Ger2.nanowaash-shop.ir&path=/dhcfh/?ed=2560#t.me/entryNET/config=1837937206571574
@@ -501,4 +502,3 @@ vless://654538ef-5726-4076-82e3-af10f02debf2@151.101.66.133:80?security=none&typ
 vless://5c9fa74d-c08b-43f6-b1da-f21a6cd287f4@104.17.148.22:80?type=ws&security=none&path=/?ed=80&host=dizdiz.navidsports.ir.#Telegram:@config_proxy 🔥
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#t.me/entryNET/config=1837950412908063
 vless://5879d109-8c92-448a-801b-3f3989019934@104.18.26.90:443?path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&security=tls&encryption=none&host=tbs-80p.pages.dev&type=ws&sni=pages.dev#🇧🇪@SimChin_iR جوین شید
-vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obEDIeNt-mEnU.sEotOoLsfOryOU.co.Uk:80?path=/&security=&encryption=none&type=ws#t.me/entryNET/config=1837951420583846

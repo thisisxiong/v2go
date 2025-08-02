@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.18.186.11:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev#Telegram:@config_proxy 🔥
 vless://88720204-ebad-490f-94ad-146f7cebd25b@d1.marzano5.one:35273?security=reality&encryption=none&pbk=Pbw9c39ihEuOP53vnsbivCHh6Y11TdzYrfJ9RGVix1Y&headerType=none&fp=chrome&spx=/&type=tcp&sni=zula.ir&sid=281409ed#⚜️Telegram: @IP_CF
 vless://88720204-ebad-490f-94ad-146f7cebd25b@d1.marzano5.one:35273?encryption=none&security=reality&sni=zula.ir&fp=chrome&pbk=Pbw9c39ihEuOP53vnsbivCHh6Y11TdzYrfJ9RGVix1Y&sid=281409ed&spx=/&type=tcp&headerType=none#@Daily_Configs
 vless://886f39d6-ec2d-4516-be9e-926f416dbb9c@151.101.3.9:80?encryption=none&security=none&type=xhttp&host=bpi5.global.ssl.fastly.net&path=/Telegram@viturey?ed=2048&mode=auto#Telegram@viturey 🇩🇪🇩🇪
@@ -501,4 +502,3 @@ vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&e
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN❤️‍🔥🌋
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN
-vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng
