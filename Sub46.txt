@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:444?sni=www.ithome.com#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyb290MTIz@107.172.229.217:443#%F0%9F%87%BA%F0%9F%87%B8US%E5%8C%97%E7%BE%8E%2017.4MB%2Fs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
 vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNSIsImFkZCI6IjIxMC4zLjE1OS4xNTAiLCJwb3J0IjoiNDI3MTciLCJpZCI6ImI1ODAzZDc0LWM2ZjgtNDE1Zi1lMWU2LWViYzllNDI2OWI4NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjUifQ==
