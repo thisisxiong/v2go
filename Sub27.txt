@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=/yayPR7DCW3dDdcCPPcNB6&security=tls&alpn=http/1.1&encryption=none&host=bluegp.nl&fp=chrome&type=ws&sni=bluegp.nl#@Capoit
 vless://b9f57ab2-7878-4bfd-8011-52c11e1ffd08@bluegp.nl:443?path=/yayPR7DCW3dDdcCPPcNB6&security=tls&alpn=h2&encryption=none&host=bluegp.nl&fp=chrome&type=ws&sni=bluegp.nl#@Capoit
 vless://b9dad5ed-74da-4a43-8145-90d06df1f890@132.226.114.74:443?security=tls&sni=rix.tgzdyz2.top&type=ws&host=rix.tgzdyz2.top&path=/?ed=2560#Telegram:@config_proxy 🔥
 vless://b999801f-c751-484c-bb04-51e417e4bb7a@Host.iranservers.space:1040?type=tcp&headerType=http&host=baam.bmi.ir&path=/path&security=none#🦥 Telegram: @SaghiVpnX
@@ -501,4 +502,3 @@ vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#🟢 @server_free2 🟢
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#🎀 @server_free2 🎀.
-vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#🌈انواع کانفیگ های رایگان در تلگرام : Viturey@
