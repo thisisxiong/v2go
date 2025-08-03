@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://telegram-id-ArV2ray@193.46.81.91:2041?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=ftp.debian.org&sid=688c#Reality|@ArV2ray
 vless://telegram-id-ArV2ray@193.46.81.91:2041?mode=gun&security=reality&encryption=none&pbk=0ZELy90Fb5sh7DULwsa14x1B1NY-NO2Ga847T_Z-oXY&fp=chrome&type=grpc&serviceName=telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray&sni=ftp.debian.org&sid=688c#Reality-Test|@ArV2ray
 vless://telegram-id-ArV2ray@193.46.81.83:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=a.speedtest2028.com#@vipV2rayNGnp
 vless://telegram-id-ArV2ray@193.46.81.83:443?path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=ws&sni=a.speedtest2028.com#@icv2ray
@@ -501,4 +502,3 @@ vless://f1e2d3c4-5a6b-4c7d-8e9f-0a1b2c3d4e5f@45.82.251.186:8880/?type=grpc&encry
 vless://f1a70733-dd8d-4d47-b446-7be660497e5c@de1.nds.jnvs.space:2086?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://f1a70733-dd8d-4d47-b446-7be660497e5c@de1.nds.jnvs.space:2086?security=&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://f1884a97-d989-4ef2-ab71-d2b6e2aafc31@209.250.246.91:35500?security=&encryption=none&headerType=none&type=tcp#DALTOn
-vless://f184c89c-80a4-4a3a-bc67-97db43266c11@43.128.95.84:38091?path=/TG@azadiiivpn?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=vdd.wxgqlfx.cn&fp=chrome&type=ws&sni=vdd.wxgqlfx.cn#azadiiivpn 🎀
