@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?mode=gun&security=reality&encryption=none&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&fp=chrome&type=grpc&serviceName=sorkhi&sni=journalofbigdata.springeropen.com&sid=1f949997214a59#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
 vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?m
 vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?encryption=none&security=reality&sni=journalofbigdata.springeropen.com&fp=chrome&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&sid=1f949997214a59&type=grpc&authority=&serviceName=sorkhi&mode=gun#@Daily_Configs
 vless://cd103e93-b10c-4300-da0e-22128f74ae9c@104.18.26.90:2052?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&security=none#XpnTeam🇳🇱-9ypsp6j2x
@@ -502,3 +501,4 @@ vless://ba64d4c0-1875-4a4a-9ff9-47f4ee9a1e6f@104.18.26.90:80?path=/telegram-@ISV
 vless://ba5045da-9eaa-4550-ae5e-0a1b7cfa3471@mtun.atech.pw:18080?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#tunnel+M-Mtest
 vless://ba46706a-9ff3-4cd6-ab89-e54f6f8ece10@2.188.227.134:2070?type=tcp&security=none#@bolbolvpn 👈 چنل ما
 vless://ba1e3141-94eb-4d5a-843d-aad8dd05f03a@108.165.216.58:443?encryption=none&security=tls&sni=cdn.azarandooz-content.workers.dev&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=cdn.azarandooz-content.workers.dev&path=/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot#🇷🇺@AzarAndoozVPNbot
+vless://ba1e3141-94eb-4d5a-843d-aad8dd05f03a@104.254.140.45:443?encryption=none&security=tls&sni=cdn.azarandooz-content.workers.dev&alpn=h3,h2,http/1.1&fp=chrome&type=ws&host=cdn.azarandooz-content.workers.dev&path=/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot/@AzarAndoozVPNbot#🇷🇺@AzarAndoozVPNbot

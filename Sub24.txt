@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?mode=stream-one&path=/sdf&security=none&encryption=none&type=xhttp#(@vmesskhodam)
 vless://e7b1b989-83db-4420-aa6a-fb9a6a3b24e9@193.162.129.71:28819?security=none&encryption=none&host=/@v2ray_configs_pools-@v2ray_configs_pools-@v2ray_configs_pools-?ed=2560&headerType=none&type=tcp#Telegram:@config_proxy 💦
 vless://e7b1b989-83db-4420-aa6a-fb9a6a3b24e9@193.162.129.71:28819?security=none&encryption=none&headerType=none&type=tcp#🇹🇷+|+@CanfigVip+🍕
 vless://e7b1b989-83db-4420-aa6a-fb9a6a3b24e9@193.162.129.71:28819?security=none&encryption=none&headerType=none&type=tcp#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
@@ -502,3 +501,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]ae_proxy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@vipV2rayNGnp
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@alfa_v2ray_ng کانالمون 🩵

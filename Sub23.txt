@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@V2rayNG3
 vless://f1e2d3c4-5a6b-4c7d-8e9f-0a1b2c3d4e5f@45.82.251.186:8880/?type=grpc&encryption=none&flow=#@Filter_breaker | Netherlands
 vless://f1a70733-dd8d-4d47-b446-7be660497e5c@de1.nds.jnvs.space:2086?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://f1a70733-dd8d-4d47-b446-7be660497e5c@de1.nds.jnvs.space:2086?security=&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
@@ -502,3 +501,4 @@ vless://e7cad2bb-c06c-4497-8930-9bc10583a392@45.136.5.183:443?security=none&type
 vless://e7c9c3c8-1ca9-4786-ba08-4dd3e6ff6a6a@SvnTeam.fast.hosting-ip.com:80?path=/@SvnProBot?ed=2560&security=none&encryption=none&host=shad.ir&type=ws#آلمان 🇩🇪 @V2xay
 vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?type=xhttp&mode=stream-one&path=/sdf&security=none#@CaptalVpn🏴‍☠️
 vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?mode=stream-one&path=/sdf&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?mode=stream-one&path=/sdf&security=none&encryption=none&type=xhttp#(@vmesskhodam)

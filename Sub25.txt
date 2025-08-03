@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@alfa_v2ray_ng کانالمون 🩵
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@V2ray_confing33
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@HIBYEVPNN
@@ -502,3 +501,4 @@ vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&sec
 vless://cd54a584-2aeb-4a81-8558-84822c5e60d1@13.212.218.130:443?security=reality&encryption=none&pbk=J2bRPBQbUXzfoe-sch7fxMlzKqaX2L0kEm4Rcly6Kgo&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=d0c43a7737#@G0Dv2ray
 vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?mode=gun&security=reality&encryption=none&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&fp=chrome&type=grpc&serviceName=sorkhi&sni=journalofbigdata.springeropen.com&sid=1f949997214a59#💎کانفیگ های بیشتر در چنل تلگرام💎 @Config_Rayegan
 vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?mode=gun&security=reality&encryption=none&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&fp=chrome&type=grpc&serviceName=sorkhi&sni=journalofbigdata.springeropen.com&sid=1f949997214a59#All🇩🇪@Rk_VPS
+vless://cd2dcd83-5e8a-4f64-9ac4-6aa3463c9093@54.36.118.72:2025?mode=gun&security=reality&encryption=none&pbk=Ve2fc16C0gBfuDNdjau_rFc1JhU1oEjfKXr-bCnGHGQ&fp=chrome&type=grpc&serviceName=sorkhi&sni=journalofbigdata.springeropen.com&sid=1f949997214a59#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
