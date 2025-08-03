@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=exo.ir&headerType=http&type=tcp#@TEHRANARGO
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@varn_Net
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?encryption=none&security=none&type=tcp&headerType=http&host=exo.ir#@Daily_Configs
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@5.75.193.108:443?security=none&type=tcp&headerType=http&host=exo.ir&packetEncoding=xudp&encryption=none#@NetAccount
@@ -502,3 +501,4 @@ vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.26.11.144:443?path=/?ed=2048&se
 vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.25.16.223:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
 vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.22.41.139:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
 vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.21.74.124:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev#Telegram:@config_proxy 🔥
+vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.21.233.134:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev#Telegram:@config_proxy 🔥
