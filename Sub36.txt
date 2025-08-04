@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@vipV2rayNGnp
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2rayngsupbot 🔗 @ai_duet
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@confing_chanel
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@config_v2ray_vpn👈سرورهای‌ بیشتر
@@ -501,4 +502,3 @@ vless://0b58d103-e198-4a36-aa79-84a4aca8188b@172.66.40.99:80?path=/telegram-CONF
 vless://0b55ec95-4f77-4c51-89ea-91d96cd149a8@151.101.3.8:80?type=xhttp&mode=auto&host=joindhhprooxy.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇩🇪@Shh_Proxy | All²
 vless://0b55ec95-4f77-4c51-89ea-91d96cd149a8@151.101.3.8:80?type=xhttp&mode=auto&host=joindhhprooxy.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇩🇪@SRCVPN | All²
 vless://0ae41d09-04d2-4739-be46-61b00be9cc9c@s.tehdrantolidi.ir:80?path=/?ed=2087&security=none&encryption=none&host=ip-info-2.tehdrantolidi.ir&type=ws#Telegram:@config_proxy 🔥
-vless://0ac2cfd0-9ff1-4b82-882b-8c651c464ae9@94.183.158.10:8083?path=/&security=none&encryption=none&type=ws#@config_v2ray_vpn👈سرورهای‌ بیشتر
