@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.12.75.185:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%B7%F0%9F%87%BARU%20%7C%20@v2ray_configs_pools
-vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.245.68:443?security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#%F0%9F%87%A8%F0%9F%87%BCCW%20%7C%20@v2ray_configs_pools`
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.210.16:8880?path=%2FTJhZjFeb0fQLVntH%3Fed%3D2560&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#✅@v2ray_configs_pools
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beLoveD-faILure.SeOtOOLsForyOu.Co.uk:80?path=%2F&security=none&encryption=none&type=ws#✅@v2ray_configs_pools
 vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?path=%2F%3Fv2ray_configs_pools&security=none&encryption=none&type=ws#✅@v2ray_configs_pools
@@ -502,3 +500,5 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.119.47-0266
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@194.71.126.31:989#%F0%9F%87%B7%F0%9F%87%B8RS-194.71.126.31-0268
 ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA==@80.92.204.106:9097#%F0%9F%87%A9%F0%9F%87%AADE-80.92.204.106-0313
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#%F0%9F%87%B3%F0%9F%87%B1NL-103.104.247.47-0273
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@185.5.38.111:55988#%F0%9F%87%AC%F0%9F%87%A7GB-185.5.38.111-5155
