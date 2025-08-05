@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.203:8880?path=Telegram@ShadowProxy66/?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#ae_proxy
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@141.193.213.57:8880?path=/Channel id: @ShadowProxy66?ed=2560&security=&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#ae_proxy
 vless://53611ea1-a581-472c-8d94-4da0e1b4e178@151.101.3.8:80?mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none&host=joinshhproxybede.com&type=xhttp#🇬🇵@SimChin_iR جوین شید
 vless://4ea0d41e-a7eb-44a1-b03f-608bfd169f61@www.zula.ir:8880?security=none&type=ws&headerType=&path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048&host=de-snapp.academigroup.ir.#🇩🇪 @EXPRESSVPN_420 ➠ عضو شو
@@ -501,4 +502,3 @@ vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992?security=none&
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray_configs_pools
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#✅@v2ray_configs_pools
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#✅@v2ray_configs_pools
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?encryption=none&security=none&type=grpc#✅@v2ray_configs_pools
