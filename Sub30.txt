@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@188.114.99.115:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
 vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@188.114.98.120:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960003.workers.dev#Telegram:@config_proxy 🔥
 vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.26.11.144:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
 vless://8890088a-928e-4be4-bf3c-e005ec4d1eb0@104.25.16.223:443?path=/?ed=2048&security=tls&encryption=none&alpn=h3,h2&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev#Telegram:@config_proxy 🔥
@@ -502,3 +501,4 @@ vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&e
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@proNG1/@parham929292 دیروز یک مشکلی پیش اومد من نتونستم کانفیگ بزارم اما این بهترین کانفیگ کاناله @proNG1
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@proNG1/@parham929292
 vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@config_v2ray_vpn👈سرورهای‌ بیشتر
+vless://73e10f2a-bb9a-40c1-8e2c-ebfe0dac1dac@185.243.51.67:21760?security=none&encryption=none&headerType=none&type=tcp#@V2ray_confing33

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#@NpvV2rayFilTer
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#@G0Dv2ray
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#@CanfigVip+🍕
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?path=/8WuhXm4QjK0L68Uf?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=gghdfa.pages.dev&fp=chrome&type=ws&sni=gGHDFa.pAgeS.Dev#🟢 @server_free2 🟢
@@ -502,3 +501,4 @@ vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.157.211:443?security=&encryp
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?type=tcp&path=/&host=exo.ir&headerType=http&security=none#Dalton
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?type=tcp&path=/&host=exo.ir&headerType=http&security=none @confing_chanel
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#ChannelTelegram : @CaptalVpn
+vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#Channel@vmessorg
