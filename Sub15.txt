@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://7660b160-65ad-48f8-ff5e-8378c3d74a86@mtn.venzo.com.tr:80?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=www.sPeedtest.net.ElectrOluxxv.iR.&security=none#🇩🇪 | XpnTeam-7frriasfq
-vless://7660b160-65ad-48f8-ff5e-8378c3d74a86@104.18.26.90:80?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=www.sPeedtest.net.ElectrOluxxv.iR.&security=none#🇩🇪 | XpnTeam-7frriasfq
-vless://764eb3fb-02a2-4b37-b418-aa125747929e@107.191.49.224:443?security=none&encryption=none&type=xhttp&path=/&mode=stream-one#Telegram:@king_v2raay
-vless://7646b550-0600-45cf-9a0e-ed38f2a88222@102.177.176.213:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://76414574-71e0-4706-89cc-c5b09c13445d@pubg.ac:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国09 付费推荐：https://dafei.de
 vless://76414574-71e0-4706-89cc-c5b09c13445d@fastcup.net:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国08 付费推荐：https://dafei.de
 vless://76414574-71e0-4706-89cc-c5b09c13445d@csgo.com:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国07 付费推荐：https://dafei.de
@@ -502,3 +498,7 @@ vless://651fda6c-aba1-49f2-b1da-0ccb7de0a81d@99.199.73.53:20744?security=none&en
 vless://6513d3a4-55da-49e4-ae4b-acc30e8118d7@Arx.fast.hosting-ip.com:80?mode=auto&path=/ed?=2048&security=none&encryption=none&host=Lyour-name.global.ssl.fastly.net&type=xhttp#@Anty_Vpn سرورای بیشتر
 vless://6501e93f-a458-4f3d-81bd-2f1e58c2bc3b@104.21.11.178:443?path=/wwtrfZKsmiJjvu6S?ed=2560&security=tls&encryption=none&host=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv&fp=chrome&type=ws&sni=7xVB-b9Ws5Zjp6cYjvW89zRKU9GMuPW6.maryAFArhUnI.WORkers.dEv#@V2RAY_VMESS_free
 vless://64e2aa3b-42f7-4907-8348-556400918e73@185.209.21.36:14066?security=reality&encryption=none&pbk=TZJPEYvn09bJPo7jNiMJaSl-qYSJ2vgPMU1it_PwMH8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tgju.org#@meli_proxyy
+vless://64e2aa3b-42f7-4907-8348-556400918e73@185.209.21.36:14066?security=reality&encryption=none&pbk=TZJPEYvn09bJPo7jNiMJaSl-qYSJ2vgPMU1it_PwMH8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=tgju.org#@HIBYEVPNN
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#@NetAccount
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
+vless://64d6d0d4-3706-4837-b154-cda2816adcc5@crazy-identity.oneeat.co:80?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
