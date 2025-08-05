@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇫🇷TM-@AZARBAYJAB1(GPRS)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]ae_proxy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@ᴅᴀɪʟʏ_ᴄᴏɴꜰɪɢꜱ
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@vipV2rayNGnp
@@ -502,3 +501,4 @@ vless://cdb36871-809b-461e-8908-b6e08a28f112@194.59.214.101:1001?security=&encry
 vless://cd953572-9127-4887-894a-4a6a6601fd60@91.107.163.43:42370?mode=gun&security=reality&encryption=none&pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&fp=chrome&spx=/&type=grpc&serviceName=@ZedBaz_vpn&sni=yahoo.com&sid=479f4834#@V2RAYROZ
 vless://cd953572-9127-4887-894a-4a6a6601fd60@91.107.163.43:42370/?type=grpc&serviceName=@ZedBaz_vpn&authority=&security=reality&pbk=xSfwwBYg9e6BdXVgmH8pRW83SgKOocyvGcw57xSeHTk&fp=chrome&sni=yahoo.com&sid=479f4834&spx=/#@zedbaz_vpn
 vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?security=tls&encryption=none&type=ws&host=vip1-romax-tiktok.hsjsak.ir&path=vless-ws/?ed&sni=vip1-romax-tiktok.hsjsak.ir&fp=chrome#Awlix_ir
+vless://cd8002d9-e8fd-4411-8bb6-fc80310ff81d@avval.ir:2053?path=vless-ws/?ed&security=tls&encryption=none&host=vip1-romax-tiktok.hsjsak.ir&fp=chrome&type=ws&sni=vip1-romax-tiktok.hsjsak.ir#@V2rayNG3

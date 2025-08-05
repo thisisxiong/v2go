@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://5c9fa74d-c08b-43f6-b1da-f21a6cd287f4@104.17.148.22:80?path=/?ed=80&security=none&encryption=none&host=dizdiz.navidsports.ir.&type=ws#@V2ray_confing33
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🌟 @AblNet7 🌊💥
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@InformeD-loCATiOn.SEOtooLsfoRyOU.cO.uk:80?path=/&security=none&encryption=none&type=ws#🇨🇭@AZARBAYJAB1
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@InformeD-loCATiOn.SEOtooLsfoRyOU.cO.uk:80?path=/&security=none&encryption=none&type=ws#🇦🇹@AZARBAYJAB1
@@ -502,3 +501,4 @@ vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@mtn.venzo.com.tr:8880?path=/&securi
 vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@mtn.venzo.com.tr:8880?path=/&security=&encryption=none&host=ird3.serrjioo.ir&type=httpupgrade#@freevpnn11_5
 vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@mtn.venzo.com.tr:8880?path=/&security=&encryption=none&host=ird2.serrjioo.ir&type=httpupgrade#@freevpnn11_3
 vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@meet.fast.hosting-ip.com:80?mode=auto&path=/GoodLuck?ed=2560&security=&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-reza.global.ssl.fastly.net.&type=xhttp#@freevpnn11_2
+vless://514508bd-7cad-45e8-bfd8-8bd37fc80d26@meet.fast.hosting-ip.com:80?mode=auto&path=/GoodLuck?ed=2560&security=&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-reza.global.ssl.fastly.net.&type=xhttp#@freevpnn11_1

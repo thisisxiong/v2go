@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e7cad2bb-c06c-4497-8930-9bc10583a392@45.136.5.183:443?security=none&type=tcp#Telegram:@config_proxy 🔥
 vless://e7c9c3c8-1ca9-4786-ba08-4dd3e6ff6a6a@SvnTeam.fast.hosting-ip.com:80?path=/@SvnProBot?ed=2560&security=none&encryption=none&host=shad.ir&type=ws#آلمان 🇩🇪 @V2xay
 vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?type=xhttp&mode=stream-one&path=/sdf&security=none#@CaptalVpn🏴‍☠️
 vless://e7b626f8-ebcc-4a24-ac32-4efb1d92340a@216.22.5.96:443?mode=stream-one&path=/sdf&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
@@ -502,3 +501,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇫🇷TM-@AZARBAYJAB1(GPRS)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#🟢 @server_free2 🟢
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🇫🇷TM-@AZARBAYJAB1(GPRS)
