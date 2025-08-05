@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=/vpnowl-vpnowl-vpnowl-vpnowl&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#💎 @AblNet7 💎
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=/vpnowl-vpnowl-vpnowl-vpnowl&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:34.78ms
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=/vpnowl-vpnowl-vpnowl-vpnowl&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#🇮🇷 @ConfVip کانفیگ رایگان جوین شو تلگرام
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?path=/vpnowl-vpnowl-vpnowl-vpnowl&security=tls&alpn=http/1.1&encryption=none&host=verina.ccantarella.dns-dynamic.net&fp=chrome&type=ws&sni=verina.ccantarella.dns-dynamic.net#🇫🇷[@rat_leak] vless-FR
@@ -501,4 +502,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?host=vngsupply.ip
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&host=vngsupply.ip-ddns.com&path=/6TvG8D6HimXKgdp2?ed=2560&security=none#@v2ray_cartel
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?type=ws&host=vngsupply.ip-ddns.com&path=/6TvG8D6HimXKgdp2?ed=2560&security=none#@g0dv2ray
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=ð [By EbraSha]&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.85.3:8880?path=@warp_city&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@warp_city
