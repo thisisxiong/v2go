@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
@@ -206,6 +205,8 @@ vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&securit
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#FI 1 🇫🇮 | @v2xay
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#@Configology🍉4
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#@AblNet7 🐔
+vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?encryption=none&security=reality&sni=varzesh3.com&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c&type=grpc#✅ @vistav2ray  👈👈کانال ما
+vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?encryption=none&security=reality&sni=varzesh3.com&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&sid=7c0b6c88fe5c&type=grpc#t.me/entryNET/config=1839685532551394
 vless://deadf791-6837-4354-8eca-25d695b3cb78@188.114.98.112:8880?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&security=none&encryption=none&host=dfgopee-wOrkErS.dEv.&type=ws#Telegram@ConfingV2RaayNG
 vless://deadf791-6837-4354-8eca-25d695b3cb78@188.114.98.112:8880?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&security=none&encryption=none&host=dfgopee-wOrkErS.dEv.&type=ws#@HiByeVPNN
 vless://deadf791-6837-4354-8eca-25d695b3cb78@188.114.98.112:8880?path=/ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY--ELiV2-RAY?ed=2560&security=none&encryption=none&host=dfgopee-wOrkErS.dEv.&type=ws#@HiByeVPNN
@@ -501,4 +502,3 @@ vless://d44cb076-22d4-45ce-8643-57559529b792@77.110.107.195:18207?mode=gun&secur
 vless://d417cebd-ae4f-4555-92bb-1d76570aafc1@172.234.219.101:443?type=xhttp&path=/&host=&mode=stream-one&security=none#@meli_proxyy
 vless://d417cebd-ae4f-4555-92bb-1d76570aafc1@172.234.219.101:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://d40c5cce-a633-4a11-b1db-3ce6fdfd44d6@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#🇩🇪+جهت+تستAlfa_v2ray_ng@
-vless://d3f58aaf-01a2-4570-a218-a6f79179182c@webshecanbot.webredirect.org:2087/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.speedtest.net&fp=chrome&security=reality&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sid=53242a95#@WebShecan-17 Mordad-2
