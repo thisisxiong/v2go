@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=chrome&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=chrome&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#[🇹🇷]ae_proxy
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=chrome&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#Telegram : @Alfa_v2ray_ng 🔥
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?path=/hajmi?ed=2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-us.nitter.ir#Telegram : @Alfa_v2ray_ng 🔥
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?path=/hajmi?ed=2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-en.nitter.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?path=/hajmi?ed=2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-en.nitter.ir#Telegram : @Alfa_v2ray_ng 🔥
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?path=/hajmi?ed=2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-de.nitter.ir#Telegram : @Alfa_v2ray_ng 🔥
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=joinmahdiseRver-Az7.pAgES.dev&fp=chrome&type=ws&sni=jOInmAHDiSERVer-AZ7.paGes.dEV#@V2rayNG3
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=/Km1wLqJV2qOm2xed?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PpAl03.BOMOC17486.workErs.DEV&fp=chrome&type=ws&sni=PpaL03.BOmoC17486.WorkeRs.DeV#کانال+ما+در+تلگرام+@Asak_Vpn+💛
@@ -502,3 +496,9 @@ vless://7b4acb54-014e-4ef1-b4b4-227f5235f589@holanx.blacklike.ir:9008?path=/?ed=
 vless://7b4acb54-014e-4ef1-b4b4-227f5235f589@ckdll.kimjo.ir:8080?security=none&encryption=none&type=ws#♾️𝗝𝗼𝗶𝗻➠@V2Ray_hiddify10♾️       🆓️158<---
 vless://7b4acb54-014e-4ef1-b4b4-227f5235f589@ckdll.kimjo.ir:8080?path=/&security=&encryption=none&type=ws#@Daily_Configs
 vless://7ad891be-5fad-4cca-b6d6-d67a3a881590@meli_proxyy.vip-plan.org:29947?type=tcp&path=/&host=fast.com&headerType=http&security=none#@configfu
+vless://7ad891be-5fad-4cca-b6d6-d67a3a881590@meli_proxyy.vip-plan.org:29947?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🛡️ @FreakConfig
+vless://7ad891be-5fad-4cca-b6d6-d67a3a881590@meli_proxyy.vip-plan.org:29947?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
+vless://7aa7924e-1440-48c2-a6fe-d0d8a66a2aa4@www.zula.ir:8080?path=/&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#@V_2rayngVpn
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@sourceforge.net:443?path=/@warp_city&security=tls&encryption=none&host=rayan-09.leila.dpdns.org&fp=chrome&type=ws&sni=rAyAn-09.LeIlA.DpDnS.OrG#@warp_city
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@sourceforge.net:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-h09.leila.dpdns.org&type=ws&sni=rAyAn-H09.LeIlA.DpDnS.OrG#@meli_proxyy
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@sourceforge.net:443?path=/@Rayan_Config&security=tls&encryption=none&host=rayan-h09.leila.dpdns.org&type=ws&sni=rAyAn-H09.LeIlA.DpDnS.OrG#@Daily_Configs

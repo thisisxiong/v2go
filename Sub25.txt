@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://01a244ae-a84b-4d02-be2e-48c4562dd382@imac.irmobileshopp.ir:5555?security=reality&encryption=none&pbk=Ug2ed7Ftati8pzbtzpzSIV4xwwbp9lSSsyB6yloe-ng&headerType=none&fp=chrome&spx=/&type=tcp&sni=stackoverflow.com&sid=65e7#V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS
-vless://019deb98-eef7-4a69-983a-1f9fd77f5280@172.67.197.9:2053?path=/?ed=2048&security=tls&encryption=none&host=worker-gentle-unit-1324.db126b023f83.workers.dev&type=ws&sni=worker-gentle-unit-1324.db126b023f83.workers.dev#@Viturey 📺
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🛡️ @FreakConfig
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#ترکیه 🇹🇷 @V2xay
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#WiFi-@SRCVPN-12
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Irancell-@SRCVPN-5
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Bya To @IRAN_V2RAY1
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@warp_city
@@ -502,3 +496,9 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@104.192.226.106:989#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@103.106.229.219:989#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6ZjYzZ2c4RXJ1RG5Vcm16NA==@80.92.204.106:9010#@awlix_ir
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.64.6.209:443#@awlix_ir
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.250.238.74:443#@awlix_ir
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.190.1.125:443#@awlix_ir
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.185.251.195:443#@awlix_ir
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@47.129.168.96:443#@awlix_ir
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.218.228.243:443#@awlix_ir
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.217.73.31:443#@awlix_ir

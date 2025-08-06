@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&mode=gun&security=none#v2ray_cartel
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&mode=gun&security=none#G0dV2RAY
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#@vmesskhodam
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYNG_1378
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#@Tunder_vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#@NpvV2rayFilTer
@@ -502,3 +496,9 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?security=&type
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?security=&encryption=none&type=grpc#[🇺🇸]ae_proxy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#فرانسه 🇨🇵 @V2xay
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#MCI-@configfu-19
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 510 (@Outline_Vpn) free
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 452 (@Outline_Vpn) free
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#Config VIP @iran_v2ray1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYNG_1378

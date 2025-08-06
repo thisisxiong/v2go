@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://96ed1f2d-8b93-4ea2-961e-570cd2dc99eb@fbi22.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#t.me/entryNET/config=1839699760923249
-vless://96ed1f2d-8b93-4ea2-961e-570cd2dc99eb@fbi22.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
-vless://96be8313-329a-49cb-99b0-ebc4ef98e344@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷2 tunnel: @EVAY_VPN 🚀
-vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Anty_Vpn سرورای بیشتر
-vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#.
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=NvOvRkPi12.mInTiVo.oRg&type=ws&sni=NvOvRkPi12.mInTiVo.oRg#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&encryption=none&host=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&sni=IyFpLkXk10.jOoLaJoOlA.OrG#IR-@configfu-1
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=TpBeFuEh11.aBbAsAlIrAhMaTdIkH.OrG&fp=chrome&type=ws&sni=TpBeFuEh11.aBbAsAlIrAhMaTdIkH.OrG#IRAN 353 (@Outline_Vpn) free
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=MyVqStWt11.jOoLaJoOlA.OrG&type=ws&sni=MyVqStWt11.jOoLaJoOlA.OrG#♾️𝗝𝗼𝗶𝗻➠@V2Ray_hiddify10♾️       🆓️129<---
@@ -502,3 +496,9 @@ vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.153.13:443?mode=auto&path=/&s
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.153.13:443?mode=auto&path=/&security=reality&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&fp=chrome&type=xhttp&sni=tgju.org&sid=54#Telegram : @Alfa_v2ray_ng 🔥
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=chrome&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#🛡️ @FreakConfig
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=chrome&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#🔥@AblNet7🌊
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=chrome&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=chrome&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#[🇹🇷]ae_proxy
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@206.71.158.75:465?mode=auto&security=reality&encryption=none&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&host=smtp.zoho.com&fp=chrome&spx=/&type=xhttp&sni=smtp.zoho.com&sid=7f2798f9#Telegram : @Alfa_v2ray_ng 🔥
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?path=/hajmi?ed=2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-us.nitter.ir#Telegram : @Alfa_v2ray_ng 🔥
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?path=/hajmi?ed=2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-en.nitter.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@104.26.6.89:443?path=/hajmi?ed=2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-en.nitter.ir#Telegram : @Alfa_v2ray_ng 🔥
