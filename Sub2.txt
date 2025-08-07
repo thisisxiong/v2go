@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://turboo-server@151.101.3.8:80?type=xhttp&mode=auto&host=truboo-server.us&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇺🇸 @Evay_vpn
-vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server1.game&type=xhttp#Bya To @Iran_V2ray1
-vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server1.game&type=xhttp#@Tunder_vpn
-vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=truboo-server.us&type=xhttp#azadiiivpn 🇺🇸
 vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=truboo-server.us&type=xhttp#ALL@azadiiivpn 🇺🇸
 vless://turboo-server@146.75.55.82:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#هلند 🇳🇱 @V2xay
 vless://turboo-server@146.75.55.82:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#azadiiivpn 🇳🇱
@@ -502,3 +498,7 @@ vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=&encrypti
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://f3aa435a-22c0-4c8c-8db0-6bb6fe154562@151.101.3.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#XpnTeam🇳🇱-4canv2kvv
 vless://f3aa435a-22c0-4c8c-8db0-6bb6fe154562@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@mehrosaboran
+vless://f3aa435a-22c0-4c8c-8db0-6bb6fe154562@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@icv2ray
+vless://f3918c00-6d57-4f23-8ca5-2ee61c13adef@193.111.125.198:53904?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#@AbriVPN :خرید کانفیگ اختصاصی‌⚡️
+vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#@AbriVPN :خر

@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#🇸🇪 Telegram @ata_connect
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#Bya To @Iran_V2ray1
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#Bya To @IRAN_V2RAY1
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#@V2ray1_Ng ALL
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#@Tunder_vpn ALL
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#@Tunder_vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#@Configology🌸3
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&mode=gun&security=none#v2ray_cartel
@@ -140,10 +135,7 @@ vless://e18a6630-d4bd-4782-b18e-40d134ce3d73@www.speedtest.net:80?path=/hajmi?ed
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=/&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#@Tunder_vpn
 vless://e16c1f00-afa4-405f-a944-932f81e18e23@nv137.momdping.com:443?path=/&security=tls&encryption=none&type=ws&sni=nv137.momdping.com#@CaV2ray ⚡️
 vless://e144d0bb-7c6b-4140-b505-88938cad0752@join2.iraniv2ray.norooz.shop:443?type=tcp&security=reality&fp=chrome&pbk=4kpZWXd1xN88AzEZzQ1PpNsLCfrLtJj3lVfPuqwuOB0&sni=ghbi.ir&sid=19158be1&spx=/iraniV2ray#1-خرید سرویس اختصاصی - @iraniv2ray_support
-vless://e1442ee1-8474-480b-ce56-171953f50789@88.209.249.84:38282?type=tcp#Telegram:@config_proxy 🔥
 vless://e1442ee1-8474-480b-ce56-171953f50789@88.209.249.84:38282?type=tcp#Telegram:@config_proxy 💦
-vless://e1442ee1-8474-480b-ce56-171953f50789@77.81.81.69:49822?type=tcp#Telegram:@config_proxy 🔥
-vless://e1442ee1-8474-480b-ce56-171953f50789@77.81.81.69:16032?type=tcp#Telegram:@config_proxy 🔥
 vless://e1442ee1-8474-480b-ce56-171953f50789@77.81.81.69:16032?security=none&encryption=none&headerType=none&type=tcp#@NETMelliAnti
 vless://e1442ee1-8474-480b-ce56-171953f50789@77.81.81.69:16032?security=none&encryption=none&headerType=none&type=tcp#@Alfa_v2ray_ng کانالمون 🫀
 vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?path=/cdfighws&security=tls&encryption=none&type=ws#@AblNet7🇫🇷 France
@@ -502,3 +494,11 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&authority=@HiByeVPNN&type=grpc#🛡️ @FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#MCI-@configfu-17
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&type=grpc#Config VIP @iran_v2ray1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#🛡️ @FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#فیلترشکن نامحدود 99ت =» SabznetVPN@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 471 (@Outline_Vpn) free
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 458 (@Outline_Vpn) free
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
