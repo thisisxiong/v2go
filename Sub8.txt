@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#ALL@azadiiivpn⁶ 🎀
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@V2rayN5  5
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@HiByeVPNN👈🌐❤️‍🔥
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Daily_Configs
@@ -501,4 +502,3 @@ vless://b20c84f3-988c-489d-a93f-a42c26aa0c59@165.232.83.84:1500?security=reality
 vless://b20c84f3-988c-489d-a93f-a42c26aa0c59@165.232.83.84:1500?security=reality&encryption=none&pbk=r7NlMeNf86iG8M1DF9WnU53xVx35pg1rRhLiEeW-618&headerType=none&fp=chrome&type=tcp&sni=springer-professional.com&sid=a93110#@V2RAYNG_1378
 vless://b1e76a39-1d89-4c07-f755-dd60839def7e@104.21.112.1:8080?security=&type=ws&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&host=join-to-unlimiteddev.sabadyt.ir&encryption=none#@unlimiteddev
 vless://b1e76a39-1d89-4c07-f755-dd60839def7e@104.21.112.1:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#🛡️ @FreakConfig
-vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@172.67.95.24:443?path=/&security=tls&encryption=none&host=sub.divib.dynv6.net&fp=chrome&type=ws&sni=sub.divib.dynv6.net#@V2RAY_VMESS_free

@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://Parsashonam-286@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-286@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪     حتما ipv6 فعال باشه
 vless://Parsashonam-286@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪
 vless://Parsashonam-285@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@v2rayNGcloud🇩🇪 نیازمند فعال بودن ipv6
@@ -138,7 +137,6 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.72:2052/?type=ws&encrypti
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=/&security=tls&encryption=none&type=ws#فیلترشکن نامحدود 99ت =» SabznetVPN@
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=/&security=tls&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=/&security=tls&encryption=none&type=ws#@AblNet7🇬🇧 United Kingdom ws tls (f69)
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=/&security=tls&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAV2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&type=ws#[🇬🇧]t.me/ConfigsHub
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8443?path=/&security=tls&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAV2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&type=ws#GB 2 🇬🇧 | @v2xay
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:8080/?type=httpupgrade&encryption=none&flow=&path=/?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:443?path=/&security=tls&encryption=none&type=ws#@AblNet7🇬🇧 United Kingdom ws tls (f69)
@@ -502,3 +500,5 @@ vless://96c184e6-0d47-472d-8905-1b12ecf62f80@ip.iranshopering.ir:2052?path=/?ed=
 vless://96be8313-329a-49cb-99b0-ebc4ef98e344@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷2 tunnel: @EVAY_VPN 🚀
 vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Anty_Vpn سرورای بیشتر
 vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#.
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=NvOvRkPi12.mInTiVo.oRg&type=ws&sni=NvOvRkPi12.mInTiVo.oRg#کانال+ما+در+تلگرام+@Asak_Vpn+💛
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&encryption=none&host=IyFpLkXk10.jOoLaJoOlA.OrG&type=ws&sni=IyFpLkXk10.jOoLaJoOlA.OrG#IR-@configfu-1
