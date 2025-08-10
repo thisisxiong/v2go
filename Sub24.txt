@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-trojan://19e8f800-4684-11f0-a89c-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💞
-trojan://1688c7ee-35b3-4bfb-ab88-f8ce846daeb6@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
-trojan://1688c7ee-35b3-4bfb-ab88-f8ce846daeb6@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
-trojan://1688c7ee-35b3-4bfb-ab88-f8ce846daeb6@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
-trojan://16132fb0-4945-11f0-a95e-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💘
-trojan://157bbeb0-489f-11f0-ab40-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💜
 trojan://152e80d0-489e-11f0-af5e-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩷
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.17.148.22:8443?path=/trwidp0ENHXMUNX4bA/c2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ&security=tls&alpn=http/1.1&host=invincible.fafa20.shop&fp=chrome&type=ws&sni=inVinciBLe.fafa20.sHop#IP متحرک | @v2xay
 trojan://12d9da10-3f10-11f0-8a3f-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray❣️
@@ -122,7 +116,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@Tunder_vpn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@Selinc
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@G0Dv2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@AYMH19+کانال+تلگرام
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#[🇺🇸]t.me/Asak_Vpn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#[🇺🇸]t.me/Asak_Vpn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#All@configfu-6
@@ -502,3 +495,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#@awl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Tunder
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#Tel:Tunder_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990?note=--Telegram--@NetifyVPN--#🇨🇾[Telegram:NetifyVpn]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#@V2ray1_Ng
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#فیلترشکن رایگان👈Prime_Verse@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#Tunder_vpn
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#@configfu+12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.106.228.132:990#@awlix_ir
