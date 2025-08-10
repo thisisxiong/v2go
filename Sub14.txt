@@ -2,16 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.20:443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇩🇪
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.20:443?path=/&security=tls&encryption=none&type=ws#@Academi_vpn6
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.19:443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇩🇪
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.18:443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇩🇪
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=/&security=tls&encryption=none&type=ws#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443?path=/&security=tls&encryption=none&type=ws#@ShadowProxy66 🇩🇪
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443?path=/&security=tls&encryption=none&type=ws#🇩🇪[Telegram:v2rayng_fars]
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇩🇪
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.14:443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇩🇪
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?path=/&security=tls&encryption=none&type=ws#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?path=/&security=tls&encryption=none&type=ws#@ShadowProxy66 🇩🇪
 vless://78448db7-5a7b-4e5e-ab17-44eacc0ac976@pishgam.sdcards.ir:8080?type=ws&path=/Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---Telegram---@bluVPNir---@bluVPNir?ed=2087&host=amiri2.server-dev2.ir&security=none#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
 vless://78183f9a-2280-43ed-a30c-e79fdc468ca5@Www.speedtest.net:2095?path=/@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN-V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1wss9500?ed=2560&security=none&encryption=none&host=Tak.vipmehspd.ir.&type=httpupgrade#Join Sho @Iran_V2RAY{MCI}.
@@ -192,8 +182,10 @@ vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-11.flightbean24.com:2052?
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/Channel--Telegram--@Hddify--@Hddify--@Hddify&security=none&encryption=none&type=ws#→ @Hddify 🌚
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#فیلترشکن نامحدود 99ت =» SabznetVPN@
+vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@i10VPN&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@i10VPN&type=ws#Telegram:@config_proxy 🔥
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@i10VPN&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
+vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@MARAMBASHI 🩵💛
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052?path=/&security=none&encryption=none&type=ws#فیلترشکن نامحدود 99ت =» SabznetVPN@
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052?path=/&security=none&encryption=none&type=ws#@Academi_vpn5
@@ -502,3 +494,11 @@ vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@tgju.org:80?type=ws&path=/olem/ws?e
 vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://65cf9a5a-ce26-4972-a1bb-5e1618a95d41@www.speedtest.net:80?path=/&security=none&encryption=none&host=3.www.speedtest.net.ftp.debian.org.fixkaran.ir.&type=httpupgrade#@V2rayNG3
 vless://65951889-54af-453f-a7a1-55b91e5a5ad5@46.101.199.91:8080?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://65925d59-b895-4a25-80b6-47e8a20a12b2@www.speedtest.net:2095?type=httpupgrade&host=xn--nl8h.rastakvision.ir.&path=/?ed=2560&security=none#@SaghiVpnX[🇨🇦]
+vless://65925d59-b895-4a25-80b6-47e8a20a12b2@www.speedtest.net:2095?type=httpupgrade&host=xn--nl8h.rastakvision.ir.&path=/?ed=2560&security=none#@SaghiVpnXBOT[🇨🇦]
+vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk6v.tok8888.com:45445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.webilop.com&fp=chrome&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=/&type=tcp&headerType=none#Sv6_@FF_crony🇺🇸
+vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk5v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&spx=/&type=tcp&headerType=none#Sv5_@FF_crony🇺🇸
+vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk4v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=/&type=tcp&headerType=none#Sv4_@FF_crony🇺🇸
+vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk3v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.thewilliamvale.com&fp=chrome&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=/&type=tcp&headerType=none#Sv3_@FF_crony🇺🇸
+vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=businessmadesimple.com&fp=chrome&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&spx=/&type=tcp&headerType=none#Sv2_@FF_crony🇺🇸
+vless://656e8471-baf1-4927-afa9-b9cb745df576@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=/&type=tcp&headerType=none#Sv1_@FF_crony🇺🇸
