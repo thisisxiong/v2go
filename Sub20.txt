@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.24.175.2:80?encryption=none&security=none&type=ws&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&path=/?ed=2560#🤡Ch: @pPal03🤡جوین بدید🤡
+vless://3487ce43-b803-4770-97ff-f75880d7f9b4@104.16.92.169:80?encryption=none&security=none&type=ws&host=rough-mud-93b4-ppal03.wedane7745.workers.dev&path=/?ed=2560#🤡Ch: @pPal03🤡جوین بدید🤡
 vless://348699c1-e32f-4bc1-a63f-e795984fcf88@162.159.20.126:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#@Capoit
 vless://34858db0-821f-4a01-bfc4-5533ab078590@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#IRAN 613 (@Outline_Vpn) free
@@ -500,5 +502,3 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/proxyip=zani
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/proxyip=zani.yaemiko.ggff.net/?@FREEV2RNG&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/proxyip=zani.yaemiko.ggff.net/?/proxy_mtm&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@configfu
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/proxyip=zani.yaemiko.ggff.net/?/proxy_mtm&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@HiByeVPNN👈⚡❤️‍🔥
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/proxyip=zani.yaemiko.ggff.net/?/proxy_mtm&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Daily_Configs
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?path=/proxyip=zani.yaemiko.ggff.net/?/mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&alpn=h2,http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@HiByeVPNN👈⚡❤️‍🔥
