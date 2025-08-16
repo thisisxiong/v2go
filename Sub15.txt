@@ -2,13 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.8:443?path=/&security=tls&encryption=none&type=ws#@V2rayBaaz
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.8:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443?path=/&security=tls&encryption=none&type=ws#🇩🇪 Germany ws tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443?path=/&security=tls&encryption=none&type=ws#@V2rayBaaz
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.5:443?path=/&security=tls&encryption=none&type=ws#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.5:443?path=/&security=tls&encryption=none&type=ws#🇩🇪 Germany ws tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.5:443?path=/&security=tls&encryption=none&type=ws#@V2rayBaaz
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.5:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
@@ -502,3 +495,10 @@ vless://68d0af06-b182-4d8d-affd-ef35be838483@1b933cb11bb3d53b.fast.hosting-ip.co
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.67.32.101:80?path=/?ed=2560&security=none&encryption=none&host=barayeiranmahsang.varzesh.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.varzesh.dpdns.org#@v2rayNGcloud
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?path=/?ed=2570&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.21.62.181:80?path=/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#🔥T.me/Asak_Vpn🔥
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=chrome&type=ws&sni=varzesh3.varzesh.dpdns.org#@CaV2ray ⚡️
+vless://68abe093-fc17-4060-b6c5-a19cbe4ae7ba@199.232.118.199:80?encryption=none&security=none&type=xhttp&host=downloadly.ir&path=/Telegram@vpnjey&mode=auto#Telegram @vpnjey  🇩🇪🇩🇪
+vless://68abe093-fc17-4060-b6c5-a19cbe4ae7ba@199.232.118.199:80?encryption=none&security=none&type=xhttp&host=downloadly.ir&path=/Telegram@vpnjey&mode=auto#Telegram @vpnjey
+vless://6899393a-9311-45f3-b657-ffd1689bb725@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@CaV2ray ⚡️
+vless://68963438-da5b-4ce1-a51f-04e75724e249@www.speedtest.net:443?security=tls&encryption=none&type=ws&host=raphaelmercer.pages.dev&path=/?ed=2560&sni=raphaelmercer.pages.dev&fp=chrome&alpn=h3#mci-mtn🇬🇧[Awlix_ir]
+vless://6890a31b-6d7f-496f-bcc6-51342678384a@172.67.21.239:2052?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
+vless://684d05e9-cff7-425c-89a4-1b645e297bd2@198.89.125.185:53591/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=at6LtZMUQvyT6ffDN4wwh3IdmCMmDMqaxQaaA6Lr4kM&sid=9b88beec#🍰24@oneclickvpnkeys

@@ -2,13 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://96c184e6-0d47-472d-8905-1b12ecf62f80@ip.iranshopering.ir:8880?path=/Nama?ed=2048&security=none&encryption=none&host=www.speedtest.net.wedbaz.uk.iranshopering.IR.&type=ws#@Daily_Configs
-vless://96c184e6-0d47-472d-8905-1b12ecf62f80@ip.iranshopering.ir:8880?path=/Nama?ed=2048&security=none&encryption=none&host=www.speedtest.net.wedbaz.poland.iranshopering.IR.&type=ws#@Daily_Configs
-vless://96c184e6-0d47-472d-8905-1b12ecf62f80@ip.iranshopering.ir:8880?path=/Nama?ed=2048&security=none&encryption=none&host=www.speedtest.net.wedbaz.netherlands.iranshopering.IR.&type=ws#@Daily_Configs
-vless://96c184e6-0d47-472d-8905-1b12ecf62f80@ip.iranshopering.ir:8880?path=/Nama?ed=2048&security=none&encryption=none&host=www.speedtest.net.wedbaz.germany.iranshopering.IR.&type=ws#@Daily_Configs
-vless://96c184e6-0d47-472d-8905-1b12ecf62f80@ip.iranshopering.ir:8880?path=/Nama?ed=2048&security=none&encryption=none&host=www.speedtest.net.wedbaz.finland.iranshopering.IR.&type=ws#@Daily_Configs
-vless://96c184e6-0d47-472d-8905-1b12ecf62f80@ip.iranshopering.ir:8880?path=/Nama?ed=2048&security=none&encryption=none&host=www.speedtest.net.wedbaz.Switzerland.iranshopering.ir&type=ws#@Daily_Configs
-vless://96c184e6-0d47-472d-8905-1b12ecf62f80@ip.iranshopering.ir:2052?path=/?ed=2048&security=none&encryption=none&host=www.speedtest.net.wedbaz.germany.iranshopering.IR.&type=httpupgrade#@Daily_Configs
 vless://96be8313-329a-49cb-99b0-ebc4ef98e344@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷2 tunnel: @EVAY_VPN 🚀
 vless://96b504e6-dc8c-49f0-9f9e-aa7bff55200a@78.111.84.137:2001?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Anty_Vpn سرورای بیشتر
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=NvOvRkPi12.mInTiVo.oRg&type=ws&sni=NvOvRkPi12.mInTiVo.oRg#کانال+ما+در+تلگرام+@Asak_Vpn+💛
@@ -502,3 +495,10 @@ vless://890d7a63-84b7-4593-a312-a8f0bc250d65@172.66.46.246:443?path=/ELiV2-RAY--
 vless://890d7a63-84b7-4593-a312-a8f0bc250d65@172.66.46.246:443?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=tls&encryption=none&host=elena.elena.ddns-ip.net&fp=chrome&type=ws&sni=elena.elena.ddns-ip.net#@V2RAYROZ
 vless://890cc8de-0c7a-4c70-b945-879ce892e196@www.speedtest.net:8880?path=/?ed=8880&security=none&encryption=none&host=arm1.dollardoon.com&type=httpupgrade#@v2rayfast_7❤️‍🔥
 vless://88da5abf-08f2-44fe-951e-358e96bc86ba@SVNTEAM.MiSVN.iR:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=tgju.org&fp=chrome&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&sid=e54b5ad736ae4c38#SVNTEAN🇩🇪TCP-45
+vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=/Tel-@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#همراه اول vmesskhodam@
+vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=/6WKNgcKo7LMqOzhb?ed=2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#Telegram@Tunder_vpn
+vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@188.114.96.3:8443?path=/6WKNgcKo7LMqOzhb?ed=2560&security=tls&encryption=none&host=w325.pages.dev&fp=chrome&type=ws&sni=w325.pAges.Dev#IRAN 265 (@Outline_Vpn) free
+vless://88bc3858-b31c-4a1d-9f17-9c485ae404b1@ne2sr.blushop1403.info:17160?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@V2rayNG3
+vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇨🇭]ae_proxy
+vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.201:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Bya To @IRAN_V2RAY1
+vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
