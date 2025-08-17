@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://d14d29dd-826f-4c0d-ad22-5091360f486c@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
 vless://d14d29dd-826f-4c0d-ad22-5091360f486c@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
 vless://d14d29dd-826f-4c0d-ad22-5091360f486b@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
 vless://d14d29dd-826f-4c0d-ad22-5091360f486b@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
@@ -501,4 +502,3 @@ vless://c2abfbd5-3fe3-43fe-a8dd-a1b51c8dedb2@home.acangame.site:4444?mode=gun&se
 vless://c2983ded-01b7-48ed-93df-827308a8a74f@www.parsvds.ir:8080?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#@V_2rayngVpn
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#🇷🇺 MCI - @FREEV2RNG 8
 vless://c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#@AblNet7 🇷🇺
-vless://c27e0180-7b4a-49ba-a862-a62f5e2bc17d@94.182.142.16:2020?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️

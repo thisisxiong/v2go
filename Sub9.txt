@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://c27e0180-7b4a-49ba-a862-a62f5e2bc17d@94.182.142.16:2020?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️
 vless://c23c9151-c696-4e0a-8dc5-75edfcc4a271@91.107.136.146:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=yahoo.com&sid=93&spx=/#@ZedBaz_vpn
 vless://c23bab9e-a746-46a9-94eb-d1a39ab5e55a@46.38.136.226:30571?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🇸🇪@ai_duet • @v2rayngsupbot
 vless://c23bab9e-a746-46a9-94eb-d1a39ab5e55a@46.38.136.226:30571?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🇳🇱@ai_duet • @v2rayngsupbot
@@ -501,4 +502,3 @@ vless://b3fb50dd-35ce-4c4a-9280-acaeb1677640@104.21.43.168:8080?type=ws&path=/Te
 vless://b3d43db6-c4b2-41b8-9954-5b93318d02b0@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://b38bd0c3-2445-4952-84b1-b451caf43061@151.101.2.216:80?path=/ws/GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN-GozargahVPN?ed=2048&security=none&encryption=none&host=GozargahVPN.ir&type=ws#🇬🇧+GozargahVPN
 vless://b376bbd9-9306-496f-8f19-ff438b21c100@172.66.40.99:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
-vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=/&security=none&encryption=none&host=onlytesla1.xz027.com&type=ws#@one_shop_official ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#@o

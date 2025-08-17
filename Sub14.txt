@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://899843a6-a746-49f1-c4bb-f8a6fd0db9a2@91.99.236.124:51479?mode=gun&security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#@bored_vpn
 vless://89938a70-b39b-4255-b436-17e703cf5460@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🧩 Telegram | @Green_WPN
 vless://897a4bec-26b8-11e8-94be-00505695472c@bestcf.030101.xyz:443/?type=ws&encryption=none&flow=&host=xv6.jpmj.dpdns.org&path=/bbs?ed=2048&security=tls&sni=xv6.jpmj.dpdns.org#🍰31@oneclickvpnkeys
 vless://8938d63f-7dda-43be-9a1e-819adac28297@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&encryption=none&host=smiTs.joOjehtor.it.cOm&fp=chrome&type=ws&sni=smiTs.joOjehtor.it.cOm#IRAN 505 (@Outline_Vpn) free
@@ -501,4 +502,3 @@ vless://78cd6075-2e30-41f6-9b50-cd4da39a4895@188.114.97.1:8880?path=/telegram,@B
 vless://78cd6075-2e30-41f6-9b50-cd4da39a4895@188.114.97.1:8880?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=ww.irAnsheep.Web.tr.&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://78c22707-acf6-4d32-b172-5f61c3c0f220@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://78c22707-acf6-4d32-b172-5f61c3c0f220@104.16.1.106:2082?path=/?ed=2052&security=none&encryption=none&host=mrdnzdtnbkwbdfsqoncu.yaSharTeam.com.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@Daily_Configs

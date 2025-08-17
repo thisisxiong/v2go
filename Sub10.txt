@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=/&security=none&encryption=none&host=onlytesla1.xz027.com&type=ws#@one_shop_official ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#@o
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@104.26.6.89:80?path=/&security=none&encryption=none&host=onlytesla1.xz027.com&type=ws#@one_shop_official
 vless://b357d11e-48ff-483f-969e-e72c380341f5@165.232.33.67:8440?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇬🇧@EVAY_VPN
 vless://b357d11e-48ff-483f-969e-e72c380341f5@128.199.45.153:8440?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇳🇱@EVAY_VPN
@@ -501,4 +502,3 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.60:443/?type=ws&encryptio
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.60:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.182:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.182:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.182:2096?path=/&security=tls&encryption=none&type=ws#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆

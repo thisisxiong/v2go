@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🇳🇱@FreakConfig
 vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@V2rayNG3
 vless://f1d51f8e-0a3a-4923-b6c3-7f7cc0b49dd4@www.speedtest.net:80?path=/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG?ed=1024&security=&encryption=none&host=d4.SGdeMoFFiDi-RV.ir.&type=httpupgrade#@bored_vpn
 vless://f1cafb30-6de3-4712-e77c-823a864b66c3@cumhuriyet.com.tr:8080?type=ws&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev
@@ -501,4 +502,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1Fs
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Owner -+- @FF_crony
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@Tunder_vpn
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=/reklaz1FsDrIv7mW?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@Selinc

@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://49d6d5dd-bc9b-4ff9-ade9-3b9c25ca5f25@www.speedtest.net:2096?path=/citxcbws#Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=638879176706498046.amsterdam-prx-dnraaal.info&type=ws&sni=638879176706498046.amsterdam-prx-dnraaal.info#🛡️ @FreakConfig
 vless://49d6d5dd-bc9b-4ff9-ade9-3b9c25ca5f25@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/citxcbws&security=tls&encryption=none&host=638890562127857314.amsterdam-prx-dnraaal.info&type=ws&sni=638890562127857314.amsterdam-prx-dnraaal.info#🛡️ @FreakConfig
 vless://49d6d5dd-bc9b-4ff9-ade9-3b9c25ca5f25@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/citxcbws&security=tls&encryption=none&host=638890562127857314.amsterdam-prx-dnraaal.info&fp=chrome&type=ws&sni=638890562127857314.amsterdam-prx-dnraaal.info#🛡️ @FreakConfig
 vless://49aacdab-c9b9-4031-8e64-514e9cd72089@104.18.22.19:443?security=tls&encryption=none&type=ws&host=shAHaNShahi.pagES.deV&path=/Telegram@V2ray_Alpha/?ed=2048&sni=ShahANsHahi.paGEs.Dev&fp=chrome&alpn=h2,http/1.1#Awlix_ir
@@ -501,4 +502,3 @@ vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@www.speedtest.net:443?path=/Join---
 vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@www.speedtest.net:443?path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2rayminer.pages.dev&fp=chrome&type=ws&sni=V2RaYmiNEr.PaGES.dEv#[🇨🇦]t.me/ConfigsHub
 vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@www.speedtest.net:443?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=v2rayminer.pages.dev&fp=chrome&type=ws&sni=V2RaYmiNEr.PaGES.dEv#@i10VPN 🚀| با ما متصل بمون⚡
 vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@172.66.47.140:8443?security=tls&sni=V2RayMinER.PAGeS.Dev&alpn=http/1.1&fp=chrome&type=ws&path=/WwPEDup8yShFB1Wp/NzguNDYuNzMuNDk=?ed=2560&host=v2rayminer.pages.dev&packetEncoding=xudp&encryption=none#Telegram:@config_proxy 🔥
-vless://3c918c19-a5bd-4f2c-9b30-03c681c93ddc@172.66.47.140:8443?security=tls&sni=V2RayMinER.PAGeS.Dev&alpn=http/1.1&fp=chrome&type=ws&path=/WwPEDup8yShFB1Wp/NzguNDYuNzMuNDk=?ed=2560&host=v2rayminer.pages.dev&packetEncoding=xudp&encryption=none#@NetAccount

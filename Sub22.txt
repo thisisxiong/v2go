@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://1ae544de-4b19-4bd0-a7d6-e47e2e19a057@itmi-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&alpn=http/1.1&encryption=none&pbk=u13aSU1om7Mc67RxQHmVQx7iALWAUCn_j38zQ5LpYXc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itgetsbetter.org&sid=462c73aef9f448#@v2ray313 کانالمون ⚡
 vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@172.64.157.124:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560#🎶Ch: @pPal03🎶جوین بدید🎶
 vless://1ae17c7d-6074-41e2-894b-478c9fcf5715@104.16.54.161:80?encryption=none&security=none&type=ws&host=rough-hill-2959-ppal03.fawik58803.workers.dev&path=/?ed=2560#🎶Ch: @pPal03🎶جوین بدید🎶
 vless://1ad89e52-ed32-4acf-88f7-caeadb4cd493@212.80.31.132:882?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#🛡️ @FreakConfig
@@ -501,4 +502,3 @@ vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@lovefishingfishes.kuckenpq.ir:32135
 vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@dlarm2.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
 vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@dlarm.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
 vless://0ed2efd9-5c30-4bb3-985b-4e2bac8bd9f0@NLpizza.kuckenpq.ir:32135?mode=gun&security=reality&encryption=none&pbk=0nV4IrMDDWiuFhntmuTBnQT3Q2uPagsRV1p4KXRnzCk&fp=chrome&type=grpc&serviceName=32135vless&sni=journalofbigdata.springeropen.com&sid=085753500f657097#@CaV2ray ⚡️
-vless://0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318@ita01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
