@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#Channel id: @@singbox1 🇨🇦
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#Channel id: @@proxy_kafee 🇨🇦
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#🇫🇷[Telegram:v2rayng_fars]
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#Telegram : @Alfa_v2ray_ng 🔥
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#Channel id: @singbox1 🇨🇦
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:2096?path=/&security=tls&encryption=none&host=E4aRpUi7Xe.GiTi4.OrG&fp=chrome&type=ws&sni=E4aRpUi7Xe.GiTi4.OrG#Channel id: @proxy_kafee 🇨🇦
@@ -254,6 +250,7 @@ vless://e97a0128-4785-4323-a2a5-dd01ce49d359@104.21.79.134:443?path=/Telegram@V2
 vless://e9584352-e14d-42d8-91e3-bbdad7f8eb87@188.166.69.72:8990?security=reality&encryption=none&pbk=Om08OL0-DY2tV5Z27yFWpzdz_TiJSBxcGUdX5awq5zA&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=9912311de4630f2d#Channel : @Mrsoulb 🏴🏳
 vless://e93f923b-92b1-4009-aaeb-3691001347bd@104.17.147.22:80?mode=auto&path=/@Mr_Amirr_00/?ed=443&security=&encryption=none&host=de.tunnel.irangroupz.ir&type=xhttp#Cloudflare-Number 1
 vless://e9158ed1-5df1-42ef-a4e7-a9e6d9547042@109.122.249.131:3232?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇮🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@95.179.224.189:443?security=reality&encryption=none&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#[🇬🇧]t.me/ConfigsHub
 vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@45.77.136.208:443?security=reality&encryption=none&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com#@G0Dv2ray
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
 vless://e8d95e4a-1e54-4798-bc0c-459aa9785ccb@151.101.2.216:80?mode=auto&path=/@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN?ed=2048&security=none&alpn=h2,http/1.1&encryption=none&host=Gozargah.net&fp=chrome&type=xhttp&sni=Gozargah.net#🚀 GozargahVPN | 🇷🇺 Russia
@@ -502,3 +499,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=&encryption=none&type=grpc#🛡️ @FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=&encryption=none&type=grpc#@V2RAYROZ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?note=---Telegram---@volt_network---Telegram---@volt_network---Telegram---@volt_network---Telegram---@volt_network&mode=gun&security=none&encryption=none&type=grpc#🇺🇸🔥 Volt Network – USA Power Node 🚀
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?note=---Telegram---@volt_network---Telegram---@volt_network---Telegram---@volt_network---Telegram---@volt_network&mode=gun&security=none&encryption=none&type=grpc#🇺🇸🔥 Volt Network – USA Power
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸جوین بده کانکت بمونی: @STAPersiaNews
