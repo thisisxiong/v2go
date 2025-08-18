@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@172.67.141.140:8880?path=/QaaLdIiGgWNoIxOF?ed&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8880?security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8880?security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8880?path=/HBRQp44s2AcLDzpm?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -501,4 +502,3 @@ vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.219:2052?path=/&securit
 vless://70aefb56-53ca-4ad0-af97-4c742854aa4f@vip1.zxhost.sbs:80?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#[🇨🇦]ae_proxy
 vless://709d1512-da43-487c-889d-50b84fa46e6c@91.107.170.231:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=yahoo.com&sid=93&spx=/#@ZedBaz_vpn
-vless://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80?security=none&type=ws&path=/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&packetEncoding=xudp&encryption=none#@NetAccount

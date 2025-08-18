@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://12486672-3116-48b2-8495-2d7223874a7b@31.58.239.159:1433?path=/&security=none&encryption=none&host=snapp.ir&type=ws#@CaV2ray ⚡️
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@tgju.org:80?path=/olem/ws?ed=1024&security=&encryption=none&host=fin.channel.digicyber.click&type=ws#@HiByeVPNN👈⚡❤️‍🔥
@@ -501,4 +502,3 @@ vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?encr
 vless://0417be58-2ea8-49de-8083-9eff9b0137e5@v2ray.codefyinc.com:443?path=/vlessws&security=tls&encryption=none&host=v2ray.codefyinc.com&type=ws&sni=v2ray.codefyinc.com#Telegram | @FNET00📱
 vless://0417be58-2ea8-49de-8083-9eff9b0137e5@v2ray.codefyinc.com:443?path=/vlessws&security=tls&encryption=none&host=v2ray.codefyinc.com&type=ws&sni=v2ray.codefyinc.com#Channel id: @singbox1 🇺🇸
 vless://040c7fc7-65aa-440e-864e-8c89b91bf63c@91.107.141.204:5030?mode=gun&security=reality&encryption=none&authority=&pbk=u-PCnNfSY3DvfouSNpGvowXrB3bkaC8gZkQsryP-3Vs&fp=chrome&type=grpc&serviceName=SARDAR&sni=MAp.GooGlE.COM&sid=0db32cc0cc8078a9#@V2rayNG3
-vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch: @pPal03🗝جوین بدید🗝

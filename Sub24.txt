@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@172.64.148.32:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch: @pPal03🗝جوین بدید🗝
 vless://03e4d6fe-f461-499f-b9c6-35c60f192e1a@104.24.147.64:80?encryption=none&security=none&type=ws&host=ppal03-ppal03.letiwe3303.workers.dev&path=/?ed=2560#🗝Ch: @pPal03🗝جوین بدید🗝
 vless://03d56bf9-d7de-4f68-85be-a888a1bb6e7b@ec2-40-172-235-190.me-central-1.compute.amazonaws.com:443?security=&encryption=none&headerType=&type=tcp#@Capoit
 vless://03d25213-a034-4021-8310-b56ab9ef4c8b@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.jOin.zEdMoDeOn.oNl.&type=ws#@mehrosaboran
@@ -501,4 +502,3 @@ trojan://76414574-71e0-4706-89cc-c5b09c13445d@csgo.com:8443?sni=cdn-node-oss-99.
 trojan://7577254b-c576-48cd-bbd0-69872aa3a9c9@pubg.ac:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国06 付费推荐：https://dafei.de
 trojan://7577254b-c576-48cd-bbd0-69872aa3a9c9@fastcup.net:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国05 付费推荐：https://dafei.de
 trojan://7577254b-c576-48cd-bbd0-69872aa3a9c9@csgo.com:8443?sni=cdn-node-oss-99.paofu.de&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国04 付费推荐：https://dafei.de
-trojan://74260628090146500@stirring-parakeet.shiner427.skin:443/?type=tcp&security=tls#🇬🇧英国
