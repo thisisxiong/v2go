@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://24d0e335-659e-45c7-8e61-0bd899c1d510@62.60.178.200:40792?security=reality&encryption=none&pbk=I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w&host=/JKVPN_BIA_CHANEL@JKVPN&headerType=none&fp=chrome&spx=/JKVPN_BIA_CHANEL@JKVPN&type=tcp&sni=www.latimes.com&sid=5a#🛡️ @FreakConfig
-vless://24d0e335-659e-45c7-8e61-0bd899c1d510@62.60.178.200:40792/?type=tcp&security=reality&pbk=I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w&fp=chrome&sni=www.latimes.com&sid=5a&spx=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#MdVpnSec-hmlzh6j9
 vless://24bbc655-0a77-4438-ab33-8923e5b772de@104.17.26.182:2087?path=/Telegram@FreeConnection_VPN/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=chrome&type=ws&sni=NeT.RpTmSvMVm.ToP#Telegram : @Alfa_v2ray_ng 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=/&security=tls&alpn=h3h2&encryption=none&host=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&type=ws&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO#Telegram:@config_proxy 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=balancer-1.access.name.ng&fp=chrome&type=ws&sni=balancer-1.access.name.ng#@Daily_Configs
@@ -502,3 +500,5 @@ vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&en
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@Iran_V2RAY1
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇬🇧
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=&encryption=none&headerType=none&type=tcp#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
