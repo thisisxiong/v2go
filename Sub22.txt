@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://1d79ae59-02b4-402d-c529-4c0a7facec28@de-re.afteam.ir:3810?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=f830f6#@v2ray313 کانالمون 🧠
-vless://1d79ae59-02b4-402d-c529-4c0a7facec28@37.27.220.157:3810?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=f830f6#🇫🇮 جوین بده کانکت بمونی: @STAPersiaNews
 vless://1d2252b8-f8a5-4d15-a146-e91de03a7f58@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?path=/&security=none&encryption=none&type=ws#🇦🇲[Telegram:@v2rayng_fars]
 vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
@@ -396,6 +394,7 @@ vless://10e11df9-de4b-4a21-aab4-1ff712a05028@api.imgur.com:443?security=tls&type
 vless://10e11df9-de4b-4a21-aab4-1ff712a05028@api.imgur.com:4356?security=none&type=ws&headerType=&path=/ed=2560&host=#👤نام کاربری: iranfarhang
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?path=/&security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=chrome&type=ws&sni=masaleini.mahsaamini.dpdns.org#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?path=/&security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=chrome&type=ws&sni=masaleini.mahsaamini.dpdns.org#کانال+ما+در+تلگرام+@Asak_Vpn+🔥
+vless://10cc8799-f460-42bf-b00a-5ac363e2958a@142.132.227.65:33036?type=tcp&security=none#Telegram:@config_proxy 🔥
 vless://10b269a6-783d-45ab-d2b3-2b4712eabd1c@tify-binex-join.espikernajafi.ir:443?type=grpc&serviceName=&authority=&security=reality&pbk=uOx0c2KdhL-5DHyZs0LMDk673wAuKqIHZy7--EuzTjI&fp=chrome&sni=refersion.com&sid=&spx=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#TELEGRAM - @BINEXTIFY-jka6ukf7m
 vless://10b20a7e-56df-4828-91a0-9d53cb58bb7b@zula.ir:443?path=/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android&security=tls&alpn=http/1.1&encryption=none&host=www.amin-app.ir&fp=chrome&type=ws&sni=www.amin-app.ir#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها
 vless://10aca91a-6e44-46cb-a890-ea246400c0a7@cdn2.azkhaktakhane.ir:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cdn2.azkhaktakhane.ir&alpn=h2,http/1.1&allowInsecure=1&type=tcp&headerType=none#🇫🇷[Telegram:NetifyVPN]
@@ -502,3 +501,4 @@ vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.89.156:443?mode=auto&path=/ds
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.89.156:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.89.156:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#@vmesskhodam
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.3.139:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#کانفیگ ویژه رایگان 🇩🇪 @RayphoriaHub
+vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.3.139:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#@v2ray313 کانالمون 🩵
