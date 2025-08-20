@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?path=/&security=none&encryption=none&type=ws#All@configfu-34
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?path=/&security=none&encryption=none&type=ws#@confing_chanel
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?path=/&security=none&encryption=none&type=ws#@V2RAYNG_1378
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?path=/&security=none&encryption=none&type=ws#@Selinc
@@ -252,7 +251,6 @@ vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&en
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇺🇲@FreakConfig
 vless://adf0bd1b-ed5e-497f-b877-987fa9c430c2@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://addbd8bc-dcf1-4a24-9eef-25639a32b47b@104.18.26.90:2053?path=/latest?ed=2560&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=lexi.ai351.com&fp=chrome&type=ws&sni=lexi.ai351.com#💯T.me/Asak_Vpn💯
-vless://adb9d042-061d-4e89-92d0-f8e2304b466d@31.44.7.38:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vless://ad7666ba-a2f0-4bc0-a591-c2b5c71defc8@login.dayhostpro.com:25685?security=reality&encryption=none&pbk=mh8q2kQofhOY1y0L2UWOiJ8OedYKb0G7jD0GK_A0YRs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hoteltonight-test.com&sid=80e33dd85656c7#Telegram: @FergalVpnMod 🇩🇪
 vless://ad5e7710-15f4-4cb8-c3bd-302bb5540263@151.101.67.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#XpnTeam-2zdrv639g
 vless://ad537844-b268-49a7-8ab1-70619ca42ecb@servers.xvon.in:5000?mode=gun&security=tls&encryption=none&type=grpc&sni=servers.xvon.in#@EXPRESSVPN_420
@@ -278,6 +276,7 @@ vless://ac74699b-a7bb-47f0-9bf2-9ff6672102b8@www.speedtest.net:8080?path=/V_2raY
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&fp=chrome&sni=miro.com&sid=f74c827840&spx=/#Owner-+-@FF_crony   ری اکشن پایین باشه قطع میکنم ✅  @HeragAbad  خرید سرور
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&fp=chrome&sni=miro.com&sid=f74c827840&spx=/#Owner-+-@FF_crony
 vless://ac618f91-38a0-4016-b86b-dd6511df4b34@dok.iranshopering.ir:3111?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=chrome&type=grpc&sni=refersion.com&sid=b6c24852f86067a6#🇬🇧 | 𝗥𝗲𝗮𝗹𝗶𝘁𝘆
+vless://ac50ada3-b777-44f6-a840-dc6b11bb6930@80.74.29.212:8443?security=reality&fp=chrome&type=tcp&flow=xtls-rprx-vision&pbk=rYlvwQDrFYsAbcD9-3-PtXlAR084YpNL5_Q8Dx9NvTA&sni=google.com#Telegram:@config_proxy 🔥
 vless://ac38ae98-4e46-4cbe-a4cf-4be39f78ad35@172.66.40.99:8080?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥:@EXPRESSVPN_420🏂⁶
 vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e701a013553059ba#Config VIP @iran_v2ray1
@@ -295,6 +294,7 @@ vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?securit
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇵🇱@HiByeVPNN👈⚡❤️‍🔥
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇵🇱@FreakConfig
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#کانفیگ ویژه رایگان و اختصاصی فروشی 🇩🇪 @RayphoriaHub
+vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🇮🇷]t.me/ConfigsHub
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@HiByeVPNN👈❤️‍🔥🧑‍💻
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Daily_Configs
@@ -419,7 +419,6 @@ vless://a9f40576-6321-491f-bb4a-7d8a762eea27@217.114.40.12:80?security=none&encr
 vless://a9f40576-6321-491f-bb4a-7d8a762eea27@185.235.197.174:80?security=none&encryption=none&headerType=none&type=tcp#✅سرورهایبیشتردرکانال:V2NOT@✅
 vless://a9e67841-e12d-109c-9e8c-27b841a4bbfc@www.speedtest.net:80?path=/?ed=2048TELEGRAM-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH-FILTERK0SH&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.bestgameir2.ir.&type=httpupgrade#🇩🇪@FILTERK0SH+|+All
 vless://a9de9b61-23e9-429c-b52e-56693b4fda93@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
-vless://a9cb4ce4-8354-4798-ae1f-60f20358f740@5.75.203.249:443?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=QM7mJDKWyQqWZMHRfebWHR7wHzuyRvhxwoeb8GB3oU4&sid=20d0#[🇩🇪]t.me/ConfigsHub
 vless://a9cb4ce4-8354-4798-ae1f-60f20358f740@5.75.203.249:443?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=QM7mJDKWyQqWZMHRfebWHR7wHzuyRvhxwoeb8GB3oU4&sid=20d0#Telegram:@config_proxy 🔥
 vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -502,3 +501,4 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#@v2rayng_fars
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#@Daily_Configs
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=P7k38RuK9g.MeTaL6.oRg#🇨🇵@v2rayng_fars
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=K4j4FuZfMo.MeTaL1.oRg#🇩🇪@v2rayng_fars
