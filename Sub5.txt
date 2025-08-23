@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.207.54:8880?path=/34COh9NCiin5SJMk?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Allnet Telegram:@ultrasurf_12
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@168.100.6.100:8880?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@168.100.6.100:8880?path=/1ycR2zb3KeELWRha&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#@v2ray313 کانالمون 🇺🇸
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@159.246.55.6:8880?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.25.220.177:8880?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=&encryption=none&host=vngsupply.ip-ddns.com&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -287,7 +289,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?mode=g
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#🛡️ @FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#🇺🇸[@vlees_v2rayng] vless-US
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#Telegram:@config_proxy 💢
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 563 (@Outline_Vpn) free
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@AblNet7 🇺🇲
@@ -324,7 +325,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#Telegram:@config_proxy 💢
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&mode=gun&security=none#G0dV2RAY
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?security=&type=grpc&encryption=none#Telegram:@config_proxy 🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#🇦🇺 جوین بده کانکت بمونی: @STAPersiaNews
@@ -360,6 +360,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#²
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#ski
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#[60915] - Telegram : @V2All
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@config_proxy 💢
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 551 (@Outline_Vpn) free
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
@@ -467,6 +468,7 @@ vless://e458f447-5f9f-4b96-aabf-a55b28be4308@www.speedtest.net:80?path=/@CUSTOMI
 vless://e40a9ae6-872f-4452-a19b-a63fbd759d54@194.182.79.235:28257?mode=gun&security=reality&encryption=none&pbk=1mkQipIydK3Je5xGCdYUhuEmnsqMvdEGyheJxtBKwlY&fp=chrome&spx=/&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c9497c0ea7a8ce1e#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e40a9ae6-872f-4452-a19b-a63fbd759d54@194.182.79.235:28257?mode=gun&security=reality&encryption=none&pbk=1mkQipIydK3Je5xGCdYUhuEmnsqMvdEGyheJxtBKwlY&fp=chrome&spx=/&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c9497c0ea7a8ce1e#@icv2ray
 vless://e3f4a5b6-c7d8-3456-9012-23456789abcd@185.115.36.248:443?type=ws&encryption=none&host=proxy.aslivpn.ir&path=/@Filter_breaker&security=tls&sni=proxy.aslivpn.ir&fp=chrome#@CaV2ray ⚡️
+vless://e3d94113-2327-4e23-8203-c253ad6707ca@62.60.178.200:20322?security=reality&encryption=none&pbk=cLJCl5LCJzgE87pszomC4YTGLiJvCj2NqG_4ktYIKyk&host=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN&headerType=none&fp=chrome&spx=/JKVPN_BIA_CHANEL@JKVPN&type=tcp&sni=www.latimes.com#ᴬᴸᴸ²🇺🇸➣@JKVPN
 vless://e3d94113-2327-4e23-8203-c253ad6707ca@62.60.178.200:20322?security=reality&encryption=none&pbk=cLJCl5LCJzgE87pszomC4YTGLiJvCj2NqG_4ktYIKyk&headerType=none&fp=chrome&spx=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN&type=tcp&sni=www.latimes.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e3d94113-2327-4e23-8203-c253ad6707ca@62.60.178.200:20322/?type=tcp&security=reality&pbk=cLJCl5LCJzgE87pszomC4YTGLiJvCj2NqG_4ktYIKyk&fp=chrome&sni=www.latimes.com&spx=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN#aiv2wc9z
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=s.alighan.ir&fp=chrome&type=ws&sni=ipe4.alighan.ir#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
@@ -500,5 +502,3 @@ vless://e20ebe01-1815-4c09-8e77-fb2f168263ce@15.204.150.39:443?security=tls&encr
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#🇬🇧@FreakConfig
 vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
-vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#Telegram : @V2rayTun0🔥
-vless://e207a4a0-0237-46f5-acd5-2410f1452de5@188.166.144.24:2053?security=none&encryption=none&headerType=none&type=tcp#All_@IRAN_V2RAY1
