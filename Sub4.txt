@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#Channel id: @ShadowProxy66🇬🇧
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#Channel id: @@proxy_kafee🇬🇧
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws#Channel id: @ShadowProxy66🇹🇷
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws#Channel id: @@proxy_kafee🇹🇷
-vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-sg-cdn.easy-upload.org&type=ws&sni=dl1-sg-cdn.easy-upload.org#Channel id: @ShadowProxy66🇸🇬
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-sg-cdn.easy-upload.org&type=ws&sni=dl1-sg-cdn.easy-upload.org#Channel id: @@proxy_kafee🇸🇬
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-fr1-cdn.easy-upload.org&type=ws&sni=dl1-fr1-cdn.easy-upload.org#@NETMelliAnti
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&host=dl1-fr1-cdn.easy-upload.org&type=ws&sni=dl-fr-cdn.easy-upload.org#Channel id: @ShadowProxy66🇫🇷
@@ -385,7 +380,6 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=4CsYoF75h8.WaSaBi9890.OrG&fp=chrome&type=ws&sni=4CsYoF75h8.WaSaBi9890.OrG#o🌻
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=4CsYoF75h8.WaSaBi9890.OrG&fp=chrome&type=ws&sni=4CsYoF75h8.WaSaBi9890.OrG#Channel id: @ShadowProxy66 🇬🇧
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=4CsYoF75h8.WaSaBi9890.OrG&fp=chrome&type=ws&sni=4CsYoF75h8.WaSaBi9890.OrG#Channel id: @@proxy_kafee 🇬🇧
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h3,h2&encryption=none&host=DdYq09McXz.LiRa0X.iNfO&fp=chrome&type=ws&sni=DdYq09McXz.LiRa0X.iNfO#☁️telegram:@Fast78_channel
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/?--V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS&security=tls&encryption=none&host=G9j2KeHn0E.gItI5.oRg&type=ws&sni=G9j2KeHn0E.gItI5.oRg#@v2rayng_fars
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/?--TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY&security=tls&encryption=none&host=G9j2KeHn0E.gItI5.oRg&type=ws&sni=G9j2KeHn0E.gItI5.oRg#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=Sw5S1b8DkB.lIrA9xC7.iNfO&fp=chrome&type=ws&sni=Sw5S1b8DkB.lIrA9xC7.iNfO#to🌻
@@ -502,3 +496,9 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZ
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#@Golestan_VPN - 👈 کانفیگ های بیشتر
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#فیلترشکن رایگان👈Prime_Verse
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Prime_Verse
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Owner -+- @FF_crony
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#IRAN 512 (@Outline_Vpn) free
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#IRAN 494 (@Outline_Vpn) free
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#IRAN 364 (@Outline_Vpn) free
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@172.67.65.158:8880?path=/Etb1L6YUdZFZuTOr?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Allnet Telegram:@ultrasurf_12
