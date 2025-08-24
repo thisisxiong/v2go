@@ -312,7 +312,6 @@ vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?encryption=none&s
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @NormanV2ray | نیم ساعت دیگه قطع میکنم جدیدشو بردار از کانال
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#rt
-vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrdarc 🏴🏳
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2ray313 کانالمون 🥲
@@ -502,3 +501,4 @@ vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:443?path=/&securi
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:443?path=/&security=tls&encryption=none&host=dl1-ca-cdn.easy-upload.org&type=ws&sni=dl1-ca-cdn.easy-upload.org#Channel id: @@proxy_kafee🇨🇦
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&type=ws&sni=dl-de-cdn.easy-upload.org#Channel id: @ShadowProxy66🇩🇪
 vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&type=ws&sni=dl-de-cdn.easy-upload.org#Channel id: @@proxy_kafee🇩🇪
+vless://f0498f6d-b7d1-470e-80cc-e3f21bb79b45@www.speedtest.net:2053?path=/&security=tls&encryption=none&type=ws&sni=dl-de-cdn.easy-upload.org#Channel : @Mrdarc 🏴🏳

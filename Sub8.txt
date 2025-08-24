@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://d1bcd5ee-7bdb-4de9-9aa7-48f54a97390d@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=businessmadesimple.com&fp=chrome&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&spx=/&type=tcp&headerType=none#Sv2_@FF_crony🇺🇸
+vless://d1bcd5ee-7bdb-4de9-9aa7-48f54a97390d@uuk1v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&spx=/&type=tcp&headerType=none#Sv1_@FF_crony🇺🇸
 vless://d1a94626-e2d7-4377-8410-a67d91d400b1@cdn.azkhaktakhane.ir:2070?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2rayTun0
 vless://d1a94626-e2d7-4377-8410-a67d91d400b1@cdn.azkhaktakhane.ir:2070?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://d1a94626-e2d7-4377-8410-a67d91d400b1@cdn.azkhaktakhane.ir:2070?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
@@ -500,5 +502,3 @@ vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.214.30:443?security=none&encr
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.214.30:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#🥤1@oneclickvpnkeys
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪@FreakConfig
-vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪 GR (862400660) 📊 GB
-vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrdarc 🏴🏳
