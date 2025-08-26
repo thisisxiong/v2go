@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Hddify |~| چنل هدیفای 🦠
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Capoit
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Alfa_v2ray_ng کانالمون 🙃
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#[🇨🇦]t.me/ConfigsHub
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#Telegram:@config_proxy 🔥
@@ -500,5 +502,3 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encr
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇩🇪
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=&encryption=none&headerType=none&type=tcp#🇫🇷 MCI - @FREEV2RNG 7
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=&encryption=none&headerType=none&type=tcp#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥

@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@49.12.97.174:2020?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.34.181.192:2020?security=none&encryption=none&headerType=none&type=tcp#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -500,5 +502,3 @@ vless://1618024f-7ee0-4355-bdfc-ac49f7ae66a8@zula.ir:2087?path=/@hopev2ray,@hope
 vless://1618024f-7ee0-4355-bdfc-ac49f7ae66a8@172.67.65.158:2087?path=/@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,@hopev2ray,&security=tls&alpn=h2&encryption=none&host=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online&fp=chrome&type=ws&sni=eDwFUd6Sa8Q0iR8h56.hopebook75zulawu.online#@hopev2ray💚
 vless://160e8ffb-1f51-4a9f-a5d8-fd89c7ab1e6f@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://15b6525d-ca2d-4faf-a6f8-8d175bf53551@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=B042.MasHkEstAn.CoM&type=ws#[🇳🇱]@configLINE(3)
-vless://15856856-d50d-4be8-b6fd-894a724153e0@165.22.205.134:443?mode=gun&security=reality&encryption=none&pbk=eNkiDdcREIqmvvWLHkA9eOZR9OlHHwT8HG-Q-yhcVQQ&fp=chrome&spx=/&type=grpc&serviceName=@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1 @IRAN_V2RAY1@IRAN_V2RAY1 @IRAN_V2RAY1&sni=refersion.com&sid=a9#Join Sho @Iran_V2RAY1{MTN}
-vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sid=974a74bf#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@

@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?flow=&type=xhttp&host=&path=/xhttp&mode=stream-one&security=none#Channel :@vmessorg
+vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#برای اتصال دائمی جوین شو🍦@Outline_ir
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.126.77:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#[60863] - Telegram : @V2All
@@ -500,5 +502,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrdarc 🏴🏳
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 😑
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 💔
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 👩‍❤️‍👨
