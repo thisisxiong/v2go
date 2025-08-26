@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://25d0b00d-6b17-45c8-df12-4e7e08fd8c19@151.101.3.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#XpnTeam🇳🇱-iow14li0r
 vless://25d0b00d-6b17-45c8-df12-4e7e08fd8c19@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@icv2ray
 vless://25b8f4b0-4f7d-400f-bc4a-f10e5b8796a2@151.101.66.133:443?path=/stream/#Telegram@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=magdl.ir&fp=chrome&type=ws&sni=anchor.fm#@V2rayNG3
 vless://255b378e-cf94-4b7e-816b-d8d882583214@151.101.3.8:80?type=xhttp&host=kiosyour-name.global.ssl.fastly.net&path=/=BeFreeWithUs?ed=2048&mode=auto&security=none#Channel:@BeFreeWithUs
@@ -63,6 +64,8 @@ vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?path=/rsrjowws&se
 vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?path=/rsrjowws&security=tls&encryption=none&type=ws#@proxy_kafee🇫🇷
 vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?path=/rsrjowws&security=tls&encryption=none&type=ws#@Daily_Configs
 vless://2440a09d-74c1-47e5-bec2-5e0170d365d3@premium.vip.youtube.netmovie.marzxox.shop:8081?security=&encryption=none&host=soft98.ir&headerType=none&type=tcp#Premium
+vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?security=reality&encryption=none&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=f430927d#🇨🇦@FreakConfig
+vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?security=reality&encryption=none&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=f430927d#Telegram:@config_proxy 🔥
 vless://24163874-2dc3-4c8c-ab81-d289dd573ead@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://24163874-2dc3-4c8c-ab81-d289dd573ead@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@151.101.130.228:80?type=ws&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v18.networkpro.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@EVAY_VPN🇳🇱
@@ -330,7 +333,6 @@ vless://1d79ae59-02b4-402d-c529-4c0a7facec28@37.27.220.157:3810?security=reality
 vless://1d2252b8-f8a5-4d15-a146-e91de03a7f58@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?path=/&security=none&encryption=none&type=ws#🇦🇲[Telegram:@v2rayng_fars]
 vless://1d1e6598-1373-4dc2-a424-d289f2da5d25@85.90.207.183:54300?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?security=none&type=ws&path=/&packetEncoding=xudp&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎 @AblNet7 💎
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
 vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#⚡@AblNet7💥💥
@@ -500,5 +502,3 @@ vless://17b62bb4-0b76-474b-9d7f-f0178e9518e5@ir2.servertopia.top:4555?type=tcp&s
 vless://17b62bb4-0b76-474b-9d7f-f0178e9518e5@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷1 tunnel: @EVAY_VPN 🚀
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@www.speedtest.net:443?path=/Telegram-@V2ray_Alpha/?ed=2048&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&fp=chrome&type=ws&sni=bpb-worker-panel-h5f.pages.dev#@V2rayNG3
 vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@104.18.202.232:443?security=tls&encryption=none&type=ws&host=bpb-worker-panel-h5f.pages.dev&path=/?ed=2560&sni=bpb-worker-panel-h5f.pages.dev&fp=chrome#[Awlix_ir]
-vless://17a69d0d-9102-4d54-b241-2d92e7bb1d44@91.98.21.55:51479?security=reality&encryption=none&pbk=B2NhynX6fULgqNKDOyHWHV0tMUO8XKM_SShFu5N8ZmQ&fp=chrome&spx=/&type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram : @VPN_ROOM🇩🇪
-vless://17a69d0d-9102-4d54-b241-2d92e7bb1d44@91.98.21.55:51479?mode=gun&security=reality&encryption=none&pbk=B2NhynX6fULgqNKDOyHWHV0tMUO8XKM_SShFu5N8ZmQ&fp=chrome&spx=/&type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#@icv2ray
