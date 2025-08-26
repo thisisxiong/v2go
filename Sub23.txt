@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-trojan://bpb-trojan@190.93.244.202:443?path=/tr?ed&security=tls&host=fcspring.ggff.net&type=ws&sni=fcspring.ggff.net#🩵+@Azarakhsh_Proxy+🩷
-trojan://bpb-trojan@188.114.98.162:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev&path=/traV0kgCnzWDCx27E2/ZGUucmFkaWNhbGx5LnBybw==&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@188.114.97.88:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev&path=/traV0kgCnzWDCx27E2/ZGUucmFkaWNhbGx5LnBybw==&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://bpb-trojan@188.114.97.159:2053?security=tls&sni=G1-21N.paGEs.dev&type=ws&host=g1-21n.pages.dev&path=/traV0kgCnzWDCx27E2/ZGUucmFkaWNhbGx5LnBybw==&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@172.67.214.246:2053?security=tls&sni=g2-1OY.paGEs.deV&type=ws&host=g2-1oy.pages.dev&path=/trWXapRLB3X1m0q530/ZGUucmFkaWNhbGx5LnBybw==&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@172.66.44.156:443?security=tls&type=ws&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV#@Hope_Net-join-us-on-Telegram
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
@@ -33,16 +29,15 @@ trojan://auto@zula.ir:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/
 trojan://auto@iranserver.com:8443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
 trojan://auto@172.66.44.86:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/#t.me/entryNET/config=1841546861067595
 trojan://auto@172.66.44.86:443?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/#@Hope_Net-join-us-on-Telegram
-trojan://auto@172.64.35.202:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#t.me/entryNET/config=1841539625887336
 trojan://auto@172.64.35.202:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
 trojan://auto@104.27.207.92:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.25.254.4:2087?security=tls&type=ws&sni=trojanfree-76s.pages.dev&path=/trojanfree-76s.pages.dev&host=trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.21.72.108:443?security=tls&type=ws&sni=esetsecuritylicense1.cxlrazo.workers.dev&path=/?ed=2560&host=esetsecuritylicense1.cxlrazo.workers.dev#@Hope_Net-join-us-on-Telegram
+trojan://auto@104.21.72.108:443?encryption=none&security=tls&sni=esetsecuritylicense1.cxlrazo.workers.dev&type=ws&host=esetsecuritylicense1.cxlrazo.workers.dev#t.me/entryNET/config=1841556047494620
 trojan://auto@104.21.21.129:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.22.19:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.20.243:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#t.me/entryNET/config=1841554410996358
-trojan://auto@104.20.20.243:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#[🇨🇦]t.me/ConfigsHub
 trojan://auto@104.20.20.243:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
 trojan://auto@104.20.20.213:443?security=tls&type=tcp&sni=b96ef9ae.trojanfree-76s.pages.dev#t.me/entryNET/config=1841543400841773
 trojan://auto@104.20.20.213:443?security=tls&type=tcp&sni=b96ef9ae.trojanfree-76s.pages.dev#@Hope_Net-join-us-on-Telegram
@@ -64,7 +59,6 @@ trojan://a134e3de-b25a-4020-9998-05fa6b715f1a@csgo.com:8443?sni=cdn-node-oss-99.
 trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=/speedtest&security=tls&fp=chrome&sni=jfkgfuiodghlf.ahmadinabaz.ir&alpn=h2,http/1.1#@SaghiVpnXBOT[🇨🇦]
 trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#Telegram : @EXPRESSVPN_420
 trojan://WOeXShhJpL@172.67.67.64:443?security=tls&sni=09jzus.zdzdzd.xyz&type=ws&host=09jzus.zdzdzd.xyz&path=/juzigongyi#@Hope_Net-join-us-on-Telegram
-trojan://WOeXShhJpL@104.18.71.140:443?allowInsecure=0&sni=09jzus.zdzdzd.xyz&ws=1&wspath=/juzigongyi#t.me/entryNET/config=1841541952957846
 trojan://WOeXShhJpL@104.18.71.140:443?allowInsecure=0&sni=09jzus.zdzdzd.xyz&ws=1&wspath=/juzigongyi#@Hope_Net-join-us-on-Telegram
 trojan://TEL_JKVPN@www.zula.ir:80?path=/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#𝗝𝗼𝗶𝗻➠ᴬᴸᴸ²🇳🇱@JKVPN
 trojan://TEL_JKVPN@www.speedtest.net:80?path=/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#𝗝𝗼𝗶𝗻➠ᴬᴸᴸ¹🇳🇱@JKVPN
@@ -197,7 +191,6 @@ ss://bm9uZTpiYmFhYWNjLWJhY2EtYWFjYi1jZGJhLWNhYWJjYWFiY2JiYw==@127.0.0.1:8080#@Ho
 ss://bm9uZTpiYWFjYmFjLWFjYWItYWNhYi1hYmNkLWFiY2FiYmNiY2FjYQ==@127.0.0.1:1080#@Hope_Net
 ss://b1b82a4d-b1fe-4e26-8ffe-fd071609233f@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#Telegram:@config_proxy 💦
 ss://a8f9d5f9-7cad-40ff-9fee-835c6dd9bce4@31.56.146.186:50404?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 💦
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@217.182.198.219:6379#[🇩🇪]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@217.182.198.219:6379#@Hope_Net
 ss://YWVzLTI1Ni1nY206eWI3c2NrdEhaYXRta09hdg@80.74.29.212:8388?note=--Telegram--@NetifyVPN--#🇳🇱[Telegram:NetifyVpn]
 ss://YWVzLTI1Ni1nY206eWI3c2NrdEhaYXRta09hdg@80.74.29.212:8388?note=--Telegram--@DHLIM0--#🇳🇱[Telegram:@DHLIM0]
@@ -253,7 +246,6 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#@awlix_ir
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.89:6697#@Hope_Net
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.87:6697#@Hope_Net
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.81:6679#@V2rayNG3-Irancell
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.114.114.69:7001#@Hope_Net
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#@awlix_ir
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.203:8091#@Hope_Net
@@ -502,3 +494,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#IRAN 514 (@Outline_Vpn) free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#IRAN 422 (@Outline_Vpn) free
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇦🇺 - @FREEV2RNG 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#🇳🇱𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#🇳🇱@FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#برای اتصال دائمی جوین شو🍦@Outline_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#WiFi-@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#Channel id: @proxy_kafee 🇳🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#Channel id: @ShadowProxy66 🇳🇱
