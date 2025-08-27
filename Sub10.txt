@@ -2,6 +2,11 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.217:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.158:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.158:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.158:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.141:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.141:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.97:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.97:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
@@ -497,8 +502,3 @@ vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=no
 vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@v2rayng_fars 🇩🇪
 vless://Parsashonam-296@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-296@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪     حتما ipv6 فعال باشه
-vless://Parsashonam-296@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪
-vless://Parsashonam-296@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@ELFV2RAY
-vless://Parsashonam-296@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://Parsashonam-296@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram : @Alfa_v2ray_ng 🔥
-vless://Parsashonam-296@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@v2rayng_fars 🇩🇪
