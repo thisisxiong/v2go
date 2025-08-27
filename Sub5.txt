@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://e5a56907-de38-4f55-9f6d-c736a9576658@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46139-2
+vless://e58ee137-cfed-4909-a7c7-960283d83a83@172.66.40.99:443?security=tls&type=ws&headerType=&path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&host=DeV.iSvClOd.CoM&sni=DeV.iSvClOd.CoM&fp=chrome&alpn=h2,http/1.1#TLS-telegram-@ISVvpn
+vless://e5484b3a-4cc4-4824-ba27-ce2d8dd7c516@wardennet.mhrnet.com:50965?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://e542acb6-f09b-4073-b5b4-2372f236f398@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=CbNl.mAshKeStAn.CoM&fp=chrome&allowinsecure=0&type=ws&sni=CbNl.mAshKeStAn.CoM#[🇱🇺]@configLINE(4)
 vless://e53b1500-7e11-4052-9f09-226968c54abe@43.175.185.76:80?encryption=none&security=none&type=ws&host=roman288.hpcdn.info&path=/47187/ws#Telegram:@config_proxy 🔥
 vless://e52245fa-7353-4e55-87d0-9e210e8de69a@speedtest.net:80?type=xhttp&path=/test?ed=2048&host=test01ne_cool.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram: @IP_CF
@@ -499,6 +502,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#@V2Graphy ⚡
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🇩🇪TAHA | @DHLIM0
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#S567-197505
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#Channel id: @proxy_kafee 🇫🇷
