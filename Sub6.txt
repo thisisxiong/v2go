@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#S567-197505
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#Channel id: @proxy_kafee 🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=&encryption=none&type=grpc#Channel id: @ShadowProxy66 🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&type=grpc#Channel id: @proxy_kafee 🇫🇷
@@ -388,7 +386,6 @@ vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tl
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#Channel : @Mrsoulb 🏴🏳
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&type=ws&sni=007.xingfu.qzz.io#🇩🇪[Telegram:NetifyVpn]
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#🇳🇱[Telegram:NetifyVPN]
-vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#[🇨🇦]t.me/ConfigsHub
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?encryption=none&security=tls&sni=007.xingfu.qzz.io&type=ws&path=/#@Daily_Configs
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&type=ws&sni=007.xingfu.qzz.io#Channel id: @ShadowProxy66 🇨🇦
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.4.90:443?path=/&security=tls&encryption=none&host=007.xingfu.qzz.io&fp=chrome&type=ws&sni=007.xingfu.qzz.io#Telegram : @Alfa_v2ray_ng 🔥
@@ -502,3 +499,6 @@ vless://d523e79d-a045-4af8-abc0-2de5b47630ac@rayphoriahub.iran.soratpardaz.ir:20
 vless://d50fcaeb-80c7-46ed-9ca8-2a6c708b6c67@de.hpcdn.info:443?mode=auto&path=/1003/mmad&security=tls&encryption=none&host=afrodita.lemoex.blog&fp=chrome&type=xhttp&sni=afrodita.lemoex.blog#داخل کانال و ربات عضو شوید👆
 vless://d5012012-a850-49fc-bb81-17a4bf6876bd@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mci  ایرانسل
 vless://d5012012-a850-49fc-bb81-17a4bf687612@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mtn
+vless://d5012012-a850-49fc-bb81-17a4bf687612@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mci
+vless://d5012012-a850-49fc-bb81-17a4bf687611@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mtn
+vless://d5012012-a850-49fc-bb81-17a4bf687611@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mci
