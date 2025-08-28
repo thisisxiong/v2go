@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.67.147.20:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@162.159.253.39:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy?ed=512&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#t.me/entryNET/config=1841641019183463
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#@Daily_Configs
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/?TELEGRAM-JKVPN_JKVPN_JKVPN?ed=512&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#𝗝𝗼𝗶𝗻➠⁷@JKVPN
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.162.196.230:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#t.me/entryNET/config=1841651424807607
@@ -499,6 +502,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=&encryption=none&type=grpc#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=none&security=none&type=grpc#@Golestan_VPN - JOIN
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?type=grpc&mode=gun&security=none#t.me/entryNET/config=1841649536439946
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?note=---Telegram---@Raiv2mmr---Raiv2mmrRaiv2mmr&mode=gun&security=&encryption=none&type=grpc#[🇫🇷]t.me/Raiv2mmr

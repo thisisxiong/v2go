@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=taochan.sylphachan.ip-ddns.com&fp=chrome&type=ws&sni=taochan.sylphachan.ip-ddns.com#برای اتصال دائمی جوین شو🍦@Outline_ir
+vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=taochan.sylphachan.ip-ddns.com&fp=chrome&type=ws&sni=taochan.sylphachan.ip-ddns.com#r♡yaッ
+vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443?path=/&security=tls&alpn=http/1.1&encryption=none&host=taochan.sylphachan.ip-ddns.com&fp=chrome&type=ws&sni=taochan.sylphachan.ip-ddns.com#@v2rayng_fars-ekhtesasi
 vless://fa-7736035993-1755891114560183@94.131.101.178:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#Telegram : @Alfa_v2ray_ng 🔥
 vless://fa-7736035993-1755891114560183@77.110.99.62:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#🇩🇪@FreakConfig
 vless://fa-7736035993-1755891114560183@77.110.99.62:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#🇩🇪@V2NOT
@@ -499,6 +502,3 @@ vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?p
 vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@V2RAYNG_1378
 vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?path=/&security=&encryption=none&type=ws#🇳🇱@FreakConfig
 vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/&security=none&encryption=none&type=ws#🇳🇱[Telegram:NetifyVPN]
-vless://edc0a710-b736-455a-a9f2-d26150e624b2@enthusiastic-century.oneeat.co:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
-vless://edb86e51-2e28-4c6f-9244-e472b27c697c@194.182.79.216:43708?mode=gun&security=reality&encryption=none&pbk=U7hggIW1N_h8wh3XqaEDH1JwVk5_yF1Kd2L3JfXNRW0&fp=chrome&spx=/&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=c9f107e34d7a09#@icv2ray
-vless://edb4c373-ac92-4430-8f42-94439ca829b9@magical-fish.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#Telegram: @configfree20255🚀💥
