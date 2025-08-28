@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://a5f75cdd-d1dd-4767-99c4-ffebbe0d613e@uhgk.vip-morteza.xyz:433?security=reality&encryption=none&pbk=njS5Tdx6sQV0zCwFACf1uikWDSud9HqjS03WvH3_YAg&headerType=none&fp=chrome&spx=/VPN_WOLFI-VPN_WOLFI-VPN_WOLFI-VPN_WOLFI-VPN_WOLFI-VPN_WOLFI&type=tcp&flow=xtls-rprx-vision&sni=eur-lex.europa.eu&sid=82df26bf775f55#⚜️Telegram: @IP_CF
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=J6zOvYc2F7.mEtAl3.OrG#🇬🇧@v2rayng_fars
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#🇱🇮v2rayng (FR)🔐-confegraigan
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#🇩🇪[Telegram:@v2rayng_fars]
@@ -500,5 +502,3 @@ vless://Parsashonam@91.99.16.244:443?mode=auto&path=/Parsashonam-Parsashonam-Par
 vless://Parsashonam@91.99.16.244:443?mode=auto&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=/&type=xhttp&sni=Google.com&sid=61e683d41fdb#@Parsashonam🇦🇱Test-1
 vless://Parsashonam-Bot-3@104.17.147.22:8880?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#[60899] - Telegram : @V2All
 vless://Parsashonam-Bot-17@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram:@config_proxy 🔥
-vless://Parsashonam-Bot-17@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@EXPRESSVPN_420 |1
-vless://Parsashonam-Bot-13@[2a01:4f8:1c1a:dc2b::1]:4430?security=reality&encryption=none&pbk=5CE4ZpwvR-EmkymzU3V6yeeTcSTCpIBg473J8-6IFnM&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=9aa6af3aa2d41f#@v2rayng_fars🇦🇱
