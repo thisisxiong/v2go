@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://55ec6907-f07b-486a-cc00-995f20e6ff35@prteam.darkping.net:2422?security=reality&encryption=none&pbk=BiccIuTYNKqZ6sLPNjlg5w8SfZz78rJiaLdPEXSj8BA&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org#Telegram : @Alfa_v2ray_ng 🔥
+vless://55c8fba8-b7ca-4f8a-ac8d-03c097278162@marz.irannetwork.pw:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=marz.irannetwork.pw#@Daily_Configs
+vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?mode=gun&security=none&encryption=none&type=grpc#🇩🇪[Telegram:@v2rayng_fars]
 vless://55c32ed1-42bc-422c-88f4-bf4f7eb74d9b@37.202.237.244:55094?encryption=none&security=none&type=tcp&headerType=none#[🇩🇪] [Tunnel] Codeclubir ro hemayat kon !
 vless://55bdd2eb-3afc-441e-87a4-9a49527fd8da@archiveca.arenafile.com:443?path=/downloader/11201&security=tls&encryption=none&host=archive.arenafile.com&type=ws&sni=archive.arenafile.com#Telegram : @Alfa_v2ray_ng 🔥
 vless://55b596f8-1a15-4752-b0b5-9198b3680fd7@c1.arshiashop.org:2086?type=ws&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇹🇷 | @Evay_vpn
@@ -499,6 +502,3 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&sec
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=maquery.ir.xmhkjgqwzneevm.mapircdn.com&fp=chrome&type=ws&sni=maquery.ir#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=1001cns.com.wnticacenidk1.abrmahanair.com&fp=chrome&type=ws&sni=1001cns.com#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.200:443?path=/?ed=443&security=tls&encryption=none&host=mehrnews.com.oadeflantrogmtr3.abrirmahan.com&fp=chrome&type=ws&sni=mehrnews.com#@CaV2ray ⚡️
-vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=seedleech.ir.oadeflantrogmnl2.airasiadl.com&fp=chrome&type=ws&sni=seedleech.ir#@CaV2ray ⚡️
-vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=core.pod.ir.oadeflantrogmuk4.iranaircdn.com&fp=chrome&type=ws&sni=core.pod.ir#@CaV2ray ⚡️
-vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.120:443?path=/?ed=443&security=tls&encryption=none&host=bluemoive.ir.oadeflantrogmtr7.iranaircdn.com&fp=chrome&type=ws&sni=bluemoive.ir#@CaV2ray ⚡️
