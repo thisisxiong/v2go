@@ -2,15 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://06ec083d-2a70-4ca2-9f3d-19442b58fc4e@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
-vless://06cf5b5d-93d2-493a-9ae6-3687f564a4b2@Nim.cloud-safa.ir:2147?security=none&type=tcp&headerType=http&path=/info&host=p30afzar.com#@NETMelliAnti
-vless://06cd4260-bd81-4bdd-900d-37fb0af80d01@64.176.71.35:45203?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
-vless://06be7b9f-5e99-47d2-82e8-667cedecc829@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#🇩🇪 @v2ngnet
-vless://0677795c-0191-4879-97b7-26eed229f947@103.231.75.20:443?path=/eoppydws&security=tls&encryption=none&type=ws#🇹🇷 @FREEV2RNG
-vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#@vmesskhodam
-vless://06618506-461f-46dc-a16d-1742e25e7f41@65.109.184.141:2052?security=none&encryption=none&host=gharar.ir&headerType=none&type=tcp#Telegram: @FergalVpnMod 🇫🇮
-vless://065f26d1-53f1-4664-98e3-77a74e0509b3@188.114.98.112:80?path=/Telegram:@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG,@ConfingV2RaayNG?ed=2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#Telegram@ConfingV2RaayNG
-vless://065f26d1-53f1-4664-98e3-77a74e0509b3@188.114.98.112:80?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#WS-@ELiV2RaY
 vless://065f26d1-53f1-4664-98e3-77a74e0509b3@104.21.72.109:80?path=/azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn---azadiiivpn--azadiiivpn?ed=2560&security=none&alpn=h2,http/1.1&encryption=none&host=dfgopee-workers.dev.&fp=chrome&type=ws&sni=dfgopee-workers.dev#azadiiivpn 🎀
 vless://065b8c19-e3b8-4e97-b44e-905738d6cb43@Www.speedtest.net:2095?path=/@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN-V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN-V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1@IRAN_V2RAY1wss9500?ed=2560&security=none&encryption=none&host=Tak.vipmehspd.ir.&type=httpupgrade#@IRAN_V2RAY1-Join Sho
 vless://06581474-cecd-41a2-87cd-c4723d3ff807@85.9.100.62:443?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️
@@ -116,7 +107,6 @@ vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&sec
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&security=tls&encryption=none&type=ws#@V2ray1_Ng
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&security=tls&encryption=none&type=ws#@Selinc
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=/kcknkyws&security=tls&encryption=none&type=ws#@IRAN_V2RAY1
-vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=/kcknkyws#Telegram:@config_proxy 🔥
 vless://03633612-cb32-46cc-8f93-7103d1511ade@www.speedtest.net:2095?path=/?ed=2048&security=none&encryption=none&host=mahxmc.mahxraytm.com&type=httpupgrade#🩵+@Azarakhsh_Proxy+🩷
 vless://035a60d2-6f6b-41e6-a805-2b752c5a61aa@91.107.243.12:21379?security=none&encryption=none&headerType=none&type=tcp#bia @v2rayng_fars @Pruuxi
 vless://035a60d2-6f6b-41e6-a805-2b752c5a61aa@91.107.243.12:21379?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrdarc 🏴🏳
@@ -190,7 +180,6 @@ vless://022f09bf-075f-4d40-80da-bd49ab5b49fa@a-l0.suupermeat.ir:8080?path=/de?ed
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?path=/hqqprlws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇲🇾]t.me/Raiv2mmr
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?path=/hqqprlws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://021a9fbe-2bdd-4ce4-b5fe-6ae9a3ea108e@104.18.58.47:2087?path=/Telegram@FreeConnection_VPN/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=chrome&type=ws&sni=NeT.RpTmSvMVm.ToP#t.me/entryNET/config=1841907611811288
-vless://021a9fbe-2bdd-4ce4-b5fe-6ae9a3ea108e@104.18.58.47:2087?path=/Telegram@FreeConnection_VPN/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=chrome&type=ws&sni=NeT.RpTmSvMVm.ToP#Telegram:@config_proxy 🔥
 vless://021a9fbe-2bdd-4ce4-b5fe-6ae9a3ea108e@104.18.58.47:2087?path=/Telegram@FreeConnection_VPN/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=chrome&type=ws&sni=NeT.RpTmSvMVm.ToP#@FC_VPN_bot یه سرور اختصاصی بخری دیگه راحت میشی
 vless://02151ca0-a1d5-437c-d818-ffa739176fab@zula.ir:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=Unlimiteddev-join.paradoxone.ir&type=ws#@mehrosaboran
 vless://02151ca0-a1d5-437c-d818-ffa739176fab@zula.ir:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=Unlimiteddev-join.paradoxone.ir&type=ws#@bored_vpn
@@ -369,6 +358,7 @@ trojan://ttfang@45.131.4.216:2096?path=/Telegram&security=tls&host=ttfang.fange.
 trojan://ttfang@45.131.4.216:2096?path=/Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#Channel id: @ShadowProxy66 🇮🇷
 trojan://trojan@109.234.211.66:8443?path=/&security=tls&host=store.timimi.dpdns.org&type=ws&sni=store.timimi.dpdns.org#💯T.me/Asak_Vpn💯
 trojan://trojan@104.21.3.52:443?security=tls&type=ws&sni=test-a23.pages.dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=test-a23.pages.dev#@Hope_Net-join-us-on-Telegram
+trojan://trojan@104.18.13.229:8443?security=tls&sni=pangpi.pages.dev&fp=chrome&type=ws&host=pangpi.pages.dev&path=/?ed=2560#[🇨🇦]t.me/ConfigsHub
 trojan://tg-fq521free@216.24.57.30:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#کانال+ما+در+تلگرام+@Asak_Vpn+💛
 trojan://tg-fq521free@198.62.62.67:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#Channel id: @singbox1 🇺🇸
 trojan://tg-fq521free@198.62.62.67:443?path=/&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#Channel id: @proxy_kafee 🇺🇸
@@ -406,7 +396,6 @@ trojan://telegram-id-privatevpns@35.180.142.18:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@35.180.13.16:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@35.159.60.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.159.254.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@34.250.226.174:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@3.78.75.41:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.72.135.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.71.171.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
@@ -497,8 +486,19 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@CanfigVi
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/--TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443?path=/Stupid-World/103.106.228.126-2053?--TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#💎 @AblNet7 💎
+trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?security=none&type=ws&path=/Telegram@Linkvws?ed=2560&host=late-tooth.granzinhannah.workers.dev#[🇨🇦]t.me/ConfigsHub
+trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.20.71.132:8880?security=none&type=ws&path=/Telegram@Linkvws?ed=2560&host=late-tooth.granzinhannah.workers.dev#@Hope_Net-join-us-on-Telegram
 trojan://edcfbd77-d607-53a9-842c-32592c2504b2@104.19.209.229:2052?security=none&type=httpupgrade&host=www-domain.uk1.vless.sitespeedtest.net#@Hope_Net-join-us-on-Telegram
 trojan://eaf7e1e0-4683-11f0-bfef-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤍
 trojan://eJa21p5eRU@104.17.147.22:2053?security=tls&type=grpc&sni=iRaN2.BrOwSiNg4.iR.#@Hope_Net-join-us-on-Telegram
 trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=x1ams-scaleway.devefun.net#@V2rayNG3
 trojan://e44b6ab7-c0c1-470a-86bc-bc6ccd5bab52@svip.88de.hongxingdl.vip:18147?sni=mm2.redapricotcloud.com#@Hope_Net-join-us-on-Telegram
+trojan://dns68@63.141.128.254:443?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed&host=trojan.putata.us.kg#@Hope_Net-join-us-on-Telegram
+trojan://dns68@162.159.152.2:443?security=tls&type=ws&sni=trojan.putata.us.kg&path=/?ed=2560&host=trojan.putata.us.kg#@Hope_Net-join-us-on-Telegram
+trojan://dns68@104.21.92.73:443?type=ws&sni=trojan.putata.us.kg&path=/&host=trojan.putata.us.kg#@Hope_Net-join-us-on-Telegram
+trojan://df1f7e80-48a2-11f0-8b4b-1239d0255272@sg4.6n6.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💝
+trojan://dd6dcb10-4683-11f0-ae79-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💕
+trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#@V2rayNG3
+trojan://d9aa8760-4945-11f0-84b7-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=www.speedtest.net#@hopev2ray💖
+trojan://cf6c3e40-4213-11f0-bc31-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤩
+trojan://cd7fa4a0-4684-11f0-a8d1-1239d0255272@usa.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray😍
