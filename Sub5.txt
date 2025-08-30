@@ -40,7 +40,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#@V2RAYROZ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=&encryption=none&authority=/zede_filteri_BIA_CHANEL@zede_filteri&type=grpc#Telegram:@zede_filteri
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#Telegram:@config_proxy 💢
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?type=grpc&mode=gun&security=none#G0dV2RAY
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&type=grpc#🇺🇸[Telegram:NetifyVPN]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?note=---Telegram---@DHLIM0---Telegram---@DHLIM0---Telegram---@DHLIM0---Telegram---@DHLIM0---&security=none&encryption=none&type=grpc#🇺🇸[Telegram:@DHLIM0]
@@ -63,7 +62,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=sinvt-sinvt&type=grpc#@v2ray313 کانالمون 🤜🏻
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=sinvt-sinvt&type=grpc#@bad_raqs
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&authority=sinvt-sinvt&type=grpc#@Alfa_v2ray_ng کانالمون 🤜🏻
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?encryption=none&security=none&type=grpc#Telegram:@config_proxy 💢
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?note=---Telegram---@DHLIM0---Telegram---@DHLIM0---Telegram---@DHLIM0---Telegram---@DHLIM0---&mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:@DHLIM0]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -74,7 +72,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#Telegram:@config_proxy 💢
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#@Golestan_VPN - JOIN
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:NetifyVPN]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸@DHLIM0
@@ -197,11 +194,12 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=none&encryption=none&authority=/?@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&type=grpc#r♡yaッ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=&encryption=none&type=grpc#Telegram:@zede_filteri
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=&encryption=none&authority=/?JOIN---PLANB_PROXY&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?mode=gun&security=&encryption=none&authority=/?JOIN---PLANB_PROXY&type=grpc#[🇺🇸]t.me/ConfigsHub
 vless://e45bb170-2043-48a8-ada1-067447ab6f6c@103.246.145.244:25488?security=reality&encryption=none&pbk=eu_CdEUxOB3IiXYq-t70TjU3tXwgrJFusHWUmqzFXS4&headerType=none&fp=chrome&spx=/@skyshieldVPN&type=tcp&sni=refersion.com&sid=2ed15414d2#@skyshieldvpn
 vless://e458f447-5f9f-4b96-aabf-a55b28be4308@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none=&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@icv2ray
 vless://e458f447-5f9f-4b96-aabf-a55b28be4308@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🇩🇪v2rayng (FR)🔐-confegraigan
 vless://e458f447-5f9f-4b96-aabf-a55b28be4308@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@Capoit
+vless://e458cb53-a77f-46d2-a54d-0a18c2ad73bc@172.66.40.99:80?path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=none&encryption=none&host=mahshid.taraneh.dpdns.org&fp=chrome&type=ws&sni=mahshid.taraneh.dpdns.org#[🇨🇦]t.me/ConfigsHub
+vless://e458cb53-a77f-46d2-a54d-0a18c2ad73bc@172.66.40.99:80?path=/vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl?ed=2560&security=none&encryption=none&host=mahshid.taraneh.dpdns.org&fp=chrome&type=ws&sni=mahshid.taraneh.dpdns.org#Telegram:@config_proxy 🔥
 vless://e458cb53-a77f-46d2-a54d-0a18c2ad73bc@172.66.40.99:80?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=none&encryption=none&host=mahshid.taraneh.dpdns.org&fp=chrome&type=ws&sni=mahshid.taraneh.dpdns.org#𝗝𝗼𝗶𝗻 ➠ @V2rayNG_CaFe | کانال ما 🫆
 vless://e458cb53-a77f-46d2-a54d-0a18c2ad73bc@172.66.40.99:80?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=none&encryption=none&host=mahshid.taraneh.dpdns.org&fp=chrome&type=ws&sni=mahshid.taraneh.dpdns.org#t.me/entryNET/config=1841820602603316
 vless://e458cb53-a77f-46d2-a54d-0a18c2ad73bc@172.66.40.99:80?path=/Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN?ed=2560&security=none&encryption=none&host=mahshid.taraneh.dpdns.org&fp=chrome&type=ws&sni=mahshid.taraneh.dpdns.org#Telegram:@config_proxy 🔥
@@ -502,3 +500,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 577 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 522 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 465 (@Outline_Vpn) free
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#Bya to @iran_v2ray1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 🤞🏻
