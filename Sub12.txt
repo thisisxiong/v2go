@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://Azarakhsh-Proxy-ppauq@speedtest.net:443?path=@Azarakhsh_Proxy/?ed=443&security=tls&encryption=none&alpn=h2&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=speedtest.net#🩵+@Azarakhsh_Proxy+🩷
+vless://Azarakhsh-Proxy-ppauq@live.theworldwidewolf.com:443?path=@Azarakhsh_Proxy/?ed=443&security=tls&encryption=none&alpn=h2&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=live.theworldwidewolf.com#🩵+@Azarakhsh_Proxy+🩷
 vless://Azarakhsh-Proxy-ppauq@AzarakhshProxy.fastly80-2.hosting-ip.com:80?path=@Azarakhsh_Proxy/?ed=80&security=none&encryption=none&host=AzarakhshProxy.monster&type=ws#🩵+@Azarakhsh_Proxy+🩷
 vless://Azarakhsh-Proxy-ppauq@AzarakhshProxy.fastly80-2.hosting-ip.com:80?path=@Azarakhsh_Proxy/?ed=80&security=none&encryption=none&alpn=h2&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=speedtest.net#🩵+@Azarakhsh_Proxy+🩷
 vless://Azarakhsh-Proxy-ppauq@151.101.242.133:443?path=@Azarakhsh_Proxy/?ed=443&security=tls&encryption=none&alpn=h2&host=AzarakhshProxy.monster&fp=chrome&type=ws&sni=staging-mobile-collector.newrelic.com#🩵+@Azarakhsh_Proxy+🩷
@@ -499,6 +501,4 @@ vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@v2ray26:
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@ata_connect
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@V2rayTun0⚡
-vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@V2RAYNG_1378
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@Selinc
-vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@NpvV2rayFilTer
