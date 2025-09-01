@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?encryption=none&security=tls&sni=statue.lnmarketplace.net&alpn=h2&type=xhttp&host=statue.lnmarketplace.net&path=/?@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn----@Nethers_vpn&mode=stream-one#@nethers_vpn🟢کانفیگ های بیشتر برای تمام نت ها
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=/statue/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🇩🇪@FreakConfig
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=/statue/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🇩🇪 Telegram: @configfree20255🚀💥
 vless://7c5ee12f-46a2-aa0a-df65-e63a03124349@relay-ir.deltacompany.site:7443?security=none&encryption=none&host=dorna-music.ir&headerType=http&type=tcp#@ATOVPN
@@ -410,6 +409,7 @@ vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/Channel-
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/?*VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY*&security=&encryption=none&type=ws#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇺🇳
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
+vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#[🇩🇪]t.me/ConfigsHub
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#@ata_connect
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@178.162.245.230:2052?path=/&security=none&encryption=none&type=ws#@IRAN_V2RAY1

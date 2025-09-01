@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.200.119:443?mode=auto&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://d7ed8991-e019-47c1-b578-93a8d8443830@188.245.200.119:443?encryption=none&security=none&type=xhttp&path=/xhttp&mode=auto#@Daily_Configs
 vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#🇨🇭𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#IRAN 703 (@Outline_Vpn) free
@@ -381,6 +382,7 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&secur
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#Telegram: @configfree20255🚀💫 عضو شو قطع نشی
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#Telegram : @Alfa_v2ray_ng 🔥
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#@meli_proxyy
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#@configfree_1
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#@Daily_Configs
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-6.derberg.name.ng&type=ws&sni=hetzner-6.derberg.name.ng#🇩🇪@FreakConfig
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-5.crisis.name.ng&fp=chrome&type=ws&sni=hetzner-5.crisis.name.ng#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
@@ -500,5 +502,3 @@ vless://ca30f5e0-6a46-4ac7-b26b-49d6b7e50d74@www.speedtest.net:8880?path=/@Alfre
 vless://ca255d0b-b55a-4442-b6df-5c0cba8a11be@8.47.69.4:80?path=/www.speedtest.net/index.html-www.google.com?ed=2048&security=none&encryption=none&host=dfghjk.farcadezero.ir&type=ws#@UCIRANIR
 vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#telegram-@ISVvpn
 vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#@meli_proxyy
-vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#@icv2ray
-vless://ca0ef0f2-1437-4e4b-b3e3-de82aa651003@marzpsubrsp.hlewx.com:20340?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#@bored_vpn
