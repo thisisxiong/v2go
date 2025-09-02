@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:48889?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:48889?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@V2rayTun0🚀| با ما متصل بمون⚡
 vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:248?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🎿
 vless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:248?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇬🇧@FreakConfig
@@ -232,7 +233,6 @@ vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&s
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&type=ws#@Daily_Configs
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?path=/holhclws&security=tls&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇫🇷 | @External_Net
-vless://359f3ba0-141f-47d9-f880-70c5a2a287fa@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
 vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@speedtest.net:443?path=/W0tvTq4oSbHyKeRM?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=chrome&type=ws&sni=speedtest.net#@V2rayNG3
 vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@speedtest.net:443?path=/TELEGRAM-MARAMBASHI/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=chrome&type=ws&sni=speedtest.net#@V2rayNG3
 vless://358eab4b-7db4-4f93-a7b0-5e6f98b7cf45@151.101.2.219:443?path=/W0tvTq4oSbHyKeRM?ed=2560&security=tls&encryption=none&alpn=h2,http/1.1&host=tody.ir.&fp=chrome&type=ws&sni=speedtest.net#@V2rayNG3
