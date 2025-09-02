@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.250.184:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNG3
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌟Telegram:@Asak_Vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.41:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🌟Telegram:@Asak_Vpn
@@ -501,4 +502,3 @@ vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tl
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tls&encryption=none&type=ws&sni=007.xingfu.qzz.io#Telegram : @Alfa_v2ray_ng 🔥
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tls&encryption=none&type=ws&sni=007.xingfu.qzz.io#Channel : @V2rayTun0🪂
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tls&encryption=none&type=ws&sni=007.xingfu.qzz.io#Channel : @Mrsoulb 🏴🏳
-vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.26.5.134:443?path=/&security=tls&encryption=none&type=ws&sni=007.xingfu.qzz.io#Channel : @Mrdarc 🏴🏳
