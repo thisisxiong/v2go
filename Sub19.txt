@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYmh6a0ZyalpxVjlvd3dFRkM0dm5r@91.210.57.117:8443#🇩🇰[Telegram:v2rayng_fars]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVmZnMDEzTUdRdzNLY1BFQzRKWm44@194.87.45.189:443?note=--Telegram--@NetifyVPN--#🇪🇸[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprd2cySllxU1U3cVEwVjFZd2pBZjI3@167.99.169.218:443#🇺🇲@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprd2cySllxU1U3cVEwVjFZd2pBZjI3@167.99.169.218:443#@vipV2rayNGnp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXJQSVJYekVxbXhwbWpBeE9nY2VZ@45.150.32.13:14628#@Mrconfig_Channel 🩵
@@ -502,3 +500,5 @@ hy2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443/?mport=26666-29999
 hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#Channel id: @singbox1🇸🇬
 hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#Channel id: @proxy_kafee🇸🇬
 hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇸🇬
+hy2://5OiuCsPmULZ0lJwts89fegLJE@47.129.100.149:17193/?insecure=1&sni=bing.com#Channel id: @proxy_kafee🇸🇬
+hy2://5OiuCsPmULZ0lJwts89fegLJE@47.129.100.149:17193/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇸🇬
