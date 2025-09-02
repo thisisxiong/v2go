@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#🇹🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#🇹🇷 @FREEV2RNG
-vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36&type=tcp&headerType=none#🇹🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#Channel id: @proxy_kafee 🇹🇷
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&sid=4602ee9f9f36#Channel id: @ShadowProxy66 🇹🇷
 vless://e1017ed0-cd20-4bf6-8d96-b2a052e19f0c@45.140.167.94:8443?security=reality&encryption=none&pbk=IqnFESYrPnkV7KUaekX8cL8TSRwDZHuUIKmD0N99Fxc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=104.20.68.118&sid=2880ee24bb417d46#@V2rayNG3
@@ -502,3 +499,6 @@ vless://d99c54fb-2cba-4b0e-b140-beee2fd6ea7b@nv163.momdping.com:443?path=/&secur
 vless://d99333c7-e475-4816-9dd9-cf4aa866df34@185.146.173.39:443?path=/48675/google&security=tls&encryption=none&host=roman.hpcdn.info&fp=chrome&type=ws&sni=roman.hpcdn.info#🇦🇱@SimChin_iR عضو بشید
 vless://d98bfdd5-5824-458f-889f-1b318fe8a945@31.47.45.96:29968?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇮🇷2@Evay_vpn
 vless://d97b1c94-734d-c2a4-c88b-df3e4f59992c@dl-10.easyrain.ir:1510?mode=auto&path=/dashboard?ed=2560&security=reality&encryption=none&extra={'headers': {}, 'xPaddingBytes': '100-1000'}&pbk=4wAlQwQJ1QylZ52gv_HpHh_OWdDP8sAwMA47Ju_ewFk&fp=chrome&type=xhttp&sni=test.steampowered.com&sid=6dddd2b57acf0037#@AblNet7 🇹🇷
+vless://d97b1c94-734d-c2a4-c88b-df3e4f59992c@dl-04.restrain.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=-cache.iranserver.com.speedtest.fast.com.crehistory.org&type=httpupgrade#@AblNet7 🇫🇮
+vless://d97b1c94-734d-c2a4-c88b-df3e4f59992c@dl-03.easyrain.com.tr:2095?path=/hu?ed=2095&security=none&encryption=none&host=-ipv6.speedtest.vodafone.net.dcstore.aptel.ir.crehistory.org&type=httpupgrade#@AblNet7 🇳🇱
+vless://d97b1c94-734d-c2a4-c88b-df3e4f59992c@dl-02.restrain.com.tr:2095?path=/hui?ed=2095&security=none&encryption=none&host=-ping.aws.cloudflarecdn.microsoft.com.wieistmeineip.de.orgspeed.net.&type=httpupgrade#@AblNet7 🇫🇷

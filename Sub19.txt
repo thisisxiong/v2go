@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#→@Hddify ☂️
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel : @Mrdarc 🏴🏳
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@V2rayTun0😶‍🌫️
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss86065.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@Selinc
@@ -502,3 +499,6 @@ vless://3d7dd548-5456-4f28-8019-393fbfab3312@104.26.0.108:443?encryption=none&se
 vless://3d70873c-1fe4-4c35-8db5-93564edcde52@64.188.69.61:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=df8611c07d#@Daily_Configs
 vless://3d6ca650-df5c-43fd-bd69-01a335e1376a@173.245.59.132:2053?path=/#telegram@V2ray_Alpha&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=de.gt-ov.com&fp=chrome&type=ws&sni=de.gt-ov.com#@V2rayNG3
 vless://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fi.panelmarzban.com:3031?encryption=none&security=reality&sni=refersion.com&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&type=tcp&headerType=none#@Golestan_VPN - JOIN
+vless://3d1053fb-ea06-4354-bbbf-cba50d8fd427@www.speedtest.net:80?path=/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG/@HqVrayNG?ed=1024&security=&encryption=none&host=d4.sgdemoffidi-rv.ir.&type=httpupgrade#@icv2ray
+vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪[Telegram:NetifyVpn]
+vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.67.193:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳

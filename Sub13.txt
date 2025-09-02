@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.221.186:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
-vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
-vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?security=reality&encryption=none&pbk=GiJD-Fcy7f8Ec0jJ2bfKwjIgVJgdblJ-HUEVt0r8LCM&headerType=none&fp=chrome&spx=/&type=tcp&sni=Zula.ir&sid=ce1f64bf8464#@hopev2ray🩵
 vless://9486ff17-2481-40c7-a5c4-d0d307de2509@172.66.132.196:443?path=/xkqDvmTtFTfJdU239ar&security=tls&alpn=http/1.1&encryption=none&host=aaaaaaaaaaaz.818185.xyz&fp=chrome&type=ws&sni=aaaaaaaaaaaz.818185.xyz#@Mrconfig_Channel 🩵
 vless://9471a8c4-2f95-4a95-b869-5e31b9bc4a9b@Hh.somo44.sbs:8080?path=/hhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree-MCİ
 vless://946f7a86-7c8b-4d77-ca35-7ff1718d2578@142.132.168.13:11770?type=tcp&host=divarcdn.com&headerType=http#@Hope_Net-join-us-on-Telegram
@@ -502,3 +499,6 @@ vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&securi
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776502.VtNeT.infO#@meli_proxyy
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&alpn=h2http/1.1&encryption=none&type=ws&sni=6389113402676776516.VtNeT.infO#@meli_proxyy
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=6389113402676776519.VtNeT.infO&type=ws&path=/#@Daily_Configs
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&security=tls&sni=6389113402676776513.VtNeT.infO&allowInsecure=1&type=ws&path=/#@Daily_Configs
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776509.VtNeT.infO&type=ws&sni=6389113402676776509.VtNeT.infO#🇩🇪@FreakConfig
+vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@tgju.org:443?security=tls&encryption=none&host=6389113402676776506.VtNeT.infO&type=ws&sni=6389113402676776506.VtNeT.infO#🇩🇪@FreakConfig

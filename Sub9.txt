@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@zede_filteri
-vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.214.30:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrdarc 🏴🏳
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2ray313 کانالمون 😍
@@ -502,3 +499,6 @@ vless://b4ce592d-4db0-4f08-894a-26c559fd0663@cdn19.zarghamportal.ir:80?path=/@iS
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#🇭🇷 | @External_Net
 vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#💎 @AblNet7 💎
+vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
+vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@deu246.bypassall.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#t.me/entryNET/config=1842165940364462
