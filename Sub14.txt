@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@104.26.0.108:443?path=/id5?ed=2560/?JKVPNTELEGRAM_CHANEL_JKVPN_JKVPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#Telegram : @Alfa_v2ray_ng 🔥
-vless://41956a47-8432-4a3f-b70d-a54fc7efd6b8@www.visa.com:2052?encryption=none&security=none&type=ws&host=0223.jq2ter91.workers.dev&path=/?ed=2560#hope of freedom - @anotherme_night
-vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
 vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#→ @Hddify
 vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#[🇩🇪]@confegraigan
 vless://4181c93f-0a91-48e3-bf9d-0e2c548734a5@bakrie.ac.id.servpn.my.id:443?path=/id5?@&security=tls&encryption=none&host=bakrie.ac.id.servpn.my.id&fp=chrome&type=ws&sni=bakrie.ac.id.servpn.my.id#@i10VPN 🚀| با ما متصل بمون⚡
@@ -92,6 +89,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&securit
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@meli_proxyy
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#Telegram : @Alfa_v2ray_ng 🔥
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#@Mrconfig_Channel 🩵
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?encryption=none&security=tls&sni=pqh23v5.hiddendom.shop&type=grpc#t.me/entryNET/config=1842241626785122
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#@Mrconfig_Channel 🩵
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#🇺🇲@FreakConfig
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
@@ -502,3 +500,5 @@ vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:8
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?path=/&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=ws#@TEHRANARGO
 vless://346264b7-975c-4891-8f7b-dcd6e5707a42@kernel.panel.cactusv2.xyz:4434?mode=multi&security=reality&encryption=none&pbk=qlXAzsjjzUjqcfuZcd-oUlLLIFVEVqs454P_F3BvQwI&fp=chrome&spx=/&type=grpc&serviceName=cactusservice&sni=journalofbigdata.springeropen.com&sid=f10dcd45#@Mrconfig_Channel 🩵
 vless://3403d340-3956-4fe8-a971-1a1855fc8a5f@balabala.ahadbala.ir:22626?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@v2ray313 کانالمون 🇩🇪
+vless://33f299c5-37c2-4a4b-bb9f-441d66ab9768@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-vqcn9qg3
+vless://33f299c5-37c2-4a4b-bb9f-441d66ab9768@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&security=&encryption=none=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&host=Mahsazxshop.org&type=xhttp#@confiig_hub

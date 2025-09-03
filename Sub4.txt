@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#@V2ray1_Ng ALL
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#@V2RAYROZ
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#@IRAN_V2RAY1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#@vmesskhodam
@@ -498,7 +502,3 @@ vless://de07386a-4a4f-466a-be58-44b37b4e1a98@172.66.40.99:443?path=/admin&securi
 vless://ddcf494a-afd5-6d45-5d83-b3c938bd5a6e@31.58.144.60:443?security=reality&encryption=none&pbk=AUg2h16X8xP5s7tnkcDuyfX5CBV7WvCoY48OKhbtQyw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zhaket.com&sid=821bbc44dd7a4e15#🇩🇪@FreakConfig
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@V2rayNGVPN <= کانفیگ رایگان
-vless://ddc25bf8-aac7-4eec-a69b-ba468c249728@167.172.99.53:29434?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
-vless://ddc25bf8-aac7-4eec-a69b-ba468c249728@167.172.99.53:29434?security=&encryption=none&headerType=none&type=tcp#@Dropcube
-vless://dd7550e3-59ef-4d01-aa9b-a3dabd37d66b@91.107.248.47:8443?mode=auto&path=/SaghiX/@SaghiVpnX@SaghiVpnX@SaghiVpnX@SaghiVpnX@SaghiVpnX@SaghiVpnX@SaghiVpnX@SaghiVpnX&security=reality&encryption=none&pbk=VLg1hlNgjDvtzxM8MahS__jfBMPvggedc8-XcDyn-zM&host=www.speedtest.net&fp=chrome&spx=/&type=xhttp&sni=zhaket.com&sid=a508#🦥 Telegram: @EXPRESSVPN_420
-vless://dd28fc32-c259-4dbe-981f-66ac565110a6@63.141.128.14:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#🇫🇷 جوین بده کانکت بمونی: @STAPersiaNews

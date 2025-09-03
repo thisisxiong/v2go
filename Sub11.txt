@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Selinc
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420 |2
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss74251.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#[🇩🇪]ae_proxy
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@sss49730.tas-bazi.com:443?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
@@ -111,7 +112,6 @@ vless://715b3f21-8774-484a-9230-f0a2c187e168@46.243.3.15:443?type=tcp&security=r
 vless://714d0dcd-17f8-4495-ba35-5f04d2d92c0f@45.133.216.114:8443?security=reality&encryption=none&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&headerType=none&fp=chrome&type=tcp&sni=www.apple.com&sid=425ba80cd1a821a8#@vipV2rayNGnp
 vless://712e7715-0f22-4a5e-a986-a39427853fa3@www.speedtest.net:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@mehrosaboran
 vless://712e7715-0f22-4a5e-a986-a39427853fa3@www.speedtest.net:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@bored_vpn
-vless://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480#=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@confiig_hub
 vless://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Telegram @SRCVPN
 vless://712e7715-0f22-4a5e-a986-a39427853fa3@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbotخرید سرور شخصی
 vless://712e7715-0f22-4a5e-a986-a39427853fa3@172.67.73.233:80?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@mehrosaboran
@@ -197,7 +197,6 @@ vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=/lkjdasws&se
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=/lkjdasws&security=tls&encryption=none&type=ws#r♡yaッ
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=/lkjdasws&security=tls&encryption=none&type=ws#Channel id: @singbox1 🇹🇷
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=/lkjdasws&security=tls&encryption=none&type=ws#Channel id: @proxy_kafee 🇹🇷
-vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?path=/lkjdasws&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇹🇷
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&flow=&path=/lkjdasws&security=tls#Channel id: @proxy_kafee 🇹🇷
 vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443/?type=ws&encryption=none&flow=&path=/lkjdasws&security=tls#Channel id: @ShadowProxy66 🇹🇷
 vless://6e780e28-0078-4ece-9aa3-ce1b0b925373@62.60.247.164:443?security=reality&sni=tgju.org&fp=chrome&pbk=Q5wQ-CFit2wmpY4ACfqdZI8CClmPn4sfLXXdpW73PS0&sid=d5c5c558ee0132&spx=/&type=grpc&serviceName=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&encryption=none#🇳🇱@Shh_Proxy | All¹
@@ -502,3 +501,4 @@ vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@69.84.182.90:8880?security=&encrypt
 vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@69.84.182.90:8880?security=&encryption=none&host=Suddjsbsj.parspack.com.tr.&type=httpupgrade#Channel id: @ShadowProxy66 🇺🇸
 vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@69.84.182.90:8880?security=&encryption=none&host=Aidjssnsjs.parspack.com.tr.&type=httpupgrade#Channel id: @proxy_kafee20🇺🇸
 vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@69.84.182.90:8880?security=&encryption=none&host=Aidjssnsjs.parspack.com.tr.&type=httpupgrade#Channel id: @ShadowProxy66 🇺🇸
+vless://65b71cc5-a34d-4efa-8af8-7a0d9bedd240@185.254.220.229:1002?mode=auto&path=/Api/AS&security=reality&encryption=none&extra={"scMaxEachPostBytes": 750000, "scMaxConcurrentPosts": 40, "scMinPostsIntervalMs": 20, "xPaddingBytes": "500-1500", "noGRPCHeader": false}&pbk=ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik&fp=chrome&type=xhttp&sni=cdn.jsdelivr.net#Channel id: @proxy_kafee 🇵🇱
