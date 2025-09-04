@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://040ec06e-60c8-4818-a46e-eb17cf310606@104.21.62.144:443?type=xhttp&mode=auto&path=/Sauron/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=sauron.melkore.ir&alpn=h3,h2,http/1.1#🇳🇱 | @Evay_vpn
-vless://04012041-bf32-4682-916e-bfacd8f911b3@Osi4.speedx3.info:8880?serviceName=-Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr&security=none&encryption=none&host=zowe.ir&headerType=http&type=tcp#[🇩🇪]t.me/Raiv2mmr
 vless://04012041-bf32-4682-916e-bfacd8f911b3@Osi4.speedx3.info:8880?security=none&encryption=none&host=zowe.ir&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://03d73724-1dce-470d-d5fc-237ecf71368e@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
 vless://03c93f49-d573-4889-a4bb-187047c5a314@172.67.158.146:443?security=tls&sni=m7rtTYu.777169.xyz&alpn=http/1.1&fp=chrome&type=ws&path=/bstMMelSTch7YcAPgiEbt&host=7rttyu.777169.xyz&encryption=none#@awlix_ir
@@ -237,10 +235,17 @@ trojan://telegram-id-directvpn@15.236.195.29:22222?security=tls&sni=trojan.burge
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#WiFi-@IRAN_V2RAY1
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@meli_proxyy
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@HiByeVPNN👈⚡❤️‍🔥
+trojan://slch2024@209.94.90.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#t.me/entryNET/config=1842331278431131
+trojan://slch2024@209.94.90.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇺🇸
+trojan://slch2024@199.68.156.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇺🇸
 trojan://slch2024@195.13.45.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@meli_proxyy
 trojan://slch2024@194.59.5.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@meli_proxyy
 trojan://slch2024@185.238.228.195:2096?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#@meli_proxyy
+trojan://slch2024@185.221.160.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇷🇺
 trojan://slch2024@185.174.138.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#تلگرام mtmvpn@
+trojan://slch2024@185.174.138.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇷🇺
+trojan://slch2024@185.148.107.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇳🇱
+trojan://slch2024@185.148.105.195:2096?path=/Telegram🇮🇷ShadowProxy66&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇷🇺
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@CaV2ray ⚡️
 trojan://ptM0AjehKC@x7-sweden-amazon-v2-ku4u8.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x7-sweden-amazon-v2-ku4u8.devefun.org#@CaV2ray ⚡️
 trojan://mZMgM1vKw5@85.255.9.247:1935?security=tls&headerType=none&type=tcp&sni=x1-czech-aruba-v2.devefun.org#⚜️Telegram: @IP_CF
@@ -386,7 +391,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧𝐣𝐨𝐢�
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇩🇪 - @FREEV2RNG 6
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#@AYMH19 کانال تلگرام
 ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ=@185.112.32.244:31792#@CaV2ray ⚡️
-ss://YWVzLTEyOC1nY206OTQwMDMxYTYtZmQzMi00ZDZiLTkwMWQtNzdiN2Y5NDM2OThl@bl.sytes.net:50414#💛
 ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#🇮🇳@FreakConfig
 ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#🇩🇪 - @FREEV2RNG 16
 ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#@meli_proxyy
@@ -406,7 +410,6 @@ ss://YWVzLTEyOC1nY206MTAwODY=@153.121.51.214:10087#💎 @AblNet7 💎
 ss://YWVzLTEyOC1nY206MTAwODY=@153.121.43.183:10087#🇯🇵 جوین بده کانکت بمونی: @STAPersiaNews
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzczA2d2ZWc1JpVkk=@83.217.9.210:443#🇹🇷[Telegram:v2rayng_fars]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzczA2d2ZWc1JpVkk=@83.217.9.210:443#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc=@77.83.245.191:443#🧡
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc=@77.83.245.191:443#🇹🇷@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc=@77.83.245.191:443#🇹🇷 𝗝𝗼𝗶𝗻 ➠ @configfree20255 | کانال ما 🆔
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyaU92TGtoTVZjMUc=@77.83.245.191:443#𝗝𝗼𝗶𝗻 ➠ @configfree20255 | کانال ما 🆔
@@ -499,6 +502,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#Channel id: @ShadowProxy66 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#Bya To @Iran_V2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇦🇺 - @FREEV2RNG 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#🇳🇱𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔

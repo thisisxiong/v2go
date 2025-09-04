@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://1451591f-16c6-4fb1-ac11-4867a4f50e72@161.35.202.165:55093?security=none&type=tcp&headerType=none&path=&host=#⚡ [🇩🇪] [Direct] CodeClubiR-Join-us
-vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://14032ad9-2a06-4c95-99d0-2bfe2037f48b@82.115.211.192:55093?security=none&type=tcp&headerType=none&path=&host=#⚡ [🇹🇷] [Direct] CodeClubiR
 vless://14032ad9-2a06-4c95-99d0-2bfe2037f48b@185.237.165.109:55093?security=none&type=tcp&headerType=none&path=&host=#⚡ [🇳🇱] [Direct] CodeClubiR
 vless://13fdda6f-f5c9-499a-826c-d99bfacdcc23@185.146.173.58:8080?type=ws&path=/telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn,telegram-@Sobi_Vpn?ed=2048&host=Kanal-polproxy.Vipnufilter.Online.&security=none#Germany 🇩🇪 Telgram @Sobi_vpn
@@ -502,3 +500,5 @@ vless://0450a34a-8ef2-4a7c-aff6-cca9508c3ddf@4.ariyanln.com:5051?mode=auto&path=
 vless://0450a34a-8ef2-4a7c-aff6-cca9508c3ddf@1.ariyanln.com:5051?mode=auto&path=/brand/miscellaneous/&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=digikala.com&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
 vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sweetpurr.com&fp=chrome&pbk=jydcbn_c_lQzE7FxMCqmo4pzl9oYypd-EdpJzpdvfS4&type=tcp&headerType=none#🇷🇺 |@CodeClubiR
 vless://0417be58-2ea8-49de-8083-9eff9b0137e5@v2ray.codefyinc.com:443?path=/vlessws&security=tls&encryption=none&host=v2ray.codefyinc.com&type=ws&sni=v2ray.codefyinc.com#Telegram | @FNET00📱
+vless://040ec06e-60c8-4818-a46e-eb17cf310606@104.21.62.144:443?type=xhttp&mode=auto&path=/Sauron/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&fp=chrome&sni=sauron.melkore.ir&alpn=h3,h2,http/1.1#🇳🇱 | @Evay_vpn
+vless://04012041-bf32-4682-916e-bfacd8f911b3@Osi4.speedx3.info:8880?serviceName=-Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr---Raiv2mmr&security=none&encryption=none&host=zowe.ir&headerType=http&type=tcp#[🇩🇪]t.me/Raiv2mmr
