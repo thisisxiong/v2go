@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@Dropcube
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#All_@IRAN_V2RAY1
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@meli_proxyy
@@ -500,5 +502,3 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&sec
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=&encryption=none&host=my.ski1plag.ir&type=ws#@Mrconfig_Channel 🩵
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&sni=my.ski1plag.ir&alpn=h2,http/1.1&fp=chrome&type=ws&path=/Telegram@V2ray_Alpha&host=my.ski1plag.ir&packetEncoding=xudp&encryption=none#@Mrconfig_Channel 🩵
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&sni=my.ski1plag.ir&alpn=h2,http/1.1&fp=chrome&type=ws&path=/Telegram@Config_Rayegan&host=my.ski1plag.ir&packetEncoding=xudp&encryption=none#@Mrconfig_Channel 🩵
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@V2ray_Alpha&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@CaV2ray ⚡️
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=/download&security=&encryption=none&host=my.ski1plag.ir&type=ws#@Mrconfig_Channel 🩵
