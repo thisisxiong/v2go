@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://b21e6bf5-a65c-4d07-9d8d-c8f1b7e6b8c5@1.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://b1fe7cec-3028-4cf0-b1c3-af55efd23ad8@91.99.169.64:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
@@ -194,8 +193,9 @@ vless://a8e41efd-0fb8-459a-9fab-95e038a003f4@s85cndx2225.mmadvip8563.ir:3799?sec
 vless://a8d1d8d8-02d0-46e4-ae31-606c6e8b4d96@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=inFo.laLezaRanegomaNandish.sNap.ir.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46159-1
 vless://a8aafbab-bf42-4388-9495-246faaf0ab8f@c11.maindns.site:46191?security=none&encryption=none&headerType=none&type=tcp#@NpvV2rayFilTer
 vless://a8a386a7-ee32-4dd7-bbe5-5b4ebaa42fd7@45.144.31.234:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#🇺🇸[Telegram:@v2rayng_fars]
+vless://a88d0b09-fbec-4909-8ea7-f3deb5e92bc5@54.36.114.253:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
+vless://a88d0b09-fbec-4909-8ea7-f3deb5e92bc5@54.36.114.253:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#این کانفیگ تستیه کانفیگ اصلی رو بردار ✅️NormanV2ray@
 vless://a88d0b09-fbec-4909-8ea7-f3deb5e92bc5@54.36.114.253:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#t.me/entryNET/config=1842365567886487
-vless://a88bf92d-4851-4eac-aad1-66e16247856a@104.16.1.106:80?path=/&security=&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@FASTSHOVPN عضو شو
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇺🇲@FreakConfig
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Telegram : @Alfa_v2ray_ng 🔥
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@meli_proxyy

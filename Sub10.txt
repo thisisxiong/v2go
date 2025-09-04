@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://9711af31-f687-4acf-9e97-2c45bf9b4d68@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46160-2
-vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-pl3-cdn.upload-center.org&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-pl3-cdn.upload-center.org&fp=chrome&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-pl3-cdn.upload-center.org&fp=chrome&type=ws#@NETMelliAnti
 vless://96fb891d-022a-41e1-8248-e7935c4ff686@www.speedtest.net:2052?path=/&security=none&encryption=none&host=dl3-pl3-cdn.upload-center.org&fp=chrome&type=ws#@Daily_Configs
@@ -105,7 +103,6 @@ vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.u
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@Daily_Configs
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@AblNet7 🐔
-vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@meli_proxyy
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#@AYMH19 کانال تلگرام
 vless://92d4bd40-68ed-4b1e-843c-f739ec536b2c@162.159.134.234:8080?security=none&encryption=none&type=ws&host=hrtv.numall.xyz.&path=/#mci-mtn🇬🇧[Awlix_ir]
@@ -502,3 +499,6 @@ vless://830f6053-45e1-4501-8394-a9d2da747c44@www.speedtest.net:8880?path=/@Alfre
 vless://82db5ebc-7f11-5009-831b-9e9c5b5a22af@185.255.178.188:443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&host=185.255.178.188&fp=chrome&type=ws&sni=zula.ir#🇪🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?security=none&encryption=none&fp=chrome&type=ws#@Dropcube⚡❤️‍🔥
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
+vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/?ed=2048@DropCube--@DropCube--@DropCube--@DropCube--@DropCube--@DropCube--@DropCube--@DropCube--@DropCube--@DropCube--@DropCube--@DropCube--@DropCube&security=&encryption=none&fp=chrome&type=ws#@DropCube⚡❤️‍🔥
+vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 🩵
+vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@AblNet7 🇺🇲
