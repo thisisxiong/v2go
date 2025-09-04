@@ -2,15 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e4848d5d-3380-45ff-f9d5-48cb1f492926@91.99.97.62:51479?security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram : @VPN_ROOM 🇩🇪
-vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون ❤️
-vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
-vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#Channel :@vmessorg
-vless://e4824193-4f54-453b-d037-88368e85ef0e@public15v7.fastipsport.com:8880?flow=&type=grpc&mode=gun&serviceName=&security=none#@vmessorg
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh30v8.waipdirect.shop#Channel : @Mrsoulb 🏴🏳
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@vipV2rayNGnp
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v2.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v2.vetmainconf.shop:8880?encryption=none&security=none&type=grpc#hope of freedom - @anotherme_night
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&security=&encryption=none&type=grpc&sni=pqh29v4.vetmainconf.shop#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v4.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
@@ -502,3 +493,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#@Alfa_v2ray_ng کانالمون ❤️
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#@AblNet7 🇺🇲
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#@AblNet7 🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?encryption=none&security=none&type=grpc#@Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇫🇷[Telegram:NetifyVPN]
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 @amirw_shop_q
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]ae_proxy
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.234:8880?mode=gun&security=none&encryption=none&type=grpc#ALL@azadiiivpn
