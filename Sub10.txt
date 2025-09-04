@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#Telegram : @Alfa_v2ray_ng 🔥
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/Join---planB_proxy---BIA---planB_proxy---BIA---planB_proxy---BIA---planB_proxy?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@Dropcube
+vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/JOIN---PLANB_PROXY?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/JOIN---PLANB_PROXY?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#@V2RAYROZ
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/JOIN---PKANB_PROXY?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy🆔
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=/?ed=2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#Telegram : @Alfa_v2ray_ng 🔥
@@ -499,6 +502,3 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=/Telegram
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&type=ws&path=/upload&host=my.ski1plag.ir&packetEncoding=xudp&encryption=none#@Mrconfig_Channel 🩵
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?security=none&type=ws&path=/download&host=my.ski1plag.ir&packetEncoding=xudp&encryption=none#@Mrconfig_Channel 🩵
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#@Mrconfig_Channel 🩵
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=none&encryption=none&host=my.ski1plag.ir&type=ws#@CaV2ray ⚡️
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=&encryption=none&host=my.ski1plag.ir&type=ws#@Mrconfig_Channel 🩵
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&sni=my.ski1plag.ir&alpn=h2,http/1.1&fp=chrome&type=ws&path=/Telegram@V2ray_Alpha&host=my.ski1plag.ir&packetEncoding=xudp&encryption=none#@Mrconfig_Channel 🩵
