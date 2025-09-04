@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.230:51615?security=none&encryption=none&host=zul/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHIa.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.14:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
@@ -434,7 +431,9 @@ vless://21d57e3e-b331-40c1-9b97-fe5a72cb1047@62.60.178.200:20322?type=tcp&securi
 vless://21d57e3e-b331-40c1-9b97-fe5a72cb1047@62.60.178.200:20322?type=tcp&security=reality&pbk=-3D1yyc2r7xOKDJ_nvn5x5Ij7tWYxKTpQmKiukGG7B4&fp=chrome&sni=www.latimes.com&sid=4d&spx=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN#l2vcsohq
 vless://21a8d1f1-09cd-4255-9a24-4f3a0a3dabaa@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#tm⚡|@lightning6
 vless://2197f2f3-7634-4609-a525-7361b1d4782d@germany1.amirconfigpanelllll.com:625?encryption=none&security=none&type=tcp&headerType=http&host=zhaket.com#@Daily_Configs
+vless://21792da3-074f-4d55-8a6b-4d84c5c0f682@194.156.65.28:443?security=reality&encryption=none&pbk=fjPySr9gszKltxP8Smt0iu8ktqezOGptg2YVmWvxlUI&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#𝗝𝗼𝗶𝗻 ➠ @configfree20255 | کانال ما 🆔
 vless://21792da3-074f-4d55-8a6b-4d84c5c0f682@194.156.65.28:443?security=reality&encryption=none&pbk=fjPySr9gszKltxP8Smt0iu8ktqezOGptg2YVmWvxlUI&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://21792da3-074f-4d55-8a6b-4d84c5c0f682@194.156.65.28:443?security=reality&encryption=none&pbk=fjPySr9gszKltxP8Smt0iu8ktqezOGptg2YVmWvxlUI&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#t.me/entryNET/config=1842361047096351
 vless://21792da3-074f-4d55-8a6b-4d84c5c0f682@194.156.65.28:443?security=reality&encryption=none&pbk=fjPySr9gszKltxP8Smt0iu8ktqezOGptg2YVmWvxlUI&headerType=none&fp=chrome&type=tcp&sni=cloudflare.com#@meli_proxyy
 vless://2175948a-0716-44a7-a1c1-ee90ebd9f4e9@91.99.144.18:2002?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://2175948a-0716-44a7-a1c1-ee90ebd9f4e9@91.99.144.18:2002?mode=gun&security=reality&encryption=none&pbk=b14Nibi1pMPwFPqgiyZRS3a6-Y-Q8EsE5urKnA-RkAc&fp=chrome&type=grpc&sni=tgju.org&sid=adf8a1f5689177a2#@Selinc
@@ -502,3 +501,4 @@ vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#@ata_connect
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#@IRAN_V2RAY1
 vless://1fb42df5-cc3d-476f-90e8-c029aaa2d90e@www.speedtest.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=&encryption=none&host=www.speedtest.net.amin-app.ir&type=httpupgrade#🇩🇪@Alfred_Config
+vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥

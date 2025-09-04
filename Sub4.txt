@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e4a4438f-585b-4555-b8e3-f032def5819c@134.209.243.216:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
-vless://e4a4438f-585b-4555-b8e3-f032def5819c@134.209.243.216:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#@meli_proxyy
-vless://e4a4438f-585b-4555-b8e3-f032def5819c@134.122.90.105:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
-vless://e4a4438f-585b-4555-b8e3-f032def5819c@134.122.77.249:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@104.248.20.136:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@104.248.20.136:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@104.248.20.136:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#@meli_proxyy
@@ -40,7 +36,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?mode=g
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#🇺🇸 جوین بده کانکت بمونی: @STAPersiaNews
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@AblNet7 🇺🇲
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:NetifyVPN]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#🇩🇪@FreakConfig
@@ -502,3 +497,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?encryption=non
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&type=grpc#Channel id: @singbox1 🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&type=grpc#Channel id: @proxy_kafee 🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&type=grpc#Channel id: @ShadowProxy66 🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?security=&encryption=none&fp=chrome&type=grpc#Channel id: @ShadowProxy66 🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 جوین بده کانکت بمونی: @STAPersiaNews
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 Vlees_v2rayng
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.239:8880?mode=gun&security=none&encryption=none&type=grpc#Irancell--@IRAN_V2RAY1
