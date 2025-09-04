@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#@V2rayNGVPN <= کانفیگ رایگان
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stream-one&path=/awd&security=none&encryption=none&type=xhttp#@Daily_Configs
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?mode=stream-one&path=/awd&security=&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss75298.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/awd&mode=stream-one#@Daily_Configs
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/?@i10VPN?ed=2048&security=none&encryption=none&type=xhttp#[🇩🇪]@confegraigan
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/?@i10VPN?ed=2048&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
 vless://92b022a6-67f3-4406-840b-8fec2f4aace8@sss48716.tas-bazi.com:443?mode=stream-one&path=/awd/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#[🇩🇪]@confegraigan
@@ -498,7 +502,3 @@ vless://7e73cb05-e0f2-4904-9b3b-0280417fa9b2@172.66.40.99:2096?path=/@V2RAYFAST_
 vless://7e73cb05-e0f2-4904-9b3b-0280417fa9b2@172.66.40.99:2096?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=tls&encryption=none&host=www.dollardoon.com&fp=chrome&type=ws&sni=www.dollardoon.com#@V2RAYNG_IP❤️‍🔥
 vless://7e60ecd7-1689-498f-98c9-b8896b84fec4@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://7e60ecd7-1689-498f-98c9-b8896b84fec4@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?type=tcp&security=reality&fp=chrome&sni=dl.google.com&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇮🇱@EVAY_VPN
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@77.91.74.189:28495?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&headerType=none#@Daily_Configs
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.170.80:28495?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&sni=dl.google.com&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&encryption=none#🇦🇱[Telegram:NetifyVPN]
