@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://49401c3a-1a7a-4152-90e1-e1c1c224f157@95.179.255.236:443?mode=stream-one&path=/sef&security=reality&encryption=none&pbk=Qrzz-NI8UehZoMmtrIxPNFsux36hwtO26_C10A5sHAg&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=86d67be548#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://49401c3a-1a7a-4152-90e1-e1c1c224f157@95.179.255.236:443?mode=stream-one&path=/sef&security=reality&encryption=none&pbk=Qrzz-NI8UehZoMmtrIxPNFsux36hwtO26_C10A5sHAg&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=86d67be548#Telegram : @Alfa_v2ray_ng 🔥
 vless://49401c3a-1a7a-4152-90e1-e1c1c224f157@95.179.255.236:443?mode=stream-one&path=/sef&security=reality&encryption=none&pbk=Qrzz-NI8UehZoMmtrIxPNFsux36hwtO26_C10A5sHAg&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=86d67be548#@meli_proxyy
 vless://4926adf0-880a-4650-bee5-58250416cb40@103.246.145.244:11802?security=reality&encryption=none&pbk=eu_CdEUxOB3IiXYq-t70TjU3tXwgrJFusHWUmqzFXS4&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=2ed15414d2#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://4926adf0-880a-4650-bee5-58250416cb40@103.246.145.244:11802?security=reality&encryption=none&pbk=eu_CdEUxOB3IiXYq-t70TjU3tXwgrJFusHWUmqzFXS4&headerType=none&fp=chrome&spx=/-@TokaVpn&type=tcp&sni=refersion.com&sid=2ed15414d2#🇫🇷 جوین بده کانکت بمونی: @STAPersiaNews
@@ -164,7 +162,6 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stre
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@vmesskhodam
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss29026.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Telegram: @vpnbaz
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss29026.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Telegram @TokaVpn 🇩🇪
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss29026.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss29026.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@meli_proxyy
@@ -502,3 +499,6 @@ vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&p
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#All_@IRAN_V2RAY1
+vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@V2RAYROZ
+vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Dropcube

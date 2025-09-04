@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://5a4e040a-8de6-4222-bd6f-9f535b8772fd@104.21.58.212:80?encryption=none&security=none&type=ws&host=calm-violet-0e47.pomofoc222.workers.dev&path=/lrJO6NEVRGHecfbo?ed=2560#t.me/entryNET/config=1842276106320671
-vless://5a469b32-5bd1-465c-b481-4cba9e2436ef@gozarfreebot.niniweblog.org:8443?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=b8hRkoInSqR5tSey-WAdsgSU5JySyKgYRaid1NUf0AE&sid=92604737065b8027&spx=/#☁️ WARP
 vless://5a40ab4a-8d75-4813-b22b-3569148eea48@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🇳🇱@FreakConfig
@@ -502,3 +500,5 @@ vless://4951f31b-dddf-4c7a-8399-cced1c10c4ed@wolf551.api-tel.xyz:14748?security=
 vless://494e78ca-946e-405f-9b0b-495170cac89e@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.14.19:2082?path=/?ed=2560&security=none&encryption=none&host=0127.4zsuplo0.workers.dev&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://49401c3a-1a7a-4152-90e1-e1c1c224f157@95.179.255.236:443?mode=stream-one&path=/sef&security=reality&encryption=none&pbk=Qrzz-NI8UehZoMmtrIxPNFsux36hwtO26_C10A5sHAg&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=86d67be548#🪡 قطع شدی بیا گروه گوگولی @ProxyOrbit
+vless://49401c3a-1a7a-4152-90e1-e1c1c224f157@95.179.255.236:443?mode=stream-one&path=/sef&security=reality&encryption=none&pbk=Qrzz-NI8UehZoMmtrIxPNFsux36hwtO26_C10A5sHAg&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=86d67be548#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://49401c3a-1a7a-4152-90e1-e1c1c224f157@95.179.255.236:443?mode=stream-one&path=/sef&security=reality&encryption=none&pbk=Qrzz-NI8UehZoMmtrIxPNFsux36hwtO26_C10A5sHAg&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com&sid=86d67be548#Telegram : @Alfa_v2ray_ng 🔥

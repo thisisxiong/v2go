@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#Channel id: @proxy_kafee 🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#@Selinc
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#🇹🇷v2rayng (DE)🔐-confegraigan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI=@77.83.245.190:443#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#💎 @AblNet7 💎
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDY0Ljc0LjE2My4yMTg6OTkw#dropcube
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#@V2RAYNG_1378
@@ -502,3 +497,8 @@ hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=Y
 hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel id: @proxy_kafee🇳🇱
 hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel id: @ShadowProxy66🇳🇱
 hy2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854/?insecure=1&sni=bing.com#Channel id: @singbox1🇭🇰
+hy2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854/?insecure=1&sni=bing.com#Channel id: @proxy_kafee🇭🇰
+hy2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇭🇰
+hy2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428/?insecure=1&sni=bing.com#Channel id: @proxy_kafee🇭🇰
+hy2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇭🇰
+hy2://9363eedf-00e9-4b14-8d66-e596b02538bc@195.133.5.41:33079/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#Channel id: @singbox1🇺🇸
