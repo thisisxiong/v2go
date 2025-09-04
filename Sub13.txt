@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#Channel id: @proxy_kafee 🇷🇺
+vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?security=reality&encryption=none&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mega.io&sid=2c709739f487#Channel id: @ShadowProxy66 🇷🇺
+vless://5a519368-9dbb-4ab4-8967-a30fb39a8881@194.55.235.202:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mega.io&fp=chrome&pbk=2KRLht-me2Je8FrYcUUv8OJ3_xoT8KMCurzwfDZcvCk&sid=2c709739f487&spx=/&type=tcp&headerType=none#@Daily_Configs
 vless://5a469b32-5bd1-465c-b481-4cba9e2436ef@gozarfreebot.niniweblog.org:8443?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=chrome&pbk=b8hRkoInSqR5tSey-WAdsgSU5JySyKgYRaid1NUf0AE&sid=92604737065b8027&spx=/#☁️ WARP
 vless://5a40ab4a-8d75-4813-b22b-3569148eea48@direct.yasharteam.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5a12794b-2125-46d7-a748-927a989faa04@narrow-passenger.oneeat.co:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -499,6 +502,3 @@ vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&fp=chrome&type=ws#🇩🇪 @configfree20255 | کانال ما 🆔
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&fp=chrome&type=ws#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&fp=chrome&type=ws#@vipV2rayNGnp
-vless://491b84bb-e01e-4fa8-89dc-d1f3c1196a3a@91.99.175.173:1001?security=reality&encryption=none&pbk=PJJAwYggwp2gu5_oXIr_1Q02OM6-DrCCEd0y1NF5vSs&headerType=http&fp=chrome&spx=/join_telegram-@vpnserverrr join_telegram-@vpnserverrr join_telegram-@vpnserverrr join_telegram-@vpnserverrr join_telegram-@vpnserverrr&type=tcp&sni=ea.com#Germany 🇩🇪-@vpnserverrr جوین شو لنگ نمونی
-vless://48ed35de-6920-4166-b264-94868faab3f2@91.99.124.56:500?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#150 GB Gift 🎁 @weXnets
-vless://48b81d34-df01-4c94-9e34-0ccb4c40c547@185.36.145.227:8888?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#join @Dropcube
