@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎 @AblNet7 💎
-vless://d03d8815-a06f-408f-a62f-6c84869b96a9@ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK:80?path=/&security=none&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://d03c7ee3-c854-4558-977a-440e421ad8da@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🇳🇱 Telegram | @Green_WPN
 vless://d0334ea2-1035-44eb-bcbb-1cc6737851dc@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46166-2
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.71.31:443?path=/azadnet-6i3.pages.dev/?ed=2560&security=tls&encryption=none&host=azadnet-6i3.pages.dev&fp=chrome&type=ws&sni=azadnet-6i3.pages.dev#Telegram : @Alfa_v2ray_ng 🔥
@@ -502,3 +500,5 @@ vless://bdf40e36-a0a7-4ecb-9cf1-a055a5b0842b@5.75.193.155:30256?security=reality
 vless://bdf40e36-a0a7-4ecb-9cf1-a055a5b0842b@5.75.193.155:30256?security=reality&encryption=none&pbk=Cbpe36XAuFNOT1lK0YeFVezU-NkWdB1EcDRo5076sn4&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=1b#Telegram : @Alfa_v2ray_ng 🔥
 vless://bddacae3-5a9f-4406-a650-52614396a2f0@104.21.43.168:443?path=/index.html?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=s1.sUbUrl.OrG&fp=chrome&type=ws&sni=s1.sUbUrl.OrG#4/26 - @V2Ray_Tz [2]
 vless://bddacae3-5a9f-4406-a650-52614396a2f0@104.21.43.168:443?path=/index.html?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#4/26 - @V2Ray_Tz [1]
+vless://bdb68d99-443c-4831-aea8-549a635644ea@93.115.240.74:15500?path=/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=none&encryption=none&type=ws#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+vless://bdb67bdd-9f24-4555-bdb4-b768567ae239@vioplex.fast.hosting-ip.com:80?mode=auto&path=/free?ed=2048&security=none&encryption=none&host=Free_proxyu.org&type=xhttp#⚜️Telegram: @IP_CF
