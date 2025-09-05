@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776517.VtNeT.infO#@V2ray1_Ng
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776517.VtNeT.infO#@V2RAYROZ
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776517.VtNeT.infO#@IRAN_V2RAY1
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?path=/&security=tls&encryption=none&type=ws&sni=6389113402676776513.VtNeT.infO#Channel id: @singbox1 🇨🇦
@@ -58,7 +57,6 @@ vless://868a3ff6-4535-4e8e-9fd9-713b04cea1aa@ttestt.dissertationhelpspecialist.c
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#IR-@IRAN_V2RAY1
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#All--@IRAN_V2RAY1
-vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946/?type=ws&encryption=none&flow=&path=/#Channel id: @proxy_kafee 🇧🇬
 vless://863b3a17-bb45-493b-ad98-898b490e540c@n0.asmdns.net:2082?path=/?ed=2590&security=none&encryption=none&host=n10.asmdns.net&type=ws#VayNora
 vless://863b3a17-bb45-493b-ad98-898b490e540c@45.131.209.216:2082?path=/?ed=2590&security=none&encryption=none&host=n10.asmdns.net&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://860f407c-1f46-46c0-a516-0faf42cd9f25@63.141.128.15:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=d.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
@@ -502,3 +500,5 @@ vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/TELEGRAM
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/ShadowProxy66-ShadowProxy66&security=none&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=a.kadoo.sbs.&type=ws#@TEHRANARGO
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/ShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/ShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#@v2ray313 کانالمون 🍗
+vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@m36a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@meli_proxyy
+vless://75916ff8-2f80-43dc-ba9a-34464e1bd340@m36a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
