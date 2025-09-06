@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=&encryption=none&type=grpc#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 Vlees_v2rayng³
@@ -235,7 +236,6 @@ vless://da370882-ecfa-4aca-b713-af43492dd904@45.12.139.106:8443?security=reality
 vless://da370882-ecfa-4aca-b713-af43492dd904@45.12.139.106:8443?security=reality&encryption=none&pbk=XzATi6CT1whlPAlhvAjbm0grpFHjZfYAfW7yIB9MC2g&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=26a70553#@Dropcube
 vless://da3671c7-795f-421d-9cdc-9e3a79681852@151.101.3.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#XpnTeam🇳🇱-fsz9dsu1y
 vless://da1668a7-3a7f-405d-874e-c28652c68c4d@172.105.57.184:2321?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://d9f9454d-e474-403b-880d-80b681cbe0d3@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#t.me/entryNET/config=1842516814174017
 vless://d9d7de85-cfb2-4ba8-9cf3-6354090cafa6@194.182.79.100:42438?security=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON?ed=2048&encryption=none#@awlix_ir
 vless://d9c5b7fb-288b-472c-ade1-03ee7c4b2ec2@54.36.114.253:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪@FreakConfig
 vless://d9c5b7fb-288b-472c-ade1-03ee7c4b2ec2@54.36.114.253:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@confegraigan تست خرید برای کانفیگ های بیشتر وارد کانال تلگرام

@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://e4a4438f-585b-4555-b8e3-f032def5819c@134.209.243.216:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @proxy_kafee 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@134.209.243.216:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@134.122.90.105:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@134.122.77.249:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
@@ -501,4 +502,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#@Alfa_v2ray_ng کانالمون 😑
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=&encryption=none&type=grpc#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆

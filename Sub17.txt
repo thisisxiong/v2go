@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.228:2096?encryption=none&security=tls&sni=tcp.biz.id&alpn=h3&fp=chrome&type=ws&host=tcp.biz.id&path=/free/1.177.76.215:10026#✅ @vistav2ray  👈👈کانال ما
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.222:2096?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @singbox1 🇨🇦
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.222:2096?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @proxy_kafee 🇨🇦
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.222:2096?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @ShadowProxy66 🇨🇦
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.222:2096?encryption=none&security=tls&sni=tcp.biz.id&alpn=h3&fp=chrome&type=ws&host=tcp.biz.id&path=/free/1.177.76.215:10026#✅ @vistav2ray  👈👈کانال ما
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@162.159.153.144:443?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @singbox1 🇨🇦
@@ -296,6 +299,7 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray313 کانالمون 🙅🏻
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray313 کانالمون ☘️
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105=443&security=none#@V2ray_cartel
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/Join---PlanB_proxy=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/Join---PlanB_proxy=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇩🇪[Telegram:v2rayng_fars]
@@ -498,7 +502,3 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&e
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@Dropcube
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel id: @proxy_kafee 🇷🇺
 vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel id: @ShadowProxy66 🇷🇺
-vless://1a6fe500-59da-4598-8576-256f06765ffb@94.26.228.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&headerType=none#@Daily_Configs
-vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🇨🇿 جوین بده کانکت بمونی: @STAPersiaNews
-vless://1a6fe500-59da-4598-8576-256f06765ffb@82.148.21.174:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Telegram : @Alfa_v2ray_ng 🔥
