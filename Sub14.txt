@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@185.200.240.134:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel id: @ShadowProxy66 🇷🇺
-vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?encryption=none&security=tls&sni=147135004002.sec20org.com&fp=chrome&type=tcp&headerType=none#@Golestan_VPN - JOIN
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.133.134:80?path=/?ed=2560&security=&encryption=none&host=abcd.taraneh.dpdns.org&fp=chrome&type=ws&sni=abcd.taraneh.dpdns.org#@Mrconfig_Channel 🩵
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=/?ed=2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=chrome&type=ws&sni=abcd.taraneh.dpdns.org#@CaV2ray ⚡️
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -220,7 +218,6 @@ vless://4ce4cefa-0d4d-4088-bdf5-1cad6de8c86d@172.66.40.99:8080?type=ws&path=/@Ma
 vless://4cca4383-cd45-496d-989c-a0cb6a1ed93a@45.63.64.149:443?mode=stream-one&path=/rfht&security=none&encryption=none&type=xhttp#Telegram | @FNET00📱
 vless://4cb539cb-7e01-4c00-90a1-b89b66881e73@172.245.33.163:10088?security=reality&encryption=none&pbk=CWO043TqIdMiwVVNBydNwdVuzKz3K8p9IIEynpR_dFs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=20182bcc0f3415d9#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://4cb12ac3-f4fa-47bc-a009-14b5b7d83510@99.199.73.53:6068?security=none&encryption=none&host=www.speedtest.net/?BIA_CHANEL@JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
-vless://4ca95fa5-8967-4bdc-a82d-3a65b44a3818@ava.game.naver.com.servpn.my.id:443?path=/sg4/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#@i10VPN 🚀| با ما متصل بمون⚡
 vless://4ca95fa5-8967-4bdc-a82d-3a65b44a3818@ava.game.naver.com.servpn.my.id:443?path=/sg4/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=ava.game.naver.com.servpn.my.id&fp=chrome&type=ws&sni=ava.game.naver.com.servpn.my.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://4ca604af-1cfb-40d5-807a-083bf97432ba@104.16.53.11:8080?path=/&security=none&encryption=none&host=xonlineshoappdownloadus01.okatestoka.ir&type=httpupgrade#@NETMelliAnti
 vless://4ca604af-1cfb-40d5-807a-083bf97432ba@104.16.53.11:8080?path=/&security=none&encryption=none&host=xokaminew3aclskmd23eor2enwr.okatestoka.ir&type=httpupgrade#@NETMelliAnti
@@ -502,3 +499,6 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stre
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@vmesskhodam
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss29026.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Telegram @TokaVpn 🇩🇪
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss29026.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss29026.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss29026.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@Daily_Configs
