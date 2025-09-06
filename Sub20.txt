@@ -2,15 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-trojan://htMGgVf9O6g4kiWlma_F2Q@45.87.219.169:3247?security=none&headerType=none&type=tcp#Tunnel Belarus 🇧🇾 | sarina
-trojan://htMGgVf9O6g4kiWlma_F2Q@212.64.201.218:3247?security=none&headerType=none&type=tcp#Tunnel Turkey 🇹🇷 | sarina
-trojan://htMGgVf9O6g4kiWlma_F2Q@164.92.159.66:3247?security=none&headerType=none&type=tcp#Tunnel Netherland 2 🇳🇱 | sarina
-trojan://htMGgVf9O6g4kiWlma_F2Q@138.197.178.212:3247?security=none&headerType=none&type=tcp#Tunnel German 2 🇩🇪 | sarina
-trojan://htMGgVf9O6g4kiWlma_F2Q@1243567:3247?security=none&headerType=none&type=tcp#500.0 MB | 23h 59m 33s
-trojan://f282b878-8711-45a1-8c69-5564172123c1@www.speedtest.net:443?path=/--TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY----TELEGRAM-VITUREY&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&type=ws&host=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053#@Daily_Configs
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#💎 @AblNet7 💎
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel-@ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@mhmdreza_it   3
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Tel---MTMVPN---MTMVPN---MTMVPN&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🇩🇪v2rayng (DE)🔐-confegraigan
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#🇯🇵@FreakConfig
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#[🇨🇦]ae_proxy
@@ -34,6 +25,8 @@ trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
+trojan://bf7e1009-1574-44f7-86df-6cbecd338477@pardazeshvpn-tg18.pages.dev:443?security=tls&type=ws&sni=pardazeshvpn-tg18.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=pardazeshvpn-tg18.pages.dev#t.me/entryNET/config=1842472333008449
+trojan://auto@172.67.213.48:443?security=tls&type=ws&sni=esetsecuritylicense2.wawafec355.workers.dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=esetsecuritylicense2.wawafec355.workers.dev#t.me/entryNET/config=1842470521273437
 trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=/speedtest&security=tls&fp=chrome&sni=jfkgfuiodghlf.ahmadinabaz.ir&alpn=h2,http/1.1#@SaghiVpnXBOT[🇨🇦]
 trojan://VPNCUSTOMIZE@www.speedtest.net:80?path=/tr----VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE---Join----VPNCUSTOMIZE---Join---VPNCUSTOMIZE&security=none&host=join-vpncustomize.ip-ddns.com&type=ws#NL 🇳🇱 V2ray 💥
 trojan://KoVt25cBaB@www.speedtest.net:2095?path=/TELEGRAM_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-jKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JkVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKvPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ¹🇳🇱➣@JKVPN
@@ -56,7 +49,6 @@ trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#@a
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?security=tls&sni=aio.proxybox.dpdns.org&type=ws&host=aio.proxybox.dpdns.org&path=/188.34.160.97-2053#@Daily_Configs
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&host=aio.proxybox.dpdns.org&type=ws&sni=aio.proxybox.dpdns.org#All-@IRAN_V2RAY1
 trojan://318cab24-ec99-40a6-a54a-0db9c661a3d0@aio.proxybox.dpdns.org:443?path=/188.34.160.97-2053&security=tls&host=aio.proxybox.dpdns.org&type=ws&sni=aio.proxybox.dpdns.org#@meli_proxyy
-trojan://1r6MOAzLaL@sangarvpn.sangarshop.sbs:32627?security=none&headerType=&type=tcp#@confegraigan تست خرید برای کانفیگ های بیشتر وارد کانال تلگرام
 trojan://1e63e585ab2fef3adcc9ea75a62abc23@104.251.227.182:443?security=tls&sni=hezijiasuqi.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://1ce1df7962f71c6f@51.195.255.103:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#🇬🇧@FreakConfig
 trojan://0F22D008-24D4-4DFE-947B-8D2FD64CD24C@www.visa.com.sg:2053?path=/?ed=2560&security=tls&host=t.hongkong6.qzz.io&fp=chrome&type=ws&sni=t.hongkong6.qzz.io#@AblNet7 🇨🇦
@@ -69,6 +61,7 @@ ss://d6ca32b9-5977-47a2-bff3-1091c2f2063c@62.60.163.23:45006?security=none&encry
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#@awlix_ir
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@awlix_ir
 ss://cicadanet@167.99.45.44:30402?security=reality&encryption=none&pbk=X0A-gB9NvXnTYsgN3ztH4D1-D3W9bg_OtY5ffUjc614&headerType=none&fp=chrome&spx=/meyah&type=tcp&sni=www.journalofbigdata.springeropen.com&sid=2d9d1cbc94#@meli_proxyy
+ss://auto@104.16.224.104:443?path=/trojanmz.pages.dev/?ed=2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#t.me/entryNET/config=1842472020291459
 ss://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.215.251:443?security=tls&sni=du.ylks.xyz&type=ws&host=du.ylks.xyz&path=/freecodes#t.me/entryNET/config=1842468246044186
 ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#@AblNet7 🇺🇲
@@ -502,3 +495,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWUWRDMjZEc01XQkQ=@62.60.233.83:443#🇹🇷@vlees_v2rayng²
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#@AYMH19 کانال تلگرام
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#@awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVM0lsZ0l2Z0FrQWthQkNuMFNVQXNY@77.239.117.121:28694#@Awlix_ir
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdXI1Tnk3NG5wRDM=@185.242.247.249:443#_FI🇫🇮@vpnAndroid2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#🇳🇱NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU=@194.87.31.68:443#@Golestan_VPN - JOIN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRR2h6enE3NHc5T3FmbkpyMG1adER6@62.60.247.135:19099#𝘣𝘭𝘶𝘦 𝘮𝘰𝘰𝘯
