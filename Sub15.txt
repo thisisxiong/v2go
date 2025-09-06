@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss19074.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@138.197.149.46:443?mode=stream-one&path=/sf&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 vless://43ef78f8-ae84-402d-982d-8fe8b53b8d37@134.122.41.60:443?mode=stream-one&path=/sf&security=none&encryption=none&type=xhttp#Channel-@vmesskhodam
 vless://43c06dde-b530-4536-a9d7-ba7bccb6d0dd@www.speedtest.net:80?path=/ali&security=none&encryption=none&host=www.speedtest.net.b.1.speedtest2029.com.v2logy.ir.&type=ws#@AYMH19+کانال+تلگرام
@@ -502,3 +501,4 @@ vless://36f092d8-04dd-4c1b-af38-11c4115bf347@ping.amirhossein.info:8443/?type=ws
 vless://36f05f97-4dce-4cb6-9d88-c8dfc7b2d30e@63.141.128.2:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@Confiig_hub
 vless://36f00e93-3f4b-48ca-8f19-488c321ab931@45.89.107.229:443?path=/fqopqrws&security=tls&encryption=none&type=ws#🇲🇾 Malaysia [@vpnAndroid2
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️

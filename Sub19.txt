@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://0caa3713-3ff8-4356-bd16-5806a40ead06@m67a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@v2rayserverfreenet
 vless://0caa3713-3ff8-4356-bd16-5806a40ead06@m67a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@meli_proxyy
 vless://0caa3713-3ff8-4356-bd16-5806a40ead06@m67a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://0caa3713-3ff8-4356-bd16-5806a40ead06@m67a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@V2rayBaaz
@@ -502,3 +501,4 @@ trojan://htMGgVf9O6g4kiWlma_F2Q@amesterdam.v2zone.top:3247?security=none&headerT
 trojan://htMGgVf9O6g4kiWlma_F2Q@Singapore.v2zone.top:3247?security=none&headerType=none&type=tcp#Tunnel Singapore 🇸🇬 | sarina
 trojan://htMGgVf9O6g4kiWlma_F2Q@London.v2zone.top:3247?security=none&headerType=none&type=tcp#Tunnel England 🇬🇧 | sarina
 trojan://htMGgVf9O6g4kiWlma_F2Q@Canada.v2zone.top:3247?security=none&headerType=none&type=tcp#Tunnel canada 🇨🇦 | sarina
+trojan://htMGgVf9O6g4kiWlma_F2Q@Australia.v2zone.top:3247?security=none&headerType=none&type=tcp#Tunnel Australia 🇦🇺 | sarina

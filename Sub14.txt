@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#Channel-@vmesskhodam
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#@v2ray313 کانالمون ❤️‍🔥
@@ -502,3 +501,4 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss19711.tas-bazi.com:443?mode=stre
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss19711.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss19711.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@Selinc
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss19074.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss19074.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#🇩🇪@FreakConfig

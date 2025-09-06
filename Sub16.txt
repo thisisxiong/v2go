@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.182.117:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.171.12:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -502,3 +501,4 @@ vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.228:2096?path=/free/1.17
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.228:2096?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @singbox1 🇨🇦
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.228:2096?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @proxy_kafee 🇨🇦
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.228:2096?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @ShadowProxy66 🇨🇦
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.228:2096?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#@meli_proxyy
