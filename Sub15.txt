@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#🇩🇪[Telegram:@v2rayng_fars]
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@vmesskhodam
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss47060.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
@@ -500,5 +502,3 @@ vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/&securi
 vless://37ec0496-7136-4efd-bc3d-92dfd163cf6c@www.speedtest.net:2053?path=/cdn/app-assets/v3.3.2/&security=tls&encryption=none&host=cdn-assets.cyberscaler.com&fp=chrome&type=ws&sni=cdn-assets.cyberscaler.com#🇨🇦@FreakConfig
 vless://37d04b77-d08c-4f34-958d-d9f2ff9cc32a@Zula.ir:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560#=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=ws#@confiig_hub
 vless://37d04b77-d08c-4f34-958d-d9f2ff9cc32a@Zula.iR:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🪸-zoxhg5u5
-vless://37d04b77-d08c-4f34-958d-d9f2ff9cc32a@188.114.97.1:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=ws#@bored_vpn
-vless://37b2d296-03ab-4165-a051-70487dff3f59@gozarfreebot.niniweblog.org:2087?security=reality&encryption=none&pbk=0H5WR9mnrd60mwjvw66EEeH5Ay1mx7OEkm59nWF46VI&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=591e2a3f25c6ed9c#@confegraigan

@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://e4a4438f-585b-4555-b8e3-f032def5819c@159.65.120.137:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@159.223.17.117:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@142.93.174.146:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
 vless://e4a4438f-585b-4555-b8e3-f032def5819c@139.59.147.226:443?mode=stream-one&path=/sad&security=reality&encryption=none&pbk=PxUNgm0eZte9F8f8ntMTADWX-37SzRBvlLGLvlOH9lo&fp=chrome&spx=/&type=xhttp&sni=store.steampowered.com#Channel id: @ShadowProxy66 🇩🇪
@@ -501,4 +502,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?encryption=none&security=none&type=grpc#@Golestan_VPN - JOIN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇫🇷]t.me/Raiv2mmr
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?security=&encryption=none&type=grpc#Channel id: @ShadowProxy66 🇫🇷

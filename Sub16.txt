@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://37d04b77-d08c-4f34-958d-d9f2ff9cc32a@188.114.97.1:80?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=ws#@bored_vpn
+vless://37b2d296-03ab-4165-a051-70487dff3f59@gozarfreebot.niniweblog.org:2087?security=reality&encryption=none&pbk=0H5WR9mnrd60mwjvw66EEeH5Ay1mx7OEkm59nWF46VI&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=591e2a3f25c6ed9c#@confegraigan
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@fd.socks.news:80?path=/&security=none&encryption=none&host=007.suburl.sbs&type=ws#@Daily_Configs
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&host=/?BIA_CHANEL@JOKERRVPN&headerType=none&fp=chrome&spx=/JOKERRVPNBIA_CHANEL@JOKERRVPN&type=tcp&sni=www.speedtest.net&sid=cbfe#@CaV2ray ⚡️
 vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cbfe#@CaV2ray ⚡️
@@ -500,5 +502,3 @@ vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=&encryption=none&host=aio.loophole.Biz.iD&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=&encryption=none&host=aio.loophole.Biz.iD&type=ws#[🇨🇦]ae_proxy
 vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=&encryption=none&host=aio.loophole.Biz.iD&type=ws#Channel id: @singbox1 🇨🇦
-vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=&encryption=none&host=aio.loophole.Biz.iD&type=ws#Channel id: @proxy_kafee 🇨🇦
-vless://2cf5523e-c4e2-4e97-be1f-b9b7d356c140@172.67.188.18:80?path=/aioproxybot/8.215.59.6-443&security=&encryption=none&host=aio.loophole.Biz.iD&type=ws#Channel id: @ShadowProxy66 🇨🇦
