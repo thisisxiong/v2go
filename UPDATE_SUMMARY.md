@@ -1,14 +1,14 @@
 # V2Ray Config Update Summary
-Generated on: 2025-09-07 21:41:07 UTC
+Generated on: 2025-09-07 22:07:52 UTC
 
 ## Configuration Statistics
-- Total configurations: 11920
+- Total configurations: 11862
 - Protocol breakdown:
   - ss: 0 configs
   - ssr: 0 configs
   - trojan: 0 configs
   - vless: 0 configs
-  - vmess: 703 configs
+  - vmess: 694 configs
 
 ## Performance
 - Processing time: ~14 seconds (Go implementation)
