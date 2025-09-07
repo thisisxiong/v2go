@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dedic.app-browser.org#@V2rayNGVPN <= کانفیگ رایگان
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dedic.app-browser.org#@Selinc
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dedic.app-browser.org#@HiByeVPNN👈⚡❤️‍🔥
 vless://8f7d7832-3f42-40f6-a5ee-6944be08a31a@195.201.32.169:57276?type=grpc&serviceName=FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL-FAST78_CHANNEL-TEL--FAST78_CHANNEL-JOIN-FAST78_CHANNEL-TEL--FAST78_CHANNEL&authority=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
@@ -501,4 +502,3 @@ vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=/&headerType=http&type=tcp#𝘣𝘭𝘶𝘦 𝘮𝘰𝘰𝘯
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=/&headerType=http&type=tcp#@Selinc
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=/&headerType=http&type=tcp#@Hddify
-vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=/&headerType=http&type=tcp#

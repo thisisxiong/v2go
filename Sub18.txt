@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#@v2rayng_fars تمام نت ها 🟦🟨
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@87.107.110.155:4406?type=tcp&headerType=http&host=www.varzesh3.com&security=none#AKLISvpn🇩🇪✨DE
 vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@87.107.110.155:4406?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@zula.ir:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#@i10VPN 🚀| با ما متصل بمون⚡
@@ -216,7 +217,6 @@ vless://0a506a60-ae3e-499d-9cbd-ab003f9f3f3b@185.176.24.159:443?encryption=none&
 vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413?security=none&encryption=none&headerType=none&type=tcp#IR-@IRAN_V2RAY1
 vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413?security=none&encryption=none&headerType=none&type=tcp#@V2rayNGVPN <= کانفیگ رایگان
 vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://0a30769a-400b-4501-a7f0-47d4eea82ae3@135.125.182.74:38413/?type=tcp&encryption=none&flow=#🌍70@oneclickvpnkeys
@@ -321,6 +321,7 @@ vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=none
 vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Hddify
 vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇫🇮@FreakConfig
 vless://0577389d-b467-4ce0-ac90-87fe581e4701@m70a.vip784.com:33801?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI#@Daily_Configs
+vless://0557b9ff-877c-412d-eb09-2d4988e70299@185.146.173.52:8880?security=none&type=httpupgrade&host=diVAr.iR.DigIcYBer.CLIck.&path=/nazan/pedar/sag#t.me/entryNET/config=1842619367848882
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.215.117.216:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#t.me/entryNET/config=1842600804787250
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.193.223:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.235.199:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
@@ -501,4 +502,3 @@ vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stre
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@sss31842.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&host=skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://000aab6e-553b-4de8-93ef-cca2878f7cec@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
 vless://----telegram-id-ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=GeIm.IsVcLOd.CoM&fp=chrome&type=ws&sni=GeIm.IsVcLOd.CoM#telegram@ISVvpn
-vless://----telegram-id-ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=GeIm.IsVcLOd.CoM&fp=chrome&type=ws&sni=GeIm.IsVcLOd.CoM#@mehrosaboran
