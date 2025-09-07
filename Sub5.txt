@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 Vlees_v2rayng
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@amirw_shop_q
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]ae_proxy
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 🙀
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 💚
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@bad_raqs  @bad_raqs
@@ -64,6 +58,7 @@ vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#@v2rayng_fars
 vless://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@46.62.168.70:23737?mode=gun&security=reality&encryption=none&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&fp=chrome&type=grpc&sni=varzesh3.com&sid=7c0b6c88fe5c#@AblNet7 🐔
 vless://deaea616-5b0e-40a4-ad13-b2ae569a06b4@us1.projecthope.ir:2053?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=us1.projecthope.ir#𝘣𝘭𝘶𝘦 𝘮𝘰𝘰𝘯
+vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&encryption=none&pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&headerType=none&fp=chrome&type=tcp&sni=www.xinghuaequip.com&sid=83#@V2ray1_Ng
 vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&encryption=none&pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&headerType=none&fp=chrome&type=tcp&sni=www.xinghuaequip.com&sid=83#@IRAN_V2RAY1
 vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?encryption=none&security=reality&sni=www.xinghuaequip.com&fp=chrome&pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&sid=83&allowInsecure=1&type=tcp&headerType=none#@Daily_Configs
 vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@188.166.241.155:443?encryption=none&security=reality&sni=www.python.org&fp=chrome&pbk=UODGqiu_eIbrbHTmEpv9kvYUpOe5DwRXR63EmKlE9kc&sid=ca821e6c2e4ebd&type=tcp&headerType=none#@Daily_Configs
@@ -502,3 +497,8 @@ vless://d14d29dd-826f-4c0d-ad22-5091360f4863@Zula.ir:443?mode=auto&path=/ed?/ooA
 vless://d14d29dd-826f-4c0d-ad22-5091360f4863@Zula.ir:443?mode=auto&path=/ed?/ooAaaAAAdyujh7=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
 vless://d14d29dd-826f-4c0d-ad22-5091360f4861@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mtn
 vless://d14d29dd-826f-4c0d-ad22-5091360f4861@Zula.ir:443?mode=auto&path=/ed?/hjjhfddyujh=443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=Main.kasler.lol#@ev2rayy mci
+vless://d14bf1cb-311f-4986-b7b5-2b5efb8c3652@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=hE136.maShkesTan.CoM&fp=chrome&allowinsecure=0&type=ws&sni=hE136.maShkesTan.CoM#[🇩🇪]@configLINE(5)
+vless://d14bf1cb-311f-4986-b7b5-2b5efb8c3652@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=hE136.maShkesTan.CoM&fp=chrome&type=ws&sni=hE136.maShkesTan.CoM#🇩🇪@FreakConfig
+vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@172.66.132.196:443?path=/Tel-@V2ray_Alpha=?ed=2560&security=tls&encryption=none&host=ey.nazanin.dpdns.org&type=ws&sni=ey.nazanin.dpdns.org#@Mrconfig_Channel 🩵
+vless://d1237c01-58b5-48f9-8a27-8a396b7f5422@104.18.209.108:80?path=/?ed=2560&security=none&encryption=none&host=ey.nazanin.dpdns.org&fp=chrome&type=ws&sni=ey.nazanin.dpdns.org#@CaV2ray ⚡️
+vless://d10a51d6-53ea-49af-eb73-8c7e61d6b3be@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
