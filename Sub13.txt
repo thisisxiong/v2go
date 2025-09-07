@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@Dropcube⚡❤️‍🔥
 vless://5c6dd90e-5d05-4877-bb3b-7384f65a10d4@94.183.149.98:3801?encryption=none&security=none&type=tcp&headerType=http#@Daily_Configs
 vless://5c1b687f-6c65-4dd6-be17-fb86d8a919a9@93.127.180.212:8880?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -394,7 +393,6 @@ vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-o
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=/tas&security=tls&alpn=h2&encryption=none&host=ali.tas-bazi.com&fp=chrome&type=xhttp&sni=ali.tas-bazi.com#@CaV2ray ⚡️
 vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
-vless://4dbe9eda-2bb1-4223-95e1-63cff7459620@secure.soratpardaz.ir:15815?security=reality&encryption=none&pbk=YgXkFfG6tuU_qEYtompAi2LlgLRxobwbo5_1Whir3Ac&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=preview.redd.it&sid=e24f1d72d00da7#@NETMelliAnti
 vless://4d93f16b-d2d2-4267-819e-5d5c297efac5@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://4d93f16b-d2d2-4267-819e-5d5c297efac5@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.byte-server.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=/Telegram@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=titantablomanahamrah.ir&fp=chrome&type=ws&sni=TITanTabLOmaNAHaMRaH.IR#@CaV2ray ⚡️
@@ -502,3 +500,5 @@ vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&e
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none#@CaV2ray ⚡️
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇬🇧@FreakConfig
+vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#🇺🇸 @Evay_vpn

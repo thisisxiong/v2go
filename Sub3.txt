@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://f076ae11-156c-45c5-b252-ae8dd6fd1494@91.99.70.212:443?mode=gun&security=reality&encryption=none&authority=&pbk=Zjzu45fPTjjaIcBoYyaLqieLtsWJD8ujdzNOQodWvnk&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#@bored_vpn
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@v2ray313 کانالمون ✨
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@V2rayN5
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#@Selinc
@@ -501,4 +502,3 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&authority=?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&type=grpc#@HiByeVPNN👈⚡❤️‍🔥
