@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#@Golestan_VPN - 👈 کانفیگ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?encryption=none&security=none&type=grpc#@Golestan_VPN - JOIN
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇫🇷[Telegram:NetifyVPN]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -293,6 +291,7 @@ vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?path=/&security=t
 vless://d88937d0-ce43-4bf8-9df6-d632810ba9ff@104.18.131.54:443?encryption=none&security=tls&sni=007.xingfu.qzz.io&fp=chrome&type=ws&host=007.xingfu.qzz.io&path=/#@Daily_Configs
 vless://d8665d45-8103-46e9-9cb7-8902bb7559b4@43.159.99.26:443?path=/texaws&security=tls&encryption=none&host=hk3.kaipi.link&fp=chrome&type=ws&sni=hk3.kaipi.link#Telegram : @Alfa_v2ray_ng 🔥
 vless://d8583e0e-cc71-4260-9c01-1cfcb3678d3e@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#☘️ Telegram | @Green_WPN
+vless://d85076df-2923-4095-82cd-11f668c8cdf0@tab2.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#r♡yaッ@V2rayBaaz
 vless://d8506e85-4631-4513-9651-5914b8b33e5d@www.speedtest.net:2087?type=httpupgrade&path=/@saeedtelcom?ed=2048&host=unitedkingdom.iranfastspeed.net&security=tls&fp=chrome&alpn=h2,http/1.1&sni=unitedkingdom.iranfastspeed.net#@CaV2ray ⚡️
 vless://d84c63de-f41b-44cc-c22e-20d01f38aec7@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-t0w5l0gj
 vless://d846541c-519b-48c0-9c8a-d52b2e8e8330@www.speedtest.net:2086?path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&security=none&encryption=none&host=mahan.mmadvip8563.ir&type=ws#🇩🇪@FreakConfig
@@ -502,3 +501,4 @@ vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?security=reality
 vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#@v2ray313 کانالمون ❤️
 vless://d0a86835-954b-4c2d-9f35-584ce0e052be@136.243.79.227:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#@CodeClubiR جوین نزنی آف میش
 vless://d0a5737f-8220-4fb5-9c22-734888639e83@104.26.15.69:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.byte-server.ir.&type=httpupgrade#🇩🇪 @V2ngFast
+vless://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎 @AblNet7 💎
