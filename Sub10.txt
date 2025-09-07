@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://8fcf0517-ab4d-4b2b-ba6c-559062a97a6d@172.238.117.14:8080?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 🧡
 vless://8fcf0517-ab4d-4b2b-ba6c-559062a97a6d@172.238.117.14:8080?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون ❤️‍🔥
 vless://8fa3730b-8c35-4acd-9ac1-6a08d23a0deb@150.241.108.219:43386?type=tcp&security=reality&pbk=OrhjqqCdUFCD2DW2ZWSjccDRRcVTj2GomOuWE6FFjgY&fp=chrome&sni=www.latimes.com&spx=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN#jn7uwoyz
 vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=dedic.app-browser.org#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
@@ -501,4 +502,3 @@ vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir/&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#[🇩🇪]@confegraigan
 vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=/&headerType=http&type=tcp#🇩🇪@FreakConfig
-vless://7b311017-4c83-490d-87d1-5aeef15a5250@m3a.vip784.com:33801?security=none&encryption=none&host=/&headerType=http&type=tcp#𝘣𝘭𝘶𝘦 𝘮𝘰𝘰𝘯

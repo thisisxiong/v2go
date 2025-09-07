@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://496e91a6-c90c-483d-adb1-133d04d8e725@blog.ruangguru.com.servpn.my.id:443?path=/sg1?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&fp=chrome&type=ws&sni=blog.ruangguru.com.servpn.my.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://496e91a6-c90c-483d-adb1-133d04d8e725@blog.ruangguru.com.servpn.my.id:443?path=/sg1/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=tls&encryption=none&type=ws&sni=blog.ruangguru.com.servpn.my.id#🇺🇸 | @External_Net
 vless://494e78ca-946e-405f-9b0b-495170cac89e@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://494aa0ff-4824-4d23-a75e-ea8c3c6709cd@104.18.14.19:2082?path=/?ed=2560&security=none&encryption=none&host=0127.4zsuplo0.workers.dev&type=ws#Telegram : @Alfa_v2ray_ng 🔥
@@ -502,3 +501,4 @@ vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&p
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#All_@IRAN_V2RAY1
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@V2RAYROZ
+vless://3cf69055-74e9-4f7e-9121-d9a9f15ca79d@91.99.154.189:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Dropcube
