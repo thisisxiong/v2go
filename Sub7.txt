@@ -2,6 +2,11 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://bc43bf3e-b1b2-458c-ad55-7d6a8fe3ed35@91.107.142.194:443?mode=multi&security=reality&encryption=none&authority=MYP_VPN_BOT&pbk=5ga6Mlx6zQN_73YIFOA_UDVSqAB5qRFslGhQDDFvRl4&fp=chrome&spx=/&type=grpc&serviceName=TELEGRAM: MYP_VPN&sni=google.com&sid=b9acf8d1#@Daily_Configs
+vless://bc3120d9-8b56-4caa-b868-a110fbdbbfeb@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46177-2
+vless://bc3120d9-8b56-4caa-b868-a110fbdbbfeb@172.66.40.99:2052?path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=υρρσят-多言語-دعم.snaptripupport.space.&type=ws#🇩🇪@FreakConfig
+vless://bc10bfa0-0b77-45c4-bacc-43a7cbc68ab5@easyflow5er.com:6033?security=reality&encryption=none&pbk=lm_pOODTRgSlqEcSsfebGhzYf-MfzEWEg2aZFPrnrXA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=e4sygoauth.com&sid=bf99917ac8b67654#@Selinc
+vless://bc0d283c-6ab6-4f33-b0e2-4a3d1179e4f5@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=aZ88.MoToRbaZan.CoM&fp=chrome&type=ws&sni=aZ88.MoToRbaZan.CoM#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://bbfe34ff-1ca2-4ed9-8ac9-6ef9fd799320@212.23.214.148:47534?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#1🇮🇷🇩🇪@Evay_vpn
 vless://bbef1e1b-4061-45ce-a6e0-4cec2fe38cc4@m41a.vip784.com:33801?type=tcp&headerType=http&host=varzesh3.ir&security=none#@FREE_VPN02
 vless://bbef1e1b-4061-45ce-a6e0-4cec2fe38cc4@m41a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#Channel : @Mrsoulb 🏴🏳
@@ -26,7 +31,6 @@ vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.218.14:8443?type=xhttp&mode=a
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@NpvV2rayFilTer
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.183.30:8443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.176.24:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
@@ -336,7 +340,6 @@ vless://aceddbc2-2d33-41c0-8fff-ef32e6b55870@91.99.180.86:443?security=none&encr
 vless://aceddbc2-2d33-41c0-8fff-ef32e6b55870@91.99.180.86:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none#🇩🇪[Telegram:NetifyVpn]
 vless://acd867f1-a71b-4a17-a473-2b57930d8678@178.128.231.204:8080?type=tcp&security=reality&fp=chrome&sni=rEfErSion.Com.&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=8e36c7e79b74a6fa&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇨🇦@EVAY_VPN
 vless://acb30534-b06f-4629-b684-5fa712f3efd8@45.89.107.223:443?path=/wxmgbmws&security=tls&encryption=none&type=ws#🇲🇾 Malaysia [@vpnAndroid2
-vless://acababc-acba-bcaa-bdca-baacaacbbbcc@127.0.0.1:1080?security=tls&type=tcp#t.me/entryNET/config=1842707004604716
 vless://ac9492e3-c3f8-40d5-aa77-56e4ea976c34@speedtestcustom.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
 vless://ac4c87df-f112-9469-2025-5eb79b227878@www.crehistory.org:2095?path=/hu?ed=2095&security=none&encryption=none&host=www.dl3.crehistory.org&type=httpupgrade#🇷🇺 • Russia 🔐 @AblNet7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@64.137.109.212:44884#🇫🇮FI | 🔐 @AblNet7
 vless://ac4c87df-f112-9469-2025-5eb79b227878@www.crehistory.org:2095?path=/hu?ed=2095&security=none&encryption=none&host=www.dl3.crehistory.org&type=httpupgrade#@Selinc
@@ -499,6 +502,3 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.230:8443/?type=ws&encrypti
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.230:443?path=/&security=tls&encryption=none&type=ws#@Selinc
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.230:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.230:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.229:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
