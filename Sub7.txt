@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@46.29.34.204:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#@Selinc
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@46.29.34.204:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#@Daily_Configs
 vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&path=/admin?ed=2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram: @IP_CF
 vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&path=/admin?ed=2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#New+Config
 vless://bf36173f-dbdb-4a2d-bc54-8140c352e013@159.89.98.13:443/?type=tcp&path=/&host=playstation.com&headerType=http&security=none#SecreTVPS-Testhaji
@@ -502,3 +500,5 @@ vless://a8b59ad4-1fa5-47fd-cbc5-f7aef9ef390f@www.speedtest.net:80?type=ws&path=/
 vless://a8a386a7-ee32-4dd7-bbe5-5b4ebaa42fd7@45.144.31.234:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=f79448a30d#🇺🇸[Telegram:@v2rayng_fars]
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🇺🇲@FreakConfig
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#t.me/entryNET/config=1842661148658380
+vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Telegram : @Alfa_v2ray_ng 🔥

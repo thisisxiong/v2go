@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#t.me/entryNET/config=1842661148658380
-vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Telegram : @Alfa_v2ray_ng 🔥
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&type=tcp&headerType=none#@Daily_Configs
 vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@Selinc
 vless://a83b75d7-6b87-4201-a12a-8105fad6a8da@www.speedtest.net:2082?path=ð&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-6.RaYaN-6.ClOuDnS.ClUb&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
@@ -502,3 +500,5 @@ vless://Parsashonam-Bot-19@91.99.16.244:443?mode=auto&path=/Parsashonam-Parsasho
 vless://Parsashonam-Bot-19@185.146.173.39:8080?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@v2rayng_fars 🇦🇱
 vless://Parsashonam-Bot-19@104.17.147.22:8880?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#@v2rayng_fars🇺🇲
 vless://Parsashonam-Bot-19@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=none&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#🇫🇮@FreakConfig
+vless://Parsashonam-Bot-19@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#🇫🇮@FreakConfig
+vless://Parsashonam-Bot-19@104.17.147.22:8080?path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056&security=&encryption=none&host=Fi.Parsashonam.CfD.&type=ws#@v2rayng_fars 🇫🇮
