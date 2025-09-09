@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.72:443?path=/&security=tls&encryption=none&type=ws#@v2ray313 کانالمون 🇬🇧
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2096?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&type=ws#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:443?path=/&security=tls&encryption=none&type=ws#@v2ray313 کانالمون 🤌🏻
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2096?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&type=ws#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:443?path=/&security=tls&encryption=none&type=ws#@v2ray313 کانالمون 🫶🏻
@@ -502,3 +500,5 @@ vless://89938a70-b39b-4255-b436-17e703cf5460@ping.amirhossein.info:8443/?type=ws
 vless://89933962-e2d4-4401-9693-48d4d2e9c622@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#[🇹🇷] [Tunnel] [1] Codeclubir-xyZHadi
 vless://89933962-e2d4-4401-9693-48d4d2e9c622@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] [1] Codeclubir-xyZHadi 🇳🇱
 vless://89933962-e2d4-4401-9693-48d4d2e9c622@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] [1] Codeclubir-xyZHadi
+vless://89933962-e2d4-4401-9693-48d4d2e9c622@37.202.237.244:55093?security=none&type=tcp&headerType=none&path=&host=#[🇳🇱] [Tunnel] [1] Codeclubir-xyZHadi
+vless://8984db84-299f-4633-8e71-8c8f074751c4@151.101.242.172:80?mode=auto&path=/@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------@HqV2rayNG-------?ed=1024&security=&encryption=none&host=hqTm.ir&type=xhttp#@confiig_hub
