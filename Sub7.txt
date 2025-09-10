@@ -235,6 +235,7 @@ vless://b0e55a84-681e-4bf8-96be-a7f617dd5afc@152.89.12.77:443?security=none&encr
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=FREEV2RNG&security=none&encryption=none&type=ws#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#All_@IRAN_V2RAY1
+vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@V2rayNGVPN <= کانفیگ رایگان
 vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=/&security=none&encryption=none&type=ws#@Daily_Configs
 vless://b03df2ab-e657-4d94-a7b2-368dcffdbc5d@188.114.98.112:2095?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=none&encryption=none&host=ELENA.ddNS-ip.net.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://b03df2ab-e657-4d94-a7b2-368dcffdbc5d@172.66.46.246:443?path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY?ed=2560&security=tls&encryption=none&host=elena.elena.ddns-ip.net&fp=chrome&type=ws&sni=elena.elena.ddns-ip.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -501,4 +502,3 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.141:8443/?type=ws&encrypt
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.141:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.97:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.97:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.60:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)

@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.60:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.60:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.60:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.138.182:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
@@ -501,4 +502,3 @@ vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=20
 vless://9f8a9503-562a-4c09-87e5-e90c9599e852@Www.Speedtest.net:2052?path=/?ed=2048&security=none&encryption=none&host=www.speedtest.net.RealitySec1.iR.&type=httpupgrade#🇩🇪 | @EXPRESSVPN_420 - CloudFlare
 vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=none&encryption=none&host=assets.global.fastly.net&headerType=http&type=tcp#💎 @AblNet7 💎
 vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=none&encryption=none&host=assets.global.fastly.net&headerType=http&type=tcp#@Selinc
-vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=none&encryption=none&host=assets.global.fastly.net&headerType=http&type=tcp#@AblNet7 🇺🇲
