@@ -2,18 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=none&encryption=none&authority=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#@Daily_Configs
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?mode=gun&security=&encryption=none&type=grpc#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸[🔐 @AblNet7 ] vless-US
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=none&encryption=none&type=grpc#VayNora
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#🇦🇱@SimChin_iR عضو بشید
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#[🇺🇸]ae_proxy
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @Academi_vpn¹
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#Academi_vpn5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#Academi_vpn4
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#Academi_vpn3
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?mode=gun&security=none&encryption=none&type=grpc#Academi_vpn2
@@ -502,3 +490,15 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&secur
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?type=grpc&mode=gun&authority=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#[🇫🇷]@Evay_vpn
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#VayNora
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.139:8880?mode=gun&security=none&encryption=none&type=grpc#@AblNet7 🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 💓
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#@bad_raqs   @bad_raqs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?mode=gun&security=none&encryption=none&type=grpc#@bad_raqs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.153.183.211:8880?encryption=none&security=none&type=grpc#@Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?security=&type=grpc&encryption=none#@awlix_ir
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.204:8880?security=&type=grpc&encryption=none#@awlix_ir
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@135.181.192.108:8880?security=&type=grpc&encryption=none#@awlix_ir
+vless://def9f760-61e8-2646-2a24-42973e96c041@51.195.35.2:4768?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.com&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇫🇷@EVAY_VPN
+vless://def9f760-61e8-2646-2a24-42973e96c041@146.19.143.150:4768?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.com&pbk=1juiWgfU1-cGsbu9zxKCly7Vn3WGES5x6S86r90_vwc&sid=b7e284c9b786f709&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇪🇪@EVAY_VPN
+vless://dee9ba87-240f-4cd4-a245-0584c909b699@157.245.22.76:27426?mode=auto&path=/V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official---V2ray_official&security=reality&encryption=none&pbk=a9_vWuGpJlZk_1pa3iL2z3lRS5DEP13oRckgUJGPvUY&fp=chrome&spx=/&type=xhttp&sni=zhaket.com&sid=6a980a8c7d6a7919#Telegram : @Alfa_v2ray_ng 🔥
