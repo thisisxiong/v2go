@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@101reel.com:443?path=/?ed=2560&security=tls&encryption=none&host=barayeiranmahsang.sabzipolobamahi.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org#@Mrconfig_Channel 🩵
+vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@101reel.com:443/?type=ws&encryption=none&host=barayeiranmahsang.sabzipolobamahi.dpdns.org&path=/?ed=2560&security=tls&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org&fp=chrome#[🇦🇿 CDN] @Geek_Spot
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@101reel.com:443/?type=ws&encryption=none&host=barayeiranmahsang.sabzipolobamahi.dpdns.org&path=/?ed=2560&security=tls&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org&fp=chrome#@Geek_Spot
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@25.129.199.3:8880?path=/---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---/?ed=2560&security=&encryption=none&host=bitget1.asdasd.click&type=ws#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@25.129.199.3:8880?path=/---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY--- /?ed=2560&security=none&encryption=none&host=bitget1.asdasd.click&type=ws#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
@@ -145,6 +147,7 @@ vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&en
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#💎 @AblNet7 💎
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#Telegram : @Alfa_v2ray_ng 🔥
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#@dropcube
+vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&sid=#t.me/entryNET/config=1842943500831115
 vless://adb21e18-c07c-4c3f-a1c0-dff5667bd69c@germosh.babakphotographi.ir:21184?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@v2ray313 کانالمون 💖
 vless://adb21e18-c07c-4c3f-a1c0-dff5667bd69c@germosh.babakphotographi.ir:21184?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#@V2rayN5 / @mhmdreza_it-🇩🇪
 vless://ad7666ba-a2f0-4bc0-a591-c2b5c71defc8@login.dayhostpro.com:25685?security=reality&encryption=none&pbk=mh8q2kQofhOY1y0L2UWOiJ8OedYKb0G7jD0GK_A0YRs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hoteltonight-test.com&sid=80e33dd85656c7#Telegram: @FergalVpnMod 🇩🇪
@@ -499,6 +502,3 @@ vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&e
 vless://a26c2b7b-a277-404b-bc3e-20c05a828eed@91.107.190.242:1720?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Daily_Configs
 vless://a24481eb-0496-4ab9-9bd0-af1d530df91d@5.255.120.217:80?mode=auto&path=/pwp&security=reality&encryption=none&pbk=C4LNbOB3Ar0cntu528Jtn5ivsMZhyk9tkuAlU-jeCio&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=8c#@CaV2ray ⚡️
 vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
-vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🇩🇪@FreakConfig
-vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🐳
-vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?security=none&encryption=none&host=speedtest.net/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@MARAMBASHI 🇩🇪
