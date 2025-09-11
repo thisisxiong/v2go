@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?encryption=none&security=none&type=grpc#@Golestan_VPN - JOIN
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880?security=&sni=pqh33v6.cinema33.shop&type=grpc&encryption=none#@awlix_ir
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?encryption=none&security=none&type=grpc#@Golestan_VPN - 👈 خرید کانفیگ
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:NetifyVPN]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.142:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
@@ -293,6 +295,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#✅ @vistav2ray  👈👈کانال ما
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.114.143:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=none&encryption=none&type=grpc#VayNora
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?security=&encryption=none&type=grpc#Channel id: @ShadowProxy66 🇫🇷
@@ -499,6 +502,3 @@ vless://db400287-fb42-441d-8a76-5624a8a96f49@cdnjs.com:443?path=/?ed=#/?Join----
 vless://db3c93f2-f18f-4acf-c452-89b4da07d07a@104.16.1.106:80?path=/&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@www.speedtest.net:8080?type=ws&host=Unlimiteddev-join.paradoxone.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link2
 vless://db0edd3d-b3f3-453f-e0b2-1d55c74c0c71@cumhuriyet.com.tr:8080?type=ws&host=Unlimiteddev-join.paradoxone.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link1
-vless://daffd076-1643-41c6-ad60-edc3f280f809@www.speedtest.net:8080?type=ws&host=Unlimiteddev-join.paradoxone.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link2
-vless://daffd076-1643-41c6-ad60-edc3f280f809@cumhuriyet.com.tr:8080?type=ws&host=Unlimiteddev-join.paradoxone.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link1
-vless://dafa0b54-901a-4dc2-bc13-82ec7ca04fb7@2.189.59.2:443?security=tls&encryption=none&type=grpc&sni=mci.unlimiteddev-vpn.Com.&fp=chrome&serviceName=Channel:@UnlimitedDev#Awlix_ir
