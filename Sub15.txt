@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://35a0361a-c0d4-42e0-9022-b3c9f647837d@167.235.67.79:11260/?encryption=none&host=fast.com&type=tcp&headerType=http#@Geek_Spot
 vless://35804421-0d60-4dff-acda-6dded7323b1d@91.107.251.143:6745?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?security=tls&encryption=none&type=ws&host=MARgBarsefASEd-MOlA-CHapI-MOJaheD.PAGes.deV&path=/Telegram@V2ray_Alpha/?ed=2048&sni=maRgBarSEFASEd-molA-cHApI-moJaHED.PaGeS.Dev&fp=chrome&alpn=h2,http/1.1#Awlix_ir
 vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@rose1.camellia2.shop:1991/?encryption=none&host=bama.ir&type=tcp&headerType=http#@Geek_Spot
@@ -502,3 +501,4 @@ vless://280539b0-05e1-4192-b37d-e647c4fca511@172.66.40.99:80?path=/telegram-CONF
 vless://280539b0-05e1-4192-b37d-e647c4fca511@172.66.40.99:80?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=end.dr-mojtaba.ir&type=ws#@confiig_hub
 vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://27f11226-2d7b-4aa1-9d3c-c6557734c8a4@151.101.2.57:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=&encryption=none&host=shlnlpld.global.ssl.fastly.net&type=xhttp#@confiig_hub
+vless://27b61a3e-ef8c-4bc8-923f-f4ac433d1056@157.230.16.250:50395?type=kcp&headerType=none&seed=K1nVjOzkLe&security=none#کانال ما @MrConfig_Channel🎴
