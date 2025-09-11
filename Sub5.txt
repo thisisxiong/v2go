@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=/&security=&encryption=none&type=ws#🇳🇱 [@vpnAndroid2
-vless://ddc25bf8-aac7-4eec-a69b-ba468c249728@167.172.99.53:29434?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://ddc25bf8-aac7-4eec-a69b-ba468c249728@167.172.99.53:29434?security=&encryption=none&headerType=none&type=tcp#@Dropcube
 vless://dd785871-d998-4752-8232-fd6eafa2f027@speedtestcustom.com:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#tm⚡|@lightning6
 vless://dd785871-d998-4752-8232-fd6eafa2f027@speedtestcustom.com:80?path=-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#Telegram@ConfingV2RaayNG
@@ -502,3 +500,5 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&secur
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-19.access.name.ng&type=ws&sni=lease-19.access.name.ng#@Selinc
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@V2ray1_Ng
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-15.access.name.ng&type=ws&sni=lease-15.access.name.ng#🇬🇧 | @External_Net
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-15.access.name.ng&fp=chrome&type=ws&sni=lease-15.access.name.ng#🇬🇧@FreakConfig

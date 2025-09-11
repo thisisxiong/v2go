@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@V2ray1_Ng
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@Selinc
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.183:443?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#AZADIV2RAYY  جوین بده 🇳🇱
-vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🇳🇱@FreakConfig
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel id: @ShadowProxy66 🇷🇺
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@V2ray1_Ng
@@ -502,3 +498,7 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss71706.tas-bazi.com:443?mode=stre
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss71706.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss71706.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#t.me/iProxy_Channel 4
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss56902.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Telegram: @vpnbaz
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss56902.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss56902.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#Channel : @Mrdarc 🏴🏳
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss56902.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#Telegram: @vpnbaz
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#AZADIV2RAYY  👈🏻 بیا  🇩🇪
