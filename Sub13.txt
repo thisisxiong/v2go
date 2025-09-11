@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#Channel id: @ShadowProxy66 🇷🇺
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@V2ray1_Ng
 vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@Daily_Configs
@@ -205,9 +206,7 @@ vless://4e079669-bc8b-b66e-0359-0c5c4ec24cc0@irmagic.bestusedengines.com:8443?se
 vless://4e079669-bc8b-b66e-0359-0c5c4ec24cc0@irmagic.bestusedengines.com:8443?security=none&encryption=none&headerType=http&type=tcp#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://4e079669-bc8b-b66e-0359-0c5c4ec24cc0@irmagic.bestusedengines.com:8443?security=none&encryption=none&headerType=http&type=tcp#قطع شد بیا اینجا بردار@V2GaMaBot
 vless://4e079669-bc8b-b66e-0359-0c5c4ec24cc0@irmagic.bestusedengines.com:8443?security=none&encryption=none&headerType=http&type=tcp#@NETMelliAnti 👈🏻👈🏻سرورجدید داخل چنل
-vless://4e079669-bc8b-b66e-0359-0c5c4ec24cc0@irmagic.bestusedengines.com:8443?security=none&encryption=none&headerType=http&type=tcp#@NETMelliAnti جوین بزنی آف نمیشه
 vless://4e079669-bc8b-b66e-0359-0c5c4ec24cc0@irmagic.bestusedengines.com:8443?security=none&encryption=none&headerType=http&type=tcp#@NETMelliAnti
-vless://4e079669-bc8b-b66e-0359-0c5c4ec24cc0@PIT.bestusedengines.com:32841?security=none&encryption=none&host=avashop10.com&headerType=http&type=tcp#@NETMelliAnti👈🏻👈🏻سرورجدید داخل چنل🥀❤
 vless://4e079669-bc8b-b66e-0359-0c5c4ec24cc0@PIT.bestusedengines.com:25466?security=none&encryption=none&host=avashop10.com&headerType=http&type=tcp#@NETMelliAnti : چنل کانفیگ
 vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://4e01969c-88a2-43c7-8906-e9bf023fa69d@91.107.154.247:1913?security=&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam
@@ -502,3 +501,4 @@ vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss56902.tas-bazi.com:443?mode=stre
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss56902.tas-bazi.com:443?mode=stream-one&path=/sc&security=&encryption=none&type=xhttp#Telegram: @vpnbaz
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#AZADIV2RAYY  👈🏻 بیا  🇩🇪
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss53988.tas-bazi.com:443?mode=stream-one&path=/sc&security=none&encryption=none&type=xhttp#r♡yaッ
