@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ali2.gerlemondns.info&fp=chrome&type=ws&sni=ali2.gerlemondns.info#Telegram : @Alfa_v2ray_ng 🔥
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ali2.gerlemondns.info&fp=chrome&type=ws&sni=ali2.gerlemondns.info#@i10VPN 🚀| با ما متصل بمون⚡
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ali2.gerlemondns.info&fp=chrome&type=ws&sni=ali2.gerlemondns.info#@Dropcube
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&fp=chrome&type=ws&sni=o6.gerlemondns.info#Channel : @Mrsoulb 🏴🏳
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&fp=chrome&type=ws&sni=o3.gerlemondns.info#Channel : @Mrsoulb 🏴🏳
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&host=ftm2.gerlemondns.info&fp=chrome&type=ws&sni=ftm2.gerlemondns.info#telegram: freev2ray_ir🏴󠁧󠁢󠁥󠁮󠁧󠁿
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&path=/hjgfdws&security=tls&encryption=none&fp=chrome&type=ws&sni=o6.gerlemondns.info#🇫🇮[Telegram:NetifyVPN]
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?encryption=none&security=tls&sni=ftm2.gerlemondns.info&fp=chrome&type=ws&host=ftm2.gerlemondns.info&path=/hjgfdws#@Daily_Configs
@@ -502,3 +497,8 @@ vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&sec
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=ikco.ir.oadeflantrogmnl1.mahanmapcdn.com&fp=chrome&type=ws&sni=ikco.ir#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=alef.ir.oadeflantrogm.mahanmapcdn.com&fp=chrome&type=ws&sni=alef.ir#@CaV2ray ⚡️
 vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=/?ed=443&security=tls&encryption=none&host=1001co.com.wnticacenich1.mapircdn.com&fp=chrome&type=ws&sni=1001co.com#@CaV2ray ⚡️
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.200:443?path=/?ed=443&security=tls&encryption=none&host=cafeamiran.com.bugtr15sv.mapircdn.com&fp=chrome&type=ws&sni=cafeamiran.com#@CaV2ray ⚡️
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.200:443?path=/?ed=443&security=tls&encryption=none&host=aiomovie.ir.wnticaceninl10.mahanmapcdn.com&fp=chrome&type=ws&sni=aiomovie.ir#@CaV2ray ⚡️
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&host=vikimovie.ir.uiblapridayavl.iranaircdn.com&fp=chrome&type=ws&sni=vikimovie.ir#@CaV2ray ⚡️
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=/?ed=443&security=tls&encryption=none&host=irancellapp.ir.turcancowntiv.airasiadl.com&fp=chrome&type=ws&sni=irancellapp.ir#@CaV2ray ⚡️
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=/?ed=443&security=tls&encryption=none&host=mercimovie.ir.oadeflantrogmnl5.abrirmahan.com&fp=chrome&type=ws&sni=mercimovie.ir#@CaV2ray ⚡️
