@@ -2,14 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
-vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@V2ray1_Ng
-vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@V2RAYROZ
-vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@IRAN_V2RAY1
-vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Daily_Configs
-vless://f0015f11-7d11-4a17-a260-dc6ef7b48716@sss25065.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/xhttp&mode=stream-one#@Daily_Configs
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?encryption=none&security=tls&sni=net-aCcOUNt02.Pages.DEv&fp=chrome&type=ws&host=net-aCcOUNt02.Pages.DEv&path=/dy26vBaDi5RTblzP?ed=2560#@Golestan_VPN - JOIN
 vless://efe1c1fa-896d-4ea5-9a57-ebb56aebe165@de.cartfunshop.com:47193?security=reality&encryption=none&pbk=dB2A7VQlYjwi_yV-2B02ZZzbRxrwG5L8fK_k0qN0_AY&headerType=none&fp=chrome&type=tcp&sni=www.pcmag.com&sid=82bf76bf5e1008d8#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://efcfaf9b-9446-4d49-a451-c66bcfe39e0c@63.141.128.38:8080?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=xhttp#@v2rayng_fars
@@ -502,3 +494,11 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#@Academi_vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=&encryption=none&type=grpc#🇺🇸𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?encryption=none&security=none&type=grpc#@Daily_Configs
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.185:8880?encryption=none&security=none&type=grpc#@Golestan_VPN - JOIN
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?mode=gun&security=none&encryption=none&type=grpc#Channel : @Mrdarc 🏴🏳
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.184:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 💓
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=&encryption=none&type=grpc#🇺🇸[Telegram:NetifyVPN]
