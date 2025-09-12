@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@91.99.153.13:443?type=xhttp&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=www.tgju.org&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&sid=cd0b#🇩🇪 @Evay_vpn
+vless://89b64978-6244-4bf3-bf64-67ade4ce5c8f@172.67.153.74:2087?path=/?ed=2048&security=tls&encryption=none&host=node.vauth.workers.dev&type=ws&sni=node.vauth.workers.dev#Telegram : @Alfa_v2ray_ng 🔥
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.80.111.55:80?path=/&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@Golestan_VPN 👈 چنل
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?encryption=none&security=none&fp=chrome&type=ws&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=/#@Golestan_VPN - JOIN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.5.226:80?security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@Geek_Spot
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.211.145:80?path=/&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@Golestan_VPN 👈 چنل
@@ -499,6 +502,3 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&p
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#r♡yaッ
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#[🇩🇪]
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Dropcube
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Daily_Configs
