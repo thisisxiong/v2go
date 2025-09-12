@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#t.me/iProxy_Channel 25
+vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#MCI-@IRAN_V2RAY1
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@v2rayng_fars @Pruuxi
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@v2rayng_fars
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@Selinc
@@ -500,5 +502,3 @@ vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@172.64.229.222:2096?path=/free/1.17
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@162.159.153.144:443?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @singbox1 🇨🇦
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@135.84.76.152:2087?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @singbox1 🇺🇸
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@135.84.76.152:2087?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#@i10VPN 🚀| با ما متصل بمون⚡
-vless://2bcb833d-1360-4354-83ad-f8979ab9712e@54.36.117.130:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram : @Alfa_v2ray_ng 🔥
-vless://2bcb833d-1360-4354-83ad-f8979ab9712e@54.36.117.130:8080?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#t.me/iProxyChannel 19

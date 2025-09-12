@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.132.59:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#All_@IRAN_V2RAY1
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.126.93:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@v2ray313 کانالمون 😅
@@ -437,8 +438,6 @@ vless://a7bfa412-5216-4903-9996-5b48da092172@f.paliss.ir:2525?security=none&encr
 vless://a7bfa412-5216-4903-9996-5b48da092172@f.paliss.ir:2525?security=none&encryption=none&host=f.paliss.ir&headerType=none&type=tcp#🇫🇮@FreakConfig
 vless://a7ba32f6-1861-460d-a237-e30d4ee415d0@188.114.98.68:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://a7a6f432-903c-4e92-a107-4b559b8c176b@www.speedtest.net:2086/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=mahan.mmadvip8563.ir&security=none#@ZedBaz_vpn
-vless://a73c3f67-e303-43e7-841d-ff57b141938b@germanya.motorbazan.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#آلمان🇩🇪
-vless://a73c3f67-e303-43e7-841d-ff57b141938b@canadaa.motorbazan.com:8443?security=reality&encryption=none&pbk=nn2Vf-5Q8DqxunZXrhIXUr329pkYvLyEb10zRVjpIxk&headerType=none&fp=chrome&type=tcp&sni=stackoverflow.com#کانادا🇨🇦
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=/Tel-@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=/Tel-@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#Telegram : @Alfa_v2ray_ng 🔥
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=/Tel-@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan .changli.ddns-ip.net#@Dropcube
@@ -502,3 +501,4 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.229:8443/?type=ws&encrypt
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.229:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.229:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@86.104.74.207:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
