@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.9.55:443?path=/Telegram-V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=rayan-fg-4.sahel.filegear-sg.me&fp=chrome&type=ws&sni=rayan-fg-4.sahel.filegear-sg.me#@CaV2ray ⚡️
 vless://edd9414d-acbb-4d5a-90e2-52449dfbf430@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46189-2
 vless://edd9414d-acbb-4d5a-90e2-52449dfbf430@172.66.40.99:2052?path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=υρρσят-多言語-دعم.snaptripupport.space.&type=ws#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://edd9414d-acbb-4d5a-90e2-52449dfbf430@172.66.40.99:2052?path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=υρρσят-多言語-دعم.snaptripupport.space.&type=ws#@v2rayng_fars
@@ -502,3 +501,4 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&secur
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.157:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.157:8880?mode=gun&security=&encryption=none&type=grpc#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&mode=gun&security=none&encryption=none&type=grpc#🇺🇸[Telegram:NetifyVPN]
