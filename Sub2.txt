@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss52355.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#All_@IRAN_V2RAY1
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss35225.tas-bazi.com:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#@Selinc
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.83.179:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.83.179:443?mode=stream-one&path=/rty&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
@@ -151,7 +150,6 @@ vless://e92913a6-6dcb-4567-b7d7-55dbc8aa5661@172.66.40.99:8880?path=/@MdVpnSec--
 vless://e8fefbde-2d52-48f1-8202-720539328853@cconfigv2ray.v2rayngst.shop:80?path=/@cconfig_v2ray@cconfig_v2ray@cconfig_v2ray@cconfig_v2ray&security=none&encryption=none&host=cconfigv2ray.v2rayngst.shop&type=ws#👉⚡Join+@Cconfig_v2ray+Follow💥👈
 vless://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&type=ws&path=/telegram-mitivpn&host=iriknet.ir&encryption=none#@awlix_ir
 vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#r♡yaッ
 vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Telegram: @Hddify
 vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#All_@IRAN_V2RAY1
 vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Dropcube
@@ -502,3 +500,5 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=g
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.249.94:8880?security=&type=grpc&encryption=none#@awlix_ir
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.125:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.114.143:8880?security=&type=grpc&encryption=none#@awlix_ir

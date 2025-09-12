@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.9:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.8:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.8:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443?path=/&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.5:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.4:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -100,11 +95,9 @@ vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&p
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#r♡yaッ
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#[🇩🇪]
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@Dropcube
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#🇩🇪@FreakConfig
-vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.143.20:443?mode=stream-one&path=/xhttp&security=&encryption=none&type=xhttp#r♡yaッ
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.137.185:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.137.185:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪@FreakConfig
 vless://7606bb75-416a-4f99-ba20-019cb25543cf@91.107.137.185:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
@@ -502,3 +495,10 @@ vless://60b4bff4-c1f7-4016-aa20-77b818c77f66@142.214.154.33:50656?security=reali
 vless://60b4a4c0-bc64-46d8-9bb9-bb18325532d5@104.17.26.182:2087?path=/Telegram@FreeConnection_VPN/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=chrome&type=ws&sni=NeT.RpTmSvMVm.ToP#Telegram : @Alfa_v2ray_ng 🔥
 vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://60980999-7576-453d-8a95-efe5829e7f74@Holn.xmonys.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://60980999-7576-453d-8a95-efe5829e7f74@Holn.xmonys.com:625?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#AZADIV2RAYY NL 🇳🇱
+vless://60882caa-4e74-42a2-be70-220755fc1551@104.18.155.119:443?path=/?ed=2560fp=chrome&security=tls&encryption=none&host=rayan-karma.parvaneh.dpdns.org&type=ws&sni=rayan-karma.parvaneh.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
+vless://6035325d-399a-5148-9126-29cedfd5966a@92.118.112.83:443?security=reality&encryption=none&pbk=Gd8fDDLpqXZoIybSXnBaN-YWrpbgqe2944h0cjXA4wk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=3a84f8ce#🇺🇲@FreakConfig
+vless://6035325d-399a-5148-9126-29cedfd5966a@92.118.112.83:443?security=reality&encryption=none&pbk=Gd8fDDLpqXZoIybSXnBaN-YWrpbgqe2944h0cjXA4wk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=3a84f8ce#Telegram : @Alfa_v2ray_ng 🔥
+vless://6035325d-399a-5148-9126-29cedfd5966a@89.169.36.89:443?security=reality&encryption=none&pbk=9o0XYIDgXjRHlq4zWmpp_E2QfJxo2bA3Yx6lZe-NWnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=512f6a1a#[🏁]
+vless://6035325d-399a-5148-9126-29cedfd5966a@45.144.172.64:443?security=reality&encryption=none&pbk=9-bdJcaMR1RsIEqLSwTh-HH-gywgEPnHNoMjownXeDQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=1f573119#Telegram : @Alfa_v2ray_ng 🔥
+vless://6035325d-399a-5148-9126-29cedfd5966a@194.87.45.106:443?security=reality&encryption=none&pbk=OwBInmgIQ7Lt8J4noI304QjBQAccErkPDbMEcMweh0c&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=518e46e1#Telegram : @Alfa_v2ray_ng 🔥
