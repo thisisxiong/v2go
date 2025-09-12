@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&encryption=none&pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&headerType=none&fp=chrome&type=tcp&sni=www.xinghuaequip.com&sid=83#@V2ray1_Ng
-vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@64.225.5.5:443?security=reality&encryption=none&pbk=IUupw9yy4Snz2RRoaFtrOO7KWqyn31IuN5bMqzNU7Uc&headerType=none&fp=chrome&type=tcp&sni=www.xinghuaequip.com&sid=83#@IRAN_V2RAY1
-vless://dead1bb8-e95a-4517-8ed2-e0694de80ba6@138.197.215.108:443?security=reality&encryption=none&pbk=YyHLH09FoCQ7NvAPFcjXfjIiKU7wRTi-Ri8ahnqaoGU&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=5175dd3850#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@99.199.73.47:6068?security=none&encryption=none&host=bmw.com&headerType=http&fp=chrome&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://de7e69b8-c4e7-4461-f061-12f42115b51b@104.16.1.106:80?path=/&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://de5b602d-caba-47d2-a5ee-9acfb43ff5a8@91.107.250.50:8080?note=JOIN----@AZADIV2RAYY----JOIN----@AZADIV2RAYY----JOIN---@AZADIV2RAYY-‐-JOIN---@AZADIV2RAYY-----bia-‐--@AZADIV2RAYY---Bia---@AZADIV2RAYY&security=reality&encryption=none&pbk=W0UG0rGAgz7UfAoT6s4v-qRWukTNK8yahSmzXOFJaQs&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net&sid=2034cb#AZADIV2RAYY DE 🇩🇪
@@ -502,3 +499,6 @@ vless://cd0c470a-d10a-4d3c-a901-425936312c1e@23.227.38.32:2053?path=/homepage?ed
 vless://cd050e98-424c-405b-82fb-12f2b0b8fba6@gem.talashit.com:8282?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#🇩🇪@FreakConfig
 vless://cd050e98-424c-405b-82fb-12f2b0b8fba6@gem.talashit.com:8282?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#AZADIV2RAYY DE JOIN 🇩🇪
 vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@turkey.jewelll.ir:3311?mode=gun&security=none&encryption=none&type=grpc#@CaV2ray ⚡️
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@85.133.215.188:3311?mode=gun&security=none&encryption=none&type=grpc#@CaV2ray ⚡️
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-15.access.name.ng&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=tls&sni=lease-15.access.name.ng#🇬🇧 | @Evay_vpn
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&encryption=none&host=lease-18.access.name.ng&fp=chrome&type=ws&sni=lease-18.access.name.ng#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆

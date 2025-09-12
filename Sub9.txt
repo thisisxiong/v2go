@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://Parsashonam-304@91.99.16.244:443?mode=auto&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=reality&encryption=none&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&fp=chrome&spx=/&type=xhttp&sni=Google.com&sid=61e683d41fdb#@v2rayng_fars🇦🇱
-vless://Parsashonam-304@185.146.173.39:8880?security=none&encryption=none&type=httpupgrade#TEL: @V2RAYNG_IP🇩🇪(1)
-vless://Parsashonam-304@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@v2rayng_fars 🇩🇪
 vless://Parsashonam-304@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@azadiiivpn🇩🇪
 vless://Parsashonam-303@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
 vless://Parsashonam-303@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Selinc
@@ -502,3 +499,6 @@ vless://8cf61002-0f8c-482e-997d-078283d52363@www.speedtest.net:2053?encryption=n
 vless://8cec3732-7131-46bc-c485-7b1d5fd776ba@91.99.236.124:51479?security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram : @VPN_ROOM 🇩🇪
 vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&encryption=none&type=ws&host=c1c569fc.irani-eub.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2048&sni=c1c569fc.irani-eub.pages.dev&fp=chrome#Awlix_ir
 vless://8ceac519-7b18-47a5-b53e-d37ba318b0aa@172.66.47.185:443?security=tls&encryption=none&type=ws&host=c1c569fc.irani-eub.pages.dev&path=/?ed=2048&sni=c1c569fc.irani-eub.pages.dev&fp=chrome#Awlix_ir
+vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.246.29:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=lv.2138937.xyz&type=ws&sni=lv.2138937.xyz#@CaV2ray ⚡️
+vless://8ce6e2fe-23f5-4478-80b7-745779c52577@172.66.132.196:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=lv.2138937.xyz&type=ws&sni=lv.2138937.xyz#@Mrconfig_Channel 🩵
+vless://8cce45a5-6c56-4d40-a83d-a2a658c4b31f@172.66.40.99:8880?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=www.dollardoon.com&type=httpupgrade#@v2rayfast_7❤️‍🔥
