@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.192.183:443?path=/YnqGMcAt/&security=tls&encryption=none&host=abc.vpneee.top&fp=chrome&type=ws&sni=abc.vpneee.top#Telegram : @Alfa_v2ray_ng 🔥
 vless://822d89bc-77b4-4f2b-a2c8-d6d65cf68364@217.114.40.1:6400?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#unilmit-t7ek518o
 vless://81dcfd51-a977-47b4-8a89-b203cc8ef3a6@212.23.214.196:48265?type=tcp&headerType=http&host=telewebion.com&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#5 🇮🇷🇩🇪@Evay_vpn
 vless://8169cd18-e824-47a4-a4d4-96433b1a519d@172.67.161.104:80?path=/?ed=2048&security=none&encryption=none&host=testdvpnhub69.95f425b718.workers.dev&type=ws#Telegram : @Alfa_v2ray_ng 🔥
@@ -76,9 +77,6 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&sni=
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=/Telegram@V2ray_Alpha&security=tls&alpn=h2,http/1.1&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws&sni=my.ski1plag.ir#@CaV2ray ⚡️
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080?path=/download&security=&encryption=none&host=my.ski1plag.ir&type=ws#@Mrconfig_Channel 🩵
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8080/?type=ws&encryption=none&host=my.ski1plag.ir&path=/download&packetEncoding=xudp#@Geek_Spot
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🇳🇱 𝐈𝐑𝐂𝐏 | @Ln2Ray
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🇳🇱 𝐈𝐑𝐂𝐏 H2 | @Ln2Ray
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🇳🇱 𝐈
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@vmesskhodam
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@AblNet7 🇮🇷 نت ملی
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?mode=stream-one&path=/statue/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@HiByeVPNN👈⚡❤️‍🔥
@@ -502,3 +500,5 @@ vless://69aa1af0-c33a-4f59-9316-3c9e76f08f5d@Www.speedtest.net:2095?path=/@IRAN_
 vless://697eabfd-653c-4da2-8b3f-b4806e0b60aa@139.162.145.100:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://697eabfd-653c-4da2-8b3f-b4806e0b60aa@139.162.145.100:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#[🇩🇪]ae_proxy
 vless://697eabfd-653c-4da2-8b3f-b4806e0b60aa@139.162.145.100:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#@Selinc
+vless://69533cc5-6caf-47fd-8659-bf9e6128d5f8@viop.fast.hosting-ip.com:80?type=xhttp&path=/Amirrezagol?ed=2560&host=amirrezagol.global.ssl.fastly.net&mode=auto&security=none#@Mrconfig_Channel 🩵
+vless://694d192c-d8ef-44e8-a128-9a86abed7cd9@146.75.123.82:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#Telegram@ConfingV2RaayNG
