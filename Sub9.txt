@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d17.ALanhIAhO.COM&type=ws&sni=d17.ALanhIAhO.COM#[🇨🇦]
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d17.ALanhIAhO.COM&type=ws&sni=d17.ALanhIAhO.COM#Telegram : @Alfa_v2ray_ng 🔥
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d17.ALanhIAhO.COM&type=ws&sni=d17.ALanhIAhO.COM#Allـ@Iran_v2ray1
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=d17.ALanhIAhO.COM&type=ws&sni=d17.ALanhIAhO.COM#@IRAN_V2RAY1
@@ -414,7 +415,6 @@ vless://3f042483-c71c-40cc-a4b7-d79f80db4253@91.107.243.238:2025?mode=gun&securi
 vless://3eda67be-be15-4d61-9943-85772cf664b7@104.24.40.146:443?path=/index.html?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#Telegram : @Alfa_v2ray_ng 🔥
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#@Mrconfig_Channel 🩵
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Op.mciickoir.ir:9620?security=&encryption=none&host=uptvs.com&headerType=http&type=tcp#@Mrconfig_Channel 🩵
-vless://3ec7a6b6-6176-4691-ff7c-3616aae9396b@www.speedtest.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=none&encryption=none&host=www.speedtest-iran.ir&type=httpupgrade#🇩🇪@Alfred_Config
 vless://3ec5186b-d636-48b0-9a0a-30d824f63078@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=asebeeme.global.ssl.fastly.net&type=xhttp#@CaV2ray ⚡️
 vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&security=none&encryption=none&type=ws#[🇬🇧]
 vless://3e7d7af8-fa51-4b7f-bbe2-786599550ddc@165.232.103.60:16595?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🔐 @AblNet7
