@@ -399,6 +399,7 @@ vless://55b596f8-1a15-4752-b0b5-9198b3680fd7@c1.arshiashop.org:2086?type=ws&path
 vless://558393ec-d70d-4a05-b412-e59f2436cc14@104.167.199.95:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇺🇸 | @External_Net
 vless://5562b859-cd73-9cd2-98ec-c3f308ce63a2@fr.zeroboostspeed.org:1231/?encryption=none&host=Fast.com&type=tcp&headerType=http#@Geek_Spot
 vless://554e89e9-5d47-408a-ee92-2fa8506bc78c@zula.ir:2087?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h2,http/1.1&encryption=none&host=Hopev2.hopebook75zulawu.online.&fp=chrome&type=ws&sni=Hopev2.hopebook75zulawu.online#@bad_raqs
+vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@bored_vpn
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@ata_connect
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@IRAN_V2RAY1
 vless://55143323-5ef4-45c2-b8fb-9f7b987589e6@lwndnnw.js87nlw.iwhwkdh87.owjfj87kdk.theiranoflegends.com:883?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@CaV2ray ⚡️
@@ -501,4 +502,3 @@ vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?mode=gun&securit
 vless://50b25340-baf4-4e5b-b1d8-cba632e61623@83.149.105.62:7195?mode=gun&security=none&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=grpc&serviceName=7195vless#🇳🇱 | @External_Net
 vless://507c8350-7257-4ed3-92f8-2421be601c02@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46164-2
 vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @HAJIMAMADVPN-6
-vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@EXPRESSVPN_420.fAst.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#@EXPRESSVPN_420
