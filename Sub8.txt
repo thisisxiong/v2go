@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@Dropcube
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=/sg3/?ed=2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#All_@IRAN_V2RAY1
@@ -501,4 +502,3 @@ vless://200fa9ac-dc45-48c3-a278-94cdc18e008e@47.239.5.71:36944?security=none&enc
 vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2,http/1.1&encryption=none&host=/?BIA_PLANB_PROXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2,http/1.1&encryption=none&host=/?BIA_PLANB_PROXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#@Academi_vpn6
 vless://1lpxy6haqm@45.15.167.13:443?security=tls&alpn=h2,http/1.1&encryption=none&host=/?BIA_PLANB_PROXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#@Academi_vpn5
-vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#@ata_connect
