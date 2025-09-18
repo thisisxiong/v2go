@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://78e3cff7-75e1-4418-9db0-b3a00aece703@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
+vless://78e3cff7-75e1-4418-9db0-b3a00aece703@numberland.ir:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@104.26.4.112:2052?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@bored_vpn
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@104.17.148.22:2052?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@bored_vpn
 vless://78cd6075-2e30-41f6-9b50-cd4da39a4895@Zula.ir:8880?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.Web.tr.&security=none#Binextify⭐-n19aqws30
@@ -500,5 +502,3 @@ vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&secur
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ali2.gerlemondns.info&fp=chrome&type=ws&sni=ali2.gerlemondns.info#[🇺🇸]
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ali2.gerlemondns.info&fp=chrome&type=ws&sni=ali2.gerlemondns.info#@i10VPN 🚀| با ما متصل بمون⚡
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&host=ali2.gerlemondns.info&fp=chrome&type=ws&sni=ali2.gerlemondns.info#@Dropcube
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&fp=chrome&type=ws&sni=o6.gerlemondns.info#Channel : @Mrsoulb 🏴🏳
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?path=/hjgfdws&security=tls&encryption=none&fp=chrome&type=ws&sni=o3.gerlemondns.info#Channel : @Mrsoulb 🏴🏳
