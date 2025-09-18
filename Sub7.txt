@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://59da1c2b-34cb-4694-8be4-5f933c692ecc@95.38.197.116:33142?security=none&encryption=none&host=cloudflare.com&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
-vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=none&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodan
-vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://598cb690-b398-40a9-be9d-9c629c32f613@Zula.iR:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🪸-sy8knn0q
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@91.107.255.211:80?path=/hjgfdws&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@65.109.214.71:80?path=/hjgfdws&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
@@ -502,3 +498,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&securit
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#All-@IRAN_V2RAY1
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#All-@IRAN_V2RAY1
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#All-@IRAN_V2RAY1
+vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#@IRAN_V2RAY1
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#@vmesskhodam
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:8710?security=none&encryption=none&headerType=none&type=tcp#@AYMH19+کانال+تلگرام
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:8710?security=none&encryption=none&headerType=none&type=tcp#@vmesskhodam
