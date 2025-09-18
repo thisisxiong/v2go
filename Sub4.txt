@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://ba2970f1-7a57-4278-8c8d-2001788fe270@sss28357.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://ba26f084-9124-4524-add4-53fcfb928161@94.141.123.233:443?flow=xtls-rprx-vision&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&security=reality&sid=fc7a526a7e61ba3b&sni=cdnjs.com&type=tcp#🇩🇪 @Geek_Spot
 vless://ba26f084-9124-4524-add4-53fcfb928161@194.87.29.240:443?flow=xtls-rprx-vision&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&security=reality&sid=fc7a526a7e61ba3b&sni=cdnjs.com&type=tcp#🇩🇪 @Geek_Spot
 vless://ba1fc4fe-c5a5-4ad3-b4e2-f02ecffd992e@141.227.176.48:10227?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
@@ -501,4 +502,3 @@ vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxm
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-33
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-31
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-29
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-27
