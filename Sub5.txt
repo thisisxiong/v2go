@@ -2,6 +2,12 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://Parsashonam-303@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
+vless://Parsashonam-303@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Selinc
+vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#→ @Hddify
+vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#All-@IRAN_V2RAY1
+vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://Parsashonam-302@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Dropcube⚡❤️‍🔥
 vless://Parsashonam-302@91.99.16.244:443?security=reality&encryption=none&type=xhttp&path=/Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&sni=Google.com&sid=61e683d41fdb&fp=chrome&pbk=sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8&spx=/=Telegram:@V2RAYNG_IP-Telegram:@V2RAYNG_IP-Telegram:@V2RAYNG_IP-Telegram:@V2RAYNG_IP-Telegram:@V2RAYNG_IP-Telegram:@V2RAYNG_IP&mode=auto#@V2RAYNG_IP🇦🇱
 vless://Parsashonam-302@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none=Telegram:@V2RAYNG_IP-Telegram:@V2RAYNG_IP-Telegram:@V2RAYNG_IP-Telegram:@V2RAYNG_IP-Telegram:@V2RAYNG_IP-Telegram:@V2RAYNG_IP#@V2RAYNG_IP🇩🇪
@@ -496,9 +502,3 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.17:443/?type=ws&encryptio
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443?path=/?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443?path=/?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&type=ws#@Dropcube⚡❤️‍🔥
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.16:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.14:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.13:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443?path=/?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.11:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
