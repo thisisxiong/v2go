@@ -281,6 +281,33 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 🔍 VPN Configuration Scanner
+
+The project now includes a powerful **VPN Configuration Scanner** in the `scanner/` directory:
+
+### Features
+- **Multi-Protocol Support**: VMess, VLess, Trojan, Shadowsocks
+- **Lightning Fast**: Processes 15,795+ configs in ~100ms
+- **Smart Filtering**: Optional latency measurement and speed categorization
+- **Comprehensive Testing**: 84.1% test coverage with benchmarks
+
+### Quick Start
+```bash
+# Navigate to scanner directory
+cd scanner/
+
+# Fast scanning (no latency measurement)
+go run scanner_main.go scanner.go -dir=.. -timeout=1s
+
+# With latency measurement (slower but more accurate)
+go run scanner_main.go scanner.go -dir=.. -timeout=1s -latency
+
+# Run tests
+go test -v
+```
+
+See `scanner/README.md` for complete documentation.
+
 ## ⭐ Acknowledgments
 
 - **Original Repository**: This project is a Go rewrite of [Epodonios/v2ray-configs](https://github.com/Epodonios/v2ray-configs) - all credit for the original concept and Python implementation goes to the original authors

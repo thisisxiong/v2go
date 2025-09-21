@@ -15,6 +15,29 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # Fetch full history for rebase
+        
+    - name: Configure Git and rebase with upstream
+      run: |
+        # Configure git
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Add upstream remote if it doesn't exist
+        if ! git remote | grep -q upstream; then
+          git remote add upstream https://github.com/Danialsamadi/v2go.git
+        fi
+        
+        # Fetch latest changes from upstream
+        git fetch upstream main
+        
+        # Rebase current branch with upstream main to avoid conflicts
+        git rebase upstream/main || {
+          echo "Rebase failed, attempting to resolve conflicts..."
+          git rebase --abort
+          git reset --hard upstream/main
+        }
       
     - name: Set up Go
       uses: actions/setup-go@v4
