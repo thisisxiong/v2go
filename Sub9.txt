@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://0c4727f5-6f0b-4d62-9d87-905259fe3174@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷2 tunnel: @EVAY_VPN
 vless://0c3693b1-4b96-4a6a-b980-a927ae85e025@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-8t04ec7a
 vless://0c0a38a1-c5db-4780-8f1c-fc4338af7ef0@185.141.107.176:2080?encryption=none&security=none&type=tcp&headerType=none#@CaV2ray ⚡️
 vless://0c07016f-6238-4a17-a414-ab0ecd8a8b5e@npmjs.com:80?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&path=/?ed=2560&security=none&encryption=none&host=soft-wave-5d2a.kyng-ayaan.workers.dev&type=ws#AZADIV2RAYY JAPAN 🇯🇵
@@ -502,3 +501,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac0dqTlk2ZUNCWWw2emZoRk80Z01p@194.87.45.189:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZbGVqbFpiVEUyYWhWRkF6TGgydHhm@94.159.96.245:11902#🇩🇪 Frankfurt am Main, HE, Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?type=tcp#[🇫🇮]@Evay_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#Irancell--@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#@ata_connect
