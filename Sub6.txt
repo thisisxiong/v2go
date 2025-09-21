@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?path=/?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.27:443?path=/?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&fp=chrome&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.26:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.25:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.24:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
@@ -499,6 +502,3 @@ vless://5562b859-cd73-9cd2-98ec-c3f308ce63a2@fr.zeroboostspeed.org:1231/?encrypt
 vless://554e89e9-5d47-408a-ee92-2fa8506bc78c@zula.ir:2087?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h2,http/1.1&encryption=none&host=Hopev2.hopebook75zulawu.online.&fp=chrome&type=ws&sni=Hopev2.hopebook75zulawu.online#@bad_raqs
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@bored_vpn
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@ata_connect
-vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@IRAN_V2RAY1
-vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇬🇧 | @External_Net
-vless://55143323-5ef4-45c2-b8fb-9f7b987589e6@lwndnnw.js87nlw.iwhwkdh87.owjfj87kdk.theiranoflegends.com:883?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@CaV2ray ⚡️
