@@ -5,11 +5,14 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
+	"io"
 	"net"
+	"net/http"
 	"net/url"
 	"os"
 	"path/filepath"
 	"regexp"
+	"runtime"
 	"sort"
 	"strconv"
 	"strings"
@@ -50,7 +53,14 @@ func (s *Scanner) SetLatencyMeasurement(enable bool) {
 
 // ScanDirectory scans all sub*.txt files in the given directory
 func (s *Scanner) ScanDirectory(dirPath string) error {
-	fmt.Printf("🔍 Scanning directory: %s\n", dirPath)
+	return s.ScanDirectoryInteractive(dirPath, false)
+}
+
+// ScanDirectoryInteractive scans all sub*.txt files with interactive progress
+func (s *Scanner) ScanDirectoryInteractive(dirPath string, quiet bool) error {
+	if !quiet {
+		fmt.Printf("🔍 Scanning directory: %s\n", dirPath)
+	}
 
 	// Find all sub*.txt and Sub*.txt files
 	patterns := []string{
@@ -67,21 +77,108 @@ func (s *Scanner) ScanDirectory(dirPath string) error {
 		allMatches = append(allMatches, matches...)
 	}
 
+	// If no local files found, try fallback to GitHub repository
 	if len(allMatches) == 0 {
-		return fmt.Errorf("no files found matching sub*.txt or Sub*.txt pattern")
+		if !quiet {
+			fmt.Println("📡 No local files found, attempting fallback to GitHub repository...")
+		}
+		return s.scanFromGitHub(quiet)
 	}
 
 	matches := allMatches
 
-	fmt.Printf("📄 Found %d files to scan\n", len(matches))
+	if !quiet {
+		fmt.Printf("📄 Found %d files to scan\n", len(matches))
+	}
 
-	// Process each file
-	for _, filePath := range matches {
-		fmt.Printf("📁 Scanning file: %s\n", filepath.Base(filePath))
+	// Process each file with progress indication
+	for i, filePath := range matches {
+		if !quiet {
+			// Show progress with spinner
+			spinner := s.getSpinnerChar(i)
+			fmt.Printf("\r%s📁 Scanning file: %s (%d/%d)", spinner, filepath.Base(filePath), i+1, len(matches))
+		}
+		
 		if err := s.scanFile(filePath); err != nil {
-			fmt.Printf("⚠️ Error scanning %s: %v\n", filePath, err)
+			if !quiet {
+				fmt.Printf("\n⚠️ Error scanning %s: %v\n", filePath, err)
+			}
 			continue
 		}
+	}
+
+	if !quiet {
+		fmt.Println() // New line after progress
+	}
+
+	return nil
+}
+
+// getSpinnerChar returns a spinner character for progress indication
+func (s *Scanner) getSpinnerChar(index int) string {
+	spinnerChars := []string{"⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"}
+	return spinnerChars[index%len(spinnerChars)]
+}
+
+// scanFromGitHub fetches configurations from GitHub repository as fallback
+func (s *Scanner) scanFromGitHub(quiet bool) error {
+	if !quiet {
+		fmt.Println("🌐 Fetching configurations from GitHub repository...")
+	}
+
+	// GitHub raw URL for the All_Configs_Sub.txt file
+	githubURL := "https://raw.githubusercontent.com/Danialsamadi/v2go/main/All_Configs_Sub.txt"
+	
+	// Create HTTP client with timeout
+	client := &http.Client{
+		Timeout: 30 * time.Second,
+	}
+
+	// Make HTTP request
+	resp, err := client.Get(githubURL)
+	if err != nil {
+		return fmt.Errorf("failed to fetch from GitHub: %v", err)
+	}
+	defer resp.Body.Close()
+
+	if resp.StatusCode != http.StatusOK {
+		return fmt.Errorf("GitHub request failed with status: %d", resp.StatusCode)
+	}
+
+	// Read response body
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return fmt.Errorf("failed to read GitHub response: %v", err)
+	}
+
+	if !quiet {
+		fmt.Printf("📡 Downloaded %d bytes from GitHub\n", len(body))
+		fmt.Println("🔄 Processing configurations...")
+	}
+
+	// Process the content as if it were a file
+	content := string(body)
+	lines := strings.Split(content, "\n")
+	
+	configCount := 0
+	linkRegex := regexp.MustCompile(`(vmess://[^\s]+|vless://[^\s]+|trojan://[^\s]+|ss://[^\s]+)`)
+
+	for _, line := range lines {
+		line = strings.TrimSpace(line)
+		if line == "" {
+			continue
+		}
+
+		// Extract links from the line
+		matches := linkRegex.FindAllString(line, -1)
+		for _, link := range matches {
+			s.processLink(link)
+			configCount++
+		}
+	}
+
+	if !quiet {
+		fmt.Printf("✅ Processed %d configurations from GitHub\n", configCount)
 	}
 
 	return nil
@@ -257,6 +354,9 @@ func (s *Scanner) SaveResults() error {
 	s.mu.RLock()
 	defer s.mu.RUnlock()
 
+	savedFiles := 0
+	totalConfigs := 0
+
 	for protocol, configs := range s.results {
 		if len(configs) == 0 {
 			continue
@@ -286,24 +386,53 @@ func (s *Scanner) SaveResults() error {
 
 		// Save fast configs
 		if len(fast) > 0 {
-			filename := fmt.Sprintf("fast_%s.txt", protocol)
+			filename := s.getSafeFilename(fmt.Sprintf("fast_%s.txt", protocol))
 			if err := s.writeFile(filename, fast); err != nil {
 				return fmt.Errorf("error writing fast %s file: %v", protocol, err)
 			}
 			fmt.Printf("✅ Saved %d fast %s configs to %s\n", len(fast), protocol, filename)
+			savedFiles++
+			totalConfigs += len(fast)
 		}
 
 		// Save normal configs
 		if len(normal) > 0 {
-			filename := fmt.Sprintf("%s.txt", protocol)
+			filename := s.getSafeFilename(fmt.Sprintf("%s.txt", protocol))
 			if err := s.writeFile(filename, normal); err != nil {
 				return fmt.Errorf("error writing %s file: %v", protocol, err)
 			}
 			fmt.Printf("✅ Saved %d normal %s configs to %s\n", len(normal), protocol, filename)
+			savedFiles++
+			totalConfigs += len(normal)
 		}
 	}
 
+	if savedFiles > 0 {
+		fmt.Printf("\n💾 Summary: %d files created with %d total configurations\n", savedFiles, totalConfigs)
+	} else {
+		fmt.Println("⚠️ No configurations found to save")
+	}
+
 	return nil
+}
+
+// getSafeFilename ensures the filename is safe for the current platform
+func (s *Scanner) getSafeFilename(filename string) string {
+	// Replace any problematic characters for cross-platform compatibility
+	filename = strings.ReplaceAll(filename, ":", "_")
+	filename = strings.ReplaceAll(filename, "*", "_")
+	filename = strings.ReplaceAll(filename, "?", "_")
+	filename = strings.ReplaceAll(filename, "\"", "_")
+	filename = strings.ReplaceAll(filename, "<", "_")
+	filename = strings.ReplaceAll(filename, ">", "_")
+	filename = strings.ReplaceAll(filename, "|", "_")
+	
+	// Ensure the filename is not too long
+	if len(filename) > 200 {
+		filename = filename[:200]
+	}
+	
+	return filename
 }
 
 // writeFile writes a slice of strings to a file
@@ -347,11 +476,45 @@ func (s *Scanner) PrintSummary() {
 	defer s.mu.RUnlock()
 
 	fmt.Println("\n📊 Scan Summary:")
+	fmt.Println("═══════════════════════════════════════════════════════════════")
+	
 	total := 0
-	for protocol, configs := range s.results {
-		count := len(configs)
+	protocols := []string{"vmess", "vless", "trojan", "ss"}
+	
+	for _, protocol := range protocols {
+		configs, exists := s.results[protocol]
+		count := 0
+		if exists {
+			count = len(configs)
+		}
 		total += count
-		fmt.Printf("  %s: %d configs\n", protocol, count)
+		
+		// Create a visual bar for the count
+		bar := s.createProgressBar(count, 20)
+		fmt.Printf("  %-8s: %3d configs %s\n", strings.ToUpper(protocol), count, bar)
 	}
-	fmt.Printf("  Total: %d configs\n", total)
+	
+	fmt.Println("═══════════════════════════════════════════════════════════════")
+	fmt.Printf("  %-8s: %3d configs\n", "TOTAL", total)
+	
+	// Show platform info
+	fmt.Printf("\n🖥️  Platform: %s/%s\n", runtime.GOOS, runtime.GOARCH)
+}
+
+// createProgressBar creates a visual progress bar
+func (s *Scanner) createProgressBar(count, maxWidth int) string {
+	if count == 0 {
+		return strings.Repeat("░", maxWidth)
+	}
+	
+	// Simple bar representation
+	filled := count / 5 // Scale down for display
+	if filled > maxWidth {
+		filled = maxWidth
+	}
+	
+	bar := strings.Repeat("█", filled)
+	bar += strings.Repeat("░", maxWidth-filled)
+	
+	return "[" + bar + "]"
 }
