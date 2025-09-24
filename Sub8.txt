@@ -2,22 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://20f9a609-f802-4301-91d5-7e28cbe23be0@138.68.129.37:16268?path=/&security=none&encryption=none&type=ws#Channel : @Mrsoulb 🏴🏳
-vless://20d98fd8-b472-4574-eeae-b1ecc9082eb9@www.speedtest.net:2053?type=ws&encryption=none&path=/&host=2020.dnss-mobile.ir&security=tls&fp=chrome&alpn=http/1.1&sni=2020.dnss-mobile.ir#@Alfred_Config
-vless://20c21ebd-05ed-4f44-bc4d-8831ac518b7a@50.62.195.255:80?path=/Telegram🇨🇳 @WangCai2 /?ed=2560&security=&encryption=none&host=myvps.nilphreakz.me&fp=chrome&type=ws#🇺🇸 机场推荐:dafei.de 美国 93
-vless://20be4816-7cf2-491e-f094-5e0542796b8f@Zula.ir:8880?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=ww.irAnsheep.Web.tr.&security=none#Binextify⭐-3d97pmxm2
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram : @EXPRESSVPN_420
-vless://200fa9ac-dc45-48c3-a278-94cdc18e008e@47.239.5.71:36944?security=none&encryption=none&headerType=none&type=tcp#✨ @Geek_Spot | 🚀 | 🌐 47.239.5.71 | 🇭🇰
-vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#@ata_connect
-vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#@IRAN_V2RAY1
-vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&fp=chrome&type=ws#@Dropcube⚡❤️‍🔥
-vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&fp=chrome&type=ws#@Dropcube⚡❤️‍🔥
-vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws&security=tls&encryption=none&type=ws#@Selinc
-vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=/yfwhodws&security=tls&encryption=none&type=ws#@IRAN_V2RAY1
-vless://1f90ea31-15a1-4896-bfff-c83f74ce0f7e@141.227.136.183:15819?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@bored_vpn
-vless://1f8626cd-5c2e-4887-b906-75396cde1423@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @HAJIMAMADVPN-11
-vless://1f8626cd-5c2e-4887-b906-75396cde1423@EXPRESSVPN_420.fAst.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#سرور رایگان EXPRESSVPN_420@
 vless://1f8626cd-5c2e-4887-b906-75396cde1423@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=p30download.ir&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪 | @Evay_vpn
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss90869.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#All-@IRAN_V2RAY1
@@ -502,3 +486,19 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-Wo
 trojan://dqLPBI4gsI@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=/xhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://bpb-trojan@23.227.60.8:443?security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825A9-3.paGeS.dev&type=tcp#@awlix_ir
+trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#@awlix_ir
+trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#@awlix_ir
+trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت
+trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
+trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
+trojan://NeA9Y8cXve@flopr.isvcloud2.ir:36022?security=none&headerType=&type=tcp#telegram@ISVvpn
+trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=none&type=tcp#telegram-@bored_vpn
+trojan://DJprIqUa4b@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp#telegram-@ISVvpn
+trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#@awlix_ir
+trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&sni=z-v2-080537.kailib.com&type=tcp#@awlix_ir
+trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls&sni=z-v2-077787.kailib.com&allowInsecure=1&type=tcp#@awlix_ir
+trojan://@Geek_Spot@176.97.210.2:12882/?type=tcp#🇺🇦 Ukraine 3
+trojan://:bC5^lakx>$d@172.66.45.9:443?path=/trNs9G5VJ2vI0PxgP2&security=tls&alpn=http/1.1&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=chrome&type=ws&sni=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv#@IRAN_V2RAY1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+trojan://8T7egv3W4T@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
+trojan://745654@154.3.37.9:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=hk.cestbon.work#@IRAN_V2RAY1
