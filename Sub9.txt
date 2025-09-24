@@ -482,6 +482,8 @@ hy2://2b67ONZROv+fRVMxB94BSw==@5.231.70.79:443/?insecure=1&sni=bing.com#Channel 
 hy2://16461a78-363c-457a-92f9-83b0a68edc37@sg2.eyucdn.xyz:2056/?insecure=1&sni=sg2.eyucdn.xyz#Channel id: @ShadowProxy66🇸🇬
 hy2://16461a78-363c-457a-92f9-83b0a68edc37@hk.eyucdn.xyz:2056/?insecure=1&sni=hk.eyucdn.xyz#Channel id: @ShadowProxy66🇭🇰
 hy2://04a24f06-17fa-464b-a799-90600783499f@hg1.xiaohuolongjc.top:37771/?insecure=1&sni=hg1.xiaohuolongjc.top#Channel id: @ShadowProxy66🇭🇰
+vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@sss21653.tas-bazi.com:443?mode=stream-one&path=%2Frty&security=&encryption=none&type=xhttp#@meli_proxyy
+vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss19074.tas-bazi.com:443?mode=stream-one&path=%2Fsc&security=&encryption=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vless://8ef1b0db-5954-447c-85e5-4f62b107ed61@dl5-us4-cdn.fastfilecdn.org:2052?allowInsecure=0&sni=dl5-us4-cdn.fastfilecdn.org&type=ws&host=dl5-us4-cdn.fastfilecdn.org&path=/#US_speednode_0036
 vless://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@500770.xyz:34074?allowInsecure=0&sni=www.ucla.edu&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#US_speednode_0035
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@142.171.166.116:8443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#US_speednode_0034
@@ -500,5 +502,3 @@ vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?allowInsecure=0
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#NL_speednode_0020
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@138.124.182.204:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#LV_speednode_0018
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@183.109.161.20:21572?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#KR_speednode_0017
-vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@152.70.82.101:18650?allowInsecure=0&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&type=ws&host=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&path=/snippetssecurity=tls#JP_speednode_0015
-vless://01996549-6892-dbf0-0453-f700236936bd@140.83.57.183:22735?allowInsecure=1&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#JP_speednode_0014
