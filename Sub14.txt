@@ -2,20 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.22.239.42:2020?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls#SE_speednode_0046
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.22.239.42:2020?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#SE_speednode_0045
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@77.221.137.105:8443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#SE_speednode_0044
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@147.45.143.22:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls#RU_speednode_0043
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@147.45.143.22:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#RU_speednode_0042
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.169.160.84:2053?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tlssecurity=tls#RU_speednode_0041
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.169.160.84:2053?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#RU_speednode_0040
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@92.42.102.73:8443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#RU_speednode_0039
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@81.200.158.206:8443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#RU_speednode_0038
-vless://01996549-6892-dbf0-0453-f700236936bd@89.110.125.45:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#NL_speednode_0037
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@89.110.125.45:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#NL_speednode_0036
-vless://01996549-6892-dbf0-0453-f700236936bd@166.1.201.179:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#NL_speednode_0035
-vless://f1fcd721-8605-43f0-98b0-0ddd70cad894@94.131.107.201:8443?allowInsecure=0&sni=anydesk.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#NL_speednode_0034
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#NL_speednode_0033
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@118.131.232.132:30063?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#KR_speednode_0032
 vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@146.56.157.15:18788?allowInsecure=0&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&type=ws&host=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&path=/snippetssecurity=tls#KR_speednode_0031
 vless://b65f4df7-f6af-42b2-877a-cef33f21675e@112.156.154.95:30067?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#KR_speednode_0029
