@@ -1,0 +1,5 @@
+#profile-title: base64:8J+GkyBHaXQ6RGFuaWFsU2FtYWRpIHwgU3ViMTcg8J+UpQ==
+#profile-update-interval: 1
+#support-url: https://github.com/Danialsamadi/v2go
+#profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://c0258bc8-50e5-4dc3-82d7-6026ec740f38@141.227.132.180:27424?mode=gun&security=&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#@mehrosaboran
