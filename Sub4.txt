@@ -2,28 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934442807081605.stockholm-drc-tusacae.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934442807081605.stockholm-drc-tusacae.info:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇵@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934442807081605.stockholm-drc-tusacae.info:8880?encryption=none&security=none&type=grpc#@Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456112171.qazvin-drc-tusabw.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 @V2RAY_420BOT خرید سرور اختصاصی
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=gun&security=none&encryption=none&type=grpc#AZADIV2RAYY FR 🇫🇷
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#MCI-@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656134408.malayer-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931077057619102.hamedan-drc-tusabu.info:8880?security=&encryption=none&type=grpc#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930975314214829.dublin-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#@V2rayNGVPN+<=+کانفیگ+رایگان
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇳🇱@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#MCI---22
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#All--@Iran_V2ray1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#rt
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2RAYROZ
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&mode=gun&security=none&encryption=none&type=grpc#AZADIV2RAYY NL 🇳🇱
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930316257411243.neyshabur-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#rt
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930133854419945.bandar-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930133854419945.bandar-drc-tusabt.info:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇵@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
@@ -502,3 +480,25 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=/snippets/ip
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=/snippets/ip=tw.tp81.netlib.re:81#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?path=/snippets/ip=tw.tp81.netlib.re:81#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560&security=tls&encryption=none&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io#@V2rayNGVPN <= کانفیگ رایگان
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?encryption=none&security=tls&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560#✅ @vistav2ray  👈👈کانال ما
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?encryption=none&security=tls&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&path=/snippets/ip=tw.tp81.netlib.re:81?ed=2560#@Daily_Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.5:443?encryption=none&security=tls&sni=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&fp=chrome&type=ws&host=xn--kwr11l51ffzytxy.CMLiussss.dedyn.io&path=/snippets/ip=tw.tp81.netlib.re:81#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560#@Daily_Configs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.100:2053?path=/telegram@V2ray_Alpha/?ed=2048&security=tls&encryption=none&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&fp=chrome&type=ws&sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua#@CaV2ray ⚡️
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?security=&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg.&encryption=none#@awlix_ir
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.25.113.15:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.13:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.43.169:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?d=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+vless://d335a206-2dbd-4540-bbf8-23cd2623b7ad@68.183.201.171:443?type=xhttp&path=/sd&host=&mode=stream-one&security=none#telegram ☂️ v2ray_configs_pools
+vless://d335a206-2dbd-4540-bbf8-23cd2623b7ad@159.203.9.247:443?type=xhttp&path=/sd&host=&mode=stream-one&security=none#telegram 🍊 v2ray_configs_pools
+vless://d335a206-2dbd-4540-bbf8-23cd2623b7ad@159.203.6.140:443?type=xhttp&path=/sd&host=&mode=stream-one&security=none#telegram ☂️ v2ray_configs_pools
+vless://d317af4b-d13f-49f3-9fad-b62af1eb4054@tmz.ip4core.ir:80?mode=auto&path=/&security=none&encryption=none&host=uk.acanto.ir&type=xhttp#🇬🇧  ⚜️@EXPRESSVPN_420
+vless://d2e3f4a5-b6c7-2345-8901-123456789abc@45.35.126.48:8443?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=VWX1234567890abcdef1234567890abcdef#@CaV2ray ⚡️
+vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#telegram 🌟 v2ray_configs_pools
+vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools  ✅ عضو شوید
+vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=none&encryption=none&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
+vless://d2c4aef4-b125-4bab-8ce8-35879f613ab8@deu461.unboundworld.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.heise.de#🇮🇶[openproxylist.com] vless-IQ
+vless://d2bcb15b-8cf0-402c-af32-6b04615144c9@greenwolf.fonixapp.org:12901?security=reality&encryption=none&pbk=UIgzNUpO2PvGIgjtIK1GEikBFRVvfA1jm7bfor0HlAM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=canva.com&sid=b538b3#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://d2952db0-0379-4f1b-9c31-fe08c3ca1ea5@www.speedtest.net:443?path=/mahdi_383ir&security=tls&encryption=none&alpn=h2,http/1.1&host=xwhk2wb2055aqe7hb6tp.armin-host.com&fp=chrome&type=ws&sni=xwhk2wb2055aqe7hb6tp.armin-host.com#@V2rayNGVPN+<=+کانفیگ+رایگان
