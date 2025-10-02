@@ -2,6 +2,29 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+trojan://a50ea41d-10b1-4351-9ae2-6d92f501a3a0@172.67.168.193:443?path=/Free-VPN-Geo-Project/185.66.165.51-443&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#t.me/entryNET/config=1844859186068769
+trojan://a50ea41d-10b1-4351-9ae2-6d92f501a3a0@172.67.168.193:443?path=/Free-VPN-Geo-Project/185.66.165.51-443&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#@V2rayNGVPN <= کانفیگ رایگان
+trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧Telegram:tik7net_vpn
+trojan://YwuvGJk36B@creativecommons.org:2053?path=/yamtekodasayahhh&security=tls&alpn=http/1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧@FreakConfig
+trojan://T5ncuGweIsLseCqu96ZWJg@65.109.217.125:443?security=tls&headerType=none&type=tcp&sni=fl.v2bazzar.ir#All-@IRAN_V2RAY1
+trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت
+trojan://PKsmz7W2sx@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
+trojan://OSXRComila@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
+trojan://NeA9Y8cXve@flopr.isvcloud2.ir:36022?security=none&headerType=&type=tcp#telegram@ISVvpn
+trojan://NISHIKUITAN222@198.41.211.175:443?allowInsecure=1&ws=1&wspath=/#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:28.12ms
+trojan://NISHIKUITAN222@172.67.56.244:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844844464104270
+trojan://NISHIKUITAN222@141.101.123.43:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844848238733106
+trojan://NISHIKUITAN222@141.101.123.174:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844855788572054
+trojan://NISHIKUITAN222@141.101.123.151:443?allowInsecure=1&ws=1&wspath=/#👉🆔@freenettir📡🇵🇱®️Poland©️Warsaw🅿️ping:28.16ms
+trojan://NISHIKUITAN222@104.27.88.3:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844851951415785
+trojan://NISHIKUITAN222@104.25.229.250:443?allowInsecure=1&ws=1&wspath=/#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:27.58ms
+trojan://NISHIKUITAN222@104.25.171.225:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844844967584493
+trojan://NISHIKUITAN222@104.25.160.173:443?allowInsecure=1&ws=1&wspath=/#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:27.39ms
+trojan://NISHIKUITAN222@104.25.100.134:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844850629792690
+trojan://NISHIKUITAN222@104.24.254.117:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844851763106460
+trojan://NISHIKUITAN222@104.24.249.67:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844844402232605
+trojan://NISHIKUITAN222@104.18.73.172:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844859563640077
+trojan://NISHIKUITAN222@104.16.91.200:443?allowInsecure=1&ws=1&wspath=/#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:28.16ms
 trojan://NISHIKUITAN222@104.16.64.11:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844840627097439
 trojan://NISHIKUITAN222@104.16.200.98:443?allowInsecure=1&ws=1&wspath=/#👉🆔@freenettir📡🇨🇦®️Canada©️Toronto🅿️ping:27.67ms
 trojan://NISHIKUITAN222@103.21.244.110:443?allowInsecure=1&ws=1&wspath=/#t.me/entryNET/config=1844848176319203
@@ -479,26 +502,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VFpVbmtoSEMzRFg=@62.60.233.233:443#@V2rayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2VFpVbmtoSEMzRFg=@62.60.233.233:443#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MkxCaG9rNWx2alI=@83.217.9.4:443#@HiByeVPNN👈❤️‍🔥⚡
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#⚜️Telegram: @IP_CF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#@CaV2ray ⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#🇬🇧GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#@CaV2ray ⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#⚜️Telegram: @IP_CF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#@CaV2ray ⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.207.175:443#@CaV2ray ⚡️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.49.150:443#t.me/entryNET/config=1844855537550627
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@212.192.214.159:800#[🇫🇷] @Hddify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@172.236.31.248:808#@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dkhHaGVXd1M2MVFlS29GUnRaVnM2@194.87.45.189:443#All-@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfcGw=@pl-1.stunnel.cc:8444#AstroVPN_Official 🇵🇱  trojan://tunnel-astrovpn_official_pl@pl
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfcGw=@pl-1.stunnel.cc:8444#AstroVPN_Official 🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfYWU=@ae-1.stunnel.cc:8444#[Shadowsocks] v2ray_configs_pools_official-🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfYWU=@ae-1.stunnel.cc:8444#[Shadowsocks] astrovpn_official-🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtdXM=@us-4.stunnel.cc:8444#[Shadowsocks] v2ray_configs_pools_official-🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtdXM=@us-4.stunnel.cc:8444#[Shadowsocks] astrovpn_official-🇺🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtc2c=@sg-2.stunnel.cc:8444#@v2ray_configs_pools
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZnI=@fr-2.stunnel.cc:8444#AstroVPN_Official-🇫🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZGU=@de-1.stunnel.cc:8444#[Shadowsocks] v2ray_configs_pools_official-🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtZGU=@de-1.stunnel.cc:8444#[Shadowsocks] astrovpn_official-🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtYWU=@ae-1.stunnel.cc:8444#AstroVPN_Official 🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWwtYWU=@188.208.110.58:8444#AstroVPN_Official 🇦🇪
