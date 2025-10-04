@@ -2,4 +2,4 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://98b988ba-fe55-402e-824a-6f7bb3436f22@141.227.136.11:11716?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@Capoit
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IiwiYWRkIjoiODUxMjc5LnN1cHBsYW50ZXIueHl6IiwicG9ydCI6IjMxMzAxIiwidHlwZSI6Im5vbmUiLCJpZCI6IjM4OEJCNTM2LUM5N0ItQ0MzRi1EMTA0LTQ5MjQ3QjlCMUI2NSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiI4NTEyNzkuc3VwcGxhbnRlci54eXoiLCJ0bHMiOiIifQ==
