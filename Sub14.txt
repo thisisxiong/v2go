@@ -344,6 +344,7 @@ hy2://4f37f7c4-9cab-413a-938e-4cd19b0f93b4@45.11.1.62:443/?mport=50000-55000&ins
 hy2://2b67ONZROv+fRVMxB94BSw==@5.231.70.79:443/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇩🇪
 hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.82.111:30300/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66🇨🇦
 hy2://20050105zhu@204.44.110.129:51541/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66🇺🇸
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.245:8880?encryption=none&security=none&type=grpc#[
 vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIxMDMuMjI0LjgwLjQ5IiwgInBvcnQiOiAiMTIxMTQiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiYWE5Mjg1NWEtOTkzMi00ZTg3LWI1YzItNGFlZDE1OWM3Yzc4IiwgInNuaSI6ICIifQ==
 trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:3296?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:2173?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
@@ -501,4 +502,3 @@ vless://telegram-id-ArV2ray@www.speedtest.net:2095?path=%2Ftelegram-ArV2ry%2Ctel
 vless://telegram-id-ArV2ray@www.speedtest.net:2095?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048&security=none&encryption=none&host=2.www.speedtest.net.deb.debian.org.mehpow.ir.&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2logy%20%5B9%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944337658439808.dezful-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B12%5D
 vless://65552811-b845-476a-aa1f-8bc52115e8fe@65.109.217.125:8444?security=tls&encryption=none&headerType=none&type=tcp&sni=fl.v2bazzar.ir#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2aryng_vpn%20%5B11%5D
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060335589.warsaw-prx-dnraacp.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2aryng_vpn%20%5B10%5D
