@@ -2,13 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#MCI-@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#All_@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#All-@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#@IRAN_V2RAY1
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=&encryption=none&type=grpc#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=&encryption=none&type=grpc#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=&encryption=none&type=grpc#@v2ray_configs_pools
@@ -502,3 +495,10 @@ vless://ca2bbc0a-3139-4a1c-bc93-049ad63c1d95@direct-jde6zos4zet26b15zzd1.appcity
 vless://ca2bbc0a-3139-4a1c-bc93-049ad63c1d95@138.199.206.184:64286?encryption=none&security=none&type=grpc&authority=?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&serviceName=mahdi_383ir&mode=gun#@freenettir
 vless://ca2bbc0a-3139-4a1c-bc93-049ad63c1d95@138.199.206.184:64286?encryption=none&security=none&type=grpc&authority=&serviceName=mahdi_383ir&mode=gun#@freenettir
 vless://ca2ae03c-75a2-4956-b86c-8784484aa263@95.128.196.217:3232?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @ShadowProxy66 🇮🇷
+vless://ca255d0b-b55a-4442-b6df-5c0cba8a11be@8.47.69.4:80?path=/www.speedtest.net/index.html-www.google.com?ed=2048&security=none&encryption=none&host=dfghjk.farcadezero.ir&type=ws#@UCIRANIR
+vless://ca248ad1-000a-48e8-86ed-1e935bdb8551@5.75.205.24:44814?security=&encryption=none&type=grpc#@armanstore2-4jms9lob
+vless://ca221d6a-e130-3932-634f-8d16ef810f73@france.marzxo.biz:8083?security=reality&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&pbk=Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=828348fc6d8e49cf#@TEHRANARGO
+vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🔐 @AblNet7 🇵🇱 Poland
+vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#🇵🇱 | @External_Net
+vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.ir#@freenettir
+vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?encryption=none&security=none&type=tcp&headerType=http&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net#@freenettir
