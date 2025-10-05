@@ -432,6 +432,7 @@ vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&
 vless://fcec2ee6-c96b-4873-95ba-eced3a2e12c5@168.119.158.122:443?path=/linkws?ed&security=none&encryption=none&host=168.119.158.122&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://fcec2ee6-c96b-4873-95ba-eced3a2e12c5@168.119.158.122:443?path=/linkws?ed&security=none&encryption=none&host=168.119.158.122&type=ws#@Daily_Configs
 vless://fce4538c-7441-4373-9391-682ccff13088@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.byte-server.ir.&type=httpupgrade#🇩🇪 @V2ngFast
+vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#Telegram: @FergalVpnMod 🇩🇪
 vless://fbb99a66-d8a0-474b-8814-bc62420b64cb@92.223.2.119:25711?note=JOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY&path=/&security=none&encryption=none&type=ws#AZADIV2RAYY ارمنستان جدید ✅️
 vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?security=tls&encryption=none&type=ws&host=HovEYda-arIamehr-KINg.pAgES.dev&path=JOIN-Proxy_mtm/?ed=2048&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev&fp=chrome&alpn=h2,http/1.1#Awlix_ir
 vless://fb84938c-8708-4289-a4f1-4f513b1581ac@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
@@ -501,4 +502,3 @@ vless://f6f442e3-69d1-4a83-bb78-241152eed859@51.81.153.143:443?mode=stream-one&p
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.7.224:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram 🍊 v2ray_configs_pools
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.44:443?mode=stream-one&path=/sef/?@MARAMBASHI_MARAMBASHI?ed=2048&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.50.149:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram 🌺 v2ray_configs_pools
-vless://f6f442e3-69d1-4a83-bb78-241152eed859@40.160.15.211:443?type=xhttp&path=/sef&host=&mode=stream-one&security=none#telegram 🌈 v2ray_configs_pools
