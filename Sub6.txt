@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://b976b2aa-945e-43e5-bc58-36d77d3a9124@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638899136128777258.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638899136128777258.amsterdam-prx-dnraaal.info&path=/tjkqcpws#telegram 🎪 v2ray_configs_pools
 vless://b969fc8e-f24c-4655-9301-eb9c140726db@v2ngfaet.xero-network.ir:1146?encryption=none&type=xhttp&mode=auto&path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast&security=reality&fp=chrome&sni=stackoverflow.com&pbk=18l7-wCCLwKZn-slnEV1HlM-ocxV94nau8CHNEpv3Ew&sid=077dc29a23d311f2#🇩🇪 @V2ngFast
 vless://b95fb90d-acb1-41ff-9c0b-0779ab77ec07@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46171-1
 vless://b9381709-60f3-4713-addb-432a3d534208@185.139.69.24:433?security=reality&encryption=none&pbk=VyqZFwN3bBX4b0e5dgs7a5aaNMEgP0H5u_RpNjuKVxg&headerType=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&fp=chrome&type=tcp&sni=yandex.ru&sid=b99b026cd8ee7c#@TEHRANARGO
@@ -501,4 +502,3 @@ vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxm
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-39
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-37
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-35
-vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-33

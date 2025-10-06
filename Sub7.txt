@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-33
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-31
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-29
 vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-27
@@ -501,4 +502,3 @@ vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.21.54.198:8880?path=/HBRQp44s2A
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram: @IP_CF 🇨🇦
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram: @IP_CF 🇨🇦
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=/&security=&encryption=none&type=ws#telegram 🌈 v2ray_configs_pools

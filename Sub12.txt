@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#@v2ray_configs_pools  ✅ عضو شوید
 vless://1708fb1a-cff1-4532-a837-435af960ee77@185.113.223.65:10321?security=reality&encryption=none&pbk=S-x02lU6w9dJbqgEnchi70h7OoGKSgey7OjVx6cVDDA&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=8f4e#@Hddify
 vless://16eb47f3-f741-4f2a-92ec-7b846f8103ba@164.38.155.245:443?path=/pLmdwS3fSrE9WwdgE3LdG2?ed=2560&security=tls&encryption=none&host=cdn-de.maviks.ru&type=ws&sni=cdn-de.maviks.ru#@bad_raqs   @bad_raqs
 vless://16eb47f3-f741-4f2a-92ec-7b846f8103ba@164.38.155.245:443?path=/pLmdwS3fSrE9WwdgE3LdG2?ed=2560&security=tls&encryption=none&host=cdn-de.maviks.ru&type=ws&sni=cdn-de.maviks.ru#@bad_raqs
@@ -501,4 +502,3 @@ trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://n611CzPX8k@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت
 trojan://n611CzPX8k@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://liCV_rq-BftxwXpM@167.160.10.54:12184?security=tls&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇹🇷
-trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#@awlix_ir
