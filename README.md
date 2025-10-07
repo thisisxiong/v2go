@@ -316,7 +316,11 @@ See `scanner/README.md` for complete documentation.
 - **Contributors and Testers**: For feedback and improvements
 
 ---
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=Danialsamadi/v2go&type=Date)](https://www.star-history.com/#Danialsamadi/v2go&Date&LogScale)
+
+---
 **Made with ❤️ by Dani Samadi**
 
 *If you find this project useful, please consider giving it a ⭐ star!*
