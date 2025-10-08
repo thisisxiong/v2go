@@ -2,32 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-vless://01996549-6892-dbf0-0453-f700236936bd@146.103.33.38:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#NL_speednode_0044
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#NL_speednode_0043
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@176.222.53.140:8000?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443security=tls#NL_speednode_0042
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@194.87.31.155:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#NL_speednode_0041
-vless://01996549-6892-dbf0-0453-f700236936bd@138.124.182.204:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443fp=chrome&security=tls#LV_speednode_0040
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@77.110.114.1:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#LB_speednode_0039
-vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@91.147.92.153:443?allowInsecure=0&sni=hls-svod.itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#KZ_speednode_0038
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@140.238.62.82:1443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#JP_speednode_0033
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@62.60.232.40:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#IR_speednode_0031
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@hybrid.arvancloud.online:44443?allowInsecure=0&sni=www.speedtest.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IR_speednode_0030
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?allowInsecure=0&sni=www.speedtest.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IR_speednode_0029
-vless://52ed75e2-70a2-41a0-b258-58ca4b200be9@140.245.14.34:443?allowInsecure=0&sni=musicstatus.apps.apple.com&flow=xtls-rprx-vision-udp443&fp=safari&security=tls#IN_speednode_0028
-vless://01996549-6892-dbf0-0453-f700236936bd@65.20.82.22:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#IN_speednode_0027
-vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?allowInsecure=0&sni=i2pd.website&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IL_speednode_0026
-vless://81e9e522-2efd-4709-996d-74e46f4edaf8@213.176.94.129:443?allowInsecure=0&sni=www.amazon.com&fp=chrome&security=tls#HK_speednode_0025
-vless://192ea2c7-d7d0-6676-2929-b04a072b387d@178.20.215.2:443?allowInsecure=0&sni=speed.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GB_speednode_0023
-vless://52ed75e2-70a2-41a0-b258-58ca4b200be9@132.145.62.88:443?allowInsecure=0&sni=iosapps.itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#GB_speednode_0022
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@185.7.240.32:2096?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetssecurity=tls#FR_speednode_0021
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@91.149.223.242:443?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560security=tls#DE_speednode_0019
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@45.95.232.10:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#CH_speednode_0015
-vless://2429bee3-e0c1-47dd-b420-75e6512b184b@132.145.108.97:42557?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CA_speednode_0014
-vless://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.28.100:26113?allowInsecure=0&sni=www.yahoo.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#CA_speednode_0013
-vless://52ed75e2-70a2-41a0-b258-58ca4b200be9@185.133.35.95:443?allowInsecure=0&sni=d-jp1.djwstlsweb.top&type=ws&host=d-jp1.djwstlsweb.top&path=/djjc/jp1fp=safari&security=tls#BR_speednode_0011
-vless://52ed75e2-70a2-41a0-b258-58ca4b200be9@185.133.35.95:443?allowInsecure=0&sni=d-us3.djwstlsweb.top&type=ws&host=d-us3.djwstlsweb.top&path=/djjc/us3fp=ios&security=tls#BR_speednode_0010
-vless://52ed75e2-70a2-41a0-b258-58ca4b200be9@185.133.35.95:443?allowInsecure=0&sni=d-us4.djwstlsweb.top&type=ws&host=d-us4.djwstlsweb.top&path=/djjc/us4fp=ios&security=tls#BR_speednode_0009
-vless://6e433a29-22ac-4061-ae8b-f1731715d0d9@185.207.197.253:2096?allowInsecure=0&sni=vlesspro.llengcugit.sbs&type=ws&host=vlesspro.llengcugit.sbs&path=/Telegramsecurity=tls#AU_speednode_0008
 vless://6e433a29-22ac-4061-ae8b-f1731715d0d9@185.207.197.253:2096?allowInsecure=0&sni=vlesspro.llengcugit.sbs&type=ws&host=vlesspro.llengcugit.sbs&path=/Telegramsecurity=tlssecurity=tls#AU_speednode_0007
 vless://12345678-1234-1234-1234-123456789123@185.207.196.44:2096?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippetssecurity=tls#AU_speednode_0006
 vless://6e433a29-22ac-4061-ae8b-f1731715d0d9@185.207.197.253:2096?allowInsecure=0&sni=vlesspro.llengcugit.sbs&type=ws&host=vlesspro.llengcugit.sbs&path=/Telegram@freecodes/?ed=2560security=tls#AU_speednode_0005
