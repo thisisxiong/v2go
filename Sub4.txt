@@ -2,6 +2,15 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?mode=gun&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&type=grpc#@TEHRANARGO
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942397698496885.dublin-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#@Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778724075.helsinki-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778724075.helsinki-drc-tusacaf.info:8880?encryption=none&security=none&type=grpc#Telegram: @Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778722760.helsinki-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#IR-@IRAN_V2RAY1
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610778722760.helsinki-drc-tusacaf.info:8880?mode=gun&security=&encryption=none&type=grpc#🇨🇵@FreakConfig
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#azadiiivpn 💕
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?mode=gun&security=&encryption=none&type=grpc#🇹🇷@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638941610438943596.copenhagen-prx-dnraacm.info:8880?encryption=none&security=none&type=grpc#@Daily_Configs
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940926058862147.stockholm-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#rt
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638940926058862147.stockholm-prx-dnraacm.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Selinc
@@ -493,12 +502,3 @@ vless://d5b8c546-9018-40f4-b011-a597eb63d659@172.66.40.99:80?type=ws&path=/Teleg
 vless://d5b8c546-9018-40f4-b011-a597eb63d659@104.16.1.106:80?type=ws&path=/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420/Telegram,@EXPRESSVPN_420?ed=2080&host=zZz.ZzZ.zZz.snap-Iranian-ali.dai.sub420-mohamad.onlinE.&security=none#🇳🇱 @EXPRESSVPN_420-(1)
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://d5ad5040-00fb-4858-df1d-a1a10112189b@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
-vless://d5ad5040-00fb-4858-df1d-a1a10112189b@tgju.org:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://d5ad5040-00fb-4858-df1d-a1a10112189b@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
-vless://d5922f30-1ff8-4974-9a58-2aafe660ec2a@www.speedtest.net.b.3.ubuntu-words.ir:80?path=/@custom_config&security=none&encryption=none&type=ws#@custom_config (mtn)
-vless://d57b9b25-ad3c-4c5b-a0b1-510e7f852777@63.141.128.33:8080?security=none&encryption=none&type=ws&host=d.jOin.zEdMoDeOn.oNl.&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#TEL: @V2RAYNG_IP🇩🇪(3)
-vless://d55e27ba-3d0c-4115-e264-b192cf46611d@Zula.iR:80?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🪸-3o3twbgu
-vless://d5510fdc-a7a1-45e4-8901-ab8b7321f1c8@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
-vless://d5510fdc-a7a1-45e4-8901-ab8b7321f1c8@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
-vless://d54fcfca-b7f5-46b0-9535-430dc3e6304c@2.ariyanln.com:5051?mode=auto&path=/brand/miscellaneous/&security=none&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=digikala.com&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://d54fcfca-b7f5-46b0-9535-430dc3e6304c@2.ariyanln.com:1?security=none&encryption=none&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
