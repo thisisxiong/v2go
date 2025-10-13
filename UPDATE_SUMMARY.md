@@ -1,8 +1,8 @@
 # V2Ray Config Update Summary
-Generated on: 2025-10-13 03:58:37 UTC
+Generated on: 2025-10-13 04:16:27 UTC
 
 ## Configuration Statistics
-- Total configurations: 8951
+- Total configurations: 8948
 - Protocol breakdown:
   - ss: 0 configs
   - ssr: 0 configs
