@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=none&encryption=none&type=grpc#@Daily_Configs
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?mode=gun&security=none&encryption=none&authority=-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-Skypro_vpn-skypro_vpn-skypro_vpn-skypro_vpn-&type=grpc#کانال تلگرام : 𝐒𝐊𝐘𝐏𝐑𝐎_𝐕𝐏𝐍@
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&authority=-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&type=grpc@V2rayNGVPN <= کانفیگ رایگان
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&authority=-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&type=grpc#@𝗦𝗞𝗬𝗣𝗥𝗢_𝗩𝗣𝗡
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=none&encryption=none&authority=-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-SKYPRO_VPN-&type=grpc#@V2rayNGVPN <= کانفیگ رایگان
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.247:8880?mode=gun&security=&encryption=none&type=grpc&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇬🇧]t.me/Raiv2mmr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@138.199.175.221:8880?mode=gun&security=none&encryption=none&type=grpc#Channel id: @Adamak_vpn
@@ -498,7 +502,3 @@ vless://c95e1271-871f-44ad-bbe9-e05d028d3d40@EVAY_VPN.fast.hosting-ip.com:80?typ
 vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@sss36322.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@EXPRESSVPN_420:🇩🇪
 vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@91.99.122.90:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
 vless://c93ad4ba-05d4-4afd-af65-8055bfd84544@91.99.122.90:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪@AZARBAYJAB1
-vless://c936567b-58a8-43c9-ba12-a91f6bfb8a6d@zula.ir:8080?security=none&encryption=none&type=ws&host=waded.narcoshop.ir.&path=/#Awlix_ir
-vless://c928cc14-4bb1-48bd-b4da-69448ec797ba@91.99.216.9:8443?type=tcp&headerType=none&host=mci.ir&security=reality&fp=chrome&sni=refersion.com&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb#🇩🇪 @Evay_vpn
-vless://c8ea2010-f81a-4f78-9c8f-a7c32e2eb429@51.89.118.126:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#@Hddify
-vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.65.205:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
