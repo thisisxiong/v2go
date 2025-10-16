@@ -2,16 +2,6 @@
 #profile-update-interval: 1
 #support-url: https://github.com/Danialsamadi/v2go
 #profile-web-page-url: https://github.com/Danialsamadi/v2go
-trojan://ttfang@5.182.85.194:2096?path=Telegram@V2rayAlpha&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#All--@IRAN_V2RAY1
-trojan://ttfang@5.182.85.194:2096?path=Telegram@Config_Rayegan&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-trojan://ttfang@45.131.4.216:2096?path=/Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#🇮🇷@AZARBAYJAB1
-trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
-trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
-trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#WiFi-@IRAN_V2RAY1
-trojan://slch2024@192.169.223.87:2096?path=Telegram@V2rayAlpha&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#All-@IRAN_V2RAY1
-trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت رو خاموش کنید ✅  𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
-trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://n611CzPX8k@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت
 trojan://n611CzPX8k@mashti.isvcloud2.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://mXP68BRNvU@66.59.208.7:17136?security=none&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇩🇪
@@ -502,3 +492,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZXBsN2JOS1paN0RYdWlOZEpiV2RH@81.90.31.219:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHY01sSkU3elZ1WXk=@77.83.245.28:443#@AblNet7 🇮🇷 نت ملی 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#🇩🇪 - @FREEV2RNG 9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#🇫🇮𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#@ata_connect
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#@AYMH19 کانال تلگرام
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFbEtIMUhLdVF1VzZ1UlR0c2VMWUI4@94.159.96.245:11902#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFYWNaSU1Gd21NQ1I2ZFdxTjVBaDBj@194.135.46.13:1419#🇳🇱@FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEa0E3T3hTYWJSdHRQSnpPOUNjZjdM@162.243.245.151:31100#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUnJ5cjVVdU5sc0lwUkVRclNKUVNR@46.62.214.228:1080#@IRAN_V2RAY1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMkU2bEl0aVJYbVlFUkN5dlBkZ0h6@192.121.113.60:8443#🇬🇧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEMkU2bEl0aVJYbVlFUkN5dlBkZ0h6@192.121.113.60:8443#ss- United Kingdom 🇬🇧
